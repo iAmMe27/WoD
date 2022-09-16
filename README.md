@@ -54,7 +54,7 @@ I have not built this list to be as graphically intensive as possible but I have
 
 This could be completely out of field though as I don't have any lower end hardware to test it on.
 
-You will need at least `???` of disk space on an SSD for the installation. For the downloads, you will need an extra `???`- ideally you want *at least* `???` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+You will need at least `146GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `96GB`- ideally you want *at least* `250GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
 ## Accounts
 In terms of accounts you will need:
