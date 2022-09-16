@@ -9,7 +9,7 @@ First things first: **this list contains adult content and you must be of legal 
 Find Wasteland of Depravity in the unofficial modlists section!
 
 # What is Wasteland of Depravity?
-A NSFW Fallout 4 list that's hardly comparable to previous NSFW lists for Fallout 4. If anything, its more me trying to to get back into modding Fallout 4 for the sake of it!
+A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallout 4. If anything, its more me trying to to get back into modding Fallout 4 for the sake of it!
 
 # Quick Links
 - [What is Wasteland of Depravity?](#what-is-wasteland-of-depravity)
