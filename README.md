@@ -4,7 +4,7 @@ First things first: **this list contains adult content and you must be of legal 
 
 **Support and general talk about Wasteland of Depravity resides on the Jolly Co-operators Discord:**
 
-[![DiscordButton](img/DiscordButPton.png)](https://discord.gg/jolly-coop)
+[![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
 
 Find Wasteland of Depravity in the unofficial modlists section!
 
