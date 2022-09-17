@@ -33,6 +33,7 @@ A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallou
 - [Post-Installation](#post-installation)
   - [Stock Game](#stock-game)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
+  - [Ultrawide Support](#ultrawide-support)
 - [Mod Setup](#mod-setup)
 - [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
 - [Uninstalling Wasteland of Depravity](#uninstalling-wasteland-of-depravity)
@@ -145,6 +146,7 @@ Before you hit **GO**, a quick tip:
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
+
 # Post-Installation
 Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
@@ -159,6 +161,18 @@ Nobody wants to be launching their game via multiple clicks, they want to be abl
 ![Desktop Shortcut Creation](img/DesktopShortcut00.png)
 
 Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Fallout 4 from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
+
+## Ultrawide Support
+
+My thanks for Swagmeister for figuring this out!
+
+There are a couple of UI mods that allow for Ultrawide resolution support. I don't have an Ultrawide monitor myself, so I can't be 100% sure if this fixes every UI element. To enable Ultrawide support, open the `UI` separator in MO2, and activate `TruBy9 Ultrawide Fallout 4` and `No Rainbox - 21-0 Rainbox Fix`.
+
+![Ultrawide](img/UWMO2.png)
+
+When in game, you will likely need to head into the Mod Config menu > FallUI and tweak some of the widgets to fit your screen space properly.
+
+You will also need to head down the Weapons Overhaul MCM and move the ammo switcher widget to somewhere you prefer.
 
 # Mod Setup
 
@@ -180,8 +194,18 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 ![MCM](img/MCMSettings.jpg)
 
-3. Exit the Mod Config menu
-4. Open your Pip-Boy, head to `INV` and then `APPAREL` - click the `NAC X SETTINGS MANAGER`
+3. Scroll down and navigate to the `Get Dirty` menu
+
+4. In Main > scroll down slightly and set `- I like to play it` to `JUST DIRTY`
+
+![Dirty](img/GetDirtyMCM.jpg)
+
+5. Scroll down and navigate to the `Immersive HUD` menu and then click `Immersive HUD Enabled`.
+
+![iHUD](img/ImmersiveHUDMCM.jpg)
+
+1. Exit the Mod Config menu
+2. Open your Pip-Boy, head to `INV` and then `APPAREL` - click the `NAC X SETTINGS MANAGER`
 
 ![Pip-Boy](img/NACPipBoy.jpg)
 
@@ -192,8 +216,6 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 6. One that is done, make a new full save.
 
 Done!
-
-
 
 # Updating Wasteland of Depravity
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
