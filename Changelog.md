@@ -23,3 +23,18 @@
 5. We should now have a working Bodygen setup
 6. Included BethINI v3.6.1
 7. Added a couple of new things originally intended for V0.1.3 update but I was too lazy to disable them :^)
+
+## Wasteland of Depravity V0.1.2.2
+1. Fixed Nuka Ride outfits
+2. Fixed male outfits being built incorrectly in Bodyslide Studio
+3. Replaced broken ESP explorer mod with *Perchik71 - In Game MOD Explorer*
+4. Added Get Dirty update follower script
+5. Added Get Dirty Texture Fix
+6. Added Crafting Highlight Fix v1.8.8
+7. Added Encounter Zone Recalculated 
+8. Added Loot Detector v3800 
+9. Added Loot Detector Expansion
+10. Added Material Editor - handy for fixing broken mods :^)
+11. Added Overqueen Armor
+12. Added Katie's Wardrobe - Militia Outfit
+13. Fixed a bunch of outfits regarding missing textures, incorrect material files and forearms seams
