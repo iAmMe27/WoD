@@ -38,3 +38,41 @@
 11. Added Overqueen Armor
 12. Added Katie's Wardrobe - Militia Outfit
 13. Fixed a bunch of outfits regarding missing textures, incorrect material files and forearms seams
+
+## Wasteland of Depravity V0.1.2.3
+1. Fixed a bunch more outfits
+2. Fixed a bunch of problems with Nuka Ride
+3. Fixed a couple of load order mistakes
+4. Removed Sexy Maid outfits and I couldn't port to Fusion Girl successfully - will be replaced
+5. Added Idiot Savant to Idiot Slut v1.5
+6. Added Perverted Perks - Idiot Slut Compatible v1.2
+7. Added Vault Girl Mod v1.0.3
+8. Added Skadi Female Half Super Mutant v1.4.9
+9. Added French Maid outfit
+10. Added TheKite's Handmaiden outfit
+
+## Wasteland of Depravity V0.1.2.4
+1. Moved all custom armour over to the Armorsmith workbench instead of the Chem Station
+2. Added Crafting Mastery v3.5.1
+3. Added Baka Framework v1.8.0
+4. Added Baka ScrapHeap v1.3
+5. Added Spell Perk Item Distributor v2.0
+6. Added Faster Workshop v1.1
+7. Added Tera Rogue
+8. Added Absolutely Skimpy Attire
+9. Added Ashara Under Armours
+10. Added Kerrigan Bodysuit
+11. Added LovFit Outfit Collection
+12. Added Precursor Suit
+13. Added MCM Booster
+14. Updated AAF Family Planning Enhanced to Redux v4.025
+15. Updated Nuka Ride to v5.0.4M
+16. Removed Get Dirty and its related AAF mod
+17. Fixed missing Ultrawide patches
+18. Tweaked load order again
+19. LODs updated
+
+## Wasteland of Depravity V0.1.3
+The last update should've been V0.1.3 really, considering it has the potential to bork as save. Whoops!
+
+1. Fixed load order issues that caused problems in Nuka World
