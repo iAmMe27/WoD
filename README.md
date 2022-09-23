@@ -194,26 +194,20 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 ![MCM](img/MCMSettings.jpg)
 
-3. Scroll down and navigate to the `Get Dirty` menu
-
-4. In Main > scroll down slightly and set `- I like to play it` to `JUST DIRTY`
-
-![Dirty](img/GetDirtyMCM.jpg)
-
-5. Scroll down and navigate to the `Immersive HUD` menu and then click `Immersive HUD Enabled`.
+3. Scroll down and navigate to the `Immersive HUD` menu and then click `Immersive HUD Enabled`.
 
 ![iHUD](img/ImmersiveHUDMCM.jpg)
 
-1. Exit the Mod Config menu
-2. Open your Pip-Boy, head to `INV` and then `APPAREL` - click the `NAC X SETTINGS MANAGER`
+4. Exit the Mod Config menu
+5. Open your Pip-Boy, head to `INV` and then `APPAREL` - click the `NAC X SETTINGS MANAGER`
 
 ![Pip-Boy](img/NACPipBoy.jpg)
 
-5. In the menu that opens, click `Enable NAC Patch for ENB`
+6. In the menu that opens, click `Enable NAC Patch for ENB`
 
 ![NAC Patch](img/NACPatch.jpg)
 
-6. One that is done, make a new full save.
+7. One that is done, make a new full save.
 
 Done!
 

@@ -76,3 +76,22 @@
 The last update should've been V0.1.3 really, considering it has the potential to bork as save. Whoops!
 
 1. Fixed load order issues that caused problems in Nuka World
+
+## Wasteland of Depravity V0.1.3.1
+1. Fixed a critical issue with custom races
+2. Added the rest of the FallUI HUD family
+3. Added Thorn Jacket
+4. Added The Naked Fatigues
+
+## Wasteland of Depravity V0.1.3.2
+1. Added OCDecorator
+2. Added LiveDismemberment
+3. Added Classic Melee Pack
+4. Added American 120 SMG
+5. Added OCDecorator
+6. Added Diamond City Ambiance
+7. Added Wasteland Ambiance
+8. Added Jolly Item Sounds
+9. Added LOST Audio Tweaks
+10. Started work on a custom music merge
+11. Tweaked merged music - there should be a larger variety of music
