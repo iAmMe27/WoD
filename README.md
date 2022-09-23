@@ -6,8 +6,6 @@ First things first: **this list contains adult content and you must be of legal 
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
 
-Find Wasteland of Depravity in the unofficial modlists section!
-
 # What is Wasteland of Depravity?
 A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallout 4. If anything, its more me trying to to get back into modding Fallout 4 for the sake of it!
 
@@ -177,6 +175,8 @@ You will also need to head down the Weapons Overhaul MCM and move the ammo switc
 # Mod Setup
 
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game. 
+
+**DO NOT TRY TO ACTIVATE THE "CLOTHES" OPTION IN LOOKSMENU - IT WILL CRASH YOUR GAME TO DESKTOP AND YOU WILL LOSE YOUR CURRENT CHARACTER CREATION!**
 
 * When MCG gives you a pop-up at the start of character creation, select `I will activate the mod later.`
   
