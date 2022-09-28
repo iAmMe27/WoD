@@ -93,5 +93,63 @@ The last update should've been V0.1.3 really, considering it has the potential t
 7. Added Wasteland Ambiance
 8. Added Jolly Item Sounds
 9. Added LOST Audio Tweaks
-10. Started work on a custom music merge
-11. Tweaked merged music - there should be a larger variety of music
+10. Added Persistent Volume Sliders
+11. Started work on a custom music merge
+12. Tweaked merged music - there should be a larger variety of music
+
+## Wasteland of Depravity V0.1.3.3
+1. Added This is Trash - A Scrapping Alternative
+2. Removed Scrap Everything
+3. Attempted to fix currently included presets
+4. Swapped female skin mod to Pride of Valhalla
+5. Updated Nuka Ride to v5.0.5
+
+## Wasteland of Depravity V0.1.3.4
+1. Added Mosin Nagant Rifle
+2. Added Hunting Shotgun
+3. Added Remote Explosives
+4. Added Caravan Shotgun
+5. Added SVT-40
+6. Added Workshop Plus
+7. Added FIS - FallUI Item Sorter
+8. Added FallUI- Icon Library
+9. Added more stuff for profile #3
+10. Updated UAAFP
+
+## Wasteland of Depravity V0.1.4
+New save needed!
+1. Removed AWKCR and its patches as its no longer needed
+2. Removed Boston Devious Helper
+3. Removed Crafting Mastery
+4. Patched AWKCR out of a bunch of mods that *didn't actually need it*
+5. Added Canary Save File Monitor
+6. Added Vault 81 - GOAT Sequence Patch
+7. Added Slocum Joe Corporate HQ Reception Ceiling Fixed
+8. Added Fens Parkview Apartment Wall Fixed
+9. Added Far Harbor - Cliffs Edge Hotel Wall Rest Ring Lower Fixed
+10. Added MTM - Nuka Town East Archway Fix
+11. Added MTM - Garden Terrace Ceiling Fixed By Monorail
+12. Added Flickering Roof Mesh Fix
+13. Added Alex's Male First Person Camera Height Fix
+14. Added Smooth First Person Sprint - Less Jerkiness and Stutter
+15. Added Valentine Jaw Sync
+16. Added Cryolator Cryo-Cell Fix
+17. Added Glowing Glass Fix
+18. Added River Fix
+19. Added Nuka World Novatron Assaultron Torso Fix
+20. Added Vault-Tec Lights Mesh Fix
+21. Added Conduit Connection Fix
+22. Added Deirdre Bugfix
+23. Added Power Armor Ownership Fix (no more stealing)
+24. Added NPC Drinking Fix
+25. Added Legendary Radroach Fix
+26. Added Underwater Glass Fix
+27. Added NukaCola and Beverages Fix
+28. Added NukaCola and Beverages Fix - Chemist Fix
+29. Added Atom Cats Drag Race Start Fix
+30. Added Car Physics Death Bug Fix
+31. Updated ZaZOut
+32. Ported Katies Wardrobe - Militia Duster to FG properly
+33. Moved outfits to more consistent workbench separators
+34. Regenned FIS sorter patches
+35. Tweaked MCM settings
