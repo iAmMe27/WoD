@@ -174,6 +174,8 @@ You will also need to head down the Weapons Overhaul MCM and move the ammo switc
 
 # Mod Setup
 
+**New advice: For some weird reason, after character creation finishes the game appears to freeze but not crash. A weird, but consistent fix, is to ensure that you open the Body menu when in character creation (default key is B). No idea why but this stops the game from freezing after character creation.**
+
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game. 
 
 **DO NOT TRY TO ACTIVATE THE "CLOTHES" OPTION IN LOOKSMENU - IT WILL CRASH YOUR GAME TO DESKTOP AND YOU WILL LOSE YOUR CURRENT CHARACTER CREATION!**
