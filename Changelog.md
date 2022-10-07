@@ -152,4 +152,105 @@ New save needed!
 32. Ported Katies Wardrobe - Militia Duster to FG properly
 33. Moved outfits to more consistent workbench separators
 34. Regenned FIS sorter patches
-35. Tweaked MCM settings
+35. Tweaked MCM settings.
+
+## Wasteland of Depravity V0.1.4.1
+1. Added Improved Map with Visible Roads
+2. Added Keep Radiants in the Commonwealth
+3. Added Who's The General - Minutemen Quest Cleanup
+4. Added Boston Airport Backdoor Buttons
+5. Added Hangman's Alley Interior Apartments
+6. Added Believable Drumlin Diner
+7. Added Immersive Covenant Compound
+8. Added NPCs Travel + NPCs Travel Fixes
+9. Added NPCs Travel MCM
+10. Added FO4 Photo Mode
+11. Added Ownership Fixes
+12. Added The Master Plan
+13. Added Box Houses
+14. Added Stairs Ladders Ramps
+15. Added Quieter Settlements
+16. Added Thematic and Practical
+17. Added Thematic and Practical - DLC
+18. Added Snappy House Kit
+19. Added Snappy DLC Kits
+20. Added Hands Off
+21. Added Solar Panels
+22. Added Settlement Tidy Bot
+23. Added Provisioner and Supply Line Management System
+24. Added Better Spotlights
+25. Added Wetness Shader Fix
+26. Added Fallout 4 Hot Coffee
+27. Added Ghastly - Ghoul Eyes Retexture
+28. Added Weapons Integration Project
+29. Added more profile #3 stuff
+30. Added another outfit
+31. Vault-Tec Armor returns
+32. Added Barefoot Footstep Extended
+33. Added Barefoot Footstep Extended - Original Sound Package
+34. Added Simply Better Laser Sound FX - Powerful
+35. Added See Through Scopes - MCM Settings Menu
+36. Fixed the Handmaiden Overcoat being a little spikey
+37. Fixed flickering on profiles #1 and #2 - my bad!
+38. Regenned FIS sorter patches
+39. ESL'd a bunch more plugins
+
+## Wasteland of Depravity V0.1.4.2
+1. Fixed load order issues causing issues with weapon workbenches
+
+## Wasteland of Depravity V0.1.4.3
+1. Removed TheKite's Handmaiden 
+   1. This is because the FusionGirl ports out there are either for an old version of FG or are incomplete. I was unable to properly port myself.
+2. Replaced Boston FPS Fix with Previsibines Repair Pack (PRP)
+3. Updated Vault-Tec Armor REDUX to v.3
+4. Tweaked both male and female bodygen some
+5. Added Pip-Boy Flashlight
+6. Added Wheel Menu
+7. Added Wheel Menu - FallUIified
+8. Removed some unnecessary mods/overwritten misc files, mostly profile #3 stuff
+
+## Wasteland of Depravity V0.1.4.4
+1. Hotfix for incorrect MCM settings
+2. Added AAF Spectator Whistle Sound Replacer
+3. Added Gloomy Glass
+4. Added Fixed Alpha Maps
+5. Moar profile #3 stuff
+6. Updated Nuka Ride to v5.0.6
+
+## Wasteland of Depravity V0.1.4.5
+1. Added Courser X-92 Power Suit
+2. Added Marine Armor Expanded
+3. Added Eli's Armour Compendium
+4. Added GITS Motoko Kusanagi outfit
+5. Added Zipsuit
+6. Added Spearhead Catsuit
+7. Added Obi's Goth Girl Pack
+8. Updated Nuka Ride to v5.0.7
+9. Regenned FIS sorter patches
+
+## Wasteland of Depravity V0.1.4.6
+1. Fixed a couple of outfit recipe issues
+2. Left a surprise in a crate near Vault 111 >_>
+3. Changed Ivy texture
+4. Added Black Widow Suit
+5. Added No More Local Leader for Crafting Benches
+6. Updated Commonwealth Captives
+
+## Wasteland of Depravity V0.1.4.7
+1. Fixed an issue in Hangman's Alley - it's now a viable home base again!
+2. Fixed a bunch of armour clipping on ported outfits
+3. Removed Mokoto Kusanagi outfits as the Fusion Girl port was not good
+4. Added Pampas Set
+5. Added Sarah's Rage Armor
+6. Added Children of Atom - Fanatics Outfits
+7. Added Fortaleza Armor
+8. Added TheKite's Scoopdigger
+9. Added Dicky's Pinup Outfit
+10. Added The Plasma Project
+11. Added Better Companions
+12. Added CROSS Break Action Laser
+13. Added The Laserblade
+14. Added Winchester P94
+15. Added Laser Bolt FX
+16. Added Gatling Rifle - Audio Overhaul
+17. Added Laser Rifle Audio Overhaul
