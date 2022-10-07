@@ -235,22 +235,3 @@ New save needed!
 4. Added Black Widow Suit
 5. Added No More Local Leader for Crafting Benches
 6. Updated Commonwealth Captives
-
-## Wasteland of Depravity V0.1.4.7
-1. Fixed an issue in Hangman's Alley - it's now a viable home base again!
-2. Fixed a bunch of armour clipping on ported outfits
-3. Removed Mokoto Kusanagi outfits as the Fusion Girl port was not good
-4. Added Pampas Set
-5. Added Sarah's Rage Armor
-6. Added Children of Atom - Fanatics Outfits
-7. Added Fortaleza Armor
-8. Added TheKite's Scoopdigger
-9. Added Dicky's Pinup Outfit
-10. Added The Plasma Project
-11. Added Better Companions
-12. Added CROSS Break Action Laser
-13. Added The Laserblade
-14. Added Winchester P94
-15. Added Laser Bolt FX
-16. Added Gatling Rifle - Audio Overhaul
-17. Added Laser Rifle Audio Overhaul
