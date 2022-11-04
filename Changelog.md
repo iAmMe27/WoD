@@ -235,3 +235,149 @@ New save needed!
 4. Added Black Widow Suit
 5. Added No More Local Leader for Crafting Benches
 6. Updated Commonwealth Captives
+
+## Wasteland of Depravity V0.1.4.7
+1. Fixed an issue in Hangman's Alley - it's now a viable home base again!
+2. Fixed a bunch of armour clipping on ported outfits
+3. Fixed a couple areas with broken precombine/previs stuff
+4. Fixed some borked patches with errors in
+5. Fixed ECO workbench patcher from borking a NSFW mod
+6. Fixed a bunch of other little bits and pieces in FO4Edit
+7. Removed Mokoto Kusanagi outfits as the Fusion Girl port was not good
+8. Added Pampas Set
+9. Added Sarah's Rage Armor
+10. Added Children of Atom - Fanatics Outfits
+11. Added Fortaleza Armor
+12. Added TheKite's Scoopdigger
+13. Added Dicky's Pinup Outfit
+14. Added Vtaw Cammy
+15. Added The Plasma Project
+16. Added Better Companions
+17. Added CROSS Break Action Laser
+18. Added The Laserblade
+19. Added Winchester P94
+20. Added Laser Bolt FX
+21. Added Gatling Rifle - Audio Overhaul
+22. Added Laser Rifle Audio Overhaul
+23. Added Laser Garand
+24. Added AMAC-1500
+25. Added DKS-501 Sniper Rifle - Standalone
+26. Added Woody's Wasteland Stuff
+27. Added Better Goodneighbor
+28. Added Better Goodneighbor - Previsibines (PRP Compatible) patch
+29. Added Raiders New Looks
+30. Added Fix Automatron Headlight and ShockClaw effects
+31. Added Immersive Vendors
+32. Added Shell Rain
+33. Added Visual Reload
+34. Added a bunch of Visual Reload patches
+35. Added Corpse Collision
+36. Added Laser Weapons 1st Person Reposition
+37. Added Bullet Count Reload System
+
+## Wasteland of Depravity V0.1.4.8
+This stuff was originally going to be part of the next big update but some glaring load order issues forced an earlier update.
+
+1. Added EoW - Pre-War Books Retexture
+2. Added HiPoly Faces Redux
+3. Regenerated Precombine/Previs stuff for a few locations
+4. Fixed some critical load order issues
+
+## Wasteland of Depravity V0.1.5
+1. Added Vault Girl Statues
+2. Added Obi's BunnyGirl
+3. Added Kirs Freckles
+4. Added Eye Normal Map Fix
+5. Added a bunch of face presets
+6. Added Luxor's Greenery 2k
+7. Added Luxor's Puddle Remover
+8. Added Luxor's Beautiful Hubflower
+9. Added Reak Water HD for ENB
+10. Added Fusion City Rising
+11. Added Hookers of the Commonwealth
+12. Added Outcasts and Remnants
+13. Added Project Valkyrie
+14. Added Depravity - A Harmless Bit of Fun
+15. Added Optimization and Tweaks for Thuggysmurf's Quest Mods
+16. Added The Waste Landfill
+17. Added Private Area Markers
+18. Added Dynamic Store Mats
+19. Added Dynamic Guard Mats
+20. Added VRR Sort Containers
+21. Added Settlement Menu Manager
+22. Added Lots More Facial Hairs
+23. Added Lots More Male Hairstyles
+24. Added Immersive Wastelanders
+25. Added Sharper Synths
+26. Added Ataralyxius' Companion Face Morph Collection For Fallout 4
+27. Added X6-88 Synthetic Facelift V2
+29. Added GK Female NPC Replacer
+30. Added Wasteland Heroines Replacer and Presets AIO
+31. Added Fallout Ladies - Irma
+32. Added Fallout Ladies - Curie
+33. Added Fallout Ladies - Doctor Amari
+34. Added Fallout Ladies - Magnolia
+35. Added ANiceOakTree's Diverse Children
+36. Added Obi's SciFi Bodysuit
+37. Added Obi's Vampirella
+38. Added Obi's Random Outfit
+39. Added Obi's Catwoman (with a few personal fixes)
+40. Added Barber and Surgery Camera Fix
+41. Added DD Armorbench Unlocker
+42. Added Commonwealth Cleanup
+43. Added Custom NPCs by Swagmeister (thank you Swag)
+44. Added Luxor's Green Mutfruits HD
+45. Added NXGEN - Nice Bush
+46. Added Non-Lethal Armory
+47. Added custom patch for Non-Lethal Armory too :^)
+48. Added Heather Casadin V2
+49. Added Heather Casadin Fusion Girl Patch
+50. Added Heather Casadin MSWL Patch
+51. Added Europa companion 
+52. Added Vermillion Frost
+53. Added Mistress Passion and Exotic Coursers
+54. Added Buttons companion
+55. Added Rename Anything
+56. Added Robot Armor Retexture 4K (Black)
+57. Added Maya Custom Race Character Preset
+58. Added WoD specific patches for Maya race also
+59. Added Mass Fusion Wonder Power
+60. Added Murdering Chainsaw
+61. Removed Beantown Interior Project
+62. Removed Beantown Interior Project - True Interiors Project
+63. Removed Hangman's Alley Interior Apartments
+64. Removed This Is Trash
+65. Removed Far Harbor - Cliffs Edge Hotel Wall Rest Ring Lower Fixed
+66. Removed Underwater Glass Fix
+67. Removed Unique Piper
+68. Removed Immersive Candles
+69. Updated Ultimate AAF Patch
+70. Updated Vault-Tec Armor REDUX to v.4
+71. Updated Sex Attributes
+72. Updated AAF Autonomy Enhanced to v2.75
+73. Updated Wasteland Dairy Framework to v3.025a
+74. Updated Random Overlay Framework to v2.15b
+75. Updated Brave's Animations to v1.3
+76. Updated Ultimate AAF Patch to v2.6.62-1
+77. Updated Sex Harassment to v1.17
+78. Updated ECO to v3.5.0
+79. Updated Start Me Up Redux to v6.9
+80. Updated F4z Ro D-oh to v1.1
+81. Updated Leveled Item Framework to v1.3.1
+82. Updated Workshop Framework to v2.3.1
+83. Updated This Settlement Does Not Need Your Help to v3.2
+84. Updated Workshop Plus to v1.0.12
+85. Updated LOST Audio Tweaks to v3.2
+86. Updated Better Goodneighbor - Precombined Visibility Patches to vPRP65-1.0
+87. Updated Raiders New Looks to v1.1
+88. Updated FallUI - HUD to v1.7
+89. Updated FallUI - Inventory to v2.2.1
+90. Updated Weapons Overhaul Redux to v2.47
+91. Updated Legendary Mutation Messages Fix - Cut Content Restored to v1.1
+92. Updated Ketaros World to v2.61
+93. Updated M8r98a4f2's Complex Item Sorter to v1.11.4
+93. Updated ENB binaries to v0.478
+94. Updated REACTOR ENB to v1.3.7
+95. Fixed True 3D Sound for Headphones installation
+96. Fixed some more previsibines
+97. Regenned M8r Complex Sorter patches
