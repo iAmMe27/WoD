@@ -209,7 +209,15 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 ![NAC Patch](img/NACPatch.jpg)
 
-7. One that is done, make a new full save.
+7. From the root of the NAC menu, head to `NAC Settings`, then `Interior Override` and click `Disable Interiors Lighting Override`
+
+![NAC Settings 1](img/NACSetting1.jpg)
+
+![NAC Settings 2](img/NACSetting2.jpg)
+
+![NAC Settings 3](img/NACSetting3.jpg)
+
+8. One that is done, make a new full save.
 
 Done!
 
