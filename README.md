@@ -32,6 +32,10 @@ A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallou
   - [Stock Game](#stock-game)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
   - [Ultrawide Support](#ultrawide-support)
+  - [Optional Mods](#optional-mods)
+    - [Essentials Category](#essentials-category)
+    - [Character Presets Category](#character-presets-category)
+    - [YOUR CHOICES Category](#your-choices-category)
 - [Mod Setup](#mod-setup)
 - [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
 - [Uninstalling Wasteland of Depravity](#uninstalling-wasteland-of-depravity)
@@ -172,6 +176,21 @@ When in game, you will likely need to head into the Mod Config menu > FallUI and
 
 You will also need to head down the Weapons Overhaul MCM and move the ammo switcher widget to somewhere you prefer.
 
+## Optional Mods
+In Wasteland of Depravity, there are a few optional mods that you can toggle on/off for your playthrough.
+
+### Essentials Category
+1. Rusty Face Fix - you can toggle this on if you consistently run into the dreaded Fallout 4 rusty face issue, provided you have checked things such as resolution of face textures and tint masks match. Having this enable can cause an issue with the mod forcing the rear head texture to revert back to vanilla textures but it's often very difficult to notice this issue.
+
+### Character Presets Category
+1. Maya - Custom Race Female Preset + AAF patch - you should only enable this if you plan on using the Maya character preset for your playthrough. **Do not enable this on an existing save!**
+
+### YOUR CHOICES Category
+1. Non-Skimpy Bodyslide Output - I feel as if this is pretty self-explanatory.
+2. Skimpy Bodyslide Output - ditto.
+3. Discord Rich Presence (F4SE) - this gives you a card in Discord when you are playing WoD. It lists your character name, level and location. *It does not hook into the NSFW mods, don't worry, your secrets are safe.*
+4. LOD Hiding Fog for NAC X - adds a small amount of fog to the clear and sunny weathers to help hide those nasty Fallout 4 LODs.
+
 # Mod Setup
 
 **New advice: For some weird reason, after character creation finishes the game appears to freeze but not crash. A weird, but consistent fix, is to ensure that you open the Body menu when in character creation (default key is B). No idea why but this stops the game from freezing after character creation.**
@@ -217,7 +236,7 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 ![NAC Settings 3](img/NACSetting3.jpg)
 
-8. One that is done, make a new full save.
+8. One that is done, make a new full save from the pause menu.
 
 Done!
 
