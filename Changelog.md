@@ -381,3 +381,32 @@ This stuff was originally going to be part of the next big update but some glari
 95. Fixed True 3D Sound for Headphones installation
 96. Fixed some more previsibines
 97. Regenned M8r Complex Sorter patches
+
+## Wasteland of Depravity V0.1.5.1
+1. Swapped Fallout 4 HD Overhaul from the 4k version to the 2k version
+2. Added Vivid Fallout AIO 
+3. Added Perfect Landscape by Pfuscher
+4. Added Sunlight Alignment Tweak - Better Dawn and Dusk
+5. Added Terrain Undersides - 2 Million Sunblock
+6. Added ENB Lights HDR Patch
+7. Added Ultra Interior Lighting
+8. Added ELFX and UIL Merged Patch
+9. Added back Immersive Candles
+10. Added NAC X MCM
+11. Added Expressive Expressions - For Females
+12. Added some community made presets
+13. Added Boston Devious Helper
+14. Added Boston Devious Helper - No AWKCR patch
+15. Added More Ways of Washing
+16. Added Better Companions MCM
+17. Added Weapon Debris Crash Fix
+18. Added Sprint Stuttering Fix (this replaces the older Sprint Stutter Fix mod)
+19. Added Roads Redone 2k
+20. Removed New Landscape Grass
+21. Fixed load order for lighting mods to ENB requirements (whoopsie)
+22. Fixed Vault-Tec 111 Swimsuits
+23. Fixed a couple of issues with outfits
+24. Tweaked base INI settings for performance gains
+25. Tweaked the grass merge some more
+26. Updated Nuka Ride to v5.1.5
+27. Updated Nuka Ride xVASynth to v5.1

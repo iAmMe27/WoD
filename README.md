@@ -36,6 +36,7 @@ A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallou
     - [Essentials Category](#essentials-category)
     - [Character Presets Category](#character-presets-category)
     - [YOUR CHOICES Category](#your-choices-category)
+  - [Modifications & Performance Improvement](#modifications--performance-improvement)
 - [Mod Setup](#mod-setup)
 - [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
 - [Uninstalling Wasteland of Depravity](#uninstalling-wasteland-of-depravity)
@@ -190,6 +191,12 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 2. Skimpy Bodyslide Output - ditto.
 3. Discord Rich Presence (F4SE) - this gives you a card in Discord when you are playing WoD. It lists your character name, level and location. *It does not hook into the NSFW mods, don't worry, your secrets are safe.*
 4. LOD Hiding Fog for NAC X - adds a small amount of fog to the clear and sunny weathers to help hide those nasty Fallout 4 LODs.
+
+## Modifications & Performance Improvement
+If you wish to modify the list, even for performance improvements, refer to the `#wod-mods` channel in the Discord server as there you will find guides in the pins that others in the community have already written. You can also use those channels to discuss your changes to the list freely.
+
+**Please don't request help in the official support channel for modifications or modified lists!** It's not because I dislike modifications or anything, it's just impossible to provide support for the thousands of mods and mod combinations available out there.
+
 
 # Mod Setup
 
