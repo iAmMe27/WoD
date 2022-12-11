@@ -15,7 +15,7 @@ A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallou
 - [Before You Start](#before-you-start)
   - [Hardware Requirements](#hardware-requirements)
   - [Accounts](#accounts)
-  - [DLC & Creation Club Content](#dlc--creation-club-content)
+  - [DLC \& Creation Club Content](#dlc--creation-club-content)
 - [Installation](#installation)
   - [Preparation](#preparation)
     - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
@@ -36,7 +36,7 @@ A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallou
     - [Essentials Category](#essentials-category)
     - [Character Presets Category](#character-presets-category)
     - [YOUR CHOICES Category](#your-choices-category)
-  - [Modifications & Performance Improvement](#modifications--performance-improvement)
+  - [Modifications \& Performance Improvement](#modifications--performance-improvement)
 - [Mod Setup](#mod-setup)
 - [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
 - [Uninstalling Wasteland of Depravity](#uninstalling-wasteland-of-depravity)
@@ -191,6 +191,7 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 2. Skimpy Bodyslide Output - ditto.
 3. Discord Rich Presence (F4SE) - this gives you a card in Discord when you are playing WoD. It lists your character name, level and location. *It does not hook into the NSFW mods, don't worry, your secrets are safe.*
 4. LOD Hiding Fog for NAC X - adds a small amount of fog to the clear and sunny weathers to help hide those nasty Fallout 4 LODs.
+5. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
 
 ## Modifications & Performance Improvement
 If you wish to modify the list, even for performance improvements, refer to the `#wod-mods` channel in the Discord server as there you will find guides in the pins that others in the community have already written. You can also use those channels to discuss your changes to the list freely.
@@ -205,8 +206,6 @@ If you wish to modify the list, even for performance improvements, refer to the 
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game. 
 
 **DO NOT TRY TO ACTIVATE THE "CLOTHES" OPTION IN LOOKSMENU - IT WILL CRASH YOUR GAME TO DESKTOP AND YOU WILL LOSE YOUR CURRENT CHARACTER CREATION!**
-
-* When MCG gives you a pop-up at the start of character creation, select `I will activate the mod later.`
   
 * When LIF gives you a pop-up at the start of the game, click `INJECT`
   
@@ -227,23 +226,8 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 ![iHUD](img/ImmersiveHUDMCM.jpg)
 
 4. Exit the Mod Config menu
-5. Open your Pip-Boy, head to `INV` and then `APPAREL` - click the `NAC X SETTINGS MANAGER`
 
-![Pip-Boy](img/NACPipBoy.jpg)
-
-6. In the menu that opens, click `Enable NAC Patch for ENB`
-
-![NAC Patch](img/NACPatch.jpg)
-
-7. From the root of the NAC menu, head to `NAC Settings`, then `Interior Override` and click `Disable Interiors Lighting Override`
-
-![NAC Settings 1](img/NACSetting1.jpg)
-
-![NAC Settings 2](img/NACSetting2.jpg)
-
-![NAC Settings 3](img/NACSetting3.jpg)
-
-8. One that is done, make a new full save from the pause menu.
+5. One that is done, make a new full save from the pause menu.
 
 Done!
 

@@ -410,3 +410,90 @@ This stuff was originally going to be part of the next big update but some glari
 25. Tweaked the grass merge some more
 26. Updated Nuka Ride to v5.1.5
 27. Updated Nuka Ride xVASynth to v5.1
+
+## Wasteland of Depravity V0.1.5.2
+1. Tweaked load order of a couple things
+2. Updated Nuka Ride to v5.1.6
+3. Fixed a few bugs, mostly with outfits
+
+## Wasteland of Depravity V0.1.6
+1. Added Quick Change Armor Menu
+2. Added Screen Archer Menu + UW patches
+3. Added Looks Mirror
+4. Added Much Better 3rd Person Animations Tactics - Male AIO
+5. Added Squid Game Monokini + custom FG port
+6. Added Azur Lane Atago - Stunning Speedster Outfit + custom FG port
+7. Added some FallUI HUD presets
+8. Added Remember Lockpick Angle
+9. Added HD Lockpick Interface - 2k
+10. Added Shadow Boost FO4 as an optional mod
+11. Added Rusty Face Fix Redux 2022
+12. Added Diary of a Madman
+13. Added Workshop Framework Settlement Collection
+14. Added MCM Categorizer - Sorter Folder Categories
+15. Added Obi's Cowboy Hat
+16. Added ECO's Armor Override stuff for moar op armors
+17. Updated AAF SEU to v1.15
+18. Updated Nuka Ride to v5.1.7
+19. Fixed some issues I introduced to Nuka Ride - oopsy
+20. Removed Just Business
+21. Removed Real Handcuffs JB Patch
+22. Removed American 180
+23. Downscaled some face tattoo textures to 1k to prevent rust face issues
+
+## Wasteland of Depravity V0.1.7
+1. Added Navel Piercings Collection S1
+2. Added Navel Piercings Collection S1 - FusionGirl Bodyslide Files
+3. Added Accuracy International AX50 Anti-Materiel Rifle
+4. Added Agency Arms Benelli M2 - Shotgun
+5. Added Ak5C - A Nordic Relic
+6. Added AKM Complex
+7. Added AnotherOne PP-91 Kedr
+8. Added AnotherOne TEC-9
+9. Added Beretta M9-FS Pistol (92FS)
+10. Added Beretta PX4 Storm
+11. Added Bullpup Bozar
+12. Added Combined Arms - Modern Weapon Pack
+13. Added Combined Arms - Expansion Pack
+14. Added Escape from Boston - Springfield Armory M14
+15. Added FN-FAL
+16. Added FN P90
+17. Added FN SCAR-H - Battle rifle
+18. Added Fostech Origin 12
+19. Added GIAT FAMAS
+20. Added Glock 19X - Pistol
+21. Added Heckler and Koch - Mark 23 SOCOM
+22. Added Heckler und Koch - G36 Complex
+23. Added Heckler und Koch - MP5 Complex
+24. Added Heckler und Koch - MP7
+25. Added Heckler und Koch - UMP
+26. Added HK USP - Pistol
+27. Added HS Produkt VHS-2 Rifle
+28. Added Skibadaa Weapon Pack REDUX
+29. Added IMI Uzi - Smg
+30. Added Izhmash SV-98 Sniper Rifle
+31. Added Kriss Vector
+38. Added LMT M203 - Grenade Launcher
+39. Added McMillan CS5 - A Standalone Sniper Rifle
+40. Added MW2022 - Expansive M4 2.0
+41. Added MK18 CQBR
+42. Added Mossberg 500 Pump-Action Shotgun
+43. Added MP-412 - A Standalone Revolver
+44. Added MTs-255 Revolver Shotgun
+45. Added MWM4 - M4A1
+46. Added PL-14 'Lebedev'
+47. Added Projectile Rocket Launcher
+48. Added QBZ-191 QBZ-192 QBU-191
+49. Added RPG-7V2
+50. Added RU556 - Assault rifle
+51. Added Steyr AUG A3 - Modular Assault Rifle
+52. Added Modern Weapon Replacers - All-In-One Pack
+53. Added a couple of custom Less Lethal weapons
+54. Added Fleshsmith
+55. Removed Weapons Overhaul Redux
+56. Removed a bunch of patchwork associated with Weapons Overhaul Redux
+57. Removed Vivid Waters
+58. Tweaked the Start Me Up loot lists to change up the starting gear - thank you Gallahorn :)
+59. Edited a bunch of Papyrus scripts so now there should be 0 pop-up windows when making a new character! Any pop-up windows will now wait until you've entered the Commonwealth
+
+On the last note:- if you have a location that you feel should be safe to sleep in but its not and you get interrupted, please let me know as I have made a custom edit to the mod responsible to allow for more generic location exclusions.
