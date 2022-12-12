@@ -38,6 +38,7 @@ A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallou
     - [YOUR CHOICES Category](#your-choices-category)
   - [Modifications \& Performance Improvement](#modifications--performance-improvement)
 - [Mod Setup](#mod-setup)
+- [Controls](#controls)
 - [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
 - [Uninstalling Wasteland of Depravity](#uninstalling-wasteland-of-depravity)
 
@@ -230,6 +231,10 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 5. One that is done, make a new full save from the pause menu.
 
 Done!
+
+# Controls
+
+![](img/keyboard-layout.png)
 
 # Updating Wasteland of Depravity
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
