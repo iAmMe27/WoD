@@ -188,11 +188,10 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 1. Maya - Custom Race Female Preset + AAF patch - you should only enable this if you plan on using the Maya character preset for your playthrough. **Do not enable this on an existing save!**
 
 ### YOUR CHOICES Category
-1. Non-Skimpy Bodyslide Output - I feel as if this is pretty self-explanatory.
-2. Skimpy Bodyslide Output - ditto.
-3. Discord Rich Presence (F4SE) - this gives you a card in Discord when you are playing WoD. It lists your character name, level and location. *It does not hook into the NSFW mods, don't worry, your secrets are safe.*
-4. LOD Hiding Fog for NAC X - adds a small amount of fog to the clear and sunny weathers to help hide those nasty Fallout 4 LODs.
-5. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
+1. Discord Rich Presence (F4SE) - this gives you a card in Discord when you are playing WoD. It lists your character name, level and location. *It does not hook into the NSFW mods, don't worry, your secrets are safe.*
+2. LOD Hiding Fog for NAC X - adds a small amount of fog to the clear and sunny weathers to help hide those nasty Fallout 4 LODs.
+3. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
+4. Fleshsmith No Loot Addon - Removes Fleshsmith drops completely.
 
 ## Modifications & Performance Improvement
 If you wish to modify the list, even for performance improvements, refer to the `#wod-mods` channel in the Discord server as there you will find guides in the pins that others in the community have already written. You can also use those channels to discuss your changes to the list freely.
@@ -222,13 +221,17 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 ![MCM](img/MCMSettings.jpg)
 
-3. Scroll down and navigate to the `Immersive HUD` menu and then click `Immersive HUD Enabled`.
+3. Exit the Mod Config menu
+   
+4. Open your Pip-Pad and scroll across to `INV > Aid`. Click the "MoreSpawns Configuration Settings".
 
-![iHUD](img/ImmersiveHUDMCM.jpg)
+![MS01](img/MS01.jpg)
 
-4. Exit the Mod Config menu
+5. In the menu that opens, click `Enable`.
 
-5. One that is done, make a new full save from the pause menu.
+![MS02](img/MS02.jpg)
+
+6. One that is done, make a new full save from the pause menu.
 
 Done!
 

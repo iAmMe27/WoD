@@ -497,3 +497,109 @@ This stuff was originally going to be part of the next big update but some glari
 59. Edited a bunch of Papyrus scripts so now there should be 0 pop-up windows when making a new character! Any pop-up windows will now wait until you've entered the Commonwealth
 
 On the last note:- if you have a location that you feel should be safe to sleep in but its not and you get interrupted, please let me know as I have made a custom edit to the mod responsible to allow for more generic location exclusions.
+
+## Wasteland of Depravity V0.1.7.1
+1. Updated UAP
+
+## Wasteland of Depravity V0.1.7.2
+1. Updated BodyTalk3 to the December 2022 release
+2. Updated Human Resources to v11b
+3. Updated MCM Settings Manager to v1.2
+4. Updated Start Me Up Redux to v6.14
+5. Updated Leveled Item Framework to v2.0
+6. Updated Knockout Framework to v1.4.0
+7. Updated PRP to v0.65.3
+8. Updated Workshop Framework to v2.3.3
+9. Updated Provisioner and Supply Line Management System to v2.5
+10. Updated Inner City Ambience - An Urban Soundscape to v1.4
+11. Updated Diamond City Ambience to v1.1
+12. Updated LOST Audio Tweaks + patches to v4.1
+13. Updated Better Companions to v1.35
+14. Updated Better Companions - MCM Settings Menu to v1.35
+15. Updated South of the Sea - Atoms Storm to v1.5
+16. Updated NAC X - MCM Settings Menu with Hotkeys to v1.0.0-r2
+17. Updated some of the NSFW funny mods :^)
+18. Updated Wetness Shader Fix to v3.6.2
+19. Updated Expressive Expressions - For Females to v1.1
+20. Updated Vault-Tec Armor REDUX to v.5
+21. Updated A Bit Prettier Raider Faces to v1.2
+22. Updated Fallout Ladies - Curie to v3.0
+23. Updated Fallout Ladies - Piper to v1.6
+24. Updated More Feral Ghouls to v3.5
+25. Updated FallUI - HUD to v1.7.1
+26. Updated FallUI - Confirm Boxes to v2.2.3
+27. Updated FallUI - Sleep and Wait to v1.4
+28. Updated FallUI - Workbench to v1.4.1-r2
+29. Updated 4estGimp - M8r98a4f2's Complex Item Sorter Enhancements to v2.7
+30. Updated See Through Scopes to v2.5.3
+31. Updated Thermal Vision Framework to v1.4
+32. Added some FallUI HUD presets
+
+## Wasteland of Depravity V0.1.7.2 to V0.1.7.8 
+1. Various mod updates to keep the list installable
+
+## Wasteland of Depravity V0.2
+1. Removed MCG as most of its functionality is redundant and it was just adding script load
+2. Removed Assimilation because of its general bugginess and likelihood to crap out your saves
+3. Removed AAF MSWL
+4. Tweaked INIs to hopefully increase performance and reduce crashes across the board (no promises, this is still FO4 after all)
+5. Tweaked water visuals
+6. Tweaked some mod settings to make some of the mods a little less intrusive
+7. Tweaked some recipes to make them a little more obvious as to what they are for
+8. Added a couple of custom ammo conversion recipes where multiple types of the same ammo appear from different mods
+9. Fixed an issue with the music merge which prevented custom music from being played
+10. Fixed the body morph reset bug
+11. Fixed a bunch of outfits not being sorted into the correct crafting category
+12. Added FO4 Particle Patch
+13. Added Basic Skin Overrides
+14. Added Weapons Level List Patches
+15. Added Mutie Melee
+16. Added Vtaw Wardrobe 6
+17. Added Vtaw Wardrobe for Gunners
+18. Added A Bit Prettier Gunners Faces
+19. Added Private Military Company
+20. Added Private Military Company BT3 + FG Bodyslides
+21. Added NanoSuit v6
+22. Added NanoSuit v6 BT3 + FG Bodyslides
+23. Added Obi's Kinky Outfit Collection
+24. Added Obi's Kinky Outfit Collection - FG Bodyslides
+25. Added Factory Add On - Miners Refineries and Assemblers
+26. Added Manufacturing Extended
+27. Added Manufacturing Extended Expanded
+28. Added Soylent Green - Add-on for Manufacturing Extended
+29. Added some LooksMenu presets
+30. Added Thaylars AIO Clothing & Armor
+31. Added Real Time Cover Penetration Framework
+32. Added Bullet Ricochet and Penetration
+33. Added a bunch of mods that retexture small and misc items
+34. Added Vault-Tec Mask
+35. Added Transparent Latex Suit
+36. Added Freedom Suit
+37. Added Jinga's Bodysuit
+38. Added Smoking Puppy's OCBPC Preset
+39. Added Buildable Recon Bunker Theta
+40. Added Colored Workshop Lights
+41. Added Buildable Burning Campfires and Fireplaces
+42. Added Nox Outfit
+43. Added Mongrel Outfit
+44. Added Extra Icons for FIS
+45. Added Ketaros Framework
+46. Added Ketaros Addon - Pin-Up Card Series
+47. Added Ketaros Addon - Western Card Series
+48. Added Ketaros Addon - Terror Card Series
+49. Added Ketaros Addon - Board Games Collection Series
+50. Added More Spawns (Scripted Version)
+51. Added Tactical Combat Swimwear
+52. Added HN66's SIRIUS 12 Assault Suit
+53. Added Banshee Recon Armor
+54. Added Just Some Rugs
+55. Added Kharneth Slave Clothes
+56. Added HN66s EasyGirl Outfits
+    1.  Yes, I know these were technically already in, but only the meshes and textures that Nuka Ride needs were - the other stuff was not and now is :^)
+57. Added Commonwealth Captive Outfit Injector
+58. Updated FusionGirl to v0223
+59. Updated ZeX ZBG to v0223
+60. Updated LooksMenu to v1.6.20
+    1.  This means you can toggle clothes on and off in LooksMenu now as well as actually use skin overrides. There was rumour that this version of LooksMenu broke some of the NSFW mods, especially for male characters/NPCs, but in all my testing, everything works 100% as intended.
+
+The issue with the M249 Para is unfixable as the animations for it are made with a custom skeleton that is not compatible with the ZeX skeleton. See the Combined Arms mod page for more info.
