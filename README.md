@@ -217,17 +217,13 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 ![MCM](img/MCMSettings.jpg)
 
-3. Exit the Mod Config menu
-   
-4. Open your Pip-Pad and scroll across to `INV > Aid`. Click the "MoreSpawns Configuration Settings".
+3. Scroll down to find `Commonwealth Captives Outfit Injector`, head to `Global Settings`, click `Inject All Clothing` and wait for a message box to pop-up telling you that the outfit injection is done.
 
-![MS01](img/MS01.jpg)
+![CCOI](img/CCOIMCM.jpg)
 
-5. In the menu that opens, click `Enable`.
+4. Exit the Mod Config menu
 
-![MS02](img/MS02.jpg)
-
-6. One that is done, make a new full save from the pause menu.
+5. One that is done, make a new full save from the pause menu.
 
 Done!
 

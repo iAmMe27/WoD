@@ -603,3 +603,93 @@ On the last note:- if you have a location that you feel should be safe to sleep 
     1.  This means you can toggle clothes on and off in LooksMenu now as well as actually use skin overrides. There was rumour that this version of LooksMenu broke some of the NSFW mods, especially for male characters/NPCs, but in all my testing, everything works 100% as intended.
 
 The issue with the M249 Para is unfixable as the animations for it are made with a custom skeleton that is not compatible with the ZeX skeleton. See the Combined Arms mod page for more info.
+
+## Wasteland of Depravity V0.2.0.1
+1. Fixed non-working BodyGen
+2. Fixed CTD caused by the M4 in a Weapons Workbench
+3. Fixed issue with incorrect conditions on the StartMeUp menus
+4. Fixed an issue that prevented the MoreSpawns configuration item from being given to you
+
+## Wasteland of Depravity V0.3
+1. Removed Fallout 4 HD Overhaul 2k
+2. Removed D.E.C.A.Y
+3. Removed More Ghouls
+4. Removed MoreSpawns
+5. Removed A Forest
+6. Removed Grasslands
+7. Added FlaconOil's Complete Retexture Project
+8. Added Another Pine Forest - Trees Only
+9. Added I've Got Wood - A Sanctuary Texture Overhaul
+10. Added Langleys HD Texture Workshop
+11. Added Rust Cars
+12. Added Better Quarry Sites
+13. Added Ultimate Window Overhaul Redone
+14. Added Evil Institute HD 2k
+15. Added The Natural Bundle
+    1.  3 sets specifically - Cave Set, Masonry Set, Submarine Set
+16. Added a bunch of misc small texture mods
+17. Added True Grass
+18. Added True Grass - Floating Grass Fixed
+19. Added Grass Reworked - True Grass
+20. Added Immersive Pick-Up Sounds
+21. Added Azur Lane St. Louis
+22. Added R2K's Gameplay Mods - 0004. Helmet Toggle
+23. Added Beast Master - Creature Companion Overhaul
+24. Added some more pose mods because we all like a screen archery :^)
+25. Added Basement Living
+26. Added Basement Living - Immersion Adjustment
+27. Added Fenway Flat
+28. Added Armor Rack Female Mannequin Fix
+29. Added VTAW Utility Pack
+30. Added Clothes Pack 4 by DonEb14n
+31. New Main Menu :)
+32. Added A trifle from Hiro - Refrigerators 2k
+33. Added SOTS Atom's Storm - Immersive Animation Framework Patch
+34. Added Wasteland Rags
+35. Added High Resolution Texture Pack - 2k
+36. Added Better Computer Terminals
+37. Added Shack Floors Redone
+38. Added NPC Footstep Overhaul
+39. Added AAF Creature Resources
+40. Added Voice Fix for FF Animations
+41. Added Rain Maker Animations
+42. Added Patch for Animations
+43. Added Top Floor Loft
+44. Added my own custom addon for Top Floor Loft
+45. Added Swag's Taffy Tales Posters & Billboards - 4k
+46. Updated SaveCabbage Animation Pack to v1.2.9
+47. Updated Mutated Lust to v1.4
+48. Updated Atomic Lust to v2.7
+49. Updated Real Handcuffs to v0.4.16
+50. Updated Alex Stripper Pole to v3.2 B
+51. Updated DD Bench Unlock to v1.0.7
+52. Updated AAF Patch for Maya
+53. Updated Nuka Ride to v6.0.5
+54. Updated Devious Devices Fusion Girl Bodyslides
+55. Updated Start Me Up Redux to v7.0
+56. Updated Rusty Face Fix to v2.0
+57. Updated Fallout 4 High Heels System to v1.8.2
+58. Updated Leveled Item Framework to v2.1.2
+59. Updated Workshop Framework to v2.3.5
+60. Updated Provisioner and Supply Line Management System to v2.6
+61. Updated Diamond City Ambience to v1.12
+62. Updated Who's The General - Minutemen Quest Cleanup to v1.05
+63. Updated New Vault Girl Bobbleheads NSFW to v1.0
+64. Updated New Vault-Girl Statues to v0.4
+65. Updated Vault-Tec Armor Redux to v.6
+66. Updated GITS Two-Tone Retexture to v2.0
+67. Updated Obi's Kinky Outfit Collection to v1.1
+68. Updated Vault-Tec Mask to v1.01
+69. Updated Transparent Latex Suit to v1.1
+71. Updated Loot Detector Expansion to v1.1
+72. Updated 4estGimp - M8r's Complex Item Sorter Enhancements II to v2.7.2
+73. Updated Weapon Level List Patches to v2.14
+74. Updated Screen Archer Menu to v1.1.2
+75. Removed the Local Leader perk requirement from the Private Area Markers
+76. Removed MAID Bot
+77. Removed Fleshsmith
+78. Fixed a ton of performance related issues
+79. Fixed Heather Casdins' gun not working
+80. Fixed some load order issues
+81. Fixed some BodyGen issues
+82. Regenerated LODs
