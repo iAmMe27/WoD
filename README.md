@@ -39,6 +39,7 @@ A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallou
   - [Modifications \& Performance Improvement](#modifications--performance-improvement)
 - [Mod Setup](#mod-setup)
 - [Controls](#controls)
+- [Commonly Failing Downloads](#commonly-failing-downloads)
 - [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
 - [Uninstalling Wasteland of Depravity](#uninstalling-wasteland-of-depravity)
 
@@ -74,6 +75,8 @@ Creation Club content is not currently supported as I don't own any of it.
 
 # Installation
 Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-WoD).
+
+**I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)**
 
 ## Preparation
 
@@ -230,6 +233,10 @@ Done!
 # Controls
 
 ![](img/keyboard-layout.png)
+
+# Commonly Failing Downloads
+
+[All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
 
 # Updating Wasteland of Depravity
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
