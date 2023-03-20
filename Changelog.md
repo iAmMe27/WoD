@@ -693,3 +693,22 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 80. Fixed some load order issues
 81. Fixed some BodyGen issues
 82. Regenerated LODs
+
+# Wasteland of Depravity V0.3.0.1
+1. Added Maya Race Parallax Fix to solve the slight skin texture issue
+2. Fixed the missing bodyslides for:
+   1. TC Sportswear
+   2. TheKite's DC ScoopDigger
+   3. Tough Girl Attire
+   4. GITS Motoko Kusanagi
+   5. Courser X-92 Power Suit
+3. Removed Kawaii Waifu outfit as I was not able to port to FusionGirl properly
+4. Fixed a couple of errors in the outfit sorting
+5. Fixed errors with the Hunting Shotgun
+6. Updated Swagmeister's Taffy Tales - NSFW Posters- Billboards 4K to v1.1
+7. Updated Nuka Ride to v6.1.0
+8. Update Nuka Ride Fusion Girl Bodyslides to v1.02
+
+# Wasteland of Depravity V0.3.0.2
+1. Updated Nuka Ride xVASynth Voiceover to v6.1
+2. Added a couple of WoD Community LooksMenu presets
