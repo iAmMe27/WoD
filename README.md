@@ -51,7 +51,7 @@ Before you dive in, there's a couple things you need to be sure of first:
 I run a relatively powerful PC with the following specs:
   * CPU: Ryzen 7 5800X3D
   * RAM: 32GB DDR4 @ 3600MHz
-  * GPU: RTX 3090
+  * GPU: RTX 4090
 
 I have not built this list to be as graphically intensive as possible but I have installed some nice texture overhauls and a real nice ENB so, with that in mind, I'd say you would need at least the following specs to run WoD:
   * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
@@ -77,6 +77,8 @@ Creation Club content is not currently supported as I don't own any of it.
 Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-WoD).
 
 **I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)**
+
+**For Nuka Ride, make sure you download *all 3 files* - you need the base Nuka Ride mod, the FusionGirl Bodyslide Files and the xVASynth Voiceover.**
 
 ## Preparation
 
@@ -194,7 +196,6 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 1. Discord Rich Presence (F4SE) - this gives you a card in Discord when you are playing WoD. It lists your character name, level and location. *It does not hook into the NSFW mods, don't worry, your secrets are safe.*
 2. LOD Hiding Fog for NAC X - adds a small amount of fog to the clear and sunny weathers to help hide those nasty Fallout 4 LODs.
 3. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
-4. Fleshsmith No Loot Addon - Removes Fleshsmith drops completely.
 
 ## Modifications & Performance Improvement
 If you wish to modify the list, even for performance improvements, refer to the `#wod-mods` channel in the Discord server as there you will find guides in the pins that others in the community have already written. You can also use those channels to discuss your changes to the list freely.
