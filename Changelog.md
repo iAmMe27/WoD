@@ -712,3 +712,77 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 # Wasteland of Depravity V0.3.0.2
 1. Updated Nuka Ride xVASynth Voiceover to v6.1
 2. Added a couple of WoD Community LooksMenu presets
+
+# Wasteland of Depravity V0.3.0.3
+1. Fixed the random body colour glitch - turns out it was caused by ENB's Complex Parallax ¯\_(ツ)_/¯
+2. Removed the Maya Parallax Fix as it's now no longer needed
+3. Removed the boring as vault start
+4. Added Fog Filter for NAC X
+5. Added Ambient Tunnels of Boston
+6. Added Serene Skin
+7. Added Cridow Skin
+8. Added a new Skin Textures separator where you can choose what skin texture mod to use
+9. Updated Nuka Ride to v6.1.1
+10. Updated Nuka Ride FusionGirl Bodyslide Files to v1.03
+11. Updated REACTOR ENB
+
+# Wasteland of Depravity V0.3.1
+1. Fixed an issue with Serene skin overwriting the dirty skin textures that a lot of human enemies use
+2. Fixed an issue with a couple weapon object mods showing up in every modification menu
+3. Fixed the Nox outfit not being built for female characters
+   1. You'll need to rebuild this with the BT3 bodyslides if you play a male character
+4. Fixed a previsibine conflict between PRP and Nuka Ride
+5. Fixed missing physics config for Maya
+6. Added 4estgimp - Weapon Death Drop Fix
+7. Added TheKite's Vault-Tec Slave Suit
+8. Added some more WoD Community character presets
+9. Added some sound replacers for the AX50
+10. Tweaked the AX-50 rifle so now it shouldn't appear as a featured item, falsely triggering Loot Detector's legendary tracker
+11. Tweaked the ENB eye adaption settings - thanks Swag :)
+12. Removed Rogue Sexbot
+13. Removed Thermal Vision Framework
+14. Removed Vanilla Fudge
+15. Regenerated Complex Sorter patches
+16. Swapped back to Nuka Ride 6 Bodyslide for Fusion Girl by N.Gamma v1.02 as v1.03 is not available any longer
+
+# Wasteland of Depravity V0.3.1.1
+1. Fixed a CTD caused by miniguns
+2. Fixed an issue with The Deliverer weapon
+3. Actually fixed Heather Casdin Fusion Girl port this time :^)
+4. Added Roleplay Enhanced Dialogue
+5. Added Vault-Tec Suit
+   1. *...which has had a good amount of customisation applied to it to allow it to coexist with Vault-Tec Armor Redux*
+6. Added Liga of my Companions
+7. Added Liga of my Companions - MCM Settings Menu
+8. Added HN66's TRS Outfits - FusionGirl Bodyslide Conversion
+9. Added RobCo Patcher
+10. Added Stoner Rifle-25 - Knights Armaments - Glock 17 MOS-Glock 18
+11. Added Stoner Rifle-25 - Knights Armaments - Glock 17 MOS-Glock 18 Level List Patches
+12. Added SUP F4SE
+13. Added Universal Disassembler
+14. Added AAF NativeSync
+15. Added Swagmeisters Taffy Tales - Mary Preset
+16. Updated Rusty Face Fix
+17. Updated Sexual Harassment v1.18.0.
+18. Updated Heather Casdin to v2.4
+19. Updated Optimization and Tweaks for Thuggysmurf's Quest Mods (Fusion City - Outcasts and Remnants - Depravity) to v2.1.6
+20. Updated Unofficial Fallout 4 Patch to v2.1.5
+21. Updated Start Me Up Redux to v7.1.1
+22. Updated ENB Helper for Fallout 4 to v1.0.2
+23. Updated Rusty Face Fix Redux to v1.1
+24. Updated Leveled Item Framework to v2.1.3
+25. Updated Ownership Fixes to v1.3.2
+26. Updated AAF SEU Voiced Extension to v0.61
+27. Updated LOST Audio Tweaks to v4.1.2
+28. Updated LOST Audio Tweaks Patches to v1.08
+29. Updated South of the Sea - Atoms Storm to v1.8
+30. Updated Ultimate Window Overhaul Redone to v4.1
+31. Updated Extra Icons for FIS to v1.2
+32. Updated Starfield Vibes - FallUI HUD Preset to v1.9
+33. Updated Select Rapid Machinegun to v1.1
+34. Updated Weapon Level List Patches to v2.15
+35. Updated Ketaros Framework - ESL and Fixed to v2.1.4
+36. Updated Problems of Survivor to v1.5.2
+37. ESL'd a bunch of plugins
+38. Generated Previsibine information for the entirety of WoD
+    1.  *So many thanks to Kaeltis for spending the time figuring out how to and then generating all of this stuff <3*
