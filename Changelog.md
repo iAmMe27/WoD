@@ -786,3 +786,35 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 37. ESL'd a bunch of plugins
 38. Generated Previsibine information for the entirety of WoD
     1.  *So many thanks to Kaeltis for spending the time figuring out how to and then generating all of this stuff <3*
+
+## Wasteland of Depravity v0.3.1.2
+1. Updated AAF Sex Em Up to v1.16
+2. Updated Sex Harassment to v1.18.1
+3. Updated VTAW Gunners to v3.0
+4. Updated Commonwealth Captives to v1.00
+5. Added VTAW Wardrobe 4
+6. Added Added VTAW Wardrobe 4 - Fusion Girl Bodyslides
+7. Added Added VTAW Wardrobe 7
+8. Added Added VTAW Wardrobe 7 - Fusion Girl Bodyslides
+9. Added VTAW Raiders
+10. Added VTAW Settlers
+11. Removed Whipped and Branded for now, until the LoversLab page returns to reality 
+
+## Wasteland of Depravity v0.3.1.3
+1. Removed Nuka Ride xVASynth Voiceover
+2. Added Nuka Ride 6.1 Voices by Axary (xVASynth ) and Kalistara (11labs)
+3. Added Critical Hits Outside of VATS
+4. Added VAFS Redux
+5. Fixed an issue with the VTAW Utility Pack that meant raiders were walking around half naked :^)
+
+## Wasteland of Depravity v0.3.1.4
+1. Fixed an issue with one of the Wastelander outfits
+2. Fixed a lot of *under-the-hood* issues with various mods
+3. Fixed an issue with the Nuka World ESM file
+4. Added Game Configuration Menu
+5. Added Nordic Europa Research Facility
+6. Added Very Zen Trash Piles
+7. Added Very Zen Decals
+8. Added some more interesting loading screens
+9. Packed some texture mods into archives
+10. Removed the Custom Previsibine stuff for now as it was causing poor performance and CTDs for some people. A proper investigation is needed to understand why but for now, a couple of smaller and more basic patches have been generated.
