@@ -7,10 +7,14 @@ First things first: **this list contains adult content and you must be of legal 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
 
 # What is Wasteland of Depravity?
-A NSFW Fallout 4 list that's mid-tier compared to previous NSFW lists for Fallout 4. If anything, its more me trying to to get back into modding Fallout 4 for the sake of it!
+A NSFW Fallout 4 list with modern weapons, plenty of extra quests and plenty of new outfits.
+
+# STOP RIGHT THERE
+Having issues with downloads? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 
 # Quick Links
 - [What is Wasteland of Depravity?](#what-is-wasteland-of-depravity)
+- [STOP RIGHT THERE](#stop-right-there)
 - [Quick Links](#quick-links)
 - [Before You Start](#before-you-start)
   - [Hardware Requirements](#hardware-requirements)
