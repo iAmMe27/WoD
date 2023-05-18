@@ -202,7 +202,7 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 3. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
 
 ## Modifications & Performance Improvement
-If you wish to modify the list, even for performance improvements, refer to the `#wod-mods` channel in the Discord server as there you will find guides in the pins that others in the community have already written. You can also use those channels to discuss your changes to the list freely.
+If you wish to modify the list, even for performance improvements, refer to the `#wod-modifications` channel in the Discord server as there you will find guides in the pins that others in the community have already written. You can also use those channels to discuss your changes to the list freely.
 
 **Please don't request help in the official support channel for modifications or modified lists!** It's not because I dislike modifications or anything, it's just impossible to provide support for the thousands of mods and mod combinations available out there.
 
@@ -219,6 +219,8 @@ When starting a new game, create your character and once done, *DO NOTHING ELSE*
 **Do not touch MCM menus until you are either out of Vault 111 or you have loaded into the Commonwealth.**
 
 As of v0.5, Swag has added a custom MCM setup for a slightly different experience in WoD. Here's what Swag says it does:
+
+**Note that this MCM setup is for profile 2 only!**
 
 ```
 Best run the the following MCM Config after the original "Wasteland of Depravity" one.
