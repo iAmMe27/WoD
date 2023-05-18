@@ -818,3 +818,59 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 8. Added some more interesting loading screens
 9. Packed some texture mods into archives
 10. Removed the Custom Previsibine stuff for now as it was causing poor performance and CTDs for some people. A proper investigation is needed to understand why but for now, a couple of smaller and more basic patches have been generated.
+
+## Wasteland of Depravity v0.3.1.5
+1. Fixed the generally broken previs by removing the ELFX Previs Patch and adjusting load order of a couple of ESPs
+
+## Wasteland of Depravity v0.4
+1. Fixed a few previs conflicts in Sanctuary and Bunker Hill
+2. Solved the Power Armor CTD issue
+3. Updated a couple of texture mods
+
+## Wasteland of Depravity v0.5
+1. Removed Nuka Ride
+   1. My intention for Nuka Ride was always to keep it in until I had played it through. I've since done this and now I've removed it to make way for other mods (*including a playthrough of Nuka World that I haven't ever done*)
+2. Added a new MCM setup from Swagmeister
+3. Added a new custom main menu
+4. Added xrayys better ivy
+5. Added Additional Colours for Vtaw WD8
+6. Added Gender Ratios
+7. Added Vault-Tec Swimsuit
+8. Added NAC X Rain Splash Killer
+9. Added The Fens Sheriff Department - Bleachers 2
+10. Added Institute Technology Overhaul - Weapons
+11. Added ITO No Munitions Patch
+12. Added Rad-Ban Eyewear
+13. Added Ketaros Treasures
+14. Added Ketaros Treasures - Board Games Shelf
+15. Added Ketaros Treasures - Postcard Rack
+16. Added Lootable Ketaros Treasures
+17. Added Ketaros Treasures Complex Sorter Rules
+18. Added Player Curses During Lockpicking and Hacking
+19. Added Smokeable Cigars - Cigarettes - Joints - With HardCore Auto Save
+20. Added Smokeable Cigars - MCM Settings Menu
+21. Tweaked Modern Weapons Replacer to allow Laser and Institute energy weapons to appear in the world again
+22. Tweaked ENB water settings
+23. Tweaked BodyGen some more
+24. Updated ENB binaries
+25. Updated Swagmeister's Taffy Tales - Gerda Preset
+26. Updated Start Me Up Redux to v7.3
+27. Updated Fallout 4 High Heels System to v1.8.3
+28. Updated Leveled Item Framework (LIF) to v2.1.4
+29. Updated RobCo Patcher to v3.2.1
+30. Updated AAF Sex Em Up Voiced Extension to v0.72
+31. Updated LAT Patches to vLATP1.09
+32. Updated Heather Casdin to v2.5
+33. Updated Better Companions - All In One to v1.36
+34. Updated Ultimate Window Overhaul Redone to v4.1.2
+35. Updated Vault-Tec Armor Redux to v.7.5
+36. Updated Vault-Tec Mask to v1.12
+37. Updated Extra Icons for FIS to v1.3
+38. Updated Weapons Level List Patches to v2.16
+39. Updated Ketaros Framework - ESL and Fixed to v2.2.1
+40. Updated Screen Archer Menu to v1.4.1
+41. Updated RED - Roleplayer's Expanded Dialogue to v2.7
+42. Updated Serene Skin to v1.5
+43. Updated SavageCabbage Animation Pack to v1.30
+44. Updated Captive Tattoos to v3.3
+45. Updated Patch for animations to v10.0
