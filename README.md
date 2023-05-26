@@ -80,9 +80,7 @@ Creation Club content is not currently supported as I don't own any of it.
 # Installation
 Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-WoD).
 
-**I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)**
-
-**For Nuka Ride, make sure you download *all 3 files* - you need the base Nuka Ride mod, the FusionGirl Bodyslide Files and the xVASynth Voiceover.**
+**I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)***
 
 ## Preparation
 
