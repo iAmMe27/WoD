@@ -13,11 +13,9 @@ First things first: **this list contains adult content and you must be of legal 
 # What is Wasteland of Depravity?
 A NSFW Fallout 4 list with modern weapons, plenty of extra quests and plenty of new outfits.
 
-# STOP RIGHT THERE
-Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
-
-# Quick Links
+# Quick Links
 * Common Issues > [CLICK HERE](#common-issues)
+* Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 
 # Before You Start
 Before you dive in, there's a couple things you need to be sure of first:
@@ -25,11 +23,10 @@ Before you dive in, there's a couple things you need to be sure of first:
 ## Hardware Requirements
 I have not built this list to be as graphically intensive as possible but I have installed some nice texture overhauls and a real nice ENB so, with that in mind, I'd say you would need at least the following specs to run WoD @ 1440p:
 
-|             | CPU                             | RAM                 | GPU                                             |   |
-|-------------|---------------------------------|---------------------|-------------------------------------------------|---|
-| Minimum     | Intel 7th Gen,  AMD 3000 Series | 16GB DDR4 @ 3000MHz | RTX 2060, Radeon 5700 XT (at least 6GB of VRAM) |   |
-| Recommended | Intel 9th Gen, AMD 5800X        | 32GB DDR4 @ 3600MHz | RTX 3070, Radeon 6800                           |   |
-|             |                                 |                     |                                                 |   |
+|             | CPU                             | RAM                 | GPU                                             |
+|-------------|---------------------------------|---------------------|-------------------------------------------------|
+| Minimum     | Intel 7th Gen,  AMD 3000 Series | 16GB DDR4 @ 3000MHz | RTX 2060, Radeon 5700 XT (at least 6GB of VRAM) |
+| Recommended | Intel 9th Gen, AMD 5800X        | 32GB DDR4 @ 3600MHz | RTX 3070, Radeon 6800                           |
 
 This could be completely out of field though as I don't have any lower end hardware to test it on.
 
@@ -221,8 +218,7 @@ Done!
 
 # Common Issues
 
-## I get download errors when installing via Wabbajack
-
+## I get download errors when installing WoD!
 I bet it's one of the files on the commonly failing downloads list. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
 
 ## I can't move my mouse cursor around the whole area of my screen!
