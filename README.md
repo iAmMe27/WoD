@@ -111,7 +111,7 @@ Fallout 4 modlists need a large amount of memory purely because of the amount of
 ### Setup your Shader Cache
 Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Being this small can lead to rare crashes in heavily modified Fallout 4 installs. Increasing the shader cache size is done via the Nvidia Control Panel (I assume the same for AMD users is true also but I don't have AMD hardware to check with). 
 
-*These instructions are Nvidia specific as it is the hardware I have.*
+**AMD USERS:** [See this link for some manual tweaks that may or may not help.](https://www.reddit.com/r/Eldenring/comments/t1b8bb/i_found_a_possible_fix_for_stuttering_on_amd_cards/)
 
 1. Open the NVidia Control Panel
 2. Head to `Manage 3D Settings`
