@@ -216,6 +216,20 @@ Done!
 
 ![](img/keyboard-layout.png)
 
+# FAQ
+
+## Can I play the vanilla intro?
+No. It sucks and the game has been out since like, 2015. If you haven't played it by now, vanilla FO4 still exists :^)
+
+## Can I add xyz?
+I don't know, can you?
+
+## Can YOU add xyz?
+I don't take commissions. I don't take demands either.
+
+## What do I do in WoD?
+Whatever the hell you want, within reason. There's plenty of extra content in WoD, some of which you will find just by walking throughout the wasteland. Be sure to keep an eye on your quest log and radio too.
+
 # Common Issues
 
 ## I get download errors when installing WoD!
