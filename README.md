@@ -2,65 +2,34 @@
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
-**Support and general talk about Wasteland of Depravity resides on the Jolly Co-operators Discord:**
+*Support and general talk about Wasteland of Depravity resides on the Jolly Co-operators Discord:*
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
+
+---
+## DO NOT CLOSE THIS README. FAILURE TO FOLLOW THIS README WILL RESULT IN EITHER AN UNINSTALLABLE OR NON-FUNCTIONING MODLIST!
+---
 
 # What is Wasteland of Depravity?
 A NSFW Fallout 4 list with modern weapons, plenty of extra quests and plenty of new outfits.
 
 # STOP RIGHT THERE
-Having issues with downloads? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
+Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 
-# Quick Links
-- [What is Wasteland of Depravity?](#what-is-wasteland-of-depravity)
-- [STOP RIGHT THERE](#stop-right-there)
-- [Quick Links](#quick-links)
-- [Before You Start](#before-you-start)
-  - [Hardware Requirements](#hardware-requirements)
-  - [Accounts](#accounts)
-  - [DLC \& Creation Club Content](#dlc--creation-club-content)
-- [Installation](#installation)
-  - [Preparation](#preparation)
-    - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
-    - [Setup your Page File](#setup-your-page-file)
-    - [Setup your Shader Cache](#setup-your-shader-cache)
-    - [Disable Steam Overlay](#disable-steam-overlay)
-    - [Set game language to English](#set-game-language-to-english)
-    - [Change Steam's Updating Behavior](#change-steams-updating-behavior)
-    - [Clean current Fallout 4 installation](#clean-current-fallout-4-installation)
-    - [Install Fallout 4](#install-fallout-4)
-    - [Start Fallout 4](#start-fallout-4)
-  - [Wabbajack](#wabbajack)
-- [Post-Installation](#post-installation)
-  - [Stock Game](#stock-game)
-  - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
-  - [Ultrawide Support](#ultrawide-support)
-  - [Optional Mods](#optional-mods)
-    - [Essentials Category](#essentials-category)
-    - [Character Presets Category](#character-presets-category)
-    - [YOUR CHOICES Category](#your-choices-category)
-  - [Modifications \& Performance Improvement](#modifications--performance-improvement)
-- [Mod Setup](#mod-setup)
-- [Controls](#controls)
-- [Commonly Failing Downloads](#commonly-failing-downloads)
-- [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
-- [Uninstalling Wasteland of Depravity](#uninstalling-wasteland-of-depravity)
-
+# Quick Links
+* Common Issues > [CLICK HERE](#common-issues)
 
 # Before You Start
 Before you dive in, there's a couple things you need to be sure of first:
 
 ## Hardware Requirements
-I run a relatively powerful PC with the following specs:
-  * CPU: Ryzen 7 5800X3D
-  * RAM: 32GB DDR4 @ 3600MHz
-  * GPU: RTX 4090
+I have not built this list to be as graphically intensive as possible but I have installed some nice texture overhauls and a real nice ENB so, with that in mind, I'd say you would need at least the following specs to run WoD @ 1440p:
 
-I have not built this list to be as graphically intensive as possible but I have installed some nice texture overhauls and a real nice ENB so, with that in mind, I'd say you would need at least the following specs to run WoD:
-  * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
-  * RAM: 16GB of DDR4
-  * GPU: RTX 2060 *or the AMD equivalent with at least 6GB of VRAM*
+|             | CPU                             | RAM                 | GPU                                             |   |
+|-------------|---------------------------------|---------------------|-------------------------------------------------|---|
+| Minimum     | Intel 7th Gen,  AMD 3000 Series | 16GB DDR4 @ 3000MHz | RTX 2060, Radeon 5700 XT (at least 6GB of VRAM) |   |
+| Recommended | Intel 9th Gen, AMD 5800X        | 32GB DDR4 @ 3600MHz | RTX 3070, Radeon 6800                           |   |
+|             |                                 |                     |                                                 |   |
 
 This could be completely out of field though as I don't have any lower end hardware to test it on.
 
@@ -78,9 +47,8 @@ You will need *all* of the DLC for Fallout 4 ***except*** the official HD textur
 Creation Club content is not currently supported as I don't own any of it.
 
 # Installation
-Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-WoD).
 
-**I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)***
+**I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)**
 
 ## Preparation
 
@@ -101,11 +69,10 @@ Fallout 4 modlists need a large amount of memory purely because of the amount of
 7. Select your *fastest* SSD in the list of drives
 8. Check "Custom Size"
 9. Set `Initial Size` to 20480
-10. Set `Maximum Size` to 20480 also
-    1.  *Note: you can set this up to 40000 if you have the space, this will let the pagefile expand to as large as 40GB*
+10. Set `Maximum Size` to 40000
 11. Press the "Set" button
-12. Press OK
-13. Press APPLY and then OK
+12. Press `OK`
+13. Press `APPLY` and then `OK`
 14. Restart your PC to apply the pagefile setting
 
 ### Setup your Shader Cache
@@ -150,10 +117,6 @@ That's right - start the game. You need to let the game do its initial start up 
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
 
 Set the installation location to a folder on the root of a drive, something like `C:\WoD`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Fallout 4 modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists. 
-
-Before you hit **GO**, a quick tip:
-
-*To get the best performance with Wabbajack, it is recommended that you have the install folder for Wabbajack, the modlist folder and the downloads folder on an SSD; ideally the same SSD.* After the installation is complete, you can move the downloads folder to a storage HDD or other storage medium to save space on your game installation drive. It's not recommended to allow your drive to exceed 90% of its storage space used - Windows Explorer will show a red bar under your drive if you do go over 90% so you need to be sure that you have enough space on your installation drive so that you won't exceed this 90% storage level.
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
@@ -256,9 +219,29 @@ Done!
 
 ![](img/keyboard-layout.png)
 
-# Commonly Failing Downloads
+# Common Issues
 
-[All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
+## I get download errors when installing via Wabbajack
+
+I bet it's one of the files on the commonly failing downloads list. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
+
+## I can't move my mouse cursor around the whole area of my screen!
+In MO2, under the Essentials separator, find `High Physics FPS Fix - WoD INI` and double click it. In the window that opens, head to INI Files and click the only option in the left column. Find the line:
+
+`Fullscreen=false`
+
+and change it to:
+
+`Fullscreen=true`
+
+## My game performance sucks!
+This could be caused by a few things:
+  1. You didn't setup a Pagefile as described earlier in this readme
+  2. You didn't setup your shader cache as described earlier in this readme
+  3. You didn't install on an SSD
+  4. You ignored the hardware requirements described eariler in this readme
+
+If you genuinely have followed the above steps then try lowering settings in BethINI, [following this guide in the modifications channel on the Discord.](https://discord.com/channels/719714673431150627/1095988679463424000/1096709202052915250)
 
 # Updating Wasteland of Depravity
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
@@ -269,3 +252,4 @@ All that aside, updates are basically the same as an installation except you hav
 
 # Uninstalling Wasteland of Depravity
 No fancy uninstallation needed, you can just delete the WoD folder and it'll be gone. There'll be no files left inside your Steam installation folder because WoD uses the stock game feature of Wabbajack.
+
