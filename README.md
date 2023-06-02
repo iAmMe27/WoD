@@ -14,6 +14,7 @@ First things first: **this list contains adult content and you must be of legal 
 A NSFW Fallout 4 list with modern weapons, plenty of extra quests and plenty of new outfits.
 
 # Quick Links
+* FAQ? > [FAQ!](#faq)
 * Common Issues > [CLICK HERE](#common-issues)
 * Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 
@@ -252,6 +253,12 @@ This could be caused by a few things:
   4. You ignored the hardware requirements described eariler in this readme
 
 If you genuinely have followed the above steps then try lowering settings in BethINI, [following this guide in the modifications channel on the Discord.](https://discord.com/channels/719714673431150627/1095988679463424000/1096709202052915250)
+
+## My character appears to be stuck leaking milk or something
+Try typing in console:
+
+`player.removespell 3E012361`
+
 
 # Updating Wasteland of Depravity
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
