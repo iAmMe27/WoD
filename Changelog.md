@@ -892,20 +892,20 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 10. Added Camera Tweaks
 11. Added a bunch of FusionGirl Bodyslide presets
 12. Added PRP Branch v69 in place of v65
-24. Added matching Branch v69 update of Commonwealth Cleanup and Restoration
-25. Added updated some other previs patches for PRP branch v69
-26. Added Swags V for Valkyrie preset
-27. Tweaked the Modern Weapon Replacers choices
-28. Tweaked the Pip-Boy Flashlight texture
-29. Made Oni Face Parts disabled by default as it was interfering with presets. Enable if you need it.
-30. Removed Shell Rain
-31. Removed Visual Reload
-32. Removed NPCs Travel
-33. Removed the Ketaros Treasures mods
-34. Removed Improved Map with Visible Roads
-35. Removed Custom Camera
-36. Fixed a few under the hood issues
-37. Fixed the Power Armor CTD issue - major thanks go to Kaeltis and Swagmeister for their help with figuring this out
-38. Fixed the SAM 21x9 UW patch not being up to date
-39. Updated AAF Spectators to v1.4
-40. Default ENB is now Quantum Horizons *but* you can choose Reactor from within MO2 if you prefer it
+13. Added matching Branch v69 update of Commonwealth Cleanup and Restoration
+14. Added updated some other previs patches for PRP branch v69
+15. Added Swags V for Valkyrie preset
+16. Tweaked the Modern Weapon Replacers choices
+17. Tweaked the Pip-Boy Flashlight texture
+18. Made Oni Face Parts disabled by default as it was interfering with presets. Enable if you need it.
+19. Removed Shell Rain
+20. Removed Visual Reload
+21. Removed NPCs Travel
+22. Removed the Ketaros Treasures mods
+23. Removed Improved Map with Visible Roads
+24. Removed Custom Camera
+25. Fixed a few under the hood issues
+26. Fixed the Power Armor CTD issue - major thanks go to Kaeltis and Swagmeister for their help with figuring this out
+27. Fixed the SAM 21x9 UW patch not being up to date
+28. Updated AAF Spectators to v1.4
+29. Default ENB is now Quantum Horizons *but* you can choose Reactor from within MO2 if you prefer it
