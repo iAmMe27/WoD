@@ -874,3 +874,38 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 43. Updated SavageCabbage Animation Pack to v1.30
 44. Updated Captive Tattoos to v3.3
 45. Updated Patch for animations to v10.0
+
+## Wasteland of Depravity v0.5.0.1
+1. Updated AAF Violate to v1.6 Beta 5
+2. Added AnotherOne Brutal Death
+
+## Wasteland of Depravity - v0.6 Experimental Build
+1. Added Commonwealth Captives - More Female NPCs
+2. Added Smith and Wesson M-P 2.0
+3. Added some more tattoo overlays
+4. Added Texture Scan
+5. Added A Bit Prettier Brotherhood of Steel Faces
+6. Added No BloodWorm MoleRats Scorpions Teleport-BugFix
+7. Added custom 8k world map textures - many thanks to Kaeltis for this 
+8. Added CCCleaner
+9. Added Fallout Priority
+10. Added Camera Tweaks
+11. Added a bunch of FusionGirl Bodyslide presets
+12. Added PRP Branch v69 in place of v65
+24. Added matching Branch v69 update of Commonwealth Cleanup and Restoration
+25. Added updated some other previs patches for PRP branch v69
+26. Added Swags V for Valkyrie preset
+27. Tweaked the Modern Weapon Replacers choices
+28. Tweaked the Pip-Boy Flashlight texture
+29. Made Oni Face Parts disabled by default as it was interfering with presets. Enable if you need it.
+30. Removed Shell Rain
+31. Removed Visual Reload
+32. Removed NPCs Travel
+33. Removed the Ketaros Treasures mods
+34. Removed Improved Map with Visible Roads
+35. Removed Custom Camera
+36. Fixed a few under the hood issues
+37. Fixed the Power Armor CTD issue - major thanks go to Kaeltis and Swagmeister for their help with figuring this out
+38. Fixed the SAM 21x9 UW patch not being up to date
+39. Updated AAF Spectators to v1.4
+40. Default ENB is now Quantum Horizons *but* you can choose Reactor from within MO2 if you prefer it
