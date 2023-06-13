@@ -879,7 +879,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 1. Updated AAF Violate to v1.6 Beta 5
 2. Added AnotherOne Brutal Death
 
-## Wasteland of Depravity - v0.6 Experimental Build
+## Wasteland of Depravity - v0.6
 1. Added Commonwealth Captives - More Female NPCs
 2. Added Smith and Wesson M-P 2.0
 3. Added some more tattoo overlays
