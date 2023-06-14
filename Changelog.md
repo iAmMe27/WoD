@@ -879,7 +879,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 1. Updated AAF Violate to v1.6 Beta 5
 2. Added AnotherOne Brutal Death
 
-## Wasteland of Depravity - v0.6
+## Wasteland of Depravity v0.6
 1. Added Commonwealth Captives - More Female NPCs
 2. Added Smith and Wesson M-P 2.0
 3. Added some more tattoo overlays
@@ -909,3 +909,10 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 27. Fixed the SAM 21x9 UW patch not being up to date
 28. Updated AAF Spectators to v1.4
 29. Default ENB is now Quantum Horizons *but* you can choose Reactor from within MO2 if you prefer it
+
+## Wasteland of Depravity v0.6.0.1
+1. Fixed the missing ENB options
+2. Fixed the camera settings
+   1. You'll need to reapply the MCM settings for this
+3. Tweaked the night brightness of the Quantum Horizons ENB
+4. Added Swagmeisters V for Valkyrie Bodyslide preset
