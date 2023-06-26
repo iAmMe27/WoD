@@ -916,3 +916,36 @@ The issue with the M249 Para is unfixable as the animations for it are made with
    1. You'll need to reapply the MCM settings for this
 3. Tweaked the night brightness of the Quantum Horizons ENB
 4. Added Swagmeisters V for Valkyrie Bodyslide preset
+
+## Wasteland of Depravity v0.6.1
+1. Packaged the following mods into BA2 archives to try help the stuttering in game
+   1. Vtaw Wardrobe 6 Materials
+   2. Vtaw Wardrobe 7 Materials
+   3. Vtaw Wardrobe 8 Materials
+   4. Vtaw Utility Pack
+   5. Splashzones NSFW Texture Mashup AIO
+   6. Danks Mags
+   7. Nuka Cola Girl Bottles
+   8. Nuka Cola Girl Bottle for Nuka-World 
+2. Unpacked the following mods because WoD is hanging dangerously close to the BA2 limit
+   1. AAF Themes for both profiles
+   2. Basement Living
+   3. Dynamic Guard Mats
+   4. Dynamic Store Mats
+   5. Fenway Flat
+   6. Hands Off
+   7. Legendary Radroach Fix
+   8. PenPos
+   9. Persistent Volume Sliders
+   10. Canary Save File Monitor
+   11. Atom Cats Drag Race Start Fix
+   12. Jinga C Bodysuit
+   13. Settlement Tidy Bot
+3. Updated Better Goodneighbor - Precombined Visibility Patches to the v69-1.0 version
+4. Updated BodyTalk 3 to the v3.8 Nexus release
+5. Updated AAF Sex Harassment to v1.18.3
+6. Updated ZeX-ZBG to v1.3
+7. Removed Random Overlay Framework
+8. Removed CBBE Pubic Hair Overlays
+9. Removed Truby Widescreen stuff
+10. Added Ultra Wide Interface (21x9)
