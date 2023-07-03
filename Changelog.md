@@ -874,3 +874,78 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 43. Updated SavageCabbage Animation Pack to v1.30
 44. Updated Captive Tattoos to v3.3
 45. Updated Patch for animations to v10.0
+
+## Wasteland of Depravity v0.5.0.1
+1. Updated AAF Violate to v1.6 Beta 5
+2. Added AnotherOne Brutal Death
+
+## Wasteland of Depravity v0.6
+1. Added Commonwealth Captives - More Female NPCs
+2. Added Smith and Wesson M-P 2.0
+3. Added some more tattoo overlays
+4. Added Texture Scan
+5. Added A Bit Prettier Brotherhood of Steel Faces
+6. Added No BloodWorm MoleRats Scorpions Teleport-BugFix
+7. Added custom 8k world map textures - many thanks to Kaeltis for this 
+8. Added CCCleaner
+9. Added Fallout Priority
+10. Added Camera Tweaks
+11. Added a bunch of FusionGirl Bodyslide presets
+12. Added PRP Branch v69 in place of v65
+13. Added matching Branch v69 update of Commonwealth Cleanup and Restoration
+14. Added updated some other previs patches for PRP branch v69
+15. Added Swags V for Valkyrie preset
+16. Tweaked the Modern Weapon Replacers choices
+17. Tweaked the Pip-Boy Flashlight texture
+18. Made Oni Face Parts disabled by default as it was interfering with presets. Enable if you need it.
+19. Removed Shell Rain
+20. Removed Visual Reload
+21. Removed NPCs Travel
+22. Removed the Ketaros Treasures mods
+23. Removed Improved Map with Visible Roads
+24. Removed Custom Camera
+25. Fixed a few under the hood issues
+26. Fixed the Power Armor CTD issue - major thanks go to Kaeltis and Swagmeister for their help with figuring this out
+27. Fixed the SAM 21x9 UW patch not being up to date
+28. Updated AAF Spectators to v1.4
+29. Default ENB is now Quantum Horizons *but* you can choose Reactor from within MO2 if you prefer it
+
+## Wasteland of Depravity v0.6.0.1
+1. Fixed the missing ENB options
+2. Fixed the camera settings
+   1. You'll need to reapply the MCM settings for this
+3. Tweaked the night brightness of the Quantum Horizons ENB
+4. Added Swagmeisters V for Valkyrie Bodyslide preset
+
+## Wasteland of Depravity v0.6.1
+1. Packaged the following mods into BA2 archives to try help the stuttering in game
+   1. Vtaw Wardrobe 6 Materials
+   2. Vtaw Wardrobe 7 Materials
+   3. Vtaw Wardrobe 8 Materials
+   4. Vtaw Utility Pack
+   5. Splashzones NSFW Texture Mashup AIO
+   6. Danks Mags
+   7. Nuka Cola Girl Bottles
+   8. Nuka Cola Girl Bottle for Nuka-World 
+2. Unpacked the following mods because WoD is hanging dangerously close to the BA2 limit
+   1. AAF Themes for both profiles
+   2. Basement Living
+   3. Dynamic Guard Mats
+   4. Dynamic Store Mats
+   5. Fenway Flat
+   6. Hands Off
+   7. Legendary Radroach Fix
+   8. PenPos
+   9. Persistent Volume Sliders
+   10. Canary Save File Monitor
+   11. Atom Cats Drag Race Start Fix
+   12. Jinga C Bodysuit
+   13. Settlement Tidy Bot
+3. Updated Better Goodneighbor - Precombined Visibility Patches to the v69-1.0 version
+4. Updated BodyTalk 3 to the v3.8 Nexus release
+5. Updated AAF Sex Harassment to v1.18.3
+6. Updated ZeX-ZBG to v1.3
+7. Removed Random Overlay Framework
+8. Removed CBBE Pubic Hair Overlays
+9. Removed Truby Widescreen stuff
+10. Added Ultra Wide Interface (21x9)
