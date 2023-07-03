@@ -85,6 +85,13 @@ Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Bei
 
 ![Shader Cache](img/ShaderCache.png)
 
+### Setup your Antivirus
+Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your WoD installation folder from your antivirus' real-time protection stuff as it will likely interfe with your install and worst case, it can remove files, ruining your install.
+
+How do I do this, you ask? [Click here to find out how.]( https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus)
+
+**Note:** If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark `usvfs_proxy_x86.exe`, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
+
 ### Disable Steam Overlay
 The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
 
