@@ -6,6 +6,8 @@ First things first: **this list contains adult content and you must be of legal 
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7CKSPJ)
+
 ---
 ## DO NOT CLOSE THIS README. FAILURE TO FOLLOW THIS README WILL RESULT IN EITHER AN UNINSTALLABLE OR NON-FUNCTIONING MODLIST!
 ---
