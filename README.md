@@ -19,6 +19,7 @@ A NSFW Fallout 4 list with modern weapons, plenty of extra quests and plenty of 
 * FAQ? > [FAQ!](#faq)
 * Common Issues > [CLICK HERE](#common-issues)
 * Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
+* What the heck am I doing with these mods? [Read this page.](Gameplay.md)
 
 # Before You Start
 Before you dive in, there's a couple things you need to be sure of first:
