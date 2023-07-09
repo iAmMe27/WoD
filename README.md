@@ -16,7 +16,7 @@ First things first: **this list contains adult content and you must be of legal 
 A NSFW Fallout 4 list with modern weapons, plenty of extra quests and plenty of new outfits.
 
 # Quick Links
-* FAQ? > [FAQ!](#faq)
+* FAQ? > [FAQ!](FAQ.md)
 * Common Issues > [CLICK HERE](#common-issues)
 * Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 * What the heck am I doing with these mods? [Read this page.](Gameplay.md)
@@ -40,7 +40,7 @@ You will need at least `200GB` of disk space on an SSD for the installation. For
 In terms of accounts you will need:
   * Nexus Premium Account
   * LoversLab Account
-  * [Moddingham Account](https://www.moddingham.com/) - *you need this for the latest version of AAF*
+  * [Moddingham Account](https://www.moddingham.com/) - *you need this for the latest version of AAF.*
 
 ## DLC & Creation Club Content
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack. Seriously, do not download it. 
@@ -90,9 +90,9 @@ Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Bei
 ![Shader Cache](img/ShaderCache.png)
 
 ### Setup your Antivirus
-Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your WoD installation folder from your antivirus' real-time protection stuff as it will likely interfe with your install and worst case, it can remove files, ruining your install.
+Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your WoD installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install.
 
-How do I do this, you ask? [Click here to find out how.]( https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus)
+How do I do this, you ask? [Click here to find out how.](https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus)
 
 **Note:** If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark `usvfs_proxy_x86.exe`, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
 
@@ -100,7 +100,7 @@ How do I do this, you ask? [Click here to find out how.]( https://lmgtfy.app/?q=
 The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
 
 ### Set game language to English
-Wabbajack and some/most of the modding tools out there only support English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Fallout 4 in your game library and click **Properties** > **Language** > **Select English**.
+Wabbajack and the modding tools out there only support English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Fallout 4 in your game library and click **Properties** > **Language** > **Select English**.
 
 ### Change Steam's Updating Behavior
 If for some reason Bethesda decide to release an update for Fallout 4, everything will probably break. Well, not *everything* but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Fallout 4 in your game library and clicking **Properties** > **Updates** > **Change Automatic Updates to "Only update this game when I launch it"**. Whilst you're in here, it's also recommended to disable Steam Cloud too.
@@ -227,20 +227,6 @@ Done!
 
 ![](img/keyboard-layout.png)
 
-# FAQ
-
-## Can I play the vanilla intro?
-No. It sucks and the game has been out since like, 2015. If you haven't played it by now, vanilla FO4 still exists :^)
-
-## Can I add xyz?
-I don't know, can you?
-
-## Can YOU add xyz?
-I don't take commissions. I don't take demands either.
-
-## What do I do in WoD?
-Whatever the hell you want, within reason. There's plenty of extra content in WoD, some of which you will find just by walking throughout the wasteland. Be sure to keep an eye on your quest log and radio too.
-
 # Common Issues
 
 ## I get download errors when installing WoD!
@@ -269,6 +255,8 @@ Try typing in console:
 
 `player.removespell 3E012361`
 
+## I get a crash caused by XAudio2_7.dll!
+Make sure your WoD folder is added to your antivirus exclusions. If it is, [download Microsoft Redist (June 2010) from here.](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 
 # Updating Wasteland of Depravity
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
