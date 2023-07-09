@@ -949,3 +949,33 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 8. Removed CBBE Pubic Hair Overlays
 9. Removed Truby Widescreen stuff
 10. Added Ultra Wide Interface (21x9)
+
+## Wasteland of Depravity v0.6.2
+1. Added Rebalance of Damage Modifiers
+2. Added Pip-Pad Sleeve Fixes
+3. Added F4SE Outfit Redress Fix
+4. Added Swagmeister's Sweet Betty Sue
+5. Added T-47R Power Armor
+6. Added Tobe Face Texture Pack
+7. Added Jinga's Closet 1
+8. Added Jinga's Closet 1 FusionGirl conversion
+9. Replaced the Banshee Recon Armor with Helios Outfit
+   1.  Might have also put something in the place the Banshee Recon Armor used to spawn ¬.¬
+10. Added Cridowskin V3
+11. Added Cridowskin FG Patch
+12. Added Vanilla Cubemap Fix
+13. Added Survival Tent - Balanced Survival Saving
+14. Packed the other skin mods into BA2s
+15. Updated ZeX - ZaZ Extended Skeleton to v6.0
+16. Updated Bullet Penetration and Ricochet
+17. Removed RootBuilder and migrated the ENB stuff back to the Stock Game folder
+18. Removed DX Banshee Recon Armor as the FG port is broken
+19. Removed AAF Family Planning Enhanced
+20. Removed Wasteland Dairy Framework
+21. Removed Wasteland Illumination
+22. Removed Illuminated Billboards
+23. Removed Smokeable Cigars
+24. Removed Smokeable Cigars - MCM Settings Menu
+25. Updated Perchik71 - In-Game Mod Explorer
+26. Updated Screen Archer Menu
+27. Tweaked the ENB some
