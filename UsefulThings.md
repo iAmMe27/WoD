@@ -11,7 +11,7 @@ Once the settings page is open, click the `Launch Wabbajack CLI` button:
 
 ![](img/WJCLI.png)
 
-In the terminal window that opens, type in the following command (make sure to edit it so that it points to your install paths!):
+In the terminal window that opens, type in the following commands (make sure to edit it so that it points to your install paths!):
 
 `cd ..`
 
@@ -19,4 +19,4 @@ Press Enter, then:
 
 `.\wabbajack-cli.bat verify-modlist-install -m {path to your WJ folder}\3.1.0.0\downloaded_mod_lists\Tahrovin_@@_wod.wabbajack -i "{WoD install folder path}"`
 
-Remember to remove the `{ }` brackets around the command.
+Remember to remove the `{ }` brackets around the commands.
