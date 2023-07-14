@@ -979,3 +979,10 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 25. Updated Perchik71 - In-Game Mod Explorer
 26. Updated Screen Archer Menu
 27. Tweaked the ENB some
+
+## Wasteland of Depravity v0.6.2.1
+1. Swapped Buffout NG back to regular Buffout
+2. Tweaked the ENB some more
+3. Changed skin texture selection so only Pride of Valhalla is enabled by default
+4. Reconstructed and repackaged the Cridowskin archive
+5. Added Enhanced Blood - Better Performance
