@@ -986,3 +986,10 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 3. Changed skin texture selection so only Pride of Valhalla is enabled by default
 4. Reconstructed and repackaged the Cridowskin archive
 5. Added Enhanced Blood - Better Performance
+
+## Wasteland of Depravity v0.6.2.2 - Hotfix
+1. Added Interior NavCut Fix
+2. Updated Buffout 4 to v1.28.3
+3. Re-added Buffout 4 NG
+
+Buffout 4 NG is currently enabled by default due to some issues with the regular version of Buffout 4 and stability, especially in combat situations.
