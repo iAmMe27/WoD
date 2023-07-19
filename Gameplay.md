@@ -27,3 +27,8 @@ Sure can. Drop down Private Area Markers by placing the markers from the worksho
 Most quest mods will be obvious - they affect the world in some way. You very likely won't miss them.
 
 If I had to give you one hint though, it would be this: there's an decrepit office building nearby to the Cambridge Police Station that might be worth checking out.
+
+## When I speak to Nick Valentine, all of his dialogue options end up exiting the conversation. What gives?
+So, you wanna run the main story (ish), huh?
+
+You forgot to pickup the holotape from the deceased vault dweller in Vault 111 :^)
