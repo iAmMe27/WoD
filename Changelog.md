@@ -993,3 +993,21 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 3. Re-added Buffout 4 NG
 
 Buffout 4 NG is currently enabled by default due to some issues with the regular version of Buffout 4 and stability, especially in combat situations.
+
+## Wasteland of Depravity v0.6.2.3
+1. Updated Commonwealth Captives NPC Patch
+
+## Wasteland of Depravity v0.6.2.4
+1. Added Precious Metal Bars - Contraptions Collision Fix
+2. Added Institute Suit
+3. Created crafting recipes for Rad-Ban Sunglasses and the GITS Motoko Kusanagi outfits
+4. Restored FO4HHS config files for the Vtaw outfit mods
+5. Updated Buffout 4 to v1.28.6
+6. Updated Baka Framework to v1.9.0
+7. Removed Buffout 4 NG
+8. Removed Baka ScrapHeap in favour of Buffout's memory manager
+8. Removed Faster Workshop in favour of Buffout's patch
+
+## Wasteland of Depravity v0.6.3
+1. Updated Institute Suit
+2. Updated Interior NavCut Fix
