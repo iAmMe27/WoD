@@ -51,6 +51,8 @@ Creation Club content is not currently supported as I don't own any of it.
 
 **I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)**
 
+**When downloading mods from Mega, always right click > Standard Download. Mega defaults to its "Download as ZIP" option will means it recompresses already compressed files and Wabbajack won't be able to recognise the download.**
+
 ## Preparation
 
 ### Install Microsoft Visual C++ Redistributable Packages
