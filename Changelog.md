@@ -1007,7 +1007,3 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 7. Removed Buffout 4 NG
 8. Removed Baka ScrapHeap in favour of Buffout's memory manager
 8. Removed Faster Workshop in favour of Buffout's patch
-
-## Wasteland of Depravity v0.6.3
-1. Updated Institute Suit
-2. Updated Interior NavCut Fix
