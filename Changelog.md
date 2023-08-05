@@ -1007,3 +1007,24 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 7. Removed Buffout 4 NG
 8. Removed Baka ScrapHeap in favour of Buffout's memory manager
 8. Removed Faster Workshop in favour of Buffout's patch
+
+## Wasteland of Depravity v0.6.2.5
+1. Updated Institute Suit
+2. Updated Interior NavCut Fix
+3. Updated AAF to v171-0 beta
+4. Fixed some rogue plugins
+5. Updated WoD Community LooksMenu presets
+6. Disabled AAF NativeSync for now until it gets an update to match the latest AAF version
+
+## Wasteland of Depravity v0.6.3
+1. Removed Lewd Talks
+2. Added To Your Face FO4
+3. Added NAC X Fogline Fix - White Landscape Fix
+4. Added Disable Exit Save
+5. Added Long Loading Times Fix
+6. (Hopefully) fixed most of the random CTDs that mostly appear in Boston
+7. Fixed a couple weapons
+8. Updated AAF SEU to v1.18
+9. Updated Interior NavCut Fix to v1.0.3
+10. Changed up the music mods
+11. New main menu
