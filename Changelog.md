@@ -1028,3 +1028,19 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 9. Updated Interior NavCut Fix to v1.0.3
 10. Changed up the music mods
 11. New main menu
+
+## Wasteland of Depravity v0.6.3.1
+1. Added some new combat music
+2. Tweaked the music some more
+3. Tweaked the ENB brighness for night and interiors
+4. Tweaked AAF Sex Attributes to hopefully reduce incorrect application of trauma
+5. Fixed a few weird NSFW mods < - > IAF interactions
+6. Added Baka MaxPapyrusOps
+7. Added Baka Power Armor Storage
+8. Added Chestnut Lodge
+9. Added Subway Safehouse
+10. Added Armor Penetration Bug Fix
+11. Added Ballistic Weave Unlocked
+12. Added Skip Kellogg's Memories
+13. Added Commonwealth Warfare - Realistic Gun Sounds and Bullet Cracks
+14. Updated Workshop Framework to v2.3.9
