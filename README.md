@@ -34,12 +34,12 @@ I have not built this list to be as graphically intensive as possible but I have
 
 This could be completely out of field though as I don't have any lower end hardware to test it on.
 
-You will need at least `200GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `125GB`- ideally you want *at least* `350GB` total for install and for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+You will need at least `240GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `150GB`- ideally you want *at least* `390GB` total for install and for temporary Wabbajack work space. You don't have to install onto an NVMe SSD but a HDD will be too slow for playing on. Once WoD is installed, you can move the downloads to a storage HDD or even delete them if you wish.
 
 ## Accounts
 In terms of accounts you will need:
   * Nexus Premium Account
-  * LoversLab Account
+  * LoversLab Account - *for manual downloads through your browser.*
   * [Moddingham Account](https://www.moddingham.com/) - *you need this for the latest version of AAF.*
 
 ## DLC & Creation Club Content
@@ -52,6 +52,8 @@ Creation Club content is not currently supported as I don't own any of it.
 **I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)**
 
 **When downloading mods from Mega, always right click > Standard Download. Mega defaults to its "Download as ZIP" option will means it recompresses already compressed files and Wabbajack won't be able to recognise the download.**
+
+After downloading the non-Nexus mods, put them all into the folder you'd like the rest of the WoD downloads to be stored in. If you have an existing FO4 mods downloads folder from other modlists or your own modding, use that as you might have mods WoD needs already, meaning you won't need to download those mods again.
 
 ## Preparation
 
@@ -92,7 +94,7 @@ Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Bei
 ![Shader Cache](img/ShaderCache.png)
 
 ### Setup your Antivirus
-Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your WoD installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install.
+Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your WoD installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
 How do I do this, you ask? [Click here to find out how.](https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus)
 
@@ -129,7 +131,6 @@ Installing the list is straight forward, Wabbajack will do most of the heavy lif
 Set the installation location to a folder on the root of a drive, something like `C:\WoD`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Fallout 4 modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists. 
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
-
 
 # Post-Installation
 Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
@@ -246,17 +247,19 @@ and change it to:
 
 ## My game performance sucks!
 This could be caused by a few things:
-  1. You didn't setup a Pagefile as described earlier in this readme
-  2. You didn't setup your shader cache as described earlier in this readme
-  3. You didn't install on an SSD
-  4. You ignored the hardware requirements described eariler in this readme
+  1. You didn't setup a Pagefile as described earlier in this readme or,
+  2. You didn't setup your shader cache as described earlier in this readme or,
+  3. You didn't install on an SSD or,
+  4. Your hardware doesn't meet the minimum recommended specs.
 
-If you genuinely have followed the above steps then try lowering settings in BethINI, [following this guide in the modifications channel on the Discord.](https://discord.com/channels/719714673431150627/1095988679463424000/1096709202052915250)
+If you genuinely have followed the above steps then ensure the following:
+  1. When setting the pagefile up, you have enough space left on the selected SSD for Windows to allocate the full pagefile size - not having the 20 to 40GB free on the SSD is the same as not having a big enough pagefile in the first place.
+  2. You have added your entire WoD installation folder to your antivirus exceptions/allow list - you want the whole folder, not just the Mod Organizer exe.
+  3. You have your motherboards XMP/DOCP/EXPO setting switch on - without this setting on, your RAM will be running at the default 2400MHz standard, not the speed you paid for. Enabling this will give a good boost in performance across everything you do but especially games. Of course, not all RAM is capable of clocking higher than the standard 2400MHz but most "gaming" prebuilts and "gaming" level RAM should clock higher if allowed.
 
-## My character appears to be stuck leaking milk or something
-Try typing in console:
+*Note: if you did buy a prebuilt PC, the XMP setting is worth a double check - not all system builders enable this setting before shipping you your PC for some reason.*
 
-`player.removespell 3E012361`
+If you have ensured all of the above is right, try lowering settings in BethINI, [following this guide in the modifications channel on the Discord.](https://discord.com/channels/719714673431150627/1095988679463424000/1096709202052915250)
 
 ## I get a crash caused by XAudio2_7.dll!
 Make sure your WoD folder is added to your antivirus exclusions. If it is, [download Microsoft Redist (June 2010) from here.](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
