@@ -1044,3 +1044,29 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 12. Added Skip Kellogg's Memories
 13. Added Commonwealth Warfare - Realistic Gun Sounds and Bullet Cracks
 14. Updated Workshop Framework to v2.3.9
+
+## Wasteland of Depravity v0.7
+1. Added Lush Ambiance - Far Harbor
+2. Added Anto Hair Pack
+3. Added Obi's Sportswear
+4. Added Re-texture - Corroded airplanes - Seen some oxidation
+5. Added The Kelly Manor Horror - Quest
+6. Added Kelly Manor - Delayed Start
+7. Generated a new LOD setup for overall better LODs
+8. Fixed some weird first person interaction with some accessories/clothing pieces
+9. Fixed a CTD issue in Nuka World caused by Another Pine Forest
+10. Made a start into fixing the invisible dead body issue with BodyGen - please report any invisible bodies you see along with their Form ID
+11. Removed Expressive Expressions
+12. Removed Problems of Survivor
+13. Removed Problems of Survivor Voiced
+14. Removed Snapdragon Animations (no longer available)
+15. Removed AAF NativeSync (no longer available)
+16. Removed The Will of Atom (no longer available)
+
+## Wasteland of Depravity v0.7.1
+1. Updated AAF Violate to v1.60 Beta 6
+2. Set Uneducated Shooter to be disabled by default
+
+## Wasteland of Depravity v0.7.2
+1. Updated AAF SEU to v1.19
+2. Added Disk Cache Enabler
