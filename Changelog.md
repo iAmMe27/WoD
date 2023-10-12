@@ -1070,3 +1070,20 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 ## Wasteland of Depravity v0.7.2
 1. Updated AAF SEU to v1.19
 2. Added Disk Cache Enabler
+
+## Wasteland of Depravity v0.7.3
+1. ESL flagged a bunch of stuff
+2. Added Community Fixes Merged
+3. Added Blocking Overhaul
+4. Added Sighted Weapon Accuracy Fix
+5. Added Bastion - A Power Armor Overhaul
+6. Added Slick Fingers
+7. Added Let Me Use That
+8. Added TheKite's Vault Tec Slave Suit
+9.  Added TheKite's Handmaiden
+10. Added Clothes Pack 6
+11. Added Simple Offence Suppression
+12. Removed missing main menu mod
+13. Updated Disable Exit Save to v1.3
+   1. Also tweaked Disable Exit Save to stop it from disabling Autosaves
+14. Added some spicy new content - you'll know it when you see it :^)
