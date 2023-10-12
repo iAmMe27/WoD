@@ -12,8 +12,18 @@ When starting a new game, create your character and once done, DO NOTHING ELSE a
 
 Do not touch MCM menus until you are loaded into the Commonwealth. Once you are in the Commonwealth, pause your game, click Mod Config menu, go to `-= MCM Settings Manager =-` and then apply the `Wasteland of Horrors` MCM settings.
 
+Scroll down to find `Commonwealth Captives Outfit Injector`, head to `Global Settings`, click `Inject All Clothing` and wait for a message box to pop-up telling you that the outfit injection is done.
+
+![CCOI](img/CCOIMCM.jpg)
+
+Exit the Mod Config menu.
+
 After that, you'll want to Enable GRIM for ENB by finding the item in your inventory, activating it, closing your Pip-Pad and then selecting the appropriate option from the menu.
 
 ![](OtherImg/GrimMenu1.jpg)
 
 ![](OtherImg/GrimMenu2.jpg)
+
+One that is done, make a new full save from the pause menu.
+
+Done!
