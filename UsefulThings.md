@@ -17,6 +17,6 @@ In the terminal window that opens, type in the following commands (make sure to 
 
 Press Enter, then:
 
-`.\wabbajack-cli.bat verify-modlist-install -m {path to your WJ folder}\3.2.0.0\downloaded_mod_lists\iAmModlist_@@_wod.wabbajack -i "{WoD install folder path}"`
+`.\wabbajack-cli.bat verify-modlist-install -m {path to your WJ folder}\3.2.0.1\downloaded_mod_lists\iAmModlist_@@_wod.wabbajack -i "{WoD install folder path}"`
 
 Remember to remove the `{ }` brackets around the commands.
