@@ -1087,3 +1087,80 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 13. Updated Disable Exit Save to v1.3
    1. Also tweaked Disable Exit Save to stop it from disabling Autosaves
 14. Added some spicy new content - you'll know it when you see it :^)
+
+## Wasteland of Depravity v0.7.3.1
+1. Fixed a main menu CTD issue
+
+## Wasteland of Depravity v0.7.4
+1. Removed the Oct 23 Spoopy Profile
+2. Added Deadeye
+3. Added Loot Detector Less Flashy
+4. Tweaked Rusty Face Fix settings to reduce crashes
+
+## Wasteland of Depravity v0.8
+1. Tried to fix the invisible Vault 111 corpse
+2. Fixed the missing hands with the Farmhand Outfit
+3. Changed the SR25 rifle to use vanilla .308 rounds instead of the custom 7.62 NATO rounds
+4. Tweaked MaxPapyrusOps up somewhat
+5. Set Fallout Priority to disabled by default - enable if you think you need it
+6. Tweaked Super Mutant weapon level lists to give more variety
+7. Tweaked weapon sway with in Uneducated Shooter
+8. Added xEdit 4.1.5 release
+9. Added Equipment and Crafting Overhaul (ECO) Redux
+10. Added Legendary Effect Overhaul (LEO)
+11. Added Baka ScrapHeap back again
+12. Added Weapons of Fate Redux
+   1. Also updated Weapons of Fate resource files (the BA2's) & hid the ESP
+13. Added Jinga's Closet 2
+14. Added back Children of Ug-Qualtoth
+15. Added back The Secret of Huntress Manor
+16. Added needed PRP patches for the new content mods
+17. Added Vioxsis Strap-Ons - ZeX Bones Fixed
+18. Added some FusionGirl presets
+19. Added ECO - Bullet in the Chamber
+20. Added Fallout 4 Outfit System
+21. Added Caves of the Commonwealth
+22. Added Toys and Tentacles
+    1.  And made a FusionGirl patch for it
+23. Added SC Staged Ungendered Gangbang Fix by EgoBallistic
+    1.  Also added the new Strap-On for FG from this mod
+24. Added Super Mutants Can Use Combined Arms
+25. Added Super Mutants Can Use Combined Arms Expansion Pack
+    1.  Super mutant anims may look a little goofy with these 2 mods but no custom animations exist out there so this is the best we're going to get
+26. Added another FallUI HUD Preset
+27. Added SAM Enhanced Animations
+28. Added SAMFormer
+29. Removed Weapon Integration Project
+30. Removed the original ECO
+31. Removed Mutie Melee
+32. Updated M8r's Complex Item Sorter to v1.12
+33. Updated Clothes Pack 6 - Fusion Girl
+34. Updated Bodyslide and Outfit Studio
+35. Updated Baka Wait Anywhere
+36. Updated Leveled Item Fixes
+37. Updated Baka Framework
+38. Updated RobCo Patcher
+39. Updated SUP F4SE
+40. Updated Fix Automatron Headlight and ShockClaw effects
+41. Updated Deadeye
+42. Updated Workshop Framework
+43. Updated Provisioner and Supply Line Management System
+44. Updated Universal Disassembler
+45. Updated Lush Ambience - A Green Soundscape
+46. Updated Better Companions - MCM Settings Menu
+47. Updated South of the Sea - Atoms Storm
+48. Updated Nordic Europa Research Facility
+49. Updated HiPoly Faces REDUX
+50. Updated A Bit Prettier Raider Faces
+51. Updated Extra Icons for FIS
+52. Updated Weapon Level List Patches
+53. Updated Erotic Art
+54. Updated Ketaros Framework
+55. Updated Ketaros Framework - ESL and Fixed
+56. Updated Ketaros Add-On - Board Games Collection
+57. Updated Community Fixes Merged
+58. Updated AAF Sexual Harassment
+60. Updated Danks Magazines Replacer
+61. Updated More Ways of Washing
+62. Updated Patch for animations
+63. Updated ENB Binaries to v496
