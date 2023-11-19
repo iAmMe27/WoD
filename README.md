@@ -214,6 +214,7 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 2. LOD Hiding Fog for NAC X - adds a small amount of fog to the clear and sunny weathers to help hide those nasty Fallout 4 LODs.
 3. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
 4. Swags Optional Stuff - Changes Brothel visitors to females only.
+5. Swags RDM Edit - Reduces the RDM headshot multipliers for some enemies to make them not 1 shot.
 
 ## Modifications & Performance Improvement
 If you wish to modify the list, even for performance improvements, refer to the `#wod-modifications` channel in the Discord server as there you will find guides in the pins that others in the community have already written. You can also use those channels to discuss your changes to the list freely.

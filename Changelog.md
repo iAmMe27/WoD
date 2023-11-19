@@ -1164,3 +1164,14 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 61. Updated More Ways of Washing
 62. Updated Patch for animations
 63. Updated ENB Binaries to v496
+
+## Wasteland of Depravity v0.8.1
+1. Downgraded Sex Harassment back to v1.18.3 as newer versions appear to be fairly buggy
+
+## Wasteland of Depravity v0.8.2
+1. Disabled Baka ScrapHeap stuff in preference of Buffout
+2. Fixed missing KiLoader Satellite file (you should be able to use Reactor now)
+3. Fixed missing Complex Sorter patches for profile #1
+4. Updated AAF Autonomy Enhanced to v2.8
+5. Updated AAF Sex Harassment to v1.19.4
+6. Added Easier Crouched Steadying
