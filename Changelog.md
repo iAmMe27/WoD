@@ -1175,3 +1175,7 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 4. Updated AAF Autonomy Enhanced to v2.8
 5. Updated AAF Sex Harassment to v1.19.4
 6. Added Easier Crouched Steadying
+
+## Wasteland of Depravity v0.8.2.1
+1. Tweaked both ENB's Distance Fade fog settings so now they look much better
+2. Removed Invisible Dead Body Fixer as it was breaking the start of the game

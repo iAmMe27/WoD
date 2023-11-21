@@ -228,9 +228,6 @@ When starting a new game, create your character and once done, *DO NOTHING ELSE*
   
 * When LIF gives you a pop-up at the start of the game, click `INJECT`
   
-* When ECO gives you a pop-up at the start of the game, click `Keep Everything Enabled (Default)`
-
-
 **Do not touch MCM menus until you are either out of Vault 111 or you have loaded into the Commonwealth.**
 
 As of v0.5, Swag has added a custom MCM setup for a slightly different experience in WoD. Here's what Swag says it does:
