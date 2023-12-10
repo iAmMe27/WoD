@@ -13,6 +13,12 @@ There are a fair few mods that change what you can do in certain situations. I r
 
 Once you've read these mod pages, you should now have a general idea of things to do and things you'll run into in the wasteland of depravity.
 
+## Can I do the normal FO4 intro?
+Nope, it's disabled in WoD because it's buggy as can be. Call it the Bethesda charm. If you want to do the main quest for FO4, enter Vault 111, find the deceased Vault Dweller and take the holotape off of their body. Give it a listen and go from there.
+
+## Ok, I *don't* want to do the normal FO4 intro
+Good! Just follow the prompts after character creation to make your custom start.
+
 ## What about the Settlement Tidy Bot?
 When you start a new save, you should get a quest to travel to Vault 111 - you don't need to go into the vault but follow the quest to unlock the bot and then you can build it from the workshop menu. You can find it under **Structures > Misc**.
 
