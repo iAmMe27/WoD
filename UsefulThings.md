@@ -15,8 +15,14 @@ In the terminal window that opens, type in the following commands (make sure to 
 
 `cd cli`
 
-Press Enter, then:
+Press Enter, then type in:
 
-`.\wabbajack-cli.exe verify-modlist-install -m {path to your WJ folder}\3.4.1.0\downloaded_mod_lists\iAmModlist_@@_wod.wabbajack -i "{WoD install folder path}"`
+`wabbajack-cli verify-modlist-install -m {path to your WJ folder}\3.4.1.0\downloaded_mod_lists\{modlist wabbajack file} -i "{modlist install folder path}"`
 
-Remember to remove the `{ }` brackets around the commands.
+Remember to remove the { } brackets in the command and edit those sections so that it points to your own install paths!
+
+I recommend copy-pasting the above command into a notepad program, then filling out the bracketed sections on said Notepad to accommodate your directories, and copy-pasting the command back into the terminal.
+
+Using my WoD install as an example, the command would look like this for me:
+
+`wabbajack-cli verify-modlist-install -m "G:\Wabbajack\3.4.1.0\downloaded_mod_lists\iAmModlist@@_WoD.wabbajack" -i "F:\Wasteland of Depravity"`
