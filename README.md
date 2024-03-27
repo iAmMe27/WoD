@@ -81,7 +81,6 @@ You will need at least `240GB` of disk space on an SSD for the installation. For
 In terms of accounts you will need:
   * Nexus Premium Account
   * LoversLab Account - *for manual downloads through your browser.*
-  * [Moddingham Account](https://www.moddingham.com/) - *you need this for the latest version of AAF.*
 
 ## DLC & Creation Club Content
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack. Seriously, do not download it. 
