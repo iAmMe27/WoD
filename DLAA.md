@@ -11,19 +11,19 @@ DLAA is only supported by Nvidia RTX type GPU's, so anyone with an AMD or non-RT
 
 1. In MO2, open the `Upscaler` tab and enable the `Fallout 4 Upscaler` and the `DLAA` mods. Then click the puzzle piece icon at the top and click `INI Editor`:
 
- ![INI Edtior](img\INIEditor.png)
+ ![INI Edtior](img/INIEditor.png)
 
 2. In the window that opens, swap to `Fallout4Prefs.ini` and find the line `sAntiAliasing = TAA` and change to the following:
 
 `sAntialiasing =` (remove the TAA part).
 
-![FO4 Prefs](img\FO4Prefs.png)
+![FO4 Prefs](img/FO4Prefs.png)
 
 3. Click save.
 
 To disable ENB AA, run the game and open the ENB menu with Shift+Enter. Open the `Post Processing` dropdown in the right side menu and change the `Technique` option to one with no AA, like so:
 
-![ENB AA](img\ENBAA.png)
+![ENB AA](img/ENBAA.png)
 
 Click Save in the top left of the ENB window and close the menu.
 
