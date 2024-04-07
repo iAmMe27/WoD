@@ -8,14 +8,13 @@ First things first: **this list contains adult content and you must be of legal 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7CKSPJ)
 
----
-## DO NOT CLOSE THIS README. FAILURE TO FOLLOW THIS README WILL RESULT IN EITHER AN UNINSTALLABLE OR NON-FUNCTIONING MODLIST!
----
+<H1> DO NOT CLOSE THIS README. FAILURE TO FOLLOW THIS README WILL RESULT IN EITHER AN UNINSTALLABLE OR NON-FUNCTIONING MODLIST! </h1>
 
 # What is Wasteland of Depravity?
 A NSFW Fallout 4 list with modern weapons, plenty of extra quests and plenty of new outfits.
 
 # Quick Links
+*  **NVIDIA RTX GPU USERS, [CLICK HERE](DLAA.md)**
 * FAQ? > [FAQ!](FAQ.md)
 * Common Issues > [CLICK HERE](#common-issues)
 * Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
@@ -90,8 +89,6 @@ Creation Club content is not currently supported as I don't own any of it.
 # Installation
 
 **I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)**
-
-**When downloading mods from Mega, always right click > Standard Download. Mega defaults to its "Download as ZIP" option will means it recompresses already compressed files and Wabbajack won't be able to recognise the download.**
 
 After downloading the non-Nexus mods, put them all into the folder you'd like the rest of the WoD downloads to be stored in. If you have an existing FO4 mods downloads folder from other modlists or your own modding, use that as you might have mods WoD needs already, meaning you won't need to download those mods again.
 
