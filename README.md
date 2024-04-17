@@ -4,9 +4,9 @@ First things first: **this list contains adult content and you must be of legal 
 
 *Support and general talk about Wasteland of Depravity resides on the Jolly Co-operators Discord:*
 
-[![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
+[![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop) &nbsp; [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7CKSPJ)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7CKSPJ)
+
 
 <H1> DO NOT CLOSE THIS README. FAILURE TO FOLLOW THIS README WILL RESULT IN EITHER AN UNINSTALLABLE OR NON-FUNCTIONING MODLIST! </h1>
 
@@ -15,12 +15,16 @@ A NSFW Fallout 4 list with modern weapons, plenty of extra quests and plenty of 
 
 # Quick Links
 *  **DLAA FOR NVIDIA RTX GPU USERS, [CLICK HERE](DLAA.md)**
+*  I have an Ultrawide monitor > [CLICK ME](Ultrawide.md)
 * FAQ? > [FAQ!](FAQ.md)
 * Common Issues > [CLICK HERE](#common-issues)
 * Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 * What the heck am I doing with these mods? [Read this page.](Gameplay.md)
 
-![Before you start](img/headers/BeforeYouStart.png){width=60%}
+---
+<center><img src="img/headers/BeforeYouStart.png" width=80%></center>
+
+---
 
 Before you dive in, there's a couple things you need to be sure of first:
 
@@ -46,7 +50,10 @@ You will need *all* of the DLC for Fallout 4 ***except*** the official HD textur
 
 Creation Club content is not currently supported as I don't own any of it.
 
-# Installation
+---
+<center><img src="img/headers/Installation.png" width=80%></center>
+
+---
 
 **I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)**
 
@@ -129,32 +136,13 @@ Set the installation location to a folder on the root of a drive, something like
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
-# Post-Installation
+---
+<center><img src="img/headers/PostInstall.png" width=80%></center>
+
+---
 Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
 ***DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.***
-
-## Stock Game
-WoD utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Fallout 4 game files during the installation process. This means that your Steam installation of Fallout 4 is completely untouched, even by files that go in the game folder such as ENB files.
-
-## Creating a desktop shortcut
-Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **WoD** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
-
-![Desktop Shortcut Creation](img/DesktopShortcut00.png)
-
-Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Fallout 4 from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
-
-## Ultrawide Support
-
-My thanks for Swagmeister for figuring this out!
-
-There are a couple of UI mods that allow for Ultrawide resolution support. I don't have an Ultrawide monitor myself, so I can't be 100% sure if this fixes every UI element. To enable Ultrawide support, open the `UI` separator in MO2, and activate `Ultra Wide Interface (21x9)` and `No Rainbox - 21-0 Rainbox Fix`.
-
-![Ultrawide](img/UWMO2.png)
-
-When in game, you will likely need to head into the Mod Config menu > FallUI and tweak some of the widgets to fit your screen space properly.
-
-You will also need to head down the Weapons Overhaul MCM and move the ammo switcher widget to somewhere you prefer.
 
 ## Optional Mods
 In Wasteland of Depravity, there are a few optional mods that you can toggle on/off for your playthrough.
@@ -177,8 +165,10 @@ If you wish to modify the list, even for performance improvements, refer to the 
 
 **Please don't request help in the official support channel for modifications or modified lists!** It's not because I dislike modifications or anything, it's just impossible to provide support for the thousands of mods and mod combinations available out there.
 
+---
+<center><img src="img/headers/ModSetup.png" width=80%></center>
 
-# Mod Setup
+---
 
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game. 
   
@@ -222,11 +212,17 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 Done!
 
-# Controls
+---
+<center><img src="img/headers/Controls.png" width=80%></center>
 
-![](img/keyboard-layout.png)
+---
 
-# Common Issues
+![Controls](img/keyboard-layout.png)
+
+---
+<center><img src="img/headers/CommonIssues.png" width=80%></center>
+
+---
 
 ## I get download errors when installing WoD!
 I bet it's one of the files on the commonly failing downloads list. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
