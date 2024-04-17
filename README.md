@@ -100,31 +100,21 @@ Driver defaults from Nvidia and AMD for shader cache size is limited to 4GB. Bei
 ### Setup your Antivirus
 Before you go down the route of "I don't have an antivirus" - you do, it's built into Windows. You need to exclude your Wabbajack folder and your WoD installation folder from your antivirus' real-time protection stuff as it will likely interfere with your install and worst case, it can remove files, ruining your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
-How do I do this, you ask? [Click here to find out how.](https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus)
+How do I do this, you ask? [Click here to find out how.](https://support.microsoft.com/en-gb/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
 
 **Note:** If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark `usvfs_proxy_x86.exe`, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
 
 ### Disable Steam Overlay
-The Steam overlay is known to cause issues when using ENBs. I recommend you turn it off to be sure that it doesn't interfere in any way and you can do so by heading into Steam, right clicking on Fallout 4 in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
+Head into Steam, right clicking on Fallout 4 in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
 
 ### Set game language to English
-Wabbajack and the modding tools out there only support English language versions of games. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Fallout 4 in your game library and click **Properties** > **Language** > **Select English**.
+Right click on Fallout 4 in your game library and click **Properties** > **Language** > **Select English**.
 
 ### Change Steam's Updating Behavior
-If for some reason Bethesda decide to release an update for Fallout 4, everything will probably break. Well, not *everything* but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Fallout 4 in your game library and clicking **Properties** > **Updates** > **Change Automatic Updates to "Only update this game when I launch it"**. Whilst you're in here, it's also recommended to disable Steam Cloud too.
-
-### Clean current Fallout 4 installation
-If you have not yet installed Fallout 4, you can skip this part.
-
-1. Right click on Fallout 4 in your game library and click **Properties** > **Local Files** > **Browse**. 
-2. Uninstall the game via Steam - right click on Fallout 4 in your game library and click **Manage** > **Uninstall**.
-3. Check the explorer window for any left over files - if there are any, delete them.
-4. Open Windows start menu/search and type in `%LOCALAPPDATA%`.
-5. Delete the Fallout 4 folder.
-6. Head to `Documents\My Games` and delete the Fallout 4 folder.
+Right click on Fallout 4 in your game library and clicking **Properties** > **Updates** > **Change Automatic Updates to "Only update this game when I launch it"**. Whilst you're in here, it's also recommended to disable Steam Cloud too.
 
 ### Install Fallout 4
-Once you've done the steps above, you can now set Steam to download Fallout 4 again but ***do not*** install Fallout 4 to a protected folder, such as `Desktop`, `Downloads` or `Program Files` of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as `C:\SteamLibrary`. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
+Once you've done the steps above, you can now set Steam to download Fallout 4 but ***do not*** install Fallout 4 to a protected folder, such as `Desktop`, `Downloads` or `Program Files` of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as `C:\SteamLibrary`. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
 
 ### Start Fallout 4
 That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
@@ -159,11 +149,6 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 3. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
 4. Swags Optional Stuff - Changes Brothel visitors to females only.
 5. Swags RDM Edit - Reduces the RDM headshot multipliers for some enemies to make them not 1 shot.
-
-## Modifications & Performance Improvement
-If you wish to modify the list, even for performance improvements, refer to the `#wod-modifications` channel in the Discord server as there you will find guides in the pins that others in the community have already written. You can also use those channels to discuss your changes to the list freely.
-
-**Please don't request help in the official support channel for modifications or modified lists!** It's not because I dislike modifications or anything, it's just impossible to provide support for the thousands of mods and mod combinations available out there.
 
 ---
 <center><img src="img/headers/ModSetup.png" width=80%></center>
