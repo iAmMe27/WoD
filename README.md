@@ -14,54 +14,14 @@ First things first: **this list contains adult content and you must be of legal 
 A NSFW Fallout 4 list with modern weapons, plenty of extra quests and plenty of new outfits.
 
 # Quick Links
-*  **NVIDIA RTX GPU USERS, [CLICK HERE](DLAA.md)**
+*  **DLAA FOR NVIDIA RTX GPU USERS, [CLICK HERE](DLAA.md)**
 * FAQ? > [FAQ!](FAQ.md)
 * Common Issues > [CLICK HERE](#common-issues)
 * Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 * What the heck am I doing with these mods? [Read this page.](Gameplay.md)
 
-# Contents
-- [What is Wasteland of Depravity?](#what-is-wasteland-of-depravity)
-- [Quick Links](#quick-links)
-- [Contents](#contents)
-- [Before You Start](#before-you-start)
-  - [Hardware Requirements](#hardware-requirements)
-  - [Accounts](#accounts)
-  - [DLC \& Creation Club Content](#dlc--creation-club-content)
-- [Installation](#installation)
-  - [Preparation](#preparation)
-    - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
-    - [Setup your Page File](#setup-your-page-file)
-    - [Setup your Shader Cache](#setup-your-shader-cache)
-    - [Setup your Antivirus](#setup-your-antivirus)
-    - [Disable Steam Overlay](#disable-steam-overlay)
-    - [Set game language to English](#set-game-language-to-english)
-    - [Change Steam's Updating Behavior](#change-steams-updating-behavior)
-    - [Clean current Fallout 4 installation](#clean-current-fallout-4-installation)
-    - [Install Fallout 4](#install-fallout-4)
-    - [Start Fallout 4](#start-fallout-4)
-  - [Wabbajack](#wabbajack)
-- [Post-Installation](#post-installation)
-  - [Stock Game](#stock-game)
-  - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
-  - [Ultrawide Support](#ultrawide-support)
-  - [Optional Mods](#optional-mods)
-    - [Essentials Category](#essentials-category)
-    - [Character Presets Category](#character-presets-category)
-    - [YOUR CHOICES Category](#your-choices-category)
-  - [Modifications \& Performance Improvement](#modifications--performance-improvement)
-- [Mod Setup](#mod-setup)
-- [Controls](#controls)
-- [Common Issues](#common-issues)
-  - [I get download errors when installing WoD!](#i-get-download-errors-when-installing-wod)
-  - [I can't move my mouse cursor around the whole area of my screen!](#i-cant-move-my-mouse-cursor-around-the-whole-area-of-my-screen)
-  - [My game performance sucks!](#my-game-performance-sucks)
-  - [I get a crash caused by XAudio2\_7.dll!](#i-get-a-crash-caused-by-xaudio2_7dll)
-- [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
-- [Uninstalling Wasteland of Depravity](#uninstalling-wasteland-of-depravity)
+![Before you start](img/headers/BeforeYouStart.png){width=60%}
 
-
-# Before You Start
 Before you dive in, there's a couple things you need to be sure of first:
 
 ## Hardware Requirements
@@ -74,7 +34,7 @@ I have not built this list to be as graphically intensive as possible but I have
 
 This could be completely out of field though as I don't have any lower end hardware to test it on.
 
-You will need at least `240GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `150GB`- ideally you want *at least* `390GB` total for install and for temporary Wabbajack work space. You don't have to install onto an NVMe SSD but a HDD will be too slow for playing on. Once WoD is installed, you can move the downloads to a storage HDD or even delete them if you wish.
+You will need at least `244GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `135GB`- ideally you want *at least* `400GB` total for install + downloads + temporary Wabbajack work space. You don't have to install onto an NVMe SSD but a HDD will be too slow for playing on. Once WoD is installed, you can move the downloads to a storage HDD or even delete them if you wish.
 
 ## Accounts
 In terms of accounts you will need:
@@ -82,7 +42,7 @@ In terms of accounts you will need:
   * LoversLab Account - *for manual downloads through your browser.*
 
 ## DLC & Creation Club Content
-You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack. Seriously, do not download it. 
+You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.
 
 Creation Club content is not currently supported as I don't own any of it.
 
@@ -90,7 +50,7 @@ Creation Club content is not currently supported as I don't own any of it.
 
 **I would heavily recommend that you download the LoversLab mods in your browser prior to running Wabbajack. Doing this may be long winded but can prevent a lot of issues from happening. [All links to mods hosted on LoversLab can be found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)**
 
-After downloading the non-Nexus mods, put them all into the folder you'd like the rest of the WoD downloads to be stored in. If you have an existing FO4 mods downloads folder from other modlists or your own modding, use that as you might have mods WoD needs already, meaning you won't need to download those mods again.
+After downloading the non-Nexus mods, put them all into the folder you'd like the rest of the WoD downloads to be stored in. If you have an existing FO4 mods downloads folder from other modlists or your own modding, use that as you might have mods WoD needs already, meaning you won't need to download those mods again. I very much recommend not putting the downloads folder *inside* the install folder though.
 
 ## Preparation
 
