@@ -212,6 +212,9 @@ Done!
 ## I get download errors when installing WoD!
 I bet it's one of the files on the commonly failing downloads list. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
 
+## My game crashes on startup!
+Software such as **Medal**, **EVGA Precision** and **MSI Afterburner** are the most common causes of this - anything that hooks the display to show or record stuff on screen. Close the software and test again.
+
 ## I can't move my mouse cursor around the whole area of my screen!
 In MO2, under the Essentials separator, find `High Physics FPS Fix - WoD INI` and double click it. In the window that opens, head to INI Files and click the only option in the left column. Find the line:
 
