@@ -179,10 +179,7 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 ![Controls](img/keyboard-layout.png)
 
----
-<center><img src="img/headers/CommonIssues.png" width=80%></center>
-
----
+![Common Issues](img/headers/CommonIssues.png)
 
 ## I get download errors when installing WoD!
 I bet it's one of the files on the commonly failing downloads list. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
