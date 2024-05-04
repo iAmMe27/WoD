@@ -1179,3 +1179,187 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 ## Wasteland of Depravity v0.8.2.1
 1. Tweaked both ENB's Distance Fade fog settings so now they look much better
 2. Removed Invisible Dead Body Fixer as it was breaking the start of the game
+
+## Wasteland of Depravity v0.9 Previews
+
+## Preview Build 1
+1. Resolved a potential script conflict between Start Me Up and Intro Tweaks by merging script changes
+2. Resolved an issue with Hardship calling incorrect furniture data from SavageCabbage animations (solving the `Couch_Federalist` issue)
+3. Resolved misc AAF errors
+4. Removed the Pip-Pad as it is a potentially large source of issues (and I'm also really hoping it was involved with the `PipBoyMapData` Equip crashes)
+5. Replaced the Pip-Pad with Auto-Unequip Pipboy 2.0 + Baka Fullscreen Pip-Boy
+6. Removed Knockout Framework + any mods that depended on it, including:
+   1. Non-Lethal Armory
+   2. Wasteland of Depravity Custom Armory
+   
+## Preview Build 2
+1. Fixed the Pip-Boy hiding implementation so that it is compatible with the Pip-Boy Flashlight mod. This means a couple mods were removed:
+   1. Auto Unequip Pipboy 2.0
+   2. Pip-Boy W.S
+2. Fixed the Vtaw Enemy/NPC mods not applying the correct SKAR keywords
+3. Fixed an incorrect setting in Rusty Face Fix
+4. Updated the PRP Updates file
+5. Cleaned up the LooksMenu Overlays menu a bit, so it's actually useable now
+
+## Preview Build 3
+1. Cleaned up LooksMenu Skin override options
+2. Removed a couple of annoying message boxes from mods
+3. Random Overlay Framework has been removed again as it was causing Papyrus VM stack dumps which means it was causing the script engine to regularly freeze for long periods (= bad for long term save health)
+4. Fixed the Pip-Boy Flashlight for real this time
+5. Removed Liga of my Companions
+6. Disabled Adaption on REACTOR ENB as it should have been anyway
+7. Moved Skimpy Armor Keyword Resource and the WoD INI's to a new `NSFW Optional` separator as the increase in loading times it causes is too much for me to be happy with
+8. Changed the Tone Mapping and Color Space settings for REACTOR ENB
+9. Fixed the fact that Quantum Horizons ENB was missing
+10. Swapped back to the Papyrus version of Rusty Face Fix - hopefully, this will reduce the number of Rusty Face Fix related crashes/instability
+
+## Preview Build 4
+1. Solved a conflict between Hands Off and Looks Mirror
+2. Fixed the West Tek NVG's being far too bright
+3. Updated ENB binaries
+4. Updated Vioxsis ZeX Bones & Engine XML Patch
+5. Removed HOTC AAF Scenes as the mod doesn't function with the version of HOTC used in WoD and replaced it with a script edit that does work
+6. Added a couple fixes for mods that have been in WoD for a while
+
+## Preview Build 5
+1. Added 4estgimp's fix for Immersive Pickup Sounds
+2. Added Vtaw Wardrobe 9 + 2k Materials files
+3. Added Subway Runner Revised
+4. Added CROSS Crit Gore-verhaul
+5. Fixed missing SKAR INI's for vanilla outfits
+6. Removed the Select Rapid MG
+7. Removed Gatling Rifle - Audio Overhaul Mod because of CTD reports
+8. Updated Mod Organizer to v2.5
+9. Updated RootBuilder
+10. Updated CRX to 2.1beta
+
+## Preview Build 6
+1. Updated Commonwealth Captives to v1.11
+2. Removed some un-needed ESPs
+3. Removed Immersive Wastelanders and found some replacers for:
+   1. Preston Garvey
+   2. Paladin Danse
+   3. Sturges
+   4. Deacon
+   5. MacCready
+   6. Elder Maxson
+   7. Old Longfellow
+4. Fixed the missing default skin texture for profile #1
+
+## Preview Build 7
+1. Removed Devious Devices
+2. Removed Devious Devices Blindfold Effect Remover
+3. Removed DD LegAnimOverride
+4. Removed Devious Devices Face Morphs
+5. Removed Devious Devices 2.0 Slave Heels Pack
+6. Removed Devious Devices Fusion Girl BodySlide Conversion (HHS)
+7. Removed Boston Devious Helper
+8. Removed DD Armorbench Unlocker
+9. Removed Rogg DD Items Manager
+10. Updated AAF Violate
+11. Added Kziitd Fetish Toolset 1.0 Beta 1
+12. Added Moon Rotation Fix
+13. Added X-SENSUOUS female skin option
+14. Changed the implementation of the Pip Boy hiding. It can now be hidden and unhidden on demand.
+
+## Preview Build 7.1
+1. Reverted the implementation of the Pip Boy hiding - toggleable version stops the flashlight from working.
+2. Updated Kziit Fetish Toolset to Beta 2
+
+## Preview Build 7.2
+1. Added Attack of the Lobotomites
+2. Added Unlimited Companion Framework
+3. Updated FO4LODGen Resources to v1.2
+   1. Which is also now on Nexus, thankfully
+4. Updated Kziitd Fetish Toolset 1.0 to Beta 2.1
+
+## Preview Build 7.3
+1. Experimenting with alternative Antialiasing as the game's default TAA is a touch bad. People with an RTX GPU, see the new section of the readme for a how-to enable.
+2. Updated SAM Enhanced Animations to v1.4.0
+3. Added RohZima Fallout 4 Sex Animations for AAF v1.85
+   1. This is a new requirement for SAM Enhanced Animations v1.4.0
+
+## GM Preview Build
+1. Fixed the ENB shortcut keys
+2. Fixed Reactor ENB water reflection settings
+3. Updated Start Me Up to v7.4
+4. Updated Rusty Face Fix to v2.0.2
+   1. This update claims to have fixed the bug where the game could crash with the `refresh_equipment` parameter set to `1` when an actor entered or exited power armor and may have also fixed other CTD issues. Therefore, this version of Rusty Face Fix is now default again unless other issues are reported with it.
+5. Updated RobCo Patcher to v4.0.1
+6. Updated SUP F4SE Plugin to v11.70
+7. Updated Let Me Use That to v1.4.4
+8. Updated Uneducated Shooter to v1.11
+   1. Uneducated Shooter now has an MCM menu and has a few bug fixes added in.
+9. Updated Workshop Framework to v2.3.19a
+10. Updated Workshop Plus to v1.0.15a
+11. Updated Universal Disassembler to v1.4.2
+12. Updated Radium - A Music Mod t0 v2.7.1
+13. Updated LOST Audio Tweaks to v5.1beta
+14. Updated LOST Audio Tweaks Patches to vOPT5.1beta
+15. Updated Who's The General to v1.06
+16. Updated Depravity - eXoPatch to v1.0.2
+17. Updated Skip Kellogg's Memories to v1.2
+18. Updated Subway Runner Revised to v016
+19. Updated Attack of the Lobotomites to v1.0.4
+20. Updated Tattoos Collection by Dreivor to vTCD22
+21. Updated Smoking Puppy's Physics Preset - OCBPC CBP to v1.4
+22. Updated Ultimate Window Overhaul Redone to v1.4.5
+23. Updated Fallout 4 Particle Patch to v1.2
+24. Updated Ponytail Hairstyles by Azar to v3.0
+25. Updated Vtaw Wardrobe 9 - Fusion Girl to v1.06 + rebuilt outfits
+26. Updated Vault-Tec Suit - Fusion Girl to v1.44 + rebuilt outfits
+27. Updated Vault-Tec Mask to v1.2
+28. Updated Loot Detector Expansion to v1.1.1
+29. Updated Fallout 4 Outfit System to v2.9.1.0
+30. Updated Ultra Wide Interface (21x9) to v2.1
+31. Updated FIS - Modern Age Icons Addon to v1.2.1HF
+32. Updated Extra Icons for FIS to v1.6
+33. Updated Discord Rich Presence to v5
+34. Updated Commonwealth Captives to v1.12
+35. Added a basic MCM setup for male player characters - this is meant to be applied *after* applying one of the other MCM settings.
+36. VAFS hotkey has moved to `C` on your keyboard to avoid a conflict with Uneducated Shooter, which now has an MCM and which means I can't double bind it like before.
+
+## GM 2 Preview Build
+1. Removed Raider Pet
+2. Updated Commonwealth Captives Outfit Injector to v1.16
+3. Updated RealHandcuffs to v0.4.17
+4. Updated AAF Autonomy Enhanced to v3.000b
+5. Updated X-SENSUOUS Body and Faces Texture to vXXX.P
+6. Added X-SENSUOUS Male Addon
+7. Added RZ Boudoir Collection as CCOI also supports it now
+8. Added a Vtaw 7 Raider patch to distribute Vtaw Wardrobe 7 to raiders
+
+## GM 3 Preview Build
+1. Unbound VATS using `CustomControlMap.txt`
+   1. Hopefully this solves VAFs not working on new games. You'll still need to apply the MCM settings though.
+2. Crafted a couple of custom outfits to replace some bad ones in the skimpy replacer
+3. Crafted a unique mashup (that's not truly unique, bite me) and hidden it somewhere super secret
+4. Updated Corpse Fix BodyGen settings for StartMeUp as the form ID's of the NPC's had changed in a mod update, meaning the bodies would possibly spawn in mostly invisible again
+5. Updated Kziitd Fetish Toolset to beta 2.2
+
+## GM 3.1 Preview Build
+1. Removed TCD Overlay Tattoo's as it causes rust face issues for some reason
+2. Compiled with the v1.10.980 game files (the first of the "next-gen" updates) - YOU NEED TO MAKE SURE YOUR GAME IS UP TO DATE IN STEAM, WABBAJACK WILL DOWNGRADE FOR YOU!
+
+## Release Build
+1. Removed Cridow Skin
+2. Removed Maya + related patches
+3. Removed Oni Face Parts
+4. Added Asian Face Enhanced + HiPoly Faces Redux patch
+5. Added The K Makeup
+6. Added ZGC Hair Pack
+7. Added a couple of LooksMenu presets
+8. Added Backported Archive2 Support System
+9. Added Drop Quest Items and Keys
+10. Added Vtaw Wardrobe Preview Meshes
+11. Updated some of the WoD community presets
+12. Updated A Bit Prettier Raiders Faces to v1.4
+13. Updated A Bit Prettier Brotherhood of Steel Faces to v1.1
+14. Updated Bullet Penetration and Ricochet to v1.12.1
+14. Updated Beretta M9-FS Pistol to v1.0.3
+15. Updated MK18 CQBR to v1.0.5
+16. Updated Weapons Level List Patches to v2.20.1
+17. Updated Ketaros Framework - ESL and Fixed to v2.8.6
+18. Updated Roleplayer's Expanded Dialogue to v2.8.1
+19. Updated Community Fixes Merged to v2.6.0
+20. Replaced the Bobbleheads with better versions
