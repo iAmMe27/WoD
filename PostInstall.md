@@ -12,10 +12,7 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 1. Rusty Face Fix
    
 > [!TIP]
-> Toggle this on if you consistently run into the dreaded Fallout 4 rusty face issue, provided you have checked things such as resolution of face textures and tint masks match.
-
-### Character Presets Category
-1. Maya - Custom Race Female Preset + AAF patch - you should only enable this if you plan on using the Maya character preset for your playthrough. **Do not enable this on an existing save!**
+> If you consistently run into the dreaded Fallout 4 rusty face issue, check things such as resolution of face textures and tint masks match if you added any skin or face texture mods.
 
 ### YOUR CHOICES Category
 1. Discord Rich Presence (F4SE) - this gives you a card in Discord when you are playing WoD. It lists your character name, level and location. *It does not hook into the NSFW mods, don't worry, your secrets are safe.*
