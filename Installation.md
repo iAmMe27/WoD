@@ -3,6 +3,8 @@
 > [!TIP]
 > It is recommended that you download the LoversLab mods in your browser prior to running Wabbajack. All links to mods hosted on LoversLab can be [found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)
 
+>[!WARNING]
+> I recommend that you setup 2 folders for your installation. For example, use `C:\WoD` and your installation folder and `C:\WoD Downloads` for your downloads folder.
 
 ## Preparation
 

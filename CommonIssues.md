@@ -18,9 +18,8 @@ and change it to:
 ## My game performance sucks!
 This could be caused by a few things:
   1. You didn't setup a Pagefile as described earlier in this readme or,
-  2. You didn't setup your shader cache as described earlier in this readme or,
-  3. You didn't install on an SSD or,
-  4. Your hardware doesn't meet the minimum recommended specs.
+  2. You didn't install on an SSD or,
+  3. Your hardware doesn't meet the minimum recommended specs.
 
 If you genuinely have followed the above steps then ensure the following:
   1. When setting the pagefile up, you have enough space left on the selected SSD for Windows to allocate the full pagefile size - not having the 20 to 40GB free on the SSD is the same as not having a big enough pagefile in the first place.

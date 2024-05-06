@@ -1363,3 +1363,11 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 18. Updated Roleplayer's Expanded Dialogue to v2.8.1
 19. Updated Community Fixes Merged to v2.6.0
 20. Replaced the Bobbleheads with better versions
+
+## Wasteland of Depravity v0.9.0.1
+1. Updated Kziitd Fetish Toolset to Beta 2.3
+2. Updated ENB Binaries to v0501
+3. Switched DLAA off by default
+
+## Wasteland of Depravity v0.9.0.2 
+1. Hotfix for missing ENB files
