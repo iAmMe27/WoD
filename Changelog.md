@@ -1371,3 +1371,24 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 
 ## Wasteland of Depravity v0.9.0.2 
 1. Hotfix for missing ENB files
+
+## Wasteland of Depravity v0.9.0.3
+1. Fixed missing Vault Girl Statue textures
+2. Removed ENB Extender for FO4
+3. Removed KiLoader for FO4 + the KiLoader Satellite file
+4. Compiled Chibako's Choice skin texture setup which is a blend of Cridowskin and Kziitd's Fusion Girl skin
+5. Added some new power armors;
+   1. Enclave Power Armor
+   2. Enclave X-02 Power Armor
+   3. Hellfire X-03 Power Armor
+   4. T-65 Power Armor
+   5. Hellcat Power Armor
+   6. T-51c Power Armor
+   7. Excavator Power Armor
+6. Added Friendly Fire
+7. Added A Bit Prettier Nuka World Raider Faces
+8. Added Hot Collectible Magazines and Post Cards to profile #2
+9. Compiled against FO4 v1.10.984.0
+
+## Wasteland of Depravity v0.9.0.4
+1. Hotfix for the Chibako's Choice skin texture

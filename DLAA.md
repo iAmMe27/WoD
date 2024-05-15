@@ -21,7 +21,7 @@ DLAA is only supported by Nvidia RTX type GPU's, so anyone with an AMD or non-RT
 
 3. Click save.
 
-To disable ENB AA, run the game and open the ENB menu with Shift+Enter. Open the `Post Processing` dropdown in the right side menu and change the `Technique` option to one with no AA, like so:
+To disable ENB AA, run the game and open the ENB menu with Shift+Enter. Open the `ENBEFFECTPOSTPASS.FX` dropdown in the right side menu and change the `Technique` option to one with no AA, like so:
 
 ![ENB AA](img/ENBAA.png)
 
