@@ -36,13 +36,13 @@ A few of the gameplay systems are tweaked in WoD to make things more interesting
 
 > [!TIP]
 > Mods of Interest: 
-> [VAFS Redux](https://www.nexusmods.com/fallout4/mods/36519)
-> [Blocking Overhaul](https://www.nexusmods.com/fallout4/mods/73333)
-> [Bastion - A Power Armor Overhaul](https://www.nexusmods.com/fallout4/mods/75184)
-> [Slick Fingers - The Art of Theft](https://www.nexusmods.com/fallout4/mods/74305)
-> [Let Me Use That](https://www.nexusmods.com/fallout4/mods/74440)
-> [Deadeye](https://www.nexusmods.com/fallout4/mods/75439)
-> [Easier Crouched Steadying](https://www.nexusmods.com/fallout4/mods/74441)
+> [VAFS Redux](https://www.nexusmods.com/fallout4/mods/36519),
+> [Blocking Overhaul](https://www.nexusmods.com/fallout4/mods/73333),
+> [Bastion - A Power Armor Overhaul](https://www.nexusmods.com/fallout4/mods/75184),
+> [Slick Fingers - The Art of Theft](https://www.nexusmods.com/fallout4/mods/74305),
+> [Let Me Use That](https://www.nexusmods.com/fallout4/mods/74440),
+> [Deadeye](https://www.nexusmods.com/fallout4/mods/75439),
+> [Easier Crouched Steadying](https://www.nexusmods.com/fallout4/mods/74441),
 > [PerkPointsPerLevel](https://www.nexusmods.com/fallout4/mods/3938)
 
 ### Weapons
@@ -53,11 +53,11 @@ There are a few new player homes to choose from, as well as some Workshop Framew
 
 > [!TIP]
 > Mods of Interest: 
-> [Pineneedle Rest](https://www.nexusmods.com/fallout4/mods/60181)
-> [Basement Living](https://www.nexusmods.com/fallout4/mods/10967)
-> [Fenway Flat](https://www.nexusmods.com/fallout4/mods/58747)
-> [Top Floor Loft](https://www.nexusmods.com/fallout4/mods/67032)
-> [Chestnut Lodge](https://www.nexusmods.com/fallout4/mods/25033)
+> [Pineneedle Rest](https://www.nexusmods.com/fallout4/mods/60181),
+> [Basement Living](https://www.nexusmods.com/fallout4/mods/10967),
+> [Fenway Flat](https://www.nexusmods.com/fallout4/mods/58747),
+> [Top Floor Loft](https://www.nexusmods.com/fallout4/mods/67032),
+> [Chestnut Lodge](https://www.nexusmods.com/fallout4/mods/25033),
 > [Workshop Framework Settlement Collection - Vanilla-DLCs by space2jump](https://www.nexusmods.com/fallout4/mods/66509)
 
 ### Settlements
@@ -65,12 +65,12 @@ Settlements have also had some attention to make building better and adding a bu
 
 > [!TIP]
 > Mods of Interest: 
-> [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004)
-> [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005)
-> [This Settlement Does Not Need Your Help](https://www.nexusmods.com/fallout4/mods/63998)
-> [Hands Off](https://www.nexusmods.com/fallout4/mods/26171)
-> [Private Area Markers](https://www.nexusmods.com/fallout4/mods/26377)
-> [Mass Fusion Wonder Power](https://www.nexusmods.com/fallout4/mods/37486)
+> [Workshop Framework](https://www.nexusmods.com/fallout4/mods/35004),
+> [Workshop Plus](https://www.nexusmods.com/fallout4/mods/35005),
+> [This Settlement Does Not Need Your Help](https://www.nexusmods.com/fallout4/mods/63998),
+> [Hands Off](https://www.nexusmods.com/fallout4/mods/26171),
+> [Private Area Markers](https://www.nexusmods.com/fallout4/mods/26377),
+> [Mass Fusion Wonder Power](https://www.nexusmods.com/fallout4/mods/37486),
 > [Build Your Own Pool](https://www.nexusmods.com/fallout4/mods/13316)
 > [Settlement Tidy Bot](https://www.nexusmods.com/fallout4/mods/33217)
 
@@ -84,17 +84,17 @@ Want a Yes Man type ending for FO4? Well, now you can.
 
 > [!TIP]
 > Mods of Interest: 
-> [Who's The General?](https://www.nexusmods.com/fallout4/mods/59019)
-> [Fusion City Rising](https://www.nexusmods.com/fallout4/mods/16423)
-> [Outcasts and Remnants](https://www.nexusmods.com/fallout4/mods/21469)
-> [Project Valkyrie](https://www.nexusmods.com/fallout4/mods/28085)
-> [Depravity - A Harmless Bit of Fun](https://www.nexusmods.com/fallout4/mods/35513)
-> [Diary of a Madman](https://www.nexusmods.com/fallout4/mods/45546)
-> [The Waste Landfill](https://www.nexusmods.com/fallout4/mods/35344)
-> [The Fens Sheriff's Department - Bleachers 2](https://www.nexusmods.com/fallout4/mods/68276)
-> [The Kelly Manor Horror](https://www.nexusmods.com/fallout4/mods/27657)
-> [Children of Ug-Qualtoth](https://www.nexusmods.com/fallout4/mods/43527)
-> [The Secret of Huntress Manor](https://www.nexusmods.com/fallout4/mods/27311)
+> [Who's The General?](https://www.nexusmods.com/fallout4/mods/59019),
+> [Fusion City Rising](https://www.nexusmods.com/fallout4/mods/16423),
+> [Outcasts and Remnants](https://www.nexusmods.com/fallout4/mods/21469),
+> [Project Valkyrie](https://www.nexusmods.com/fallout4/mods/28085),
+> [Depravity - A Harmless Bit of Fun](https://www.nexusmods.com/fallout4/mods/35513),
+> [Diary of a Madman](https://www.nexusmods.com/fallout4/mods/45546),
+> [The Waste Landfill](https://www.nexusmods.com/fallout4/mods/35344),
+> [The Fens Sheriff's Department - Bleachers 2](https://www.nexusmods.com/fallout4/mods/68276),
+> [The Kelly Manor Horror](https://www.nexusmods.com/fallout4/mods/27657),
+> [Children of Ug-Qualtoth](https://www.nexusmods.com/fallout4/mods/43527),
+> [The Secret of Huntress Manor](https://www.nexusmods.com/fallout4/mods/27311),
 > [Attack of the Lobotomites](https://www.nexusmods.com/fallout4/mods/51787)
 
 ## NSFW Gameplay
