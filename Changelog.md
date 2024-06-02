@@ -694,7 +694,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 81. Fixed some BodyGen issues
 82. Regenerated LODs
 
-# Wasteland of Depravity V0.3.0.1
+## Wasteland of Depravity V0.3.0.1
 1. Added Maya Race Parallax Fix to solve the slight skin texture issue
 2. Fixed the missing bodyslides for:
    1. TC Sportswear
@@ -709,11 +709,11 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 7. Updated Nuka Ride to v6.1.0
 8. Update Nuka Ride Fusion Girl Bodyslides to v1.02
 
-# Wasteland of Depravity V0.3.0.2
+## Wasteland of Depravity V0.3.0.2
 1. Updated Nuka Ride xVASynth Voiceover to v6.1
 2. Added a couple of WoD Community LooksMenu presets
 
-# Wasteland of Depravity V0.3.0.3
+## Wasteland of Depravity V0.3.0.3
 1. Fixed the random body colour glitch - turns out it was caused by ENB's Complex Parallax ¯\_(ツ)_/¯
 2. Removed the Maya Parallax Fix as it's now no longer needed
 3. Removed the boring as vault start
@@ -726,7 +726,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 10. Updated Nuka Ride FusionGirl Bodyslide Files to v1.03
 11. Updated REACTOR ENB
 
-# Wasteland of Depravity V0.3.1
+## Wasteland of Depravity V0.3.1
 1. Fixed an issue with Serene skin overwriting the dirty skin textures that a lot of human enemies use
 2. Fixed an issue with a couple weapon object mods showing up in every modification menu
 3. Fixed the Nox outfit not being built for female characters
@@ -745,7 +745,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 15. Regenerated Complex Sorter patches
 16. Swapped back to Nuka Ride 6 Bodyslide for Fusion Girl by N.Gamma v1.02 as v1.03 is not available any longer
 
-# Wasteland of Depravity V0.3.1.1
+### Wasteland of Depravity V0.3.1.1
 1. Fixed a CTD caused by miniguns
 2. Fixed an issue with The Deliverer weapon
 3. Actually fixed Heather Casdin Fusion Girl port this time :^)
@@ -1392,3 +1392,71 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 
 ## Wasteland of Depravity v0.9.0.4
 1. Hotfix for the Chibako's Choice skin texture
+
+## Wasteland of Depravity v0.9.0.5
+1. Actually fixed Chibako's Choice skin texture this time
+   1. If it's still borked for you, delete the mod in the mods folder and then rerun Wabbajack
+2. Swapped Vault Tec Armor Redux for its new VTAC Armor Redux version
+
+## Wasteland of Depravity v0.9.1
+1. Added Servitron and the matching FG Bodyslides
+2. Added Sprint Jump AP Fix
+3. Added Titkit - FO4 Edition
+4. Added Pins And Needles - Body Piercings
+5. Added Overseer's Daughter Fusion Girl Preset
+6. Added Overseer's Daughter OCBPC Preset as a new physics option
+7. Added Unleveled World - F4SE as an option in a new separator
+   1. This mod is like Be Afraid except it is likely safe to enable/disable mid-save and has a few more configuration options. This is likely to replace Be Afraid in the future.
+8. Updated Pin-Up Card Series to v2.3
+9.  Updated Western Card Series to v2.23
+10. Updated Ketaros Framework to v2.3
+11. Updated SAM Enhanced Animations to v1.4.1
+12. Made a custom fix for Ketaros Treasures build category not having an icon
+
+## Wasteland of Depravity v0.9.1.1
+1. Hotfix for messed up Servitron files
+
+## Wasteland of Depravity v0.9.1.2
+1. Small update to allow the modlist to be installable again - SAM Enhanced Animations was reuploaded with the same version number.
+
+## Wasteland of Depravity v0.9.2
+1. Implemented custom install solution for Servitron so you no longer need to manually run the holotape
+2. Implemented a script based band-aid fix for the equip crash - the true root cause is still not yet known
+3. Made it so the game is always active, even when tabbed out
+4. Cleaned up the Universal Workbench submenus
+5. Cleaned up the Mod Config menu some
+6. Patched up a bunch of stuff
+7. Bypassed the need for the Bright Ideas magazine - I forgot we had Colored Workshop Lights because of this :^)
+8. Fixed missing first person meshes for Obi's Goth GF outfit
+9. Fixed X-SENSUOUS - Male Addon not applying properly
+10. Fixed Titkit not applying properly
+11. Improved water colour significantly
+11. Updated xEdit to 4.1.5f
+12. Updated Synthesis to v0.28
+13. Removed Be Afraid
+14. Removed Unlimited Companion Framework
+15. Removed CROSS Break Action Laser
+16. Added a lens fix for the X12 pistol red dot sights
+17. Added ToggleEquip
+18. Added Magic Effect and Spell Engine Fixes
+19. Added Empty Vendor List Bug Fix
+20. Added Show All Armors and Outfits
+21. Added Combat Shutdown Grenade Fixes
+22. Added Companion Jump Fall Pose Fix 
+23. Added Garden of Eden Papyrus Script Extender
+24. Added some more LooksMenu presets made by the WoD community
+25. Added Winchester Model 1873 - Lever Action Rifle
+26. Added 4estGimp - Winchester Model 1873 Five Pack
+27. Added Rem92 Lever Action Shotgun
+28. Added Right-handed Far Harbor Lever Action Replacer
+29. Added 4estGimp - Rem92 Lever Action Shotgun Update
+30. Added Surplus Rifle - M16A2 - Another Another Millenia
+31. Added World Wide Mercenary Gear Pack
+32. Added Modern Military Pack
+33. Updated RohZima Fallout 4 Sex Animations for AAF to v2.00
+34. Started fixing sights that render wrong on AMD & Intel GPU's - enable the `WoD - AMD Fixes` mod in the `AMD & INTEL GPU FIXES` separator
+35. Shuffled the load order of a couple of mods around so now FallUI dialog boxes are back 
+
+## Wasteland of Depravity v0.9.2.1
+1. Updated AAF Autonomy Enhanced to v3.000c
+2. Added Everyone's Best Friend

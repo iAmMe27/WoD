@@ -41,6 +41,10 @@ In terms of accounts you will need:
   * Nexus Premium Account
   * LoversLab Account - *for manual downloads through your browser.*
 
+## Fallout 4 Install
+> [!WARNING]
+> Your Steam install of Fallout 4 must be up to date - do not downgrade for WoD!
+
 ## DLC
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.
 
