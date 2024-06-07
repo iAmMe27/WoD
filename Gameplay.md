@@ -58,6 +58,7 @@ There are a few new player homes to choose from, as well as some Workshop Framew
 > [Fenway Flat](https://www.nexusmods.com/fallout4/mods/58747),
 > [Top Floor Loft](https://www.nexusmods.com/fallout4/mods/67032),
 > [Chestnut Lodge](https://www.nexusmods.com/fallout4/mods/25033),
+> [The Subway Safehouse](https://web.archive.org/web/20231029152710/https://www.nexusmods.com/fallout4/mods/35255),
 > [Workshop Framework Settlement Collection - Vanilla-DLCs by space2jump](https://www.nexusmods.com/fallout4/mods/66509)
 
 ### Settlements
@@ -100,13 +101,15 @@ Want a Yes Man type ending for FO4? Well, now you can.
 ## NSFW Gameplay
 There are a fair few mods that change what you can do in certain situations. I recommend that you start with reading the mod pages:
 
-* [Human Resources](https://www.loverslab.com/topic/156546-human-resources/)
-* [AAF Violate](https://www.loverslab.com/files/file/6657-aaf-violate/)
-* [AAF SEU](https://www.loverslab.com/files/file/7281-aaf-sex-em-up/)
-* [Commonwealth Captives](https://www.loverslab.com/files/file/14493-commonwealth-captives/)
-* [Sex Attributes](https://www.loverslab.com/files/file/5436-aaf-sex-attributes-framework-4172023/)
-* [Sexual Harassment](https://www.loverslab.com/files/file/5487-aaf-sexual-harassment-6242023/)
-* [Hardship](https://www.loverslab.com/files/file/10387-aaf-hardship-beggar-whore/)
-* [Dangerous Nights](https://www.loverslab.com/files/file/12719-aaf-dangerous-nights/)
+> [!TIP]
+> Mods of interest:
+> [Human Resources](https://www.loverslab.com/topic/156546-human-resources/)
+> [AAF Violate](https://www.loverslab.com/files/file/6657-aaf-violate/)
+> [AAF SEU](https://www.loverslab.com/files/file/7281-aaf-sex-em-up/)
+> [Commonwealth Captives](https://www.loverslab.com/files/file/14493-commonwealth-captives/)
+> [Sex Attributes](https://www.loverslab.com/files/file/5436-aaf-sex-attributes-framework-4172023/)
+> [Sexual Harassment](https://www.loverslab.com/files/file/5487-aaf-sexual-harassment-6242023/)
+> [Hardship](https://www.loverslab.com/files/file/10387-aaf-hardship-beggar-whore/)
+> [Dangerous Nights](https://www.loverslab.com/files/file/12719-aaf-dangerous-nights/)
 
 Once you've read these mod pages, you should now have a general idea of things to do and things you'll run into in the wasteland of depravity.
