@@ -4,12 +4,12 @@
 > It is recommended that you download the LoversLab mods in your browser prior to running Wabbajack. All links to mods hosted on LoversLab can be [found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)
 
 >[!WARNING]
-> I recommend that you setup 2 folders for your installation. For example, use `C:\WoD` and your installation folder and `C:\WoD Downloads` for your downloads folder.
+> I recommend that you setup 2 folders for your installation. For example, use `C:\WoD` for your installation folder and `C:\WoD Downloads` for your downloads folder.
 
 ## Preparation
 
 > [!CAUTION]
-> The steps listed here are not optional and must be followed.
+> **The steps listed here are not optional and must be followed.**
 
 ### Setup your Page File
 You should setup a pagefile of at least **20GB** - yes, even if you have a million GB of RAM. To setup your pagefile;
@@ -51,7 +51,7 @@ Right click on Fallout 4 in your game library and clicking **Properties** > **Up
 Once you've done the steps above, you can now set Steam to download Fallout 4 but ***do not*** install Fallout 4 to a protected folder, such as `Desktop`, `Downloads` or `Program Files` of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as `C:\SteamLibrary`. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
 
 ### Start Fallout 4
-That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
+Yup - start the game. ಠ_ಠ
 
 ## Wabbajack
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
