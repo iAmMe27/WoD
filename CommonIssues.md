@@ -1,5 +1,13 @@
 ![Common Issues](img/headers/CommonIssues.png)
 
+## Contents
+1. [Getting Started](README.MD)
+2. [Installation](Installation.md)
+3. [After Install](PostInstall.md) 
+4. [Mod Setup](ModSetup.md)
+5. [Controls](Controls.md)
+6. **[Common Issues](CommonIssues.md)**
+
 ## I get download errors when installing WoD!
 I bet it's one of the files on the commonly failing downloads list. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
 

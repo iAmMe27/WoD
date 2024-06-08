@@ -5,6 +5,14 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 > [!WARNING]
 > DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.
 
+## Contents
+1. [Getting Started](README.MD)
+2. [Installation](Installation.md)
+3. **[After Install](PostInstall.md)** 
+4. [Mod Setup](ModSetup.md)
+5. [Controls](Controls.md)
+6. [Common Issues](CommonIssues.md)
+
 ## Optional Mods
 In Wasteland of Depravity, there are a few optional mods that you can toggle on/off for your playthrough.
 

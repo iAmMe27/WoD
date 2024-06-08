@@ -17,6 +17,14 @@ First things first: **this list contains adult content and you must be of legal 
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 
+# Contents
+1. **[Getting Started](README.MD)**
+2. [Installation](Installation.md)
+3. [After Install](PostInstall.md) 
+4. [Mod Setup](ModSetup.md)
+5. [Controls](Controls.md)
+6. [Common Issues](CommonIssues.md)
+
 # Getting Started
 
 ![Getting Started](img/headers/BeforeYouStart.png)

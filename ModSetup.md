@@ -1,5 +1,13 @@
 ![Mod Setup](img/headers/ModSetup.png)
 
+## Contents
+1. [Getting Started](README.MD)
+2. [Installation](Installation.md)
+3. [After Install](PostInstall.md) 
+4. **[Mod Setup](ModSetup.md)**
+5. [Controls](Controls.md)
+6. [Common Issues](CommonIssues.md)
+
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game. 
   
 * When LIF gives you a pop-up at the start of the game, click `INJECT`
