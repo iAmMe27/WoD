@@ -6,9 +6,9 @@
 >[!WARNING]
 > I recommend that you setup 2 folders for your installation. For example, use `C:\WoD` for your installation folder and `C:\WoD Downloads` for your downloads folder.
 
-## Contents
+## Navigation
 1. [Getting Started](README.MD)
-2. **[Installation](Installation.md)**
+2. **[[Installation]](Installation.md)**
 3. [After Install](PostInstall.md) 
 4. [Mod Setup](ModSetup.md)
 5. [Controls](Controls.md)
