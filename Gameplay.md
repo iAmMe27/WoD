@@ -1,6 +1,8 @@
 # Wasteland of Depravity Gameplay
 
-## Starting the Game
+## Profiles #1 and #2
+
+### Starting the Game
 When starting the game, you'll create your character in the bathroom scene, same as always. Once you're done, head the bathroom door and you'll be given options on how you wish to start. 
 
 Before you ask, no you cannot do the vanilla intro to the game, it's buggy at best and the game is nearly 10 years old at this point. If you want to do the main quest, head into Vault 111 and find the deceased Vault Dweller.
@@ -9,7 +11,7 @@ Before you ask, no you cannot do the vanilla intro to the game, it's buggy at be
 > Mods of Interest: 
 > [Start Me Up Redux](https://www.nexusmods.com/fallout4/mods/56984)
 
-## Equipment Crafting
+### Equipment Crafting
 Crafting is changed from the base game. A lot of stuff has been moved to a specific multi-category workbench known as the Universal Workbench. You can make static versions from the usual workshop menu and there is a portable one near to the entrance of Vault 111.
 
 > [!TIP]
@@ -19,10 +21,10 @@ Crafting is changed from the base game. A lot of stuff has been moved to a speci
 
 There are also some unique crafting benches available as part of other mods but these should be self explanatory.
 
-## SFW Gameplay Stuff
+### SFW Gameplay Stuff
 There are lots of small mods that make changes to the general gameplay flow in WoD. Most enhance the existing systems but some replace parts entirely.
 
-### Enemies
+#### Enemies
 Enemies are tweaked in various ways, including things such as changes to accuracy, allow for encounter zone relevelling to allow continuous scaling. Enemies now also have friendly fire enabled.
 
 > [!TIP]
@@ -31,7 +33,7 @@ Enemies are tweaked in various ways, including things such as changes to accurac
 > [Encounter Zone Recalculation (Continuous Level Scaling)](https://www.nexusmods.com/fallout4/mods/45674), 
 > [Friendly Fire](https://www.nexusmods.com/fallout4/mods/74000)
 
-### Gameplay Systems
+#### Gameplay Systems
 A few of the gameplay systems are tweaked in WoD to make things more interesting and hopefully to allow for some build diversity. VATS is replaced with VAFS, which is bullet-time type system instead of the terrible X-COM attempt that VATS usually is.
 
 > [!TIP]
@@ -45,10 +47,10 @@ A few of the gameplay systems are tweaked in WoD to make things more interesting
 > [Easier Crouched Steadying](https://www.nexusmods.com/fallout4/mods/74441),
 > [PerkPointsPerLevel](https://www.nexusmods.com/fallout4/mods/3938)
 
-### Weapons
+#### Weapons
 The weapons in WoD are replaced with modern guns. Energy weapons are not replaced and there are new Institute specific energy weapon types. There's far too many to list here, see the `Weapons` separator in MO2.
 
-### Player Homes
+#### Player Homes
 There are a few new player homes to choose from, as well as some Workshop Framework blueprints for existing settlements.
 
 > [!TIP]
@@ -61,7 +63,7 @@ There are a few new player homes to choose from, as well as some Workshop Framew
 > [The Subway Safehouse](https://web.archive.org/web/20231029152710/https://www.nexusmods.com/fallout4/mods/35255),
 > [Workshop Framework Settlement Collection - Vanilla-DLCs by space2jump](https://www.nexusmods.com/fallout4/mods/66509)
 
-### Settlements
+#### Settlements
 Settlements have also had some attention to make building better and adding a bunch of stuff to build with. There is also a mod to allow settlements to defend themselves provided that they have the manpower and defences to do so, so you no longer need to rush back to random settlements to help out.
 
 > [!TIP]
@@ -75,10 +77,10 @@ Settlements have also had some attention to make building better and adding a bu
 > [Build Your Own Pool](https://www.nexusmods.com/fallout4/mods/13316)
 > [Settlement Tidy Bot](https://www.nexusmods.com/fallout4/mods/33217)
 
-### Junk & Misc Items
+#### Junk & Misc Items
 Junk and misc items are now weightless. This is handled via a Synthesis patcher and can be redone just by running Synthesis.
 
-## Quests
+### Quests
 There are a bunch of new quests in WoD, lots of new NPCs to meet and even a couple different ways to finish the main story.
 
 Want a Yes Man type ending for FO4? Well, now you can.
@@ -98,7 +100,7 @@ Want a Yes Man type ending for FO4? Well, now you can.
 > [The Secret of Huntress Manor](https://www.nexusmods.com/fallout4/mods/27311),
 > [Attack of the Lobotomites](https://www.nexusmods.com/fallout4/mods/51787)
 
-## NSFW Gameplay
+### NSFW Gameplay
 There are a fair few mods that change what you can do in certain situations. I recommend that you start with reading the mod pages:
 
 > [!TIP]
@@ -113,3 +115,32 @@ There are a fair few mods that change what you can do in certain situations. I r
 > [Dangerous Nights](https://www.loverslab.com/files/file/12719-aaf-dangerous-nights/)
 
 Once you've read these mod pages, you should now have a general idea of things to do and things you'll run into in the wasteland of depravity.
+
+## Give Me Pain
+The Give Me Pain profile changes a fair bit of the usual gameplay routine compared to the other 2 profiles. It is not built around survival as some of the changes it makes may lead to extra suffering on survival difficulty.
+
+The first big thing you'll notice is changes to health, healing and general injuries. Both you and enemies can bleed out, can be injured in specific body parts and need specific healing items to fix yourself up.
+
+> [!TIP]
+> Mods of interest
+> [MAIM 2](https://www.nexusmods.com/fallout4/mods/58964)
+
+Enemy distribution is not unlevelled but is more sensibly normalised across the board.
+
+> [!TIP]
+> Mods of interest
+> [SCOURGE](https://www.nexusmods.com/fallout4/mods/60917)
+
+Weapon damage is shifted, mostly down.
+
+> [!TIP]
+> Mods of interest
+> [True Damage](https://www.nexusmods.com/fallout4/mods/66071)
+
+And there are also a few small mods that tweak the gameplay in various ways.
+
+> [!TIP]
+> Mods of interest
+> [Manual Reload](https://www.nexusmods.com/fallout4/mods/76076),
+> [Sprint Overhaul](https://www.nexusmods.com/fallout4/mods/74444),
+> [NPCs use Items](https://www.nexusmods.com/fallout4/mods/73717)

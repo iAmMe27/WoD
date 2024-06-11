@@ -1460,3 +1460,11 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 ## Wasteland of Depravity v0.9.2.1
 1. Updated AAF Autonomy Enhanced to v3.000c
 2. Added Everyone's Best Friend
+
+## Wasteland of Depravity v0.9.3
+1. Updated Kziitd's Fetish Toolset to Beta 2.4
+2. Introduced the `Give Me Pain` profile complete with all its necessary gameplay changes
+3. Added some more face presets
+4. Added Sexual Harassment - KFT Patch
+5. Added Up To No Good to profile #2
+6. Added Crazy Animations (Rug Version)
