@@ -7,7 +7,7 @@ No. It sucks and the game has been out since like, 2015. If you haven't played i
 I don't know, can you?
 
 ## Can YOU add xyz?
-I don't take commissions. I don't take demands either.
+![](https://camo.githubusercontent.com/050f0ac60ee9f3f6107729c4474509218f410e1deb3e92419f582577afda1f54/68747470733a2f2f692e696d6775722e636f6d2f34396f573443442e706e67)
 
 ## What do I do in WoD?
 Whatever the hell you want, within reason. There's plenty of extra content in WoD, some of which you will find just by walking throughout the wasteland. Be sure to keep an eye on your quest log and radio too.
