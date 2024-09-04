@@ -12,10 +12,10 @@ First things first: **this list contains adult content and you must be of legal 
 :computer:  **DLAA FOR NVIDIA RTX GPU USERS, [CLICK HERE](DLAA.md)**
 
 :tv:  I have an Ultrawide monitor > [CLICK ME](Ultrawide.md)
-
-:question: FAQ? > [FAQ!](FAQ.md)
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
+
+**I need help with something!** Start with consulting the [Common Issues page](CommonIssues.md) and the [FAQ](FAQ.md). Please help me to help yourself here. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
 
 # Navigation
 1. **[[Getting Started]](README.MD)**
@@ -56,9 +56,9 @@ In terms of accounts you will need:
 ## DLC
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.
 
-# What's the difference between the 2 profiles?
+# What's the difference between the 3 profiles?
 > [!TIP]
-> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*.
+> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*. Profile 3 is self explanatory (and before you ask, is built on Profile #1).
 
 # Updating Wasteland of Depravity
 Updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.

@@ -1468,3 +1468,25 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 4. Added Sexual Harassment - KFT Patch
 5. Added Up To No Good to profile #2
 6. Added Crazy Animations (Rug Version)
+7. Added Polaria Systems
+
+## Wasteland of Depravity v0.9.4
+1. Added M1928A1 Thompson
+   1. Also replaced the MP5 as the Silver Shroud quest weapon
+2. Added Integrated Automatron
+3. Added 3rd Person Behavior Fixes
+4. Added Ironsights movement direction lock fixes
+5. Updated Sex Harassment to v1.20.2
+6. Updated Sex Attributes to v2.8.0
+7. Updated Autonomy Enhanced to v3.305
+8. Updated RohZima Fallout 4 Sex Animations for AAF to v2.10
+9. Updated CRX Workshop Crosses to v2.2stable
+10. Removed Sex Harassment - KFT Patch
+11. Repacked Polaria Systems so now you shouldn't see the void when entering the dungeon
+
+## Wasteland of Depravity v0.9.5
+1. Added Enhanced Movement
+   1. This adds some neat movement features
+2. Added Actor Velocity Framework
+3. Added a few of Halffaces small object visual mods
+4. Updated Up To No Good to version 2
