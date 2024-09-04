@@ -94,14 +94,14 @@ This shows up in crash logs with the following things in the stack: `JobListMana
 
 This is a very rare crash that WoD has custom mitigations against. To fix, type the following commands into the console:
 
-#### 4. You disabled Volumetric Lighting
-This crash occurs when you enter workshop mode. Do not touch the `Disable Volumetric Lightning` in NAC X Settings menu/MCM. It will make the game crash every time you enter workshop mode and it **can't** be reverted - you will have to load an earlier save to fix it.
-
 `player.unequipall`
 
 Followed by:
 
 `player.equipitem 21b3b`
+
+#### 4. You disabled Volumetric Lighting
+This crash occurs when you enter workshop mode. Do not touch the `Disable Volumetric Lightning` in NAC X Settings menu/MCM. It will make the game crash every time you enter workshop mode and it **can't** be reverted - you will have to load an earlier save to fix it.
 
 #### 5. Crash caused by `XAudio2_7.dll`
 Make sure your WoD folder is added to your antivirus exclusions. If it is, [download Microsoft Redist (June 2010) from here.](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
