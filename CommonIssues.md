@@ -25,7 +25,7 @@
     - [2. Rusty Face Fix](#2-rusty-face-fix)
     - [3. Equip Crash](#3-equip-crash)
     - [4. You disabled Volumetric Lighting](#4-you-disabled-volumetric-lighting)
-    - [4. Crash caused by `XAudio2_7.dll`](#4-crash-caused-by-xaudio2_7dll)
+    - [5. Crash caused by `XAudio2_7.dll`](#5-crash-caused-by-xaudio2_7dll)
 - [Other Post-Install Issues](#other-post-install-issues)
   - [Blurry Textures](#blurry-textures)
   - [I can't move my mouse cursor around the whole area of my screen](#i-cant-move-my-mouse-cursor-around-the-whole-area-of-my-screen)
@@ -103,7 +103,7 @@ Followed by:
 
 `player.equipitem 21b3b`
 
-#### 4. Crash caused by `XAudio2_7.dll`
+#### 5. Crash caused by `XAudio2_7.dll`
 Make sure your WoD folder is added to your antivirus exclusions. If it is, [download Microsoft Redist (June 2010) from here.](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 
 ## Other Post-Install Issues
