@@ -13,6 +13,12 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 5. [Controls](Controls.md)
 6. [Common Issues](CommonIssues.md)
 
+## Running WoD
+Running WoD is as simple as clicking Run with the `Fallout: Wasteland of Depravity` option selected in the MO2 dropdown menu, in the top right of the window.
+
+> [!WARNING]
+> **Do not** click the `Unlock` button in MO2 whilst WoD is running. Doing this *will* cause issues and potentially crashes.
+
 ## Optional Mods
 In Wasteland of Depravity, there are a few optional mods that you can toggle on/off for your playthrough.
 
