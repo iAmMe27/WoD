@@ -24,6 +24,7 @@
     - [1. Overlay Software](#1-overlay-software)
     - [2. Rusty Face Fix](#2-rusty-face-fix)
     - [3. Equip Crash](#3-equip-crash)
+    - [4. You disabled Volumetric Lighting](#4-you-disabled-volumetric-lighting)
     - [4. Crash caused by `XAudio2_7.dll`](#4-crash-caused-by-xaudio2_7dll)
 - [Other Post-Install Issues](#other-post-install-issues)
   - [Blurry Textures](#blurry-textures)
@@ -92,6 +93,9 @@ This shows up in crash logs with the following things in the stack: `JobListMana
 ![Equip Crash](img/EquipCrashLog.png)
 
 This is a very rare crash that WoD has custom mitigations against. To fix, type the following commands into the console:
+
+#### 4. You disabled Volumetric Lighting
+This crash occurs when you enter workshop mode. Do not touch the `Disable Volumetric Lightning` in NAC X Settings menu/MCM. It will make the game crash every time you enter workshop mode and it **can't** be reverted - you will have to load an earlier save to fix it.
 
 `player.unequipall`
 
