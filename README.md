@@ -25,6 +25,17 @@ First things first: **this list contains adult content and you must be of legal 
 5. [Controls](Controls.md)
 6. [Common Issues](CommonIssues.md)
 
+# Preface
+Just to set some expectations and boundaries surrounding modlist development here, there's a couple things I'd like to say first.
+
+1. As a modlist user, I expect some small efforts into fixing your own issues, mostly by searching the documentation provided here and by the Discord channels. It's very likely any issue you encounter has already been solved - if this is the case and it's well known, don't be surprised if you get ignored.
+   
+2. Support shouldn't be expected as instant - I have a full time job on top of this, as do my mod team, so I ask for a little bit of patience.
+   
+3. Do not expect a 100% polished, well-balanced and "perfect" experience. I am a 1-person dev team and expecting more from me than you would from AAA game studios is insanity.
+   
+4. We're modding a nearly 10 year old game here, please temper your expectations some.
+
 # Getting Started
 
 ![Getting Started](img/headers/BeforeYouStart.png)
