@@ -3,7 +3,7 @@
 ## Navigation
 1. [Getting Started](README.MD)
 2. [Installation](Installation.md)
-3. [After Install](PostInstall.md) 
+3. [After Install](PostInstall.md)
 4. [Mod Setup](ModSetup.md)
 5. [Controls](Controls.md)
 6. **[[Common Issues]](CommonIssues.md)**
@@ -36,7 +36,7 @@ Please help me to help yourself here. Search this page and the [FAQ](FAQ.md) if 
 ## Download Issues
 
 #### Commonly Failing Downloads
-It's one of the files on the commonly failing downloads list. Wabbajack even gives you report now, please read that to know exactly what files you missed. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki) 
+It's one of the files on the commonly failing downloads list. Wabbajack even gives you report now, please read that to know exactly what files you missed. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
 
 #### Nexus Login Expired
 Your Nexus login expired. In the Wabbajack settings, log out of Nexus and then re-login.
@@ -80,7 +80,7 @@ Software such as **Medal**, **EVGA Precision** and **MSI Afterburner** are the m
 #### 2. Rusty Face Fix
 This shows up in crash logs with the following things in the stack: `hclClothInstance`, `hclClothData` and hair parts named, like so:
 
-![RFF Log](img/RFFLog1.png) 
+![RFF Log](img/RFFLog1.png)
 
 ![RFF Log](img/RFFLog2.png)
 
@@ -91,7 +91,13 @@ This shows up in crash logs with the following things in the stack: `JobListMana
 
 ![Equip Crash](img/EquipCrashLog.png)
 
-This is a very rare crash that WoD has custom mitigations against.
+This is a very rare crash that WoD has custom mitigations against. To fix, type the following commands into the console:
+
+`player.unequipall`
+
+Followed by:
+
+`player.equipitem 21b3b`
 
 #### 4. Crash caused by `XAudio2_7.dll`
 Make sure your WoD folder is added to your antivirus exclusions. If it is, [download Microsoft Redist (June 2010) from here.](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
