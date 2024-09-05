@@ -30,6 +30,9 @@
   - [Blurry Textures](#blurry-textures)
   - [I can't move my mouse cursor around the whole area of my screen](#i-cant-move-my-mouse-cursor-around-the-whole-area-of-my-screen)
   - [My game performance sucks!](#my-game-performance-sucks)
+- [Gameplay Issues](#gameplay-issues)
+  - [Controls](#controls)
+  - [VATS doesn't work](#vats-doesnt-work)
 
 ## Preface
 Please help me to help yourself here. Search this page and the [FAQ](FAQ.md) if you are having issues. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
@@ -139,7 +142,12 @@ If you genuinely have followed the above steps then ensure the following:
 
 If you have ensured all of the above is right, try lowering settings in BethINI, [following this guide in the modifications channel on the Discord.](https://discord.com/channels/719714673431150627/1095988679463424000/1096709202052915250)
 
+## Gameplay Issues
 
+### Controls
+
+### VATS doesn't work
+We don't use VATS, we use VAFS - consider it like bullet time. If it won't trigger, set the VATS keybind in the Settings menu to something else.
 
 ---
 
