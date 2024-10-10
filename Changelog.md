@@ -1490,3 +1490,16 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 2. Added Actor Velocity Framework
 3. Added a few of Halffaces small object visual mods
 4. Updated Up To No Good to version 2
+
+## Wasteland of Depravity v0.9.6
+1. Updated RohZima Fallout 4 Sex Animations for AAF to v2.20
+
+## Wasteland of Depravity v0.9.7
+1. Updated RohZima Fallout 4 Sex Animations for AAF to v2.31
+2. Moved Ultrawidescreen UI fixes to their own separators to make them easier to find (scroll down in MO2)
+3. Added some 32x9 UI patches - thanks to @rilieAP for the pointers for these :)
+4. Added PaTRaN's Heather Casdin visual replacer
+5. Added Vanilla Opulence skin texture option
+
+## Wasteland of Depravity v0.9.8
+It's spoop time again
