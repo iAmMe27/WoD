@@ -1503,3 +1503,10 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 
 ## Wasteland of Depravity v0.9.8
 It's spoop time again
+
+## Wasteland of Depravity v0.9.9
+1. Fixed some borked tweaks for the Vault-Tec Armor
+2. Fixed majority of the rust face issues introduced since v0.9.8
+3. Added an optional REACTOR ENB presets
+4. Added Put Ur Gun In to the Give Me Pain and Give Me Spoop profiles
+5. Started work on a custom Wasteland of Depravity MCM :^)
