@@ -18,7 +18,7 @@ First things first: **this list contains adult content and you must be of legal 
 **I need help with something!** Start with consulting the [Common Issues page](CommonIssues.md) and the [FAQ](FAQ.md). Please help me to help yourself here. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
 
 # Navigation
-1. **[[Getting Started]](README.MD)**
+1. **[[Getting Started]](README.md)**
 2. [Installation](Installation.md)
 3. [After Install](PostInstall.md) 
 4. [Mod Setup](ModSetup.md)
