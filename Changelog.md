@@ -1510,3 +1510,23 @@ It's spoop time again
 3. Added an optional REACTOR ENB presets
 4. Added Put Ur Gun In to the Give Me Pain and Give Me Spoop profiles
 5. Started work on a custom Wasteland of Depravity MCM :^)
+
+## Wasteland of Depravity v0.9.10
+1. Updated RZF4S to v2.50
+2. Added a couple WoD community presets
+3. Added a couple of PaTRaN's presets
+
+## Wasteland of Depravity v1.0
+1. Removed the Give Me Spoop profile + all of its specific mods
+2. Rebuilt Give Me Pain to use Profile #2 as its base instead
+3. Added ZP's Fire and Smoke
+4. Added ZP's Frost and Shock
+5. Added a couple more LooksMenu presets
+6. Added More Weathervanes
+7. Added Facial Expression and Eyetracking Engine Fixes - F4SE
+8. Added Ketaros Framework AddOn - Philon NSFW Cards Series
+9. Added Picsel Comics
+10. Added All Things Natural
+11. Added Black Desert Online Hairs
+12. Added BugOut as an optional mod
+13. Fixed an infinite load screen issue on New Game
