@@ -1,12 +1,15 @@
 ![Mod Setup](img/headers/ModSetup.png)
 
-## Navigation
-1. [Getting Started](README.MD)
-2. [Installation](Installation.md)
-3. [After Install](PostInstall.md) 
-4. **[[Mod Setup]](ModSetup.md)**
-5. [Controls](Controls.md)
-6. [Common Issues](CommonIssues.md)
+<p align="center">
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/README.md">Getting Started</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Installation.md">Installation</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/PostInstall.md">After Install</a> ]
+[ Mod Setup ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Controls.md">Controls</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/CommonIssues.md">Common Issues</a> ] 
+</p>
+
+&nbsp;
 
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game. 
   
@@ -49,17 +52,3 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 4. Exit the Mod Config menu
 
 5. One that is done, make a new full save from the pause menu.
-
----
-
-<span style="float:left">
-
-### :arrow_backward: [AFTER INSTALL](PostInstall.md)
-
-</span>
-
-<span style="float:right">
-
-### [CONTROLS](Controls.md) :arrow_forward:
-
-</span>

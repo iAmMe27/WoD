@@ -1,17 +1,20 @@
 ![Post Install](img/headers/PostInstall.png)
 
+<p align="center">
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/README.md">Getting Started</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Installation.md">Installation</a> ]
+[ After Install ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/ModSetup.md">Mod Setup</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Controls.md">Controls</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/CommonIssues.md">Common Issues</a> ] 
+</p>
+
+&nbsp;
+
 Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
 > [!WARNING]
 > DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.
-
-## Navigation
-1. [Getting Started](README.MD)
-2. [Installation](Installation.md)
-3. **[[After Install]](PostInstall.md)** 
-4. [Mod Setup](ModSetup.md)
-5. [Controls](Controls.md)
-6. [Common Issues](CommonIssues.md)
 
 ## Running WoD
 Running WoD is as simple as clicking Run with the `Fallout: Wasteland of Depravity` option selected in the MO2 dropdown menu, in the top right of the window.
@@ -34,17 +37,3 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 3. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
 4. Swags Optional Stuff - Changes Brothel visitors to females only.
 5. Swags RDM Edit - Reduces the RDM headshot multipliers for some enemies to make them not 1 shot.
-
----
-
-<span style="float:left">
-
-### :arrow_backward: [INSTALLATION](Installation.md)
-
-</span>
-
-<span style="float:right">
-
-### [MOD SETUP](ModSetup.md) :arrow_forward:
-
-</span>

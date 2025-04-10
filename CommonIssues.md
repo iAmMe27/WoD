@@ -1,15 +1,17 @@
 ![Common Issues](img/headers/CommonIssues.png)
 
-## Navigation
-1. [Getting Started](README.MD)
-2. [Installation](Installation.md)
-3. [After Install](PostInstall.md)
-4. [Mod Setup](ModSetup.md)
-5. [Controls](Controls.md)
-6. **[[Common Issues]](CommonIssues.md)**
+<p align="center">
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/README.md">Getting Started</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Installation.md">Installation</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/PostInstall.md">After Install</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/ModSetup.md">Mod Setup</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Controls.md">Controls</a> ]
+[ Common Issues ] 
+</p>
+
+&nbsp;
 
 ## Contents
-- [Navigation](#navigation)
 - [Contents](#contents)
 - [Preface](#preface)
 - [Download Issues](#download-issues)
@@ -155,11 +157,3 @@ We don't use VATS, we use VAFS - consider it like bullet time. If it won't trigg
 
 ### Nick Valentine won't talk to me about a missing child!
 You forgot to investigate Vault 111 first. You have to do this in order to kickstart the main quest.
-
----
-
-<span style="float:left">
-
-:arrow_backward: [CONTROLS](Controls.md)
-
-</span>
