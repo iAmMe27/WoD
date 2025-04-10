@@ -1530,3 +1530,69 @@ It's spoop time again
 11. Added Black Desert Online Hairs
 12. Added BugOut as an optional mod
 13. Fixed an infinite load screen issue on New Game
+
+## Wasteland of Depravity v1.0.1
+1. Updated Kziitd Fetish Toolset to Beta 3
+
+## Wasteland of Depravity v1.0.2
+1. Updated AAF Violate to v1.61
+
+## Wasteland of Depravity v1.1.0
+
+### Beta 1
+1. Updated RohZima Fallout 4 Sex Animations to v2.60
+2. Added NAF
+3. Added NAF Bridge
+4. Added NAFicator (and generated the WoD specific files)
+5. Added Provocative Perks
+6. Removed AAF
+7. Tweaked All Things Natural MCM settings
+
+### Beta 2
+1. Added PipboyTabs
+2. Added REPUTATION
+3. Added MUTATION
+4. Added Family Planning Enhanced
+5. Added Milking Human Kindness
+6. Added QUAAF - quieter, balanced Animation soundfx
+7. Added Settlement Objects Expansion Pack
+
+## Beta 3
+1. Reinstalled BYOP to restore original form IDs - this should allow showers in MHK to work again
+2. Regenerated Complex Sorter patches
+3. Added Bound In Public
+4. Updated MO2 to v2.5.2
+5. Updated More Ways of Washing to v2.1
+6. Updated NAF Bridge to v0.904
+7. Added MO2 Download Manager
+8. Added MO2 FOMOD Plus
+9. Added Customizable Combat AI Nearby Object Search
+10. Fixed small fire light sources (candles, wall sconces etc)
+11. Fixed `AAF SEU: SceneInit` notification spam
+12. Fixed a couple of mod selection inconsistencies between profiles #1 and #2
+13. Fixed MCM settings across all profiles
+14. Tweaked AAF Violate settings on the Give Me Pain profile
+
+## Beta 4
+1. Updated NAF Bridge to v1.000
+2. Updated All Things Natural
+3. Updated Swag's Dommy Mommy Wasteland MCM addon
+4. Started changes to HOTC Escort clothing
+   1. *This won't affect any already spawned escorts*
+5. Adjusted a couple of appearance mods, hopefully to reduce stuttering and rust Faces
+6. Adjusted load order of all profiles some
+7. Adjusted some MCM settings
+8. Fixed a couple of duplicate ammo types - thanks to Gallahorn
+9. Attempted a fix at removing all `Full Precision` flagged outfit meshes - these cause weird blood decals and fire effects issues
+10. Added Rebuild Collection - AIO
+11. Removed Buttons
+12. Removed Europa - Fully Voiced Companion
+13. Removed Vermillion Frost - Former Enclave General
+14. Removed Mistress Passion And Exotic Coursers
+15. Removed Mistress Passion And Exotic Coursers - Fusion Girl Bodyslides
+
+## Beta 5
+1. Removed Commonwealth Cleanup & Restoration
+2. Swapped from MAIM 2 to MAIM Redux
+3. Added Engine Fixes
+4. Added MAIM Redux Complex Sorter Tags 
