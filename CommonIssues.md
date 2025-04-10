@@ -1,11 +1,11 @@
 ![Common Issues](img/headers/CommonIssues.png)
 
 <p align="center">
-[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/README.md">Getting Started</a> ]
-[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Installation.md">Installation</a> ]
-[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/PostInstall.md">After Install</a> ]
-[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/ModSetup.md">Mod Setup</a> ]
-[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Controls.md">Controls</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/README.md">Getting Started</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Installation.md">Installation</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/PostInstall.md">After Install</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/ModSetup.md">Mod Setup</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Controls.md">Controls</a> ]
 [ Common Issues ] 
 </p>
 
