@@ -1,15 +1,12 @@
 ![Common Issues](img/headers/CommonIssues.png)
 
-## Navigation
-1. [Getting Started](README.MD)
-2. [Installation](Installation.md)
-3. [After Install](PostInstall.md)
-4. [Mod Setup](ModSetup.md)
-5. [Controls](Controls.md)
-6. **[[Common Issues]](CommonIssues.md)**
+<center>
+
+[ [Getting Started](README.md) ][ [Installation](Installation.md) ][ [After Install](PostInstall.md) ][ [Mod Setup](ModSetup.md) ][ [Controls](Controls.md) ][ **[Common Issues](CommonIssues.md)** ] 
+
+</center>
 
 ## Contents
-- [Navigation](#navigation)
 - [Contents](#contents)
 - [Preface](#preface)
 - [Download Issues](#download-issues)
@@ -155,11 +152,3 @@ We don't use VATS, we use VAFS - consider it like bullet time. If it won't trigg
 
 ### Nick Valentine won't talk to me about a missing child!
 You forgot to investigate Vault 111 first. You have to do this in order to kickstart the main quest.
-
----
-
-<span style="float:left">
-
-:arrow_backward: [CONTROLS](Controls.md)
-
-</span>
