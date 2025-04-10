@@ -1,10 +1,15 @@
 ![Installation](img/headers/Installation.png)
 
-<center>
+<p align="center">
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/README.md">Getting Started</a> ]
+[ Installation ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/PostInstall.md">After Install</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/ModSetup.md">Mod Setup</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Controls.md">Controls</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/CommonIssues.md">Common Issues</a> ] 
+</p>
 
-[ [Getting Started](README.md) ][ **[Installation](Installation.md)** ][ [After Install](PostInstall.md) ][ [Mod Setup](ModSetup.md) ][ [Controls](Controls.md) ][ [Common Issues](CommonIssues.md) ] 
-
-</center>
+&nbsp;
 
 > [!TIP]
 > It is recommended that you download the LoversLab mods in your browser prior to running Wabbajack. All links to mods hosted on LoversLab can be [found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)

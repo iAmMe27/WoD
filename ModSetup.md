@@ -1,10 +1,15 @@
 ![Mod Setup](img/headers/ModSetup.png)
 
-<center>
+<p align="center">
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/README.md">Getting Started</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Installation.md">Installation</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/PostInstall.md">After Install</a> ]
+[ Mod Setup ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Controls.md">Controls</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/CommonIssues.md">Common Issues</a> ] 
+</p>
 
-[ [Getting Started](README.md) ][ [Installation](Installation.md) ][ [After Install](PostInstall.md) ][ **[Mod Setup](ModSetup.md)** ][ [Controls](Controls.md) ][ [Common Issues](CommonIssues.md) ] 
-
-</center>
+&nbsp;
 
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game. 
   

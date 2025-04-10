@@ -1,15 +1,15 @@
 ![WoD Banner](img/WoDBanner.png)
 
 <p align="center">
-
-[ **Getting Started** ]
+[ Getting Started ]
 [ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Installation.md">Installation</a> ]
 [ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/PostInstall.md">After Install</a> ]
 [ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/ModSetup.md">Mod Setup</a> ]
 [ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Controls.md">Controls</a> ]
 [ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/CommonIssues.md">Common Issues</a> ] 
-
 </p>
+
+&nbsp;
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 

@@ -1,10 +1,15 @@
 ![Post Install](img/headers/PostInstall.png)
 
-<center>
+<p align="center">
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/README.md">Getting Started</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Installation.md">Installation</a> ]
+[ After Install ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/ModSetup.md">Mod Setup</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Controls.md">Controls</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/CommonIssues.md">Common Issues</a> ] 
+</p>
 
-[ [Getting Started](README.md) ][ [Installation](Installation.md) ][ **[After Install](PostInstall.md)** ][ [Mod Setup](ModSetup.md) ][ [Controls](Controls.md) ][ [Common Issues](CommonIssues.md) ] 
-
-</center>
+&nbsp;
 
 Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
