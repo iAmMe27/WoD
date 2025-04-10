@@ -1,5 +1,7 @@
 ![WoD Banner](img/WoDBanner.png)
 
+[ <i class="fa-brands fa-readme">**[Getting Started](README.md)**</i> | [Installation](Installation.md) | ]
+
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
 *Support and general talk about Wasteland of Depravity resides on the Jolly Co-operators Discord:*
