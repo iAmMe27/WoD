@@ -1,18 +1,22 @@
 ![Installation](img/headers/Installation.png)
 
+<p align="center">
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/README.md">Getting Started</a> ]
+[ Installation ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/PostInstall.md">After Install</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/ModSetup.md">Mod Setup</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Controls.md">Controls</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/CommonIssues.md">Common Issues</a> ] 
+</p>
+
+&nbsp;
+
 > [!TIP]
 > It is recommended that you download the LoversLab mods in your browser prior to running Wabbajack. All links to mods hosted on LoversLab can be [found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)
 
 >[!WARNING]
 > I recommend that you setup 2 folders for your installation. For example, use `C:\WoD` for your installation folder and `C:\WoD Downloads` for your downloads folder.
 
-## Navigation
-1. [Getting Started](README.MD)
-2. **[[Installation]](Installation.md)**
-3. [After Install](PostInstall.md) 
-4. [Mod Setup](ModSetup.md)
-5. [Controls](Controls.md)
-6. [Common Issues](CommonIssues.md)
 
 ## Preparation
 
@@ -71,17 +75,3 @@ Set the installation location to a folder on the root of a drive, something like
 > Do not install WoD to your game folder or in any protected folders such as your Documents or Program Files.
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing.
-
----
-
-<span style="float:left">
-
-### :arrow_backward: [GETTING STARTED](README.md)
-
-</span>
-
-<span style="float:right">
-
-### [AFTER INSTALL](PostInstall.md) :arrow_forward:
-
-</span>

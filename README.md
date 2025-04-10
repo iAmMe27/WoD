@@ -1,29 +1,35 @@
 ![WoD Banner](img/WoDBanner.png)
 
+<p align="center">
+[ Getting Started ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Installation.md">Installation</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/PostInstall.md">After Install</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/ModSetup.md">Mod Setup</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/Controls.md">Controls</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/main/CommonIssues.md">Common Issues</a> ] 
+</p>
+
+&nbsp;
+
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
-*Support and general talk about Wasteland of Depravity resides on the Jolly Co-operators Discord:*
+*Support and general talk about Wasteland of Depravity resides on the iAmDiscord server:*
 
+<center>
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist) &nbsp; [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7CKSPJ)
 
+</center>
 
 # Quick Links
-:computer:  **DLAA FOR NVIDIA RTX GPU USERS, [CLICK HERE](DLAA.md)**
+:computer:  DLAA FOR NVIDIA RTX GPU USERS >[CLICK HERE](DLAA.md)<
 
-:tv:  I have an Ultrawide monitor > [CLICK ME](Ultrawide.md)
+:tv:  I have an Ultrawide monitor! >[CLICK ME](Ultrawide.md)<
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 
-**I need help with something!** Start with consulting the [Common Issues page](CommonIssues.md) and the [FAQ](FAQ.md). Please help me to help yourself here. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
+:exclamation: **I need help with something!** Start with consulting the [Common Issues page](CommonIssues.md) and the [FAQ](FAQ.md). Please help me to help yourself here. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
 
-# Navigation
-1. **[[Getting Started]](README.md)**
-2. [Installation](Installation.md)
-3. [After Install](PostInstall.md) 
-4. [Mod Setup](ModSetup.md)
-5. [Controls](Controls.md)
-6. [Common Issues](CommonIssues.md)
 
 # Preface
 Just to set some expectations and boundaries surrounding modlist development here, there's a couple things I'd like to say first.
@@ -69,18 +75,10 @@ You will need *all* of the DLC for Fallout 4 ***except*** the official HD textur
 
 # What's the difference between the 3 profiles?
 > [!TIP]
-> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*. Profile 3 is self explanatory (and before you ask, is built on Profile #1).
+> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*. Profile 3 is self explanatory (and before you ask, is built on Profile #2).
 
 # Updating Wasteland of Depravity
 Updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
 
 > [!IMPORTANT]
 > If you've added mods, you better know how to stop Wabbajack from removing them.
-
----
-
-<span style="float:right">
-
-### [INSTALLATION](Installation.md) :arrow_forward:
-
-</span>
