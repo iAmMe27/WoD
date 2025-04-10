@@ -1,10 +1,15 @@
 ![WoD Banner](img/WoDBanner.png)
 
-<center>
+<p align="center">
 
-[ **[Getting Started](README.md)** ][ [Installation](Installation.md) ][ [After Install](PostInstall.md) ][ [Mod Setup](ModSetup.md) ][ [Controls](Controls.md) ][ [Common Issues](CommonIssues.md) ] 
+[ **Getting Started** ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Installation.md">Installation</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/PostInstall.md">After Install</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/ModSetup.md">Mod Setup</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/Controls.md">Controls</a> ]
+[ <a href="https://github.com/iAmMe27/WoD/blob/readme-testing/CommonIssues.md">Common Issues</a> ] 
 
-</center>
+</p>
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
@@ -77,11 +82,3 @@ Updates are basically the same as an installation except you have to ensure that
 
 > [!IMPORTANT]
 > If you've added mods, you better know how to stop Wabbajack from removing them.
-
----
-
-<span style="float:right">
-
-### [INSTALLATION](Installation.md) :arrow_forward:
-
-</span>
