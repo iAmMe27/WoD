@@ -18,25 +18,8 @@ When starting a new game, create your character and once done, *DO NOTHING ELSE*
 > [!WARNING]
 > Do not touch MCM menus until you are either out of Vault 111 or you have loaded into the Commonwealth.
 
-#### As of v0.5, Swag has added a custom MCM setup for a slightly different experience in WoD. Here's what Swag says it does:
-
 > [!NOTE]
-> this MCM setup is for profile 2 only!
-
-```
-Best run the the following MCM Config after the original "Wasteland of Depravity" one.
-
-What does the MCM Preset "Swags Dommy Mommy Milkers Wasteland" do?
-It pretty much does 3 main things.
-
-  1. Changing NPC spawnrate primarily "Hostile ones" into mostly females, For example raiders and gunners etc.
-  2. Adjusts "if possible" all MCM options to be only targeted/ approached by female NPCs
-  3. Some personal "Quality of Life" adjustments, for example the chance of events that can happen etc.
-
-Those are pretty much the big 3 changes it does.
-
-Also if you don't like the sounds of this don't use it. Don't come at me berating me why anyone would want this or that's too much females etc. I really don't care and neither should you. Have a pleasant day.
-```
+> All profiles have an MCM setup that you *must* apply!
 
 The MCM setup is a one-click solution and will run when you tell it to. To do that;
 
@@ -52,3 +35,22 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 4. Exit the Mod Config menu
 
 5. One that is done, make a new full save from the pause menu.
+
+## Swags Dommy Mommy Milkers Wasteland
+
+> [!NOTE]
+> this MCM setup is for profile 2 only!
+
+```
+Best run the the following MCM Config after the original "Wasteland of Depravity" one.
+
+What does the MCM Preset "Swags Dommy Mommy Milkers Wasteland" do?
+It pretty much does 3 main things.
+
+  1. Adjusts "if possible" all MCM options to be only targeted/ approached by female NPCs
+  2. Some personal "Quality of Life" adjustments, for example the chance of events that can happen etc.
+
+Those are pretty much the big 3 changes it does.
+
+Also if you don't like the sounds of this don't use it. Don't come at me berating me why anyone would want this or that's too much females etc. I really don't care and neither should you. Have a pleasant day.
+```

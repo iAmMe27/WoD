@@ -1,21 +1,21 @@
 # Changelog
 
-## Wasteland of Depravity V0.1
+## V0.1
 1. Initial release - 16th Sep 2022
 
-## Wasteland of Depravity V0.1.1
+## V0.1.1
 1. Added ZeX ZBG so now you have LooksMenu sliders to create your own body shapes
 2. Updated Kreatos World & patched it in
 3. Fixed a couple of the face presets, will continue to fix these
 4. New BodySlide files generated
 5. Started to fix first person left arm issues with outfits. If you spot any invisible forearms with outfits, please let me know
 
-## Wasteland of Depravity V0.1.2
+## V0.1.2
 1. Ivy has been removed, nobody wants drama
 2. Updated Problems of Survivor to v1.4.4 - this should fix Bait
 3. Added GAU-8 Minigun - Sound Replacer for minigun go brrrrrrrr
 
-## Wasteland of Depravity V0.1.2.1
+## V0.1.2.1
 1. Added Ultrawide support (possibly, maybe) - my thanks to Swagmeister for this
 2. Added TutorialsBeGone
 3. Fixed a couple of load order issues
@@ -24,7 +24,7 @@
 6. Included BethINI v3.6.1
 7. Added a couple of new things originally intended for V0.1.3 update but I was too lazy to disable them :^)
 
-## Wasteland of Depravity V0.1.2.2
+## V0.1.2.2
 1. Fixed Nuka Ride outfits
 2. Fixed male outfits being built incorrectly in Bodyslide Studio
 3. Replaced broken ESP explorer mod with *Perchik71 - In Game MOD Explorer*
@@ -39,7 +39,7 @@
 12. Added Katie's Wardrobe - Militia Outfit
 13. Fixed a bunch of outfits regarding missing textures, incorrect material files and forearms seams
 
-## Wasteland of Depravity V0.1.2.3
+## V0.1.2.3
 1. Fixed a bunch more outfits
 2. Fixed a bunch of problems with Nuka Ride
 3. Fixed a couple of load order mistakes
@@ -51,7 +51,7 @@
 9. Added French Maid outfit
 10. Added TheKite's Handmaiden outfit
 
-## Wasteland of Depravity V0.1.2.4
+## V0.1.2.4
 1. Moved all custom armour over to the Armorsmith workbench instead of the Chem Station
 2. Added Crafting Mastery v3.5.1
 3. Added Baka Framework v1.8.0
@@ -72,18 +72,18 @@
 18. Tweaked load order again
 19. LODs updated
 
-## Wasteland of Depravity V0.1.3
+## V0.1.3
 The last update should've been V0.1.3 really, considering it has the potential to bork as save. Whoops!
 
 1. Fixed load order issues that caused problems in Nuka World
 
-## Wasteland of Depravity V0.1.3.1
+## V0.1.3.1
 1. Fixed a critical issue with custom races
 2. Added the rest of the FallUI HUD family
 3. Added Thorn Jacket
 4. Added The Naked Fatigues
 
-## Wasteland of Depravity V0.1.3.2
+## V0.1.3.2
 1. Added OCDecorator
 2. Added LiveDismemberment
 3. Added Classic Melee Pack
@@ -97,14 +97,14 @@ The last update should've been V0.1.3 really, considering it has the potential t
 11. Started work on a custom music merge
 12. Tweaked merged music - there should be a larger variety of music
 
-## Wasteland of Depravity V0.1.3.3
+## V0.1.3.3
 1. Added This is Trash - A Scrapping Alternative
 2. Removed Scrap Everything
 3. Attempted to fix currently included presets
 4. Swapped female skin mod to Pride of Valhalla
 5. Updated Nuka Ride to v5.0.5
 
-## Wasteland of Depravity V0.1.3.4
+## V0.1.3.4
 1. Added Mosin Nagant Rifle
 2. Added Hunting Shotgun
 3. Added Remote Explosives
@@ -116,7 +116,7 @@ The last update should've been V0.1.3 really, considering it has the potential t
 9. Added more stuff for profile #3
 10. Updated UAAFP
 
-## Wasteland of Depravity V0.1.4
+## V0.1.4
 New save needed!
 1. Removed AWKCR and its patches as its no longer needed
 2. Removed Boston Devious Helper
@@ -154,7 +154,7 @@ New save needed!
 34. Regenned FIS sorter patches
 35. Tweaked MCM settings.
 
-## Wasteland of Depravity V0.1.4.1
+## V0.1.4.1
 1. Added Improved Map with Visible Roads
 2. Added Keep Radiants in the Commonwealth
 3. Added Who's The General - Minutemen Quest Cleanup
@@ -195,10 +195,10 @@ New save needed!
 38. Regenned FIS sorter patches
 39. ESL'd a bunch more plugins
 
-## Wasteland of Depravity V0.1.4.2
+## V0.1.4.2
 1. Fixed load order issues causing issues with weapon workbenches
 
-## Wasteland of Depravity V0.1.4.3
+## V0.1.4.3
 1. Removed TheKite's Handmaiden 
    1. This is because the FusionGirl ports out there are either for an old version of FG or are incomplete. I was unable to properly port myself.
 2. Replaced Boston FPS Fix with Previsibines Repair Pack (PRP)
@@ -209,7 +209,7 @@ New save needed!
 7. Added Wheel Menu - FallUIified
 8. Removed some unnecessary mods/overwritten misc files, mostly profile #3 stuff
 
-## Wasteland of Depravity V0.1.4.4
+## V0.1.4.4
 1. Hotfix for incorrect MCM settings
 2. Added AAF Spectator Whistle Sound Replacer
 3. Added Gloomy Glass
@@ -217,7 +217,7 @@ New save needed!
 5. Moar profile #3 stuff
 6. Updated Nuka Ride to v5.0.6
 
-## Wasteland of Depravity V0.1.4.5
+## V0.1.4.5
 1. Added Courser X-92 Power Suit
 2. Added Marine Armor Expanded
 3. Added Eli's Armour Compendium
@@ -228,7 +228,7 @@ New save needed!
 8. Updated Nuka Ride to v5.0.7
 9. Regenned FIS sorter patches
 
-## Wasteland of Depravity V0.1.4.6
+## V0.1.4.6
 1. Fixed a couple of outfit recipe issues
 2. Left a surprise in a crate near Vault 111 >_>
 3. Changed Ivy texture
@@ -236,7 +236,7 @@ New save needed!
 5. Added No More Local Leader for Crafting Benches
 6. Updated Commonwealth Captives
 
-## Wasteland of Depravity V0.1.4.7
+## V0.1.4.7
 1. Fixed an issue in Hangman's Alley - it's now a viable home base again!
 2. Fixed a bunch of armour clipping on ported outfits
 3. Fixed a couple areas with broken precombine/previs stuff
@@ -275,7 +275,7 @@ New save needed!
 36. Added Laser Weapons 1st Person Reposition
 37. Added Bullet Count Reload System
 
-## Wasteland of Depravity V0.1.4.8
+## V0.1.4.8
 This stuff was originally going to be part of the next big update but some glaring load order issues forced an earlier update.
 
 1. Added EoW - Pre-War Books Retexture
@@ -283,7 +283,7 @@ This stuff was originally going to be part of the next big update but some glari
 3. Regenerated Precombine/Previs stuff for a few locations
 4. Fixed some critical load order issues
 
-## Wasteland of Depravity V0.1.5
+## V0.1.5
 1. Added Vault Girl Statues
 2. Added Obi's BunnyGirl
 3. Added Kirs Freckles
@@ -382,7 +382,7 @@ This stuff was originally going to be part of the next big update but some glari
 96. Fixed some more previsibines
 97. Regenned M8r Complex Sorter patches
 
-## Wasteland of Depravity V0.1.5.1
+## V0.1.5.1
 1. Swapped Fallout 4 HD Overhaul from the 4k version to the 2k version
 2. Added Vivid Fallout AIO 
 3. Added Perfect Landscape by Pfuscher
@@ -411,12 +411,12 @@ This stuff was originally going to be part of the next big update but some glari
 26. Updated Nuka Ride to v5.1.5
 27. Updated Nuka Ride xVASynth to v5.1
 
-## Wasteland of Depravity V0.1.5.2
+## V0.1.5.2
 1. Tweaked load order of a couple things
 2. Updated Nuka Ride to v5.1.6
 3. Fixed a few bugs, mostly with outfits
 
-## Wasteland of Depravity V0.1.6
+## V0.1.6
 1. Added Quick Change Armor Menu
 2. Added Screen Archer Menu + UW patches
 3. Added Looks Mirror
@@ -441,7 +441,7 @@ This stuff was originally going to be part of the next big update but some glari
 22. Removed American 180
 23. Downscaled some face tattoo textures to 1k to prevent rust face issues
 
-## Wasteland of Depravity V0.1.7
+## V0.1.7
 1. Added Navel Piercings Collection S1
 2. Added Navel Piercings Collection S1 - FusionGirl Bodyslide Files
 3. Added Accuracy International AX50 Anti-Materiel Rifle
@@ -498,10 +498,10 @@ This stuff was originally going to be part of the next big update but some glari
 
 On the last note:- if you have a location that you feel should be safe to sleep in but its not and you get interrupted, please let me know as I have made a custom edit to the mod responsible to allow for more generic location exclusions.
 
-## Wasteland of Depravity V0.1.7.1
+## V0.1.7.1
 1. Updated UAP
 
-## Wasteland of Depravity V0.1.7.2
+## V0.1.7.2
 1. Updated BodyTalk3 to the December 2022 release
 2. Updated Human Resources to v11b
 3. Updated MCM Settings Manager to v1.2
@@ -535,10 +535,10 @@ On the last note:- if you have a location that you feel should be safe to sleep 
 31. Updated Thermal Vision Framework to v1.4
 32. Added some FallUI HUD presets
 
-## Wasteland of Depravity V0.1.7.2 to V0.1.7.8 
+## V0.1.7.2 to V0.1.7.8 
 1. Various mod updates to keep the list installable
 
-## Wasteland of Depravity V0.2
+## V0.2
 1. Removed MCG as most of its functionality is redundant and it was just adding script load
 2. Removed Assimilation because of its general bugginess and likelihood to crap out your saves
 3. Removed AAF MSWL
@@ -604,13 +604,13 @@ On the last note:- if you have a location that you feel should be safe to sleep 
 
 The issue with the M249 Para is unfixable as the animations for it are made with a custom skeleton that is not compatible with the ZeX skeleton. See the Combined Arms mod page for more info.
 
-## Wasteland of Depravity V0.2.0.1
+## V0.2.0.1
 1. Fixed non-working BodyGen
 2. Fixed CTD caused by the M4 in a Weapons Workbench
 3. Fixed issue with incorrect conditions on the StartMeUp menus
 4. Fixed an issue that prevented the MoreSpawns configuration item from being given to you
 
-## Wasteland of Depravity V0.3
+## V0.3
 1. Removed Fallout 4 HD Overhaul 2k
 2. Removed D.E.C.A.Y
 3. Removed More Ghouls
@@ -694,7 +694,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 81. Fixed some BodyGen issues
 82. Regenerated LODs
 
-## Wasteland of Depravity V0.3.0.1
+## V0.3.0.1
 1. Added Maya Race Parallax Fix to solve the slight skin texture issue
 2. Fixed the missing bodyslides for:
    1. TC Sportswear
@@ -709,11 +709,11 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 7. Updated Nuka Ride to v6.1.0
 8. Update Nuka Ride Fusion Girl Bodyslides to v1.02
 
-## Wasteland of Depravity V0.3.0.2
+## V0.3.0.2
 1. Updated Nuka Ride xVASynth Voiceover to v6.1
 2. Added a couple of WoD Community LooksMenu presets
 
-## Wasteland of Depravity V0.3.0.3
+## V0.3.0.3
 1. Fixed the random body colour glitch - turns out it was caused by ENB's Complex Parallax ¯\_(ツ)_/¯
 2. Removed the Maya Parallax Fix as it's now no longer needed
 3. Removed the boring as vault start
@@ -726,7 +726,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 10. Updated Nuka Ride FusionGirl Bodyslide Files to v1.03
 11. Updated REACTOR ENB
 
-## Wasteland of Depravity V0.3.1
+## V0.3.1
 1. Fixed an issue with Serene skin overwriting the dirty skin textures that a lot of human enemies use
 2. Fixed an issue with a couple weapon object mods showing up in every modification menu
 3. Fixed the Nox outfit not being built for female characters
@@ -745,7 +745,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 15. Regenerated Complex Sorter patches
 16. Swapped back to Nuka Ride 6 Bodyslide for Fusion Girl by N.Gamma v1.02 as v1.03 is not available any longer
 
-### Wasteland of Depravity V0.3.1.1
+### V0.3.1.1
 1. Fixed a CTD caused by miniguns
 2. Fixed an issue with The Deliverer weapon
 3. Actually fixed Heather Casdin Fusion Girl port this time :^)
@@ -787,7 +787,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 38. Generated Previsibine information for the entirety of WoD
     1.  *So many thanks to Kaeltis for spending the time figuring out how to and then generating all of this stuff <3*
 
-## Wasteland of Depravity v0.3.1.2
+## v0.3.1.2
 1. Updated AAF Sex Em Up to v1.16
 2. Updated Sex Harassment to v1.18.1
 3. Updated VTAW Gunners to v3.0
@@ -800,14 +800,14 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 10. Added VTAW Settlers
 11. Removed Whipped and Branded for now, until the LoversLab page returns to reality 
 
-## Wasteland of Depravity v0.3.1.3
+## v0.3.1.3
 1. Removed Nuka Ride xVASynth Voiceover
 2. Added Nuka Ride 6.1 Voices by Axary (xVASynth ) and Kalistara (11labs)
 3. Added Critical Hits Outside of VATS
 4. Added VAFS Redux
 5. Fixed an issue with the VTAW Utility Pack that meant raiders were walking around half naked :^)
 
-## Wasteland of Depravity v0.3.1.4
+## v0.3.1.4
 1. Fixed an issue with one of the Wastelander outfits
 2. Fixed a lot of *under-the-hood* issues with various mods
 3. Fixed an issue with the Nuka World ESM file
@@ -819,15 +819,15 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 9. Packed some texture mods into archives
 10. Removed the Custom Previsibine stuff for now as it was causing poor performance and CTDs for some people. A proper investigation is needed to understand why but for now, a couple of smaller and more basic patches have been generated.
 
-## Wasteland of Depravity v0.3.1.5
+## v0.3.1.5
 1. Fixed the generally broken previs by removing the ELFX Previs Patch and adjusting load order of a couple of ESPs
 
-## Wasteland of Depravity v0.4
+## v0.4
 1. Fixed a few previs conflicts in Sanctuary and Bunker Hill
 2. Solved the Power Armor CTD issue
 3. Updated a couple of texture mods
 
-## Wasteland of Depravity v0.5
+## v0.5
 1. Removed Nuka Ride
    1. My intention for Nuka Ride was always to keep it in until I had played it through. I've since done this and now I've removed it to make way for other mods (*including a playthrough of Nuka World that I haven't ever done*)
 2. Added a new MCM setup from Swagmeister
@@ -875,11 +875,11 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 44. Updated Captive Tattoos to v3.3
 45. Updated Patch for animations to v10.0
 
-## Wasteland of Depravity v0.5.0.1
+## v0.5.0.1
 1. Updated AAF Violate to v1.6 Beta 5
 2. Added AnotherOne Brutal Death
 
-## Wasteland of Depravity v0.6
+## v0.6
 1. Added Commonwealth Captives - More Female NPCs
 2. Added Smith and Wesson M-P 2.0
 3. Added some more tattoo overlays
@@ -910,14 +910,14 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 28. Updated AAF Spectators to v1.4
 29. Default ENB is now Quantum Horizons *but* you can choose Reactor from within MO2 if you prefer it
 
-## Wasteland of Depravity v0.6.0.1
+## v0.6.0.1
 1. Fixed the missing ENB options
 2. Fixed the camera settings
    1. You'll need to reapply the MCM settings for this
 3. Tweaked the night brightness of the Quantum Horizons ENB
 4. Added Swagmeisters V for Valkyrie Bodyslide preset
 
-## Wasteland of Depravity v0.6.1
+## v0.6.1
 1. Packaged the following mods into BA2 archives to try help the stuttering in game
    1. Vtaw Wardrobe 6 Materials
    2. Vtaw Wardrobe 7 Materials
@@ -950,7 +950,7 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 9. Removed Truby Widescreen stuff
 10. Added Ultra Wide Interface (21x9)
 
-## Wasteland of Depravity v0.6.2
+## v0.6.2
 1. Added Rebalance of Damage Modifiers
 2. Added Pip-Pad Sleeve Fixes
 3. Added F4SE Outfit Redress Fix
@@ -980,24 +980,24 @@ The issue with the M249 Para is unfixable as the animations for it are made with
 26. Updated Screen Archer Menu
 27. Tweaked the ENB some
 
-## Wasteland of Depravity v0.6.2.1
+## v0.6.2.1
 1. Swapped Buffout NG back to regular Buffout
 2. Tweaked the ENB some more
 3. Changed skin texture selection so only Pride of Valhalla is enabled by default
 4. Reconstructed and repackaged the Cridowskin archive
 5. Added Enhanced Blood - Better Performance
 
-## Wasteland of Depravity v0.6.2.2 - Hotfix
+## v0.6.2.2 - Hotfix
 1. Added Interior NavCut Fix
 2. Updated Buffout 4 to v1.28.3
 3. Re-added Buffout 4 NG
 
 Buffout 4 NG is currently enabled by default due to some issues with the regular version of Buffout 4 and stability, especially in combat situations.
 
-## Wasteland of Depravity v0.6.2.3
+## v0.6.2.3
 1. Updated Commonwealth Captives NPC Patch
 
-## Wasteland of Depravity v0.6.2.4
+## v0.6.2.4
 1. Added Precious Metal Bars - Contraptions Collision Fix
 2. Added Institute Suit
 3. Created crafting recipes for Rad-Ban Sunglasses and the GITS Motoko Kusanagi outfits
@@ -1008,7 +1008,7 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 8. Removed Baka ScrapHeap in favour of Buffout's memory manager
 8. Removed Faster Workshop in favour of Buffout's patch
 
-## Wasteland of Depravity v0.6.2.5
+## v0.6.2.5
 1. Updated Institute Suit
 2. Updated Interior NavCut Fix
 3. Updated AAF to v171-0 beta
@@ -1016,7 +1016,7 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 5. Updated WoD Community LooksMenu presets
 6. Disabled AAF NativeSync for now until it gets an update to match the latest AAF version
 
-## Wasteland of Depravity v0.6.3
+## v0.6.3
 1. Removed Lewd Talks
 2. Added To Your Face FO4
 3. Added NAC X Fogline Fix - White Landscape Fix
@@ -1029,7 +1029,7 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 10. Changed up the music mods
 11. New main menu
 
-## Wasteland of Depravity v0.6.3.1
+## v0.6.3.1
 1. Added some new combat music
 2. Tweaked the music some more
 3. Tweaked the ENB brighness for night and interiors
@@ -1045,7 +1045,7 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 13. Added Commonwealth Warfare - Realistic Gun Sounds and Bullet Cracks
 14. Updated Workshop Framework to v2.3.9
 
-## Wasteland of Depravity v0.7
+## v0.7
 1. Added Lush Ambiance - Far Harbor
 2. Added Anto Hair Pack
 3. Added Obi's Sportswear
@@ -1063,15 +1063,15 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 15. Removed AAF NativeSync (no longer available)
 16. Removed The Will of Atom (no longer available)
 
-## Wasteland of Depravity v0.7.1
+## v0.7.1
 1. Updated AAF Violate to v1.60 Beta 6
 2. Set Uneducated Shooter to be disabled by default
 
-## Wasteland of Depravity v0.7.2
+## v0.7.2
 1. Updated AAF SEU to v1.19
 2. Added Disk Cache Enabler
 
-## Wasteland of Depravity v0.7.3
+## v0.7.3
 1. ESL flagged a bunch of stuff
 2. Added Community Fixes Merged
 3. Added Blocking Overhaul
@@ -1088,16 +1088,16 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
    1. Also tweaked Disable Exit Save to stop it from disabling Autosaves
 14. Added some spicy new content - you'll know it when you see it :^)
 
-## Wasteland of Depravity v0.7.3.1
+## v0.7.3.1
 1. Fixed a main menu CTD issue
 
-## Wasteland of Depravity v0.7.4
+## v0.7.4
 1. Removed the Oct 23 Spoopy Profile
 2. Added Deadeye
 3. Added Loot Detector Less Flashy
 4. Tweaked Rusty Face Fix settings to reduce crashes
 
-## Wasteland of Depravity v0.8
+## v0.8
 1. Tried to fix the invisible Vault 111 corpse
 2. Fixed the missing hands with the Farmhand Outfit
 3. Changed the SR25 rifle to use vanilla .308 rounds instead of the custom 7.62 NATO rounds
@@ -1165,10 +1165,10 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 62. Updated Patch for animations
 63. Updated ENB Binaries to v496
 
-## Wasteland of Depravity v0.8.1
+## v0.8.1
 1. Downgraded Sex Harassment back to v1.18.3 as newer versions appear to be fairly buggy
 
-## Wasteland of Depravity v0.8.2
+## v0.8.2
 1. Disabled Baka ScrapHeap stuff in preference of Buffout
 2. Fixed missing KiLoader Satellite file (you should be able to use Reactor now)
 3. Fixed missing Complex Sorter patches for profile #1
@@ -1176,11 +1176,11 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 5. Updated AAF Sex Harassment to v1.19.4
 6. Added Easier Crouched Steadying
 
-## Wasteland of Depravity v0.8.2.1
+## v0.8.2.1
 1. Tweaked both ENB's Distance Fade fog settings so now they look much better
 2. Removed Invisible Dead Body Fixer as it was breaking the start of the game
 
-## Wasteland of Depravity v0.9 Previews
+## v0.9 Previews
 
 ## Preview Build 1
 1. Resolved a potential script conflict between Start Me Up and Intro Tweaks by merging script changes
@@ -1364,15 +1364,15 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 19. Updated Community Fixes Merged to v2.6.0
 20. Replaced the Bobbleheads with better versions
 
-## Wasteland of Depravity v0.9.0.1
+## v0.9.0.1
 1. Updated Kziitd Fetish Toolset to Beta 2.3
 2. Updated ENB Binaries to v0501
 3. Switched DLAA off by default
 
-## Wasteland of Depravity v0.9.0.2 
+## v0.9.0.2 
 1. Hotfix for missing ENB files
 
-## Wasteland of Depravity v0.9.0.3
+## v0.9.0.3
 1. Fixed missing Vault Girl Statue textures
 2. Removed ENB Extender for FO4
 3. Removed KiLoader for FO4 + the KiLoader Satellite file
@@ -1390,15 +1390,15 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 8. Added Hot Collectible Magazines and Post Cards to profile #2
 9. Compiled against FO4 v1.10.984.0
 
-## Wasteland of Depravity v0.9.0.4
+## v0.9.0.4
 1. Hotfix for the Chibako's Choice skin texture
 
-## Wasteland of Depravity v0.9.0.5
+## v0.9.0.5
 1. Actually fixed Chibako's Choice skin texture this time
    1. If it's still borked for you, delete the mod in the mods folder and then rerun Wabbajack
 2. Swapped Vault Tec Armor Redux for its new VTAC Armor Redux version
 
-## Wasteland of Depravity v0.9.1
+## v0.9.1
 1. Added Servitron and the matching FG Bodyslides
 2. Added Sprint Jump AP Fix
 3. Added Titkit - FO4 Edition
@@ -1413,13 +1413,13 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 11. Updated SAM Enhanced Animations to v1.4.1
 12. Made a custom fix for Ketaros Treasures build category not having an icon
 
-## Wasteland of Depravity v0.9.1.1
+## v0.9.1.1
 1. Hotfix for messed up Servitron files
 
-## Wasteland of Depravity v0.9.1.2
+## v0.9.1.2
 1. Small update to allow the modlist to be installable again - SAM Enhanced Animations was reuploaded with the same version number.
 
-## Wasteland of Depravity v0.9.2
+## v0.9.2
 1. Implemented custom install solution for Servitron so you no longer need to manually run the holotape
 2. Implemented a script based band-aid fix for the equip crash - the true root cause is still not yet known
 3. Made it so the game is always active, even when tabbed out
@@ -1457,11 +1457,11 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 34. Started fixing sights that render wrong on AMD & Intel GPU's - enable the `WoD - AMD Fixes` mod in the `AMD & INTEL GPU FIXES` separator
 35. Shuffled the load order of a couple of mods around so now FallUI dialog boxes are back 
 
-## Wasteland of Depravity v0.9.2.1
+## v0.9.2.1
 1. Updated AAF Autonomy Enhanced to v3.000c
 2. Added Everyone's Best Friend
 
-## Wasteland of Depravity v0.9.3
+## v0.9.3
 1. Updated Kziitd's Fetish Toolset to Beta 2.4
 2. Introduced the `Give Me Pain` profile complete with all its necessary gameplay changes
 3. Added some more face presets
@@ -1470,7 +1470,7 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 6. Added Crazy Animations (Rug Version)
 7. Added Polaria Systems
 
-## Wasteland of Depravity v0.9.4
+## v0.9.4
 1. Added M1928A1 Thompson
    1. Also replaced the MP5 as the Silver Shroud quest weapon
 2. Added Integrated Automatron
@@ -1484,39 +1484,39 @@ Buffout 4 NG is currently enabled by default due to some issues with the regular
 10. Removed Sex Harassment - KFT Patch
 11. Repacked Polaria Systems so now you shouldn't see the void when entering the dungeon
 
-## Wasteland of Depravity v0.9.5
+## v0.9.5
 1. Added Enhanced Movement
    1. This adds some neat movement features
 2. Added Actor Velocity Framework
 3. Added a few of Halffaces small object visual mods
 4. Updated Up To No Good to version 2
 
-## Wasteland of Depravity v0.9.6
+## v0.9.6
 1. Updated RohZima Fallout 4 Sex Animations for AAF to v2.20
 
-## Wasteland of Depravity v0.9.7
+## v0.9.7
 1. Updated RohZima Fallout 4 Sex Animations for AAF to v2.31
 2. Moved Ultrawidescreen UI fixes to their own separators to make them easier to find (scroll down in MO2)
 3. Added some 32x9 UI patches - thanks to @rilieAP for the pointers for these :)
 4. Added PaTRaN's Heather Casdin visual replacer
 5. Added Vanilla Opulence skin texture option
 
-## Wasteland of Depravity v0.9.8
+## v0.9.8
 It's spoop time again
 
-## Wasteland of Depravity v0.9.9
+## v0.9.9
 1. Fixed some borked tweaks for the Vault-Tec Armor
 2. Fixed majority of the rust face issues introduced since v0.9.8
 3. Added an optional REACTOR ENB presets
 4. Added Put Ur Gun In to the Give Me Pain and Give Me Spoop profiles
 5. Started work on a custom Wasteland of Depravity MCM :^)
 
-## Wasteland of Depravity v0.9.10
+## v0.9.10
 1. Updated RZF4S to v2.50
 2. Added a couple WoD community presets
 3. Added a couple of PaTRaN's presets
 
-## Wasteland of Depravity v1.0
+## v1.0
 1. Removed the Give Me Spoop profile + all of its specific mods
 2. Rebuilt Give Me Pain to use Profile #2 as its base instead
 3. Added ZP's Fire and Smoke
@@ -1531,68 +1531,73 @@ It's spoop time again
 12. Added BugOut as an optional mod
 13. Fixed an infinite load screen issue on New Game
 
-## Wasteland of Depravity v1.0.1
+## v1.0.1
 1. Updated Kziitd Fetish Toolset to Beta 3
 
-## Wasteland of Depravity v1.0.2
+## v1.0.2
 1. Updated AAF Violate to v1.61
 
-## Wasteland of Depravity v1.1.0
-
-### Beta 1
-1. Updated RohZima Fallout 4 Sex Animations to v2.60
-2. Added NAF
-3. Added NAF Bridge
-4. Added NAFicator (and generated the WoD specific files)
-5. Added Provocative Perks
-6. Removed AAF
-7. Tweaked All Things Natural MCM settings
-
-### Beta 2
-1. Added PipboyTabs
-2. Added REPUTATION
-3. Added MUTATION
-4. Added Family Planning Enhanced
-5. Added Milking Human Kindness
-6. Added QUAAF - quieter, balanced Animation soundfx
-7. Added Settlement Objects Expansion Pack
-
-## Beta 3
-1. Reinstalled BYOP to restore original form IDs - this should allow showers in MHK to work again
-2. Regenerated Complex Sorter patches
-3. Added Bound In Public
-4. Updated MO2 to v2.5.2
-5. Updated More Ways of Washing to v2.1
-6. Updated NAF Bridge to v0.904
-7. Added MO2 Download Manager
-8. Added MO2 FOMOD Plus
-9. Added Customizable Combat AI Nearby Object Search
-10. Fixed small fire light sources (candles, wall sconces etc)
-11. Fixed `AAF SEU: SceneInit` notification spam
-12. Fixed a couple of mod selection inconsistencies between profiles #1 and #2
-13. Fixed MCM settings across all profiles
-14. Tweaked AAF Violate settings on the Give Me Pain profile
-
-## Beta 4
-1. Updated NAF Bridge to v1.000
-2. Updated All Things Natural
-3. Updated Swag's Dommy Mommy Wasteland MCM addon
-4. Started changes to HOTC Escort clothing
+## v1.1.0
+1. Added NAF
+2. Added NAF Bridge
+3. Added NAFicator (and generated the WoD specific files)
+4. Added Provocative Perks
+5. Added MO2 Download Manager
+6.  Added MO2 FOMOD Plus
+7.  Added Customizable Combat AI Nearby Object Search
+8.  Added PipboyTabs
+9.  Added REPUTATION
+10. Added MUTATION
+11. Added Family Planning Enhanced
+12. Added Milking Human Kindness
+13. Added QUAAF - quieter, balanced Animation soundfx
+14. Added Settlement Objects Expansion Pack
+15. Added Bound in Public
+16. Added Mentats - F4SE (was called Engine Fixes)
+17. Added MAIM Redux Complex Sorter Tags 
+18. Added Rebuild Collection - AIO
+19. Tweaked All Things Natural MCM settings
+20. Reinstalled BYOP to restore original form IDs - this should allow showers in MHK to work again
+21. Regenerated Complex Sorter patches
+22. Updated RohZima Fallout 4 Sex Animations to v2.60
+23. Updated MO2 to v2.5.2
+24. Updated More Ways of Washing to v2.1
+25. Updated NAF Bridge to v0.904
+26. Updated NAF Bridge to v1.000
+27. Updated All Things Natural
+28. Updated Swag's Dommy Mommy Wasteland MCM addon
+29. Fixed small fire light sources (candles, wall sconces etc)
+30. Fixed `AAF SEU: SceneInit` notification spam
+31. Fixed a couple of mod selection inconsistencies between profiles #1 and #2
+32. Fixed MCM settings across all profiles
+33. Fixed missing mipmaps for CC's HQ Quarry Textures
+34. Tweaked AAF Violate settings on the Give Me Pain profile
+35. Started changes to HOTC Escort clothing
    1. *This won't affect any already spawned escorts*
-5. Adjusted a couple of appearance mods, hopefully to reduce stuttering and rust Faces
-6. Adjusted load order of all profiles some
-7. Adjusted some MCM settings
-8. Fixed a couple of duplicate ammo types - thanks to Gallahorn
-9. Attempted a fix at removing all `Full Precision` flagged outfit meshes - these cause weird blood decals and fire effects issues
-10. Added Rebuild Collection - AIO
-11. Removed Buttons
-12. Removed Europa - Fully Voiced Companion
-13. Removed Vermillion Frost - Former Enclave General
-14. Removed Mistress Passion And Exotic Coursers
-15. Removed Mistress Passion And Exotic Coursers - Fusion Girl Bodyslides
+36. Adjusted a couple of appearance mods, hopefully to reduce stuttering and rust Faces
+37. Adjusted load order of all profiles some
+55. Adjusted some MCM settings
+56. Fixed a couple of duplicate ammo types - thanks to Gallahorn
+57. Attempted a fix at removing all `Full Precision` flagged outfit meshes - these cause weird blood decals and fire effects issues 
+58. Removed AAF
+59. Removed Buttons
+60. Removed Europa - Fully Voiced Companion
+61. Removed Vermillion Frost - Former Enclave General
+62. Removed Mistress Passion And Exotic Coursers
+63. Removed Mistress Passion And Exotic Coursers - Fusion Girl Bodyslides
+64. Removed Commonwealth Cleanup & Restoration
+65. Swapped from MAIM 2 to MAIM Redux
+66. New main menu with custom written music :^)
 
-## Beta 5
-1. Removed Commonwealth Cleanup & Restoration
-2. Swapped from MAIM 2 to MAIM Redux
-3. Added Engine Fixes
-4. Added MAIM Redux Complex Sorter Tags 
+## v1.1.0.1
+1. Fixed missing ENB binaries
+
+
+## v1.1.0.2
+1. Fixed an issue with BLTC and FPE effects being way too high - thanks to rilieAP
+2. Fixed MAIM and Wheel Menu interaction - should now get MAIM options in the Wheel Menu
+3. Fixed a couple of bodyslide/outfit issues
+4. Tweaked a couple of REACTOR ENB settings
+
+## v1.1.1
+1. Removed Hunting Shotgun as it was deleted from Nexus
