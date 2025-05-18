@@ -1,5 +1,7 @@
 # Changelog
 
+<Details>
+<summary>Older Updates</summary>
 ## V0.1
 1. Initial release - 16th Sep 2022
 
@@ -1601,3 +1603,39 @@ It's spoop time again
 
 ## v1.1.1
 1. Removed Hunting Shotgun as it was deleted from Nexus
+
+</Details>
+
+## v1.2
+**Built at:** `18/05/2025 09:05:43`
+
+**Info:**
+- Download size change: -1.6GB (Total: 178.4GB)
+- Install size change: -403.7MB (Total: 291.2GB)
+
+**Download Changes:**
+
+- Added [enbseries_fallout4_v0501 2025-05-11.zip](about:blank)
+- Added [EXTRA hair colors v1.0](https://www.nexusmods.com/fallout4/mods/76029)
+- Added [PaTRaN's CoTaP Standalone - Updated Presets v1.1](https://www.nexusmods.com/fallout4/mods/89548)
+- Added [PaTRaN's Curie 1k - 2k faces v1.0](https://www.nexusmods.com/fallout4/mods/87556)
+- Added [PaTRaN's Piper 1k - 2k faces v1.0](https://www.nexusmods.com/fallout4/mods/87358)
+- Added [PaTRaN's Piper 1k - 2k faces v1.0](https://www.nexusmods.com/fallout4/mods/87358)
+- Added [WoD v1.2 - Custom Main Menu.7z](about:blank)
+- Added [Commonwealth Captives NPC Patch 1.0.7.7z](https://www.loverslab.com/files/file/19169-commonwealth-captives-more-female-captives/)
+- Added [F4SE LooksMenu BodyGen invisible dead bodies fix v1.0.0](https://www.nexusmods.com/fallout4/mods/93614)
+- Added [Azar's Ponytail Hairstyles - Remade Textures (FIXED) v1.2](https://www.nexusmods.com/fallout4/mods/93394)
+- Updated [Attack of the Lobotomites to v1.0.3.1](https://www.nexusmods.com/fallout4/mods/51787)
+- Updated [Vtaw Wardrobe Preview Meshes to v1.2](https://www.nexusmods.com/fallout4/mods/78802)
+- Updated [Long Loading Times Fix to v1.0](https://www.nexusmods.com/fallout4/mods/73469)
+- Updated [Nuclear Summer - Preset for Reactor ENB and NAC X to v1.0](https://www.nexusmods.com/fallout4/mods/83572)
+- Updated [PaTRaN's Yukari and Daniela to v1.0](https://www.nexusmods.com/fallout4/mods/88765)
+- Updated [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB) to v1.5](https://www.nexusmods.com/fallout4/mods/58950)
+- Updated [F4SE ChangeHeadPart Fix to v1.0](https://www.nexusmods.com/fallout4/mods/91379)
+- Removed [NAF XML v1.2](https://www.nexusmods.com/fallout4/mods/87743)
+- Removed [Long Loading Times Fix v1.0](https://www.nexusmods.com/fallout4/mods/73469)
+- Removed [Nuclear Summer - Preset for Reactor ENB and NAC X v1.0](https://www.nexusmods.com/fallout4/mods/83572)
+- Removed [PaTRaN's Yukari and Daniela v1.0](https://www.nexusmods.com/fallout4/mods/88765)
+- Removed [enbseries_fallout4_v0501.zip](about:blank)
+- Removed [Commonwealth Captives NPC Patch 1.0.6.7z](https://www.loverslab.com/files/file/19169-commonwealth-captives-more-female-captives/)
+- Removed [F4SE ChangeHeadPart Fix v1.0](https://www.nexusmods.com/fallout4/mods/91379)
