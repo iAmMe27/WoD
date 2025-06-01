@@ -1639,3 +1639,33 @@ It's spoop time again
 - Removed [enbseries_fallout4_v0501.zip](about:blank)
 - Removed [Commonwealth Captives NPC Patch 1.0.6.7z](https://www.loverslab.com/files/file/19169-commonwealth-captives-more-female-captives/)
 - Removed [F4SE ChangeHeadPart Fix v1.0](https://www.nexusmods.com/fallout4/mods/91379)
+  
+## 1.3
+**Built at:** `01/06/2025 20:05:21`
+
+**Info:**
+- Download size change: -1.5GB (Total: 179.9GB)
+- Install size change: -2GB (Total: 293.2GB)
+
+**Download Changes:**
+
+- Added [eXofied Depravity - Fallons v2.1.0](https://www.nexusmods.com/fallout4/mods/61767)
+- Added [Miscelanous Performance Optimization v2](https://www.nexusmods.com/fallout4/mods/71732)
+- Added [The Wilderness - Now with four anomalies v2.04](https://www.nexusmods.com/fallout4/mods/53128)
+- Added [RZF4S_2_92(Fix).zip](https://www.loverslab.com/files/file/27859-rohzima-fallout-4-sex-animations-for-aaf/)
+- Added [The Wilderness - Now with four anomalies v2.04](https://www.nexusmods.com/fallout4/mods/53128)
+- Added [PaTRaN's Kasumi and Rei Nakano v1.0](https://www.nexusmods.com/fallout4/mods/92950)
+- Added [PaTRaN's Lucia - Marisol - Yukiko v1.0](https://www.nexusmods.com/fallout4/mods/94019)
+- Added [Fix Camera Clipping v1.0.2](https://www.nexusmods.com/fallout4/mods/93910)
+- Added [No Grass Enforcer - A universal weedwhacker for grass mods v1.0](https://www.nexusmods.com/fallout4/mods/93881)
+- Added [Floppy OCBP Fusion Girl v2](https://www.nexusmods.com/fallout4/mods/93880)
+- Updated [MAIM Redux - Headshots - Wounds - Bleeding - Pain - Meds to v1.03](https://www.nexusmods.com/fallout4/mods/72235)
+- Updated [NAF Bridge to v1.11](https://www.nexusmods.com/fallout4/mods/87331)
+- Updated [Fallout 4 Outfit System to v1.6.1.0](https://www.nexusmods.com/fallout4/mods/75285)
+- Updated [Pure Opulence Skin (8k - 4K) (CBBE - TWB - 3BBB Seamless) to v1.1](https://www.nexusmods.com/fallout4/mods/87136)
+- Removed [NAF Bridge v0.780](https://www.nexusmods.com/fallout4/mods/87331)
+- Removed [RZF4S_2_60.zip](https://www.loverslab.com/files/file/27859-rohzima-fallout-4-sex-animations-for-aaf/)
+- Removed [RSE_II_Resources_ESM (v1.0).zip](https://www.loverslab.com/files/file/9023-aaf-rse-ii-framework-resources-esm-011020/)
+- Removed [Fallout 4 Outfit System v1.6.1.0](https://www.nexusmods.com/fallout4/mods/75285)
+- Removed [MAIM Redux - Headshots - Wounds - Bleeding - Pain - Meds v1.02](https://www.nexusmods.com/fallout4/mods/72235)
+- Removed [FOMOD Plus - A Mod Installation Overhaul for Mod Organizer 2 v1.4.0](https://www.nexusmods.com/skyrimspecialedition/mods/141001)
