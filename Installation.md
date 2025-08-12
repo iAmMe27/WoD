@@ -11,8 +11,8 @@
 
 &nbsp;
 
-> [!TIP]
-> It is recommended that you download the LoversLab mods in your browser prior to running Wabbajack. All links to mods hosted on LoversLab can be [found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)
+> [!WARNING]
+> It is rrequired that you download all non-Nexus mods in your browser prior to running Wabbajack. All links to mods hosted on LoversLab can be [found here.](https://github.com/iAmMe27/WoD/wiki/)
 
 >[!WARNING]
 > I recommend that you setup 2 folders for your installation. For example, use `C:\WoD` for your installation folder and `C:\WoD Downloads` for your downloads folder.
@@ -75,3 +75,6 @@ Set the installation location to a folder on the root of a drive, something like
 > Do not install WoD to your game folder or in any protected folders such as your Documents or Program Files.
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing.
+
+# Continuing
+If wabbajack was able to install the modlist without any errors, you can continue with the [After Installation steps](PostInstall.md).

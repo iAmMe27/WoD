@@ -37,3 +37,6 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 3. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
 4. Swags Optional Stuff - Changes Brothel visitors to females only.
 5. Swags RDM Edit - Reduces the RDM headshot multipliers for some enemies to make them not 1 shot.
+
+# Continuing
+When you are comfortable with your choices and finally want to play, continue with the last step; [Mod Setup](ModSetup.md).
