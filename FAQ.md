@@ -2,6 +2,9 @@
 
 - [FAQ](#faq)
   - [Preface](#preface)
+  - [Common Wabbajack errors](#common-wabbajack-errors)
+    - [Missing files](#missing-files)
+    - [Could not find part of the path](#could-not-find-part-of-the-path)
   - [Additions](#additions)
     - [Can I add xyz?](#can-i-add-xyz)
     - [Can I merge profiles?](#can-i-merge-profiles)
@@ -21,6 +24,34 @@
   
 ## Preface
 Please help me to help yourself here. Search this page and the [Common Issues page](CommonIssues.md) if you are having issues. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
+
+## Common Wabbajack errors
+
+>[!WARNING]
+> If wabbajack throws an error, **DO NOT CLICK THE RETRY BUTTON**.  
+Clicking the retry button will delete already downloaded mods and cause them to be downladed again, wasting your time.  
+> 
+> Instead, read carefully what kind of problem Wabbajack encountered, close Wabbajack, fix the error and then start the wabbajack installation again.
+
+If you are not able to fix your Wabbajack error, or it is not listed in this list, please ask for support in our discord. Link is on the [first page](README.md) of this guide.
+
+### Missing files
+If you encounter an error looking like this:  
+![Wabbajack missing files error](img/FAQ/wj_MissingFiles.png)
+  
+Click the "Show Missing Archives" button.  
+A browser windows will open, showing the **EXACT NAMES** of the file you need to download, and a link to each file. Make sure you downloaded the correct file and the filenames match. Put the downloaded files in the Wabbajack downloads folder and start Wabbajack again.
+
+### Could not find part of the path
+If you encounter an error looking like this:  
+![Wabbajack could not find part of the path error](img/FAQ/wj_PartOfPath.png)
+
+Do the following:
+1. Close wabbajack
+2. Go to your install folder and locate the TEMP_BSA_FILES folder if it exists.
+3. Empty that folder if it exists
+4. Restart wabbajack
+5. Restart Modlist installation.
 
 ## Additions
 
