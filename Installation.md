@@ -62,7 +62,7 @@ Once you've done the steps above, you can now set Steam to download Fallout 4 bu
 ### Start Fallout 4
 Yup - start the game. ಠ_ಠ
 
-## Downloading non-Nexus mods
+## Download non-Nexus mods
 It is required that you download all non-Nexus mods in your browser prior to running Wabbajack. All links to mods not hosted on Nexus Mods can be [found here](https://github.com/iAmMe27/WoD/wiki/).
 
 > [!WARNING]
