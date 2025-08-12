@@ -147,4 +147,4 @@ And there are also a few small mods that tweak the gameplay in various ways.
 
 ## Gameplay FAQ
 We also have a Gameplay FAQ with a few common problems and requests new players often run into.
-Before asking for support on discord, have a look [here](GameplayFAQ.md)
+Before asking for support on discord, have a look [here](GameplayFAQ.md).
