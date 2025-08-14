@@ -56,6 +56,8 @@ Also if you don't like the sounds of this don't use it. Don't come at me beratin
 ```
 
 # Need support?
-If you encounter any problems during installation or have questions about mods or how things work in the modlist, please read our [Gameplay Section](Gameplay.md) for a general overview of mechanics and used mods, and our [Gameplay FAQ](GameplayFAQ.md) where we cover some of the questions we encounter the most.  
+If you encounter any problems during installation, please have a look at our [Common Issues](CommonIssues.md) page.
+If you want to an overwiew over gameplay changing mods, have a look at the [Gameplay](Gameplay.md) page.
+You maybe also want to have a look at the [Gameplay FAQ](GameplayFAQ.md) where we cover some of the questions we encounter the most.  
 
 If your question is not answered in the documentation, please feel free to ask in our discord, as stated in the Gameplay FAQ file.

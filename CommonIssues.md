@@ -21,6 +21,7 @@
     - [Incorrect Game Files](#incorrect-game-files)
     - [File/Mod not Available](#filemod-not-available)
 - [Installation Issues](#installation-issues)
+    - [Could not find part of the path]()
 - [Game Crashes](#game-crashes)
   - [Common Crashes](#common-crashes)
     - [1. Overlay Software](#1-overlay-software)
@@ -42,6 +43,21 @@
 Please help me to help yourself here. Search this page and the [FAQ](FAQ.md) if you are having issues. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
 
 ## Download Issues
+
+>[!CAUTION]
+> If wabbajack throws an error, **DO NOT CLICK THE RETRY BUTTON**.  
+Clicking the retry button will delete already downloaded mods and cause them to be downladed again, wasting your time.  
+> 
+> Instead, read carefully what kind of problem Wabbajack encountered, close Wabbajack, fix the error and then start the wabbajack installation again.
+
+If you are not able to fix your Wabbajack error, or it is not listed in this list, please ask for support in our discord. Link is on the [first page](README.md) of this guide.
+
+### Missing files
+If you encounter an error looking like this:  
+![Wabbajack missing files error](img/FAQ/wj_MissingFiles.png)
+  
+Click the "Show Missing Archives" button.  
+A browser windows will open, showing the **EXACT NAMES** of the file you need to download, and a link to each file. Make sure you downloaded the correct file and the filenames match. Put the downloaded files in the Wabbajack downloads folder and start Wabbajack again.
 
 #### Commonly Failing Downloads
 It's one of the files on the commonly failing downloads list. Wabbajack even gives you report now, please read that to know exactly what files you missed. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
@@ -72,6 +88,17 @@ You'll need to wait for a modlist update.
 3. Your storage drives are full - both the installation drive and the drive you have Wabbajack on need a free space for the installation to be possible.
 
 4. You didn't setup antivirus exclusions.
+
+### Could not find part of the path
+If you encounter an error looking like this:  
+![Wabbajack could not find part of the path error](img/FAQ/wj_PartOfPath.png)
+
+Do the following:
+1. Close wabbajack
+2. Go to your install folder and locate the TEMP_BSA_FILES folder if it exists.
+3. Empty that folder if it exists
+4. Restart wabbajack
+5. Restart Modlist installation.
 
 ## Game Crashes
 Heavily modded Bethesda games are prone to crashing at times. Generally speaking, the following is true:
