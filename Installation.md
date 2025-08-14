@@ -80,7 +80,7 @@ Set the installation location to a folder on the root of a drive, something like
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing.
 
 ### Wabbajack errors
-If you encounter any errors during the installation process, have a look at our [FAQ](FAQ.md#common-wabbajack-errors). 
+If you encounter any errors during the installation process, have a look at our [Common Issues](CommonIssues.md) page. 
 
 # Continuing
 If Wabbajack was able to install the modlist without any errors, you can continue with the [After Installation steps](PostInstall.md).
