@@ -59,8 +59,13 @@ You can adjust how many perk points you get per level.
 In MO2, search for pppl (see screenshot below), right click on it and select "Open in Explorer".  
 Then navigate through the folder structure as follows: F4SE -> Plugins.  
 There you will find the file pppl.ini  
-In the green text at the top of the file you'll find a manual about how the file works. If you just want the default (1 perk point per level), just put 2=1 and delete the rest (see screenshot below).  
+In the green text at the top of the file you'll find a manual about how the file works.  
+
+If you just want the default (1 perk point per level), just put 2=1 and delete the rest (see screenshot below).  
 Save the file and close the explorer window.  
 
 > [!WARNING]
 > If you edit one of the files included in the mod, you should ask for support in the wod-modified channel in discord, as this is now a modified modlist.
+
+![pppl search in mo2](/img/GameplayFAQ/pppl_mo2.png)
+![pppl file edit](/img/GameplayFAQ/pppl_file.png)
