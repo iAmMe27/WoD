@@ -54,7 +54,7 @@ If you are not able to fix your Wabbajack error, or it is not listed in this lis
 
 ### Missing files
 If you encounter an error looking like this:  
-![Wabbajack missing files error](img/FAQ/wj_MissingFiles.png)
+![Wabbajack missing files error](img/wj_MissingFiles.png)
   
 Click the "Show Missing Archives" button.  
 A browser windows will open, showing the **EXACT NAMES** of the file you need to download, and a link to each file. Make sure you downloaded the correct file and the filenames match. Put the downloaded files in the Wabbajack downloads folder and start Wabbajack again.
@@ -91,7 +91,7 @@ You'll need to wait for a modlist update.
 
 ### Could not find part of the path
 If you encounter an error looking like this:  
-![Wabbajack could not find part of the path error](img/FAQ/wj_PartOfPath.png)
+![Wabbajack could not find part of the path error](img/wj_PartOfPath.png)
 
 Do the following:
 1. Close wabbajack
