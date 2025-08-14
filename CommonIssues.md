@@ -59,25 +59,25 @@ If you encounter an error looking like this:
 Click the "Show Missing Archives" button.  
 A browser windows will open, showing the **EXACT NAMES** of the file you need to download, and a link to each file. Make sure you downloaded the correct file and the filenames match. Put the downloaded files in the Wabbajack downloads folder and start Wabbajack again.
 
-#### Commonly Failing Downloads
+### Commonly Failing Downloads
 It's one of the files on the commonly failing downloads list. Wabbajack even gives you report now, please read that to know exactly what files you missed. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
 
-#### Nexus Login Expired
+### Nexus Login Expired
 Your Nexus login expired. In the Wabbajack settings, log out of Nexus and then re-login.
 
 ![Nexus Relog](img/NexusRelog.png)
 
-#### Nexus Server Issue
+### Nexus Server Issue
 The Nexus server you are downloading from is having issues, try switching your preferred Nexus download server to something close to your location in the account settings. You can access this area by clicking on your account in the top right, and selecting site preferences.
 
-#### Incorrect Game Files
+### Incorrect Game Files
 Your game files are wrong - this will give a clear error in the Wabbajack log, like so:
 
 ![Game file error](img/GameFileError.png)
 
 To fix this, you need to ensure your game is set to English in Steam and then verify your game files with Steam.
 
-#### File/Mod not Available
+### File/Mod not Available
 You'll need to wait for a modlist update.
 
 ## Installation Issues
