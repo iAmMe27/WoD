@@ -11,9 +11,6 @@
 
 &nbsp;
 
-> [!TIP]
-> It is recommended that you download the LoversLab mods in your browser prior to running Wabbajack. All links to mods hosted on LoversLab can be [found here.](https://github.com/iAmMe27/WoD/wiki/LoversLab-Files)
-
 >[!WARNING]
 > I recommend that you setup 2 folders for your installation. For example, use `C:\WoD` for your installation folder and `C:\WoD Downloads` for your downloads folder.
 
@@ -65,6 +62,12 @@ Once you've done the steps above, you can now set Steam to download Fallout 4 bu
 ### Start Fallout 4
 Yup - start the game. ಠ_ಠ
 
+## Download non-Nexus mods
+It is required that you download all non-Nexus mods in your browser prior to running Wabbajack. All links to mods not hosted on Nexus Mods can be [found here](https://github.com/iAmMe27/WoD/wiki/).
+
+> [!CAUTION]
+> Currently, downloading Loverslab mods through wabbajack does not work. Even though it shows the mod page and you can click the download button, it will not pass the file check at the end and Wabbajack will throw an error. Don't skip this step, even if you successfully downloaded LL mods through wabbajack in the past.
+
 ## Wabbajack
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
 
@@ -75,3 +78,9 @@ Set the installation location to a folder on the root of a drive, something like
 > Do not install WoD to your game folder or in any protected folders such as your Documents or Program Files.
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing.
+
+### Wabbajack errors
+If you encounter any errors during the installation process, have a look at our [Common Issues](CommonIssues.md) page. 
+
+# Continuing
+If Wabbajack was able to install the modlist without any errors, you can continue with the [After Installation steps](PostInstall.md).

@@ -144,3 +144,7 @@ And there are also a few small mods that tweak the gameplay in various ways.
 > [Manual Reload](https://www.nexusmods.com/fallout4/mods/76076),
 > [Sprint Overhaul](https://www.nexusmods.com/fallout4/mods/74444),
 > [NPCs use Items](https://www.nexusmods.com/fallout4/mods/73717)
+
+## Gameplay FAQ
+We also have a Gameplay FAQ with a few common problems and requests new players often run into.
+Before asking for support on discord, have a look [here](GameplayFAQ.md).
