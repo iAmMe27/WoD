@@ -31,22 +31,6 @@ WoD uses [Integrated Automatron](https://www.nexusmods.com/fallout4/mods/85317).
 It imposes some delays and requirements before the quest may be started.  
 For more information look at the mod page linked above.
 
-> [!TIP]
-> There is a known bug in the currently integrated version of the mod that can make it really hard to start Automatron.  
-> Resolving the issue includes waiting about a week more than is needed according to the mod page and may include travelling away and to [Wattz](https://fallout.fandom.com/wiki/Wattz_Consumer_Electronics) a few times.  
->   
-> This issue will be resolved in the next update of WoD with an updated version of Integrated Automatron.  
-
-If you are stuck in the objective "Eliminate the Hostile Robots", but the fight outside Wattz does not occur, do the following:  
-**MAKE A SAFE**  
-Make sure you are where you are supposed to be near Wattz  
-Open the console and type the following commands  
-setstage 01000806 2400 (Your objective should now update to "Speak to Ada")  
-prid 0100FD5A  
-enable  
-moveto player  
-This should enable Ada, move her to you and you should be able to advance the quest.
-
 ### All interior cells are way too dark!
 Open the ENB menu by pressing SHIFT+ENTER (default keybind).  
 MAKE SURE THE Night/Interior preset is set to DEFAULT and not "Bright" under enbadaptation  
