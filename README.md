@@ -75,10 +75,13 @@ You will need *all* of the DLC for Fallout 4 ***except*** the official HD textur
 
 # What's the difference between the 3 profiles?
 > [!TIP]
-> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*. Profile 3 is self explanatory (and before you ask, is built on Profile #2).
+> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*. Profile 3 is self explanatory (and before you ask, it's built on Profile #2).
 
 # Updating Wasteland of Depravity
 Updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
 
 > [!IMPORTANT]
 > If you've added mods, you better know how to stop Wabbajack from removing them.
+
+# Continuing
+If you are sure you meet all the requirements above, you can continue with the [Installation](Installation.md).
