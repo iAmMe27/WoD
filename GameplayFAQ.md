@@ -31,7 +31,7 @@ WoD uses [Integrated Automatron](https://www.nexusmods.com/fallout4/mods/85317).
 It imposes some delays and requirements before the quest may be started.  
 For more information look at the mod page linked above.
 
-### All interior cells are way too dark!
+### All interior cells are too dark!
 Open the ENB menu by pressing SHIFT+ENTER (default keybind).  
 MAKE SURE THE Night/Interior preset is set to DEFAULT and not "Bright" under enbadaptation  
 under enbadaption, Night> Adapt Max Bightness. lower = brighter
