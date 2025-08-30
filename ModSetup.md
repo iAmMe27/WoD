@@ -11,9 +11,7 @@
 
 &nbsp;
 
-When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game. 
-  
-* When LIF gives you a pop-up at the start of the game, click `INJECT`
+When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game.  
   
 > [!WARNING]
 > Do not touch MCM menus until you are either out of Vault 111 or you have loaded into the Commonwealth.
