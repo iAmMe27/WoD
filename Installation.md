@@ -64,6 +64,7 @@ Yup - start the game. ಠ_ಠ
 
 ## Download non-Nexus mods
 It is required that you download all non-Nexus mods in your browser prior to running Wabbajack. All links to mods not hosted on Nexus Mods can be [found here](https://github.com/iAmMe27/WoD/wiki/).
+Download them and put them ***as they are*** in the Wabbajack download folder. This is the folder you're going to tell Wabbajack to download into later on. ***DO NOT EXTRACT THE ZIP FILES, PUT THEM IN THE FOLDER AS THEY ARE!***
 
 > [!CAUTION]
 > Currently, downloading Loverslab mods through wabbajack does not work. Even though it shows the mod page and you can click the download button, it will not pass the file check at the end and Wabbajack will throw an error. Don't skip this step, even if you successfully downloaded LL mods through wabbajack in the past.
