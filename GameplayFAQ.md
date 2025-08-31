@@ -6,7 +6,7 @@
     - [Asking in Discord](#asking-for-support-in-discord)
 - [Gameplay Questions and Problems](#gameplay-questions-and-problems)
     - [Automatron not starting](#automatron-is-not-starting)
-    - [Interior cells too dark](#all-interior-cells-are-way-too-dark)
+    - [Interior cells too dark](#all-interior-cells-are-too-dark)
     - [Too many perk points per level](#im-getting-too-many-perk-points-per-level)
 
 ## Before you ask questions and look for support in Discord...
