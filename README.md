@@ -83,5 +83,30 @@ Updates are basically the same as an installation except you have to ensure that
 > [!IMPORTANT]
 > If you've added mods, you better know how to stop Wabbajack from removing them.
 
+# Need Support?
+
+If you encounter any issues that are not answered in the installation routine, have a look at [Common Issues](CommonIssues.md) first.  
+Gameplay information about some key mods in the list [here](Gameplay.md).  
+There is also a [FAQ](FAQ.md) with common questions about MO2 and common ingame issues. 
+
+If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
+
+## Asking for support in Discord
+If you want to ask for support in Discord, grab the "Wasteland" role in onboarding or in "Channels & Roles" at the top of the channel list.  
+Before asking your question, please use the discord search function and check pinned messages in relevant channels.
+
+Still haven't found an answer to your problem?  
+Please make sure to ask your question in the appropriate channel.
+
+- wod-general -> General discussion about the list or included mods.
+- wod-modified -> Support-Channel for vanilla installs (if you changed files, added or deleted mods in your install, ask for support here).
+- wod-support -> Support-Channel for vanilla (unchanged) installs.
+
+[![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
+
+# Support me?
+
+If you like the modlist, consider buying me a coffee or something.  
+
 # Continuing
 If you are sure you meet all the requirements above, you can continue with the [Installation](Installation.md).
