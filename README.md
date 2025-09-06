@@ -28,9 +28,6 @@ First things first: **this list contains adult content and you must be of legal 
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 
-:exclamation: **I need help with something!** Start with consulting the [Common Issues page](CommonIssues.md) and the [FAQ](FAQ.md). Please help me to help yourself here. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
-
-
 # Preface
 Just to set some expectations and boundaries surrounding modlist development here, there's a couple things I'd like to say first.
 
@@ -107,6 +104,8 @@ Please make sure to ask your question in the appropriate channel.
 # Support me?
 
 If you like the modlist, consider buying me a coffee or something.  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7CKSPJ)
 
 # Continuing
 If you are sure you meet all the requirements above, you can continue with the [Installation](Installation.md).
