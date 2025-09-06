@@ -22,7 +22,6 @@ First things first: **this list contains adult content and you must be of legal 
     - [Accounts](#accounts)
     - [Fallout 4 Install](#fallout-4-install)
     - [DLC](#dlc)
-- [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
 - [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
 - [Need Support?](#need-support)
     - [Asking for support in Discord](#asking-for-support-in-discord)
@@ -77,10 +76,6 @@ In terms of accounts you will need:
 
 ## DLC
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.
-
-# What's the difference between the 3 profiles?
-> [!TIP]
-> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*. Profile 3 is self explanatory (and before you ask, it's built on Profile #2).
 
 # Updating Wasteland of Depravity
 Updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.

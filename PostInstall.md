@@ -16,6 +16,10 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 > [!WARNING]
 > DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.
 
+## What's the difference between the 3 profiles?
+> [!TIP]
+> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*. Profile 3 is self explanatory (and before you ask, it's built on Profile #2).
+
 ## Running WoD
 Running WoD is as simple as clicking Run with the `Fallout: Wasteland of Depravity` option selected in the MO2 dropdown menu, in the top right of the window.
 
