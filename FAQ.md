@@ -13,6 +13,11 @@
     - [Automatron is not starting](#automatron-is-not-starting)
     - [Interior cells are too dark](#all-interior-cells-are-too-dark)
     - [I'm getting too many perk points per level](#im-getting-too-many-perk-points-per-level)
+    - [Camera stuck in character creation](#camera-stuck-in-character-creation)
+    - [Ivy has no face](#i-added-ivy-but-she-has-no-face)
+    - [Kadi has no face](#kadi-has-no-face)
+    - [Sanctuary layouts clipping](#sanctuary-settlement-layouts-clip-with-existing-buildings)
+    - [Mouse cursor can't reach every edge of the screen](#my-mouse-cursor-cant-reach-the-whole-screen)
   - [Character Creation \& NPCs](#character-creation--npcs)
     - [Rotating the PC in LooksMenu](#rotating-the-pc-in-looksmenu)
     - [I have/an NPC has a neck seam](#i-havean-npc-has-a-neck-seam)
@@ -91,15 +96,61 @@ Save the file and close the explorer window.
 ![pppl search in mo2](/img/GameplayFAQ/pppl_mo2.png)
 ![pppl file edit](/img/GameplayFAQ/pppl_file.png)
 
+### Camera stuck in character creation
+If the camera is stuck behind Nate and Nora during character creation in the bathroom scene:
+- Choose your desired gender
+- Accept the default look
+- Continue the guide until you are in the Commonwealth and have done your [Mod Setup](ModSetup.md)
+- Go in 3rd person mode and turn the camera so you can see your character
+- Open the console and type: slm 14
+- Looksmenu for your character will now open and you can change the looks to whatever you want
+
+### I added Ivy, but she has no face
+This is a known issue, we are not sure yet what causes it.  
+
+To fix it, do the following:
+- Open the console and click on Ivy
+- At the top of the console there should now be Ivy's name and her RefID (in brackets)
+- Type in the console: slm RefID (for example: slm A6003491)
+- With Ivy's LooksMenu open, change her Hairstyle to something else, and change it back
+- Ivy's head should now be visible
+
+> [!TIP]
+> If the solution above does not work for you, you can install the [Wasteland Wonderglue Ivy Patch](https://www.nexusmods.com/fallout4/mods/86384?tab=files).  
+>  
+> Be aware that doing so is modifying your WoD install. Please ask your support questions in wod-support if you modfied your install.
+
+### Kadi has no face
+This is a known issue.  
+  
+To fix it, do the following:
+- Open her inventory
+- Remove her fishnet outfit and / or replace it with something else
+
+### Sanctuary settlement layouts clip with existing buildings
+If you want to use settlement layouts in sanctuary (and many other settlements), you have to remove the existing buildings.
+- Repair the buildings in sanctuary
+- While still in workshop mode, press the INSERT key (this will enable you to select more objects)
+- Now scrap each of the rebuilt houses
+
+You can now build your desired settlement layout.
+
+### My mouse cursor can't reach the whole screen
+Windows Scaling can prevent games displaying correctly, often resulting in appearing "zoomed in". To mitigate this, follow the steps outlined in the image below.  
+
+**__Remember__**: You need to do this in the Stock Game folder and not your Steam install folder!
+For Fallout 4 modlists, it's Stock Game\Fallout4.exe
+
+![Change Windows Scaling](/img/GameplayFAQ/fo4-scaling.png)
 
 ## Character Creation & NPCs
 
 ### Rotating the PC in LooksMenu
 We have a mod for that.
 
-- Right Mouse Button enables rotation;
-- Middle Mouse Button enables movement of the character up, down, left and right;
-- Shift + Mouse Wheel to zoom in and out.
+- Shift + Left Mouse Button rotates
+- Shift + Right Mouse Button moves
+- Shift + Mouse Wheel zooms in and out
 
 ### I have/an NPC has a neck seam
 A lot of FO4 skin mods don't come with matching face textures, therefore leaving an obvious seam between the neck and body. Head into the High Poly Faces REDUX MCM and enable the `Seamless High Poly Head` for the player and then follow its instructions to fix it.
@@ -116,7 +167,7 @@ No. See below.
 ### Can I play as a male PC?
 You can if you want.
 
-### How do I add/remove tattoo's?
+### How do I add/remove tattoos?
 In LooksMenu, Body sub-menu > Overlays.
 
 If they are tattoos added on defeat, you can't remove them this way, go see the guy in the Dugout Inn.
