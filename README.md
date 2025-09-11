@@ -13,13 +13,20 @@
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
-*Support and general talk about Wasteland of Depravity resides on the iAmDiscord server:*
-
-<center>
-
-[![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist) &nbsp; [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7CKSPJ)
-
-</center>
+# Content
+- [Quick Links](#quick-links)
+- [Preface](#preface)
+- [Getting Started](#getting-started)
+    - [Hardware Requirements](#hardware-requirements)
+    - [Storage Space](#storage-space)
+    - [Accounts](#accounts)
+    - [Fallout 4 Install](#fallout-4-install)
+    - [DLC](#dlc)
+- [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
+- [Need Support?](#need-support)
+    - [Asking for support in Discord](#asking-for-support-in-discord)
+- [Support me?](#support-me)
+- [Continuing](#continuing)
 
 # Quick Links
 :computer:  DLAA FOR NVIDIA RTX GPU USERS >[CLICK HERE](DLAA.md)<
@@ -27,9 +34,6 @@ First things first: **this list contains adult content and you must be of legal 
 :tv:  I have an Ultrawide monitor! >[CLICK ME](Ultrawide.md)<
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
-
-:exclamation: **I need help with something!** Start with consulting the [Common Issues page](CommonIssues.md) and the [FAQ](FAQ.md). Please help me to help yourself here. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
-
 
 # Preface
 Just to set some expectations and boundaries surrounding modlist development here, there's a couple things I'd like to say first.
@@ -73,15 +77,38 @@ In terms of accounts you will need:
 ## DLC
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.
 
-# What's the difference between the 3 profiles?
-> [!TIP]
-> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*. Profile 3 is self explanatory (and before you ask, it's built on Profile #2).
-
 # Updating Wasteland of Depravity
 Updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
 
 > [!IMPORTANT]
 > If you've added mods, you better know how to stop Wabbajack from removing them.
+
+# Need Support?
+
+If you encounter any issues that are not answered in the installation routine, have a look at [Common Issues](CommonIssues.md) first.  
+Gameplay information about some key mods in the list [here](Gameplay.md).  
+There is also a [FAQ](FAQ.md) with common questions about MO2 and common ingame issues. 
+
+If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
+
+## Asking for support in Discord
+If you want to ask for support in Discord, grab the "Wasteland" role in onboarding or in "Channels & Roles" at the top of the channel list.  
+Before asking your question, please use the discord search function and check pinned messages in relevant channels.
+
+Still haven't found an answer to your problem?  
+Please make sure to ask your question in the appropriate channel.
+
+- wod-general -> General discussion about the list or included mods.
+- wod-modified -> Support-Channel for vanilla installs (if you changed files, added or deleted mods in your install, ask for support here).
+- wod-support -> Support-Channel for vanilla (unchanged) installs.
+
+[![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
+
+# Support me?
+
+If you like the modlist, consider buying me a coffee or something.  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7CKSPJ)
 
 # Continuing
 If you are sure you meet all the requirements above, you can continue with the [Installation](Installation.md).
