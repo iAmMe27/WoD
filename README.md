@@ -78,7 +78,7 @@ In terms of accounts you will need:
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.
 
 # Updating Wasteland of Depravity
-Updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
+To update WoD, do the same steps as in installation, but point the Wabbajack install folder to your curernt WoD folder.
 
 > [!IMPORTANT]
 > If you've added mods, you better know how to stop Wabbajack from removing them.
