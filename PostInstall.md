@@ -16,9 +16,17 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 > [!WARNING]
 > DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.
 
+## Handling nxm links
+
+You can select whatever suits you best in this dialog box.
+If you click yes, MO2 will open automatically when you select "Download with Mod Manager" on a mod page on NexusMods.
+
+![nxm link dialog box](img/mo2_nxm.png)
+
 ## What's the difference between the 3 profiles?
-> [!TIP]
-> Profile #1 contains the usual depravity, Profile #2 is for coomers who like NSFW artwork and creature *interactions*. Profile 3 is self explanatory (and before you ask, it's built on Profile #2).
+Profile #1 contains the usual depravity (humans only).  
+Profile #2 is for coomers who like NSFW artwork and creature *interactions*.  
+Profile #3 is self explanatory (it makes the game harder, and before you ask, it's built on Profile #2).
 
 ## Running WoD
 Running WoD is as simple as clicking Run with the `Fallout: Wasteland of Depravity` option selected in the MO2 dropdown menu, in the top right of the window.
