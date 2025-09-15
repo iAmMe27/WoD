@@ -14,17 +14,18 @@
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
 # Content
+- [Content](#content)
 - [Quick Links](#quick-links)
 - [Preface](#preface)
 - [Getting Started](#getting-started)
-    - [Hardware Requirements](#hardware-requirements)
-    - [Storage Space](#storage-space)
-    - [Accounts](#accounts)
-    - [Fallout 4 Install](#fallout-4-install)
-    - [DLC](#dlc)
+  - [Hardware Requirements](#hardware-requirements)
+  - [Storage Space](#storage-space)
+  - [Accounts](#accounts)
+  - [Fallout 4 Install](#fallout-4-install)
+  - [DLC](#dlc)
 - [Updating Wasteland of Depravity](#updating-wasteland-of-depravity)
 - [Need Support?](#need-support)
-    - [Asking for support in Discord](#asking-for-support-in-discord)
+  - [Asking for support in Discord](#asking-for-support-in-discord)
 - [Support me?](#support-me)
 - [Continuing](#continuing)
 
