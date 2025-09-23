@@ -11,10 +11,6 @@
 
 &nbsp;
 
->[!WARNING]
-> I recommend that you setup 2 folders for your installation. For example, use `C:\WoD` for your installation folder and `C:\WoD Downloads` for your downloads folder.
-
-
 ## Preparation
 
 > [!CAUTION]
@@ -63,6 +59,13 @@ Once you've done the steps above, you can now set Steam to download Fallout 4 bu
 Yup - start the game. ಠ_ಠ
 
 ## Download non-Nexus mods
+
+>[!TIP]
+> I recommend that you setup 2 folders for your installation.  
+> For example, use `C:\WoD` for your installation folder and `C:\WoD Downloads` for your downloads folder.
+>
+> That way you will still have your downloads if you need to reinstall / reset or upgrade the list and don't need to redownload everything.
+
 It is required that you download all non-Nexus mods in your browser prior to running Wabbajack. All links to mods not hosted on Nexus Mods can be [found here](https://github.com/iAmMe27/WoD/wiki/).  
 Download them and put them ***as they are*** in the Wabbajack download folder. This is the folder you're going to tell Wabbajack to download into later on. ***DO NOT EXTRACT THE ZIP FILES, PUT THEM IN THE FOLDER AS THEY ARE!***
 
