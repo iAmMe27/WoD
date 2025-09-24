@@ -90,7 +90,10 @@ If you encounter any issues that are not answered in the installation routine, h
 Gameplay information about some key mods in the list [here](Gameplay.md).  
 There is also a [FAQ](FAQ.md) with common questions about MO2 and common ingame issues. 
 
-If the documentation provided does not provide you with an answer, of if you just want to chat and hang out, feel free to join our discord (link below).
+If the documentation provided does not provide you with an answer, or if you just want to chat and hang out, feel free to join our discord (link below).
+
+> [!WARNING]
+> Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant ***WILL NOT WORK.*** Linux installations also ***WILL NOT WORK.*** If you get it working on Linux, that's great, but not something we can officially support.
 
 ## Asking for support in Discord
 If you want to ask for support in Discord, grab the "Wasteland" role in onboarding or in "Channels & Roles" at the top of the channel list.  
