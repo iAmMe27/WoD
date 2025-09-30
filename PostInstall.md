@@ -11,6 +11,18 @@
 
 &nbsp;
 
+# Content
+- [Content](#content)
+- [After installation steps](#after-installation-steps)
+  - [Handling nxm links](#handling-nxm-links)
+  - [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
+  - [Running WoD](#running-wod)
+  - [Optional Mods](#optional-mods)
+    - [Essentials Category](#essentials-category)
+    - [YOUR CHOICES Category](#your-choices-category)
+- [Continuing](#continuing)
+
+# After installation steps
 Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
 > [!WARNING]
@@ -25,8 +37,8 @@ If you click yes, MO2 will open automatically when you select "Download with Mod
 
 ## What's the difference between the 3 profiles?
 Profile #1 contains the usual depravity (humans only).  
-Profile #2 is for coomers who like NSFW artwork and creature *interactions*.  
-Profile #3 is self explanatory (it makes the game harder, and before you ask, it's built on Profile #2).
+Profile #2 is for coomers who like NSFW artwork and creature *interactions* (yes, that means sex with creatures).  
+Profile #3 is self explanatory (it makes the game harder, and before you ask; nsfw wise, it's built on Profile #2).
 
 ## Running WoD
 Running WoD is as simple as clicking Run with the `Fallout: Wasteland of Depravity` option selected in the MO2 dropdown menu, in the top right of the window.

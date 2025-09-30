@@ -11,6 +11,13 @@
 
 &nbsp;
 
+# Content
+- [Content](#content)
+- [Mod setup](#mod-setup)
+  - [Swags Dommy Mommy Milkers Wasteland](#swags-dommy-mommy-milkers-wasteland)
+- [Need support?](#need-support)
+
+# Mod setup
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game.  
   
 > [!WARNING]
@@ -58,4 +65,4 @@ If you encounter any problems during installation, please have a look at our [Co
 If you want to an overwiew over gameplay changing mods, have a look at the [Gameplay](Gameplay.md) page.  
 You maybe also want to have a look at the [FAQ](FAQ.md) where we cover some of the questions we encounter the most.  
 
-If your question is not answered in the documentation, please feel free to ask in our discord, as stated in the Gameplay FAQ file.
+If your question is not answered in the documentation, please feel free to ask in our discord, as stated on the fist page of the [Readme](README.md).
