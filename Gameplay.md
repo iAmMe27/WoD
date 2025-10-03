@@ -1,3 +1,21 @@
+# Contents
+- [Contents](#contents)
+- [Wasteland of Depravity Gameplay](#wasteland-of-depravity-gameplay)
+  - [Profiles #1 and #2](#profiles-1-and-2)
+    - [Starting the Game](#starting-the-game)
+    - [Equipment Crafting](#equipment-crafting)
+    - [SFW Gameplay Stuff](#sfw-gameplay-stuff)
+      - [Enemies](#enemies)
+      - [Gameplay Systems](#gameplay-systems)
+      - [Weapons](#weapons)
+      - [Player Homes](#player-homes)
+      - [Settlements](#settlements)
+      - [Junk \& Misc Items](#junk--misc-items)
+    - [Quests](#quests)
+    - [NSFW Gameplay](#nsfw-gameplay)
+  - [Give Me Pain](#give-me-pain)
+- [FAQ](#faq)
+
 # Wasteland of Depravity Gameplay
 
 ## Profiles #1 and #2
@@ -145,6 +163,6 @@ And there are also a few small mods that tweak the gameplay in various ways.
 > [Sprint Overhaul](https://www.nexusmods.com/fallout4/mods/74444),
 > [NPCs use Items](https://www.nexusmods.com/fallout4/mods/73717)
 
-## Gameplay FAQ
-We also have a Gameplay FAQ with a few common problems and requests new players often run into.
-Before asking for support on discord, have a look [here](GameplayFAQ.md).
+# FAQ
+We also have a FAQ with a few common problems and requests new players often run into.
+Before asking for support on discord, have a look [there](FAQ.md).
