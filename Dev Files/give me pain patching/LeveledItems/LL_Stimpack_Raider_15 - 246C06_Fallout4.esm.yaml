@@ -1,0 +1,13 @@
+FormKey: 246C06:Fallout4.esm
+EditorID: LL_Stimpack_Raider_15
+ChanceNone: 0.85
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 023736:Fallout4.esm
+    Count: 1
+    ChanceNone: 1

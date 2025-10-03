@@ -1,0 +1,18 @@
+FormKey: 0138F6:DLCNukaWorld.esm
+EditorID: DLC04_LLD_RadRat
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0138F7:DLCNukaWorld.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 055B48:DLCNukaWorld.esm
+    Count: 1

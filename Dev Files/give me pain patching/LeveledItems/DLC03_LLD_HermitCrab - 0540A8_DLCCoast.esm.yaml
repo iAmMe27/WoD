@@ -1,0 +1,61 @@
+FormKey: 0540A8:DLCCoast.esm
+EditorID: DLC03_LLD_HermitCrab
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 065A3F:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 065A40:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 0673A2:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.25
+- Data:
+    Level: 1
+    Reference: 0673A3:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0673B3:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.25
+- Data:
+    Level: 1
+    Reference: 0673B4:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0673B6:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 07BB20:Fallout4.esm
+    Count: 4
+    ChanceNone: 0.25
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04BA11:DLCCoast.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 0540A7:DLCCoast.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0540A9:DLCCoast.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 057147:DLCCoast.esm
+    Count: 1

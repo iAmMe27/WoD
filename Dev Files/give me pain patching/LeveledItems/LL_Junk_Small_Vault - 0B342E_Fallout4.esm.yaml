@@ -1,0 +1,63 @@
+FormKey: 0B342E:Fallout4.esm
+EditorID: LL_Junk_Small_Vault
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 00000A:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 01F92F:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04835A:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 058224:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AB5:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AB5:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AB5:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AF8:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B02:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B25:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 08E36F:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 140D99:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 140D99:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 049426:Ketaros_World.esp
+    Count: 1

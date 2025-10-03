@@ -1,0 +1,47 @@
+FormKey: 06D4AB:Fallout4.esm
+EditorID: Container_Loot_Medkit_Chems_Raider
+MaxCount: 2
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 1BA1AA:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.96
+- Data:
+    Level: 1
+    Reference: 1BA1AB:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.6
+- Data:
+    Level: 1
+    Reference: 1BA1AB:Fallout4.esm
+    Count: 2
+    ChanceNone: 0.6
+- Data:
+    Level: 1
+    Reference: 249F96:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.95
+- Data:
+    Level: 1
+    Reference: 249F98:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.75
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.75
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.5
+- Data:
+    Level: 1
+    Reference: 04918D:mr Loot Logic and Reduction.esp
+    Count: 1
+    ChanceNone: 0.4
+EpicLootChance: 03F1E4:Fallout4.esm

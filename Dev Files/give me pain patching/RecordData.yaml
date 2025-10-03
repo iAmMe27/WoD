@@ -1,0 +1,36 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Fallout4
+  Version: 0.39.11
+ModKey: WoD - Give Me Pain Patching.esp
+GameRelease: Fallout4
+ModHeader:
+  Flags:
+  - Small
+  Author: ''
+  MasterReferences:
+  - Master: Fallout4.esm
+    FileSize: 0
+  - Master: DLCCoast.esm
+    FileSize: 0
+  - Master: DLCNukaWorld.esm
+    FileSize: 0
+  - Master: Unofficial Fallout 4 Patch.esp
+    FileSize: 0
+  - Master: LIF.esl
+    FileSize: 0
+  - Master: CombinedArmsNV.esp
+    FileSize: 0
+  - Master: CombinedArmsEXP Real Time Cover Penetration.esp
+    FileSize: 0
+  - Master: Ketaros_World.esp
+    FileSize: 0
+  - Master: NPC LLD Rebalance.esp
+    FileSize: 0
+  - Master: mr Loot Logic and Reduction.esp
+    FileSize: 0
+  - Master: BetterLivingThroughCumistry.esp
+    FileSize: 0
+  - Master: MAIM.esp
+    FileSize: 0
+  - Master: Immersive Pickup Sounds F04.esp
+    FileSize: 0

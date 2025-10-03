@@ -1,0 +1,32 @@
+FormKey: 0DE95D:Fallout4.esm
+EditorID: LLD_Gunner
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Unused: 22341
+    Reference: 0007BE:MAIM.esp
+    Count: 1
+    ChanceNone: 0.97
+    Unused2: 3
+- Data:
+    Level: 1
+    Reference: 00C5E3:NPC LLD Rebalance.esp
+    Count: 1
+    ChanceNone: 0.9
+- Data:
+    Level: 1
+    Reference: 00C5E3:NPC LLD Rebalance.esp
+    Count: 1
+    ChanceNone: 0.8
+- Data:
+    Level: 1
+    Reference: 00C5E3:NPC LLD Rebalance.esp
+    Count: 1
+    ChanceNone: 0.7
+- Data:
+    Level: 1
+    Reference: 00C5E5:NPC LLD Rebalance.esp
+    Count: 1

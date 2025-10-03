@@ -1,0 +1,30 @@
+FormKey: 0170C3:CombinedArmsNV.esp
+EditorID: CombinedArms_20mmVulcan
+ObjectBounds:
+  First: -3, -5, 0
+  Second: 3, 5, 9
+PreviewTransform: 07B9C1:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: 20x102mm Vulcan
+Model:
+  File: Ammo\50Cal\50CalAmmo.nif
+  Data: 0x0400000000000000000000000000000000000000
+PickUpSound: 0347DF:Fallout4.esm
+PutDownSound: 0347E0:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Fallout4.esm
+Value: 4
+Projectile: 00080D:CombinedArmsEXP Real Time Cover Penetration.esp
+Flags:
+- HasCountBased3d
+- 0x200
+Damage: 2000
+ShortName:
+  TargetLanguage: English
+  Value: 20x102mm
+CasingModel: CombinedArms_ShellCasings\20mmVulc.nif
+ModelInfo: 0x0400000000000000000000000000000000000000

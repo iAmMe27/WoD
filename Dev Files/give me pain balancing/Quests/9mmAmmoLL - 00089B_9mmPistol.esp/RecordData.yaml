@@ -1,0 +1,46 @@
+FormKey: 00089B:9mmPistol.esp
+EditorID: 9mmAmmoLL
+VirtualMachineAdapter:
+  Scripts:
+  - Name: AmmoLLInject
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: AmmoName
+      Object: 000FA8:9mmPistol.esp
+    - MutagenObjectType: ScriptIntProperty
+      Name: Count_Custom_LL_1
+      Data: 100
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Custom_LL_1
+      Object: 1679DB:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Custom_LL_2
+      Object: 05859E:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Custom_LL_3
+      Object: 249F04:Fallout4.esm
+    - MutagenObjectType: ScriptIntProperty
+      Name: DefaultCount
+      Data: 10
+    - MutagenObjectType: ScriptIntProperty
+      Name: PlayerLevel
+      Data: 3
+    - MutagenObjectType: ScriptIntProperty
+      Name: PlayerLevel_Custom_LL_1
+      Data: 13
+    - MutagenObjectType: ScriptIntProperty
+      Name: PlayerLevel_Custom_LL_3
+      Data: 2
+  Versioning:
+  - Break0
+  ExtraBindDataVersion: 0
+  Script:
+    Name: ''
+Data:
+  Flags:
+  - StartGameEnabled
+  - StartsEnabled
+  - RunOnce
+  Unused: 247
+UnusedConditions: []
+Aliases: []

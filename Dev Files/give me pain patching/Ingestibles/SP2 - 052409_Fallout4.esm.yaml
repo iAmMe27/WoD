@@ -1,0 +1,136 @@
+FormKey: 052409:Fallout4.esm
+MajorRecordFlagsRaw: 536870912
+EditorID: SP2
+Fallout4MajorRecordFlags:
+- 0x20000000
+ObjectBounds:
+  First: -10, -7, 0
+  Second: 17, 8, 5
+PreviewTransform: 248D5E:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: SP-2 Stimpak
+Keywords:
+- 000899:Fallout4.esm
+- 07820B:Fallout4.esm
+- 249F51:Fallout4.esm
+Model:
+  File: SetDressing\AW_CombatStims Meshes\Combat Stim 10.nif
+  Data: 0x04000000030000000000000001000000010000009E11C50064647300B7D70CE1477DC36364647300B7D70CE15994168364647300B7D70CE1E7CDA5AB6267736DAEEF2E19
+PickUpSound: 000007:Immersive Pickup Sounds F04.esp
+PutDownSound: 000007:Immersive Pickup Sounds F04.esp
+CraftingSound: 023766:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: Fast healing to HP and limbs. Only works while weapon is holstered.
+Weight: 0.5
+Value: 120
+Flags:
+- NoAutoCalc
+- Medicine
+AddictionName:
+  TargetLanguage: English
+  Value: ''
+Effects:
+- BaseEffect: 000049:MAIM.esp
+  Data:
+    Duration: 40
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: IsWeaponOut
+- BaseEffect: 0000FA:MAIM.esp
+  Data:
+    Magnitude: 3
+    Duration: 40
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: IsWeaponOut
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: HasPerk
+      ParameterOneRecord: 00006F:MAIM.esp
+      ParameterOneNumber: 184549487
+- BaseEffect: 0000FB:MAIM.esp
+  Data:
+    Magnitude: 3
+    Duration: 40
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: IsWeaponOut
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: HasPerk
+      ParameterOneRecord: 000070:MAIM.esp
+      ParameterOneNumber: 184549488
+- BaseEffect: 0000FC:MAIM.esp
+  Data:
+    Magnitude: 3
+    Duration: 40
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: IsWeaponOut
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: HasPerk
+      ParameterOneRecord: 000071:MAIM.esp
+      ParameterOneNumber: 184549489
+- BaseEffect: 0000FD:MAIM.esp
+  Data:
+    Magnitude: 3
+    Duration: 40
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: IsWeaponOut
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: HasPerk
+      ParameterOneRecord: 000072:MAIM.esp
+      ParameterOneNumber: 184549490
+- BaseEffect: 0000F9:MAIM.esp
+  Data:
+    Magnitude: 3
+    Duration: 40
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: IsWeaponOut
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: HasPerk
+      ParameterOneRecord: 000074:MAIM.esp
+      ParameterOneNumber: 184549492
+- BaseEffect: 0007CF:MAIM.esp
+  Data:
+    Duration: 40
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: IsWeaponOut
+- BaseEffect: 00002C:MAIM.esp
+  Data:
+    Duration: 40
+- BaseEffect: 000831:MAIM.esp
+  Data:
+    Duration: 40
+- BaseEffect: 00010F:MAIM.esp
+  Data:
+    Duration: 1
+MajorFlags:
+- Medicine

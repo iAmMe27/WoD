@@ -1,0 +1,129 @@
+FormKey: 0E4755:Fallout4.esm
+EditorID: AudioExtForestNorthernAUDIO
+MapColor: '#00ECA6EC'
+Worldspace: 00003C:Fallout4.esm
+RegionAreas:
+- EdgeFallOff: 1024
+  RegionPointListData:
+  - -73231.14, 70928.555
+  - -57011.707, 53870.188
+  - -36317.945, 25346.361
+  - 32195.18, 25346.361
+  - 59880.07, 76241.81
+  - -72951.49, 75962.17
+- EdgeFallOff: 1024
+  RegionPointListData:
+  - -105579.61, 109519.14
+  - 60157.594, 109106.875
+  - 60157.594, 74358.56
+  - -105268.81, 74399.125
+Sounds:
+  Flags:
+  - Override
+  Priority: 51
+  Music: 127358:Fallout4.esm
+  Sounds:
+  - Sound: 039C9B:Fallout4.esm
+    Flags:
+    - Pleasant
+    Chance: 0.07
+  - Sound: 039C9C:Fallout4.esm
+    Flags:
+    - Pleasant
+    Chance: 0.06
+  - Sound: 08D5E8:Fallout4.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    Chance: 0.02
+  - Sound: 0D83E0:Fallout4.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    Chance: 0.04
+  - Sound: 0D86E5:Fallout4.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    Chance: 0.02
+  - Sound: 0D86E6:Fallout4.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    Chance: 0.04
+  - Sound: 0DF659:Fallout4.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    Chance: 0.02
+  - Sound: 0DF65A:Fallout4.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    Chance: 0.04
+  - Sound: 0E1A3B:Fallout4.esm
+    Flags:
+    - Cloudy
+    Chance: 0.07
+  - Sound: 0E1A3C:Fallout4.esm
+    Flags:
+    - Cloudy
+    Chance: 0.06
+  - Sound: 0E624B:Fallout4.esm
+    Flags:
+    - Snowy
+    Chance: 0.09
+  - Sound: 0E624C:Fallout4.esm
+    Flags:
+    - Snowy
+    Chance: 0.09
+  - Sound: 11B02E:Fallout4.esm
+    Flags:
+    - Rainy
+    Chance: 0.06
+  - Sound: 11B02F:Fallout4.esm
+    Flags:
+    - Rainy
+    Chance: 0.04
+  - Sound: 249364:Fallout4.esm
+    Flags:
+    - Snowy
+    Chance: 0.08
+  - Sound: 249365:Fallout4.esm
+    Flags:
+    - Snowy
+    Chance: 0.07
+  - Sound: 249366:Fallout4.esm
+    Flags:
+    - Snowy
+    Chance: 0.06
+  - Sound: 249DC2:Fallout4.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    Chance: 0.06
+  - Sound: 249DC3:Fallout4.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    Chance: 0.05
+  - Sound: 249DC4:Fallout4.esm
+    Flags:
+    - Pleasant
+    - Cloudy
+    Chance: 0.06
+  - Sound: 00080D:Sinister Ambient Sound.esp
+    Flags:
+    - Pleasant
+    - Cloudy
+    - Rainy
+    Chance: 0.001
+  - Sound: 000810:Sinister Ambient Sound.esp
+    Flags:
+    - Snowy
+    Chance: 0.0005
+  - Sound: 000812:Sinister Ambient Sound.esp
+    Flags:
+    - Cloudy
+    - Rainy
+    Chance: 0.05

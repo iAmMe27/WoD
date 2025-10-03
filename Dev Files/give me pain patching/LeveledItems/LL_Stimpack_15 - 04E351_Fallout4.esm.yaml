@@ -1,0 +1,14 @@
+FormKey: 04E351:Fallout4.esm
+EditorID: LL_Stimpack_15
+ChanceNone: 0.9
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Unused: 29682
+    Reference: 023736:Fallout4.esm
+    Count: 1
+    Unused2: 4

@@ -1,0 +1,16 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Fallout4
+  Version: 0.39.11
+ModKey: spoop cr.esp
+GameRelease: Fallout4
+ModHeader:
+  Flags:
+  - Small
+  Author: ''
+  MasterReferences:
+  - Master: Fallout4.esm
+    FileSize: 0
+  - Master: BeastWhisperer.esp
+    FileSize: 0
+  - Master: Sinister Ambient Sound.esp
+    FileSize: 0

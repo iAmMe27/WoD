@@ -1,0 +1,22 @@
+FormKey: 04B418:DLCNukaWorld.esm
+EditorID: DLC04_LLD_RadGazelle
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04B419:DLCNukaWorld.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04B41A:DLCNukaWorld.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 055B47:DLCNukaWorld.esm
+    Count: 1

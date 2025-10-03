@@ -1,0 +1,27 @@
+FormKey: 077D1F:Fallout4.esm
+EditorID: LLD_BoSSoldier
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0C3071:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Unused: 2045
+    Reference: 0007BE:MAIM.esp
+    Count: 1
+    ChanceNone: 0.97
+    Unused2: 3
+- Data:
+    Level: 1
+    Reference: 00C5E4:NPC LLD Rebalance.esp
+    Count: 1
+    ChanceNone: 0.7
+- Data:
+    Level: 1
+    Reference: 00C5E4:NPC LLD Rebalance.esp
+    Count: 1
+    ChanceNone: 0.8

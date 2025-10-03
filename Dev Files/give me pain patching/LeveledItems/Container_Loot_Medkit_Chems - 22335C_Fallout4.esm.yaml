@@ -1,0 +1,57 @@
+FormKey: 22335C:Fallout4.esm
+EditorID: Container_Loot_Medkit_Chems
+MaxCount: 2
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0AEC5F:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.4
+- Data:
+    Level: 1
+    Reference: 0AEC5F:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.6
+- Data:
+    Level: 1
+    Reference: 0C4469:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.5
+- Data:
+    Level: 1
+    Reference: 0C9AD7:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.65
+- Data:
+    Level: 1
+    Reference: 13FF41:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.65
+- Data:
+    Level: 1
+    Reference: 1BA1AB:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.85
+- Data:
+    Level: 1
+    Reference: 1BF72E:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.8
+- Data:
+    Level: 1
+    Reference: 249F66:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.85
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.8
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.8
+EpicLootChance: 03F1E4:Fallout4.esm

@@ -1,0 +1,33 @@
+FormKey: 018F7B:Fallout4.esm
+MajorRecordFlagsRaw: 134217728
+EditorID: Prewar_Locker_01
+Fallout4MajorRecordFlags:
+- 0x8000000
+ObjectBounds:
+  First: -17, -20, 0
+  Second: 17, 16, 148
+Name:
+  TargetLanguage: English
+  Value: Locker
+Model:
+  File: SetDressing\Containers\Locker01.nif
+  Data: 0x0400000004000000000000000200000001000000912E5265646473000BD8000248425406646473000BD8000256AB81E6646473000BD800020F2C2A00646473001CDB88C521A28A7C6267736DC23D6406
+Items:
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0673B8:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1081B9:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1B2B06:Fallout4.esm
+    Count: 1
+Flags:
+- Respawns
+OpenSound: 0752DA:Fallout4.esm
+CloseSound: 0752DB:Fallout4.esm
+MajorFlags:
+- NavMeshGenerationBoundingBox

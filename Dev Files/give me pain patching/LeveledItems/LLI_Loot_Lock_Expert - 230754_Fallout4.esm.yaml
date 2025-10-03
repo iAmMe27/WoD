@@ -1,0 +1,60 @@
+FormKey: 230754:Fallout4.esm
+EditorID: LLI_Loot_Lock_Expert
+MaxCount: 2
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 249F96:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.8
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.25
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.5
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.75
+- Data:
+    Level: 1
+    Reference: 0007FF:MAIM.esp
+    Count: 1
+    ChanceNone: 0.6
+- Data:
+    Level: 1
+    Reference: 000815:MAIM.esp
+    Count: 1
+    ChanceNone: 0.75
+- Data:
+    Level: 1
+    Reference: 03803F:mr Loot Logic and Reduction.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 038040:mr Loot Logic and Reduction.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 038040:mr Loot Logic and Reduction.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 038043:mr Loot Logic and Reduction.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 038044:mr Loot Logic and Reduction.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 038045:mr Loot Logic and Reduction.esp
+    Count: 1

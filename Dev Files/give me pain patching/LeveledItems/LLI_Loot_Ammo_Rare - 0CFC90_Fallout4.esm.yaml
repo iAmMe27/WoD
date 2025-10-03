@@ -1,0 +1,51 @@
+FormKey: 0CFC90:Fallout4.esm
+EditorID: LLI_Loot_Ammo_Rare
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 5
+    Reference: 0C1898:Fallout4.esm
+    Count: 3
+- Data:
+    Level: 7
+    Reference: 18ABE8:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 9
+    Reference: 178EC6:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 10
+    Reference: 067386:Fallout4.esm
+    Count: 4
+- Data:
+    Level: 10
+    Reference: 067387:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 12
+    Reference: 067388:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 12
+    Reference: 0DB29E:Fallout4.esm
+    Count: 3
+- Data:
+    Level: 16
+    Reference: 042E72:DLCCoast.esm
+    Count: 1
+- Data:
+    Level: 17
+    Reference: 000076:LIF.esl
+    Count: 3
+- Data:
+    Level: 22
+    Reference: 18ABE0:Fallout4.esm
+    Count: 3
+- Data:
+    Level: 25
+    Reference: 037895:DLCNukaWorld.esm
+    Count: 2

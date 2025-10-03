@@ -1,0 +1,16 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Fallout4
+  Version: 0.39.11
+ModKey: WoD - Give Me Pain Balancing.esp
+GameRelease: Fallout4
+ModHeader:
+  Flags:
+  - Small
+  Author: ''
+  MasterReferences:
+  - Master: Fallout4.esm
+    FileSize: 0
+  - Master: HumanResources.esp
+    FileSize: 0
+  - Master: 9mmPistol.esp
+    FileSize: 0

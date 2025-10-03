@@ -1,0 +1,103 @@
+FormKey: 0366C6:Fallout4.esm
+EditorID: LL_Junk_Large
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 01F8F9:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 01F905:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059A80:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059A82:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059A83:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AB4:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059ABA:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059ABC:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AD8:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059ADB:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AEC:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AEE:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B20:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B2C:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B2E:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B33:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B36:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B3E:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B40:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E73:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060EC7:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060EC8:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060ED8:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00D646:Ketaros_World.esp
+    Count: 1

@@ -1,0 +1,51 @@
+FormKey: 09C05B:Fallout4.esm
+EditorID: ClothesDog_Bandana
+ObjectBounds:
+  First: -5, -9, 0
+  Second: 3, 10, 4
+PreviewTransform: 186DD8:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Red Bandana
+WorldModel:
+  Male:
+    Model:
+      File: Armor\DogGear\BandanaGO.nif
+      Data: 0x040000000300000000000000010000000100000019A2E9AB64647300F3D0C2A5C0CEEFC864647300F3D0C2A5DE273A2864647300F3D0C2A5FD9882476267736D67AE9A6F
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - Beard
+  - Mouth
+  - Neck
+Race: 013746:Fallout4.esm
+Keywords:
+- 09C45B:Fallout4.esm
+- 1CC46A:Fallout4.esm
+- 026B77:BeastWhisperer.esp
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 09C059:Fallout4.esm
+- AddonIndex: 0
+  ArmorAddon: 17E8FC:Fallout4.esm
+- AddonIndex: 0
+  ArmorAddon: 01032B:BeastWhisperer.esp
+- AddonIndex: 0
+  ArmorAddon: 015610:BeastWhisperer.esp
+- AddonIndex: 0
+  ArmorAddon: 015612:BeastWhisperer.esp
+- AddonIndex: 0
+  ArmorAddon: 015614:BeastWhisperer.esp
+- AddonIndex: 0
+  ArmorAddon: 016CF9:BeastWhisperer.esp
+- AddonIndex: 0
+  ArmorAddon: 016CF7:BeastWhisperer.esp
+- AddonIndex: 0
+  ArmorAddon: 016CFE:BeastWhisperer.esp
+- AddonIndex: 0
+  ArmorAddon: 016D01:BeastWhisperer.esp
+Value: 1
+Weight: 0.1
+Unused: 0x000000

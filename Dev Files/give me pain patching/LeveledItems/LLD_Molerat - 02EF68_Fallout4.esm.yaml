@@ -1,0 +1,33 @@
+FormKey: 02EF68:Fallout4.esm
+EditorID: LLD_Molerat
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 033101:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 034603:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.85
+- Data:
+    Level: 1
+    Reference: 034603:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.5
+- Data:
+    Level: 1
+    Reference: 08E3B0:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 22B628:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.5

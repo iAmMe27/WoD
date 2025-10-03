@@ -1,0 +1,15 @@
+FormKey: 011965:HumanResources.esp
+EditorID: HR_EnslavementKit
+ObjectBounds:
+  First: -5, -13, 0
+  Second: 5, 14, 10
+PreviewTransform: 0276A8:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Enslavement Kit
+Model:
+  File: SetDressing\Hides\MoleratHide.nif
+  Data: 0x0400000000000000000000000000000000000000
+  MaterialSwap: 2458AE:Fallout4.esm
+Value: 40
+Weight: 2.5

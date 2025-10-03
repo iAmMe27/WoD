@@ -1,0 +1,18 @@
+FormKey: 0140FA:DLCCoast.esm
+EditorID: DLC03_LLD_Wolf
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0140F9:DLCCoast.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0140FB:DLCCoast.esm
+    Count: 1

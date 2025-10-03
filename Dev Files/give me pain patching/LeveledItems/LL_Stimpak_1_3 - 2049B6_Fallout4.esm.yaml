@@ -1,0 +1,19 @@
+FormKey: 2049B6:Fallout4.esm
+EditorID: LL_Stimpak_1_3
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 3

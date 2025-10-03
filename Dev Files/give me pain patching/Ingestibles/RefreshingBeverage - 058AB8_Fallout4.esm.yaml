@@ -1,0 +1,142 @@
+FormKey: 058AB8:Fallout4.esm
+MajorRecordFlagsRaw: 536870912
+EditorID: RefreshingBeverage
+Fallout4MajorRecordFlags:
+- 0x20000000
+ObjectBounds:
+  First: -2, -2, 0
+  Second: 2, 2, 20
+PreviewTransform: 239FB3:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: '[Aid] Refreshing Beverage'
+Keywords:
+- 000884:Fallout4.esm
+- 0F4AE7:Fallout4.esm
+Model:
+  File: SetDressing\Kitchen\BeerBottle01.nif
+  Data: 0x0400000004000000000000000200000001000000D08920CE646473000BD8000209E526AD646473000BD80002170CF34D646473000BD800020F2C2A00646473001CDB88C52BAFAD896267736DC23D6406
+PickUpSound: 0AE46B:Fallout4.esm
+PutDownSound: 0AE46C:Fallout4.esm
+CraftingSound: 113875:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: Cures addictions and removes some rads.
+Weight: 0.5
+Value: 110
+Flags:
+- NoAutoCalc
+- Medicine
+ConsumeSound: 09CB61:Fallout4.esm
+AddictionName:
+  TargetLanguage: English
+  Value: ''
+Effects:
+- BaseEffect: 21188C:Fallout4.esm
+  Data:
+    Magnitude: 5
+    Duration: 60
+- BaseEffect: 0459C4:Fallout4.esm
+  Data:
+    Magnitude: 999
+- BaseEffect: 247A6A:Fallout4.esm
+  Data:
+    Magnitude: 9999
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    ComparisonValue: 1
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: GetGlobalValue
+      ParameterOneRecord: 005BB7:BetterLivingThroughCumistry.esp
+      ParameterOneNumber: 167795639
+- BaseEffect: 006AF6:BetterLivingThroughCumistry.esp
+  Data: {}
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: GetGlobalValue
+      ParameterOneRecord: 005BB7:BetterLivingThroughCumistry.esp
+      ParameterOneNumber: 167795639
+- BaseEffect: 245F0D:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 245F0E:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 245F0F:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 245F10:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 245F11:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 245F12:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 245F13:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 245F14:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 247550:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 247552:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 249FF2:Fallout4.esm
+  Data:
+    Magnitude: 999
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    ComparisonValue: 1
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: GetGlobalValue
+      ParameterOneRecord: 000854:Fallout4.esm
+      ParameterOneNumber: 2132
+- BaseEffect: 247550:Fallout4.esm
+  Data:
+    Magnitude: 9999
+- BaseEffect: 249FF2:Fallout4.esm
+  Data:
+    Magnitude: 999
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    ComparisonValue: 1
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: GetGlobalValue
+      ParameterOneRecord: 005BB7:BetterLivingThroughCumistry.esp
+      ParameterOneNumber: 167795639
+  - MutagenObjectType: ConditionFloat
+    ComparisonValue: 1
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: GetGlobalValue
+      ParameterOneRecord: 000854:Fallout4.esm
+      ParameterOneNumber: 2132
+- BaseEffect: 029ECC:BetterLivingThroughCumistry.esp
+  Data:
+    Magnitude: 999
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: GetGlobalValue
+      ParameterOneRecord: 005BB7:BetterLivingThroughCumistry.esp
+      ParameterOneNumber: 167795639
+  - MutagenObjectType: ConditionFloat
+    ComparisonValue: 1
+    Data:
+      MutagenObjectType: FunctionConditionData
+      Function: GetGlobalValue
+      ParameterOneRecord: 000854:Fallout4.esm
+      ParameterOneNumber: 2132
+MajorFlags:
+- Medicine

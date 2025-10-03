@@ -1,0 +1,32 @@
+FormKey: 06D4AC:Fallout4.esm
+EditorID: Container_Loot_Medkit
+MaxCount: 2
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 0366C0:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.8
+- Data:
+    Level: 1
+    Reference: 249F66:Fallout4.esm
+    Count: 1
+    ChanceNone: 0.85
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.75
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.75
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+    ChanceNone: 0.75
+EpicLootChance: 03F1E4:Fallout4.esm

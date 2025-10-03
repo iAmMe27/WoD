@@ -1,0 +1,30 @@
+FormKey: 009E0C:CombinedArmsNV.esp
+EditorID: CombinedArms_939
+ObjectBounds:
+  First: -3, -5, 0
+  Second: 3, 5, 4
+PreviewTransform: 07B9C1:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: 9x39mm SP-5
+Model:
+  File: Ammo\556\556Ammo.nif
+  Data: 0x0400000000000000000000000000000000000000
+PickUpSound: 0347DF:Fallout4.esm
+PutDownSound: 0347E0:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Fallout4.esm
+Value: 2
+Projectile: 000803:CombinedArmsEXP Real Time Cover Penetration.esp
+Flags:
+- HasCountBased3d
+- 0x200
+Damage: 250
+ShortName:
+  TargetLanguage: English
+  Value: 9x39mm
+CasingModel: P90nv\57x28ShellCasing.nif
+ModelInfo: 0x0400000000000000000000000000000000000000

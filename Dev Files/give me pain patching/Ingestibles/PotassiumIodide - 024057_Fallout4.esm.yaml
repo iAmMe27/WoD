@@ -1,0 +1,46 @@
+FormKey: 024057:Fallout4.esm
+MajorRecordFlagsRaw: 536870912
+EditorID: PotassiumIodide
+Fallout4MajorRecordFlags:
+- 0x20000000
+ObjectBounds:
+  First: -4, -4, 0
+  Second: 4, 4, 16
+PreviewTransform: 2495F8:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Potassium Iodide
+Keywords:
+- 000883:Fallout4.esm
+- 0F4AE7:Fallout4.esm
+Model:
+  File: Props\Iodine.nif
+  Data: 0x040000000400000000000000020000000000000096CA31F864647300B7D70CE14FA6379B64647300B7D70CE1514FE27B64647300B7D70CE1CDE992D8646473001CDB88C5
+PickUpSound: 000011:Immersive Pickup Sounds F04.esp
+PutDownSound: 000011:Immersive Pickup Sounds F04.esp
+Description:
+  TargetLanguage: English
+  Value: Rad resist and mild rad removal.
+Weight: 0.2
+Value: 55
+Flags:
+- NoAutoCalc
+AddictionName:
+  TargetLanguage: English
+  Value: ''
+Effects:
+- BaseEffect: 00009F:MAIM.esp
+  Data:
+    Magnitude: 200
+    Duration: 300
+- BaseEffect: 000006:MAIM.esp
+  Data:
+    Magnitude: 0.5
+    Duration: 300
+- BaseEffect: 000032:MAIM.esp
+  Data:
+    Duration: 300
+- BaseEffect: 000069:MAIM.esp
+  Data: {}
+MajorFlags:
+- Medicine

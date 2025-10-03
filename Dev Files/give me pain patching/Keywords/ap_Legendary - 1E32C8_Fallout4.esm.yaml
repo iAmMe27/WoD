@@ -1,0 +1,8 @@
+FormKey: 1E32C8:Fallout4.esm
+EditorID: ap_Legendary
+Color: '#00FFFFFF'
+Notes: For Legendary Mods
+Type: AttachPoint
+Name:
+  TargetLanguage: English
+  Value: 'L1: Legendary Mod Slot'

@@ -1,0 +1,18 @@
+FormKey: 056A4C:DLCCoast.esm
+EditorID: DLC03_LLD_Chicken
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 056A4A:DLCCoast.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 057145:DLCCoast.esm
+    Count: 1

@@ -1,0 +1,419 @@
+FormKey: 03678C:Fallout4.esm
+EditorID: LL_Junk_Small
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 00000A:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00000F:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00000F:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 01F92F:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0211CC:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 023C32:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 023C32:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 023C34:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 023C34:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 023C36:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 023C36:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 023C38:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 023C38:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 03B55B:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04835A:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04B273:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04D1F2:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04D1F3:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04D1F4:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04D1F5:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04D1F6:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04D1F7:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 05821C:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 05821E:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 058224:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059A71:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059A75:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059A76:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059A77:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059A78:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059A7E:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AB5:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059ACB:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059ACC:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AD1:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059ADB:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059ADE:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AE1:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AEA:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AEB:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AF8:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AFA:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AFB:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AFC:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AFD:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AFE:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059AFF:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B02:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B0A:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B0F:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B10:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B11:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B14:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B16:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B17:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B19:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B1A:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B1C:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B1D:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B1E:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B25:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B27:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B2A:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B2B:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B34:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B3A:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B3B:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B43:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 059B44:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 05A0D3:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E77:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E78:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E7B:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E7C:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E7D:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E82:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E88:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E8B:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E8D:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E90:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E91:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E93:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E94:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E95:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060E96:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060EA2:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060EBF:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060EC0:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060ECC:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060ECD:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060ECE:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060ECF:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060ED9:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 060EDB:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0822D3:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 091FDE:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0DF264:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 027088:Ketaros_World.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 049426:Ketaros_World.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 02F9DD:Ketaros_World.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 02F9DE:Ketaros_World.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 011AAB:Ketaros_World.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 004C72:Ketaros_World.esp
+    Count: 1

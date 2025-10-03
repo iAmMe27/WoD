@@ -1,0 +1,26 @@
+FormKey: 020375:Fallout4.esm
+EditorID: DeathclawDeathAnim
+FormVersion: 111
+Conditions:
+- MutagenObjectType: ConditionFloat
+  CompareOperator: NotEqualTo
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: GetValue
+    Unknown2: 16379
+    ParameterOneRecord: 000370:Fallout4.esm
+    ParameterOneNumber: 880
+- MutagenObjectType: ConditionFloat
+  CompareOperator: NotEqualTo
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: GetValue
+    Unknown2: 16379
+    ParameterOneRecord: 000371:Fallout4.esm
+    ParameterOneNumber: 881
+BehaviorGraph: Actors\Deathclaw\Behaviors\DeathclawRootBehavior.hkx
+AnimationEvent: Ragdoll
+RelatedIdles:
+- 01DC97:Fallout4.esm
+- Null
+AnimationGroupSection: 101

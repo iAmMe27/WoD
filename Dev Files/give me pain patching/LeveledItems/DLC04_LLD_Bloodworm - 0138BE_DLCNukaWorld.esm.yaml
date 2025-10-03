@@ -1,0 +1,18 @@
+FormKey: 0138BE:DLCNukaWorld.esm
+EditorID: DLC04_LLD_Bloodworm
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0138C3:DLCNukaWorld.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 055B45:DLCNukaWorld.esm
+    Count: 1

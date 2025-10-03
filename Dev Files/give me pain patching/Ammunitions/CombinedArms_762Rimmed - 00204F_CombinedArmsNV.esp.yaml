@@ -1,0 +1,30 @@
+FormKey: 00204F:CombinedArmsNV.esp
+EditorID: CombinedArms_762Rimmed
+ObjectBounds:
+  First: -3, -5, 0
+  Second: 3, 5, 5
+PreviewTransform: 07B9C1:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: 7.62x54mmR Rimmed
+Model:
+  File: Ammo\308\308Ammo.nif
+  Data: 0x0400000000000000000000000000000000000000
+PickUpSound: 0347DF:Fallout4.esm
+PutDownSound: 0347E0:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Keywords:
+- 0F4AE8:Fallout4.esm
+Value: 2
+Projectile: 000801:CombinedArmsEXP Real Time Cover Penetration.esp
+Flags:
+- HasCountBased3d
+- 0x200
+Damage: 370
+ShortName:
+  TargetLanguage: English
+  Value: 7.62x54mmR
+CasingModel: CombinedArms_ShellCasings\Rifle\762x39.nif
+ModelInfo: 0x0400000000000000000000000000000000000000

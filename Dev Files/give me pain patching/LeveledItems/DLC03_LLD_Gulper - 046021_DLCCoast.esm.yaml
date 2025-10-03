@@ -1,0 +1,22 @@
+FormKey: 046021:DLCCoast.esm
+EditorID: DLC03_LLD_Gulper
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04D2E7:DLCCoast.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04DC7D:DLCCoast.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04DC7E:DLCCoast.esm
+    Count: 1

@@ -1,0 +1,43 @@
+FormKey: 11B475:Fallout4.esm
+EditorID: LL_Chems_Prewar
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 033778:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 033779:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 03377B:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000814:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000814:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000814:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000814:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000814:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000814:MAIM.esp
+    Count: 1

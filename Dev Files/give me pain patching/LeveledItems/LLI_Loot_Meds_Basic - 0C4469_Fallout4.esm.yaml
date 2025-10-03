@@ -1,0 +1,47 @@
+FormKey: 0C4469:Fallout4.esm
+EditorID: LLI_Loot_Meds_Basic
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 0AEC5F:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0AEC5F:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0AEC5F:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000097:MAIM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000815:MAIM.esp
+    Count: 1

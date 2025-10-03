@@ -1,0 +1,22 @@
+FormKey: 1A85CE:Fallout4.esm
+EditorID: LLD_MutantHound
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 146156:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000006:LIF.esl
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 045D9C:Unofficial Fallout 4 Patch.esp
+    Count: 1

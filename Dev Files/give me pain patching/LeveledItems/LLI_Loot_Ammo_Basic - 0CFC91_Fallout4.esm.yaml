@@ -1,0 +1,35 @@
+FormKey: 0CFC91:Fallout4.esm
+EditorID: LLI_Loot_Ammo_Basic
+MaxCount: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+Entries:
+- Data:
+    Level: 1
+    Reference: 067381:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 067384:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 06738A:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 4
+    Reference: 000077:LIF.esl
+    Count: 2
+- Data:
+    Level: 8
+    Reference: 06738A:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 9
+    Reference: 067383:Fallout4.esm
+    Count: 2
+- Data:
+    Level: 18
+    Reference: 000078:LIF.esl
+    Count: 2

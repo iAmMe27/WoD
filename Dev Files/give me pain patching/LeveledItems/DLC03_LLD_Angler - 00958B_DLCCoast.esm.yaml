@@ -1,0 +1,26 @@
+FormKey: 00958B:DLCCoast.esm
+EditorID: DLC03_LLD_Angler
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 1B2B07:Fallout4.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 01C714:DLCCoast.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 049BA3:DLCCoast.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04D3A4:DLCCoast.esm
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 04D3A5:DLCCoast.esm
+    Count: 1
