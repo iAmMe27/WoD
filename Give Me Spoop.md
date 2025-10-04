@@ -15,7 +15,10 @@ Follow the regular readme, up to the point of applying the MCM settings. After d
 
 ![Grim 3](img/spoop/Grim3.png)
 
-4. Done
+4. Re-open the GRIM menu
 
->[!TIP]
-> If you really want to up the ante, enable `The Curse` in the main GRIM menu.
+5. Enable `The Curse`
+
+![Grim 4](img/spoop/Grim4.png)
+
+6. Done!
