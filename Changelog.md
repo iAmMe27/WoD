@@ -1858,3 +1858,23 @@ Depravity Fusion Girl conversion should now be done, let me know if you spot any
 - Removed [Inner City Ambience - An Urban Soundscape v1.4](https://www.nexusmods.com/fallout4/mods/38666)
 - Removed [PRP - The Fens Sheriffs Dept v1](https://www.nexusmods.com/fallout4/mods/74599)
 - Removed [VTAW Wardrobe integrated with  Gunners Raiders and Settlers v3.00](https://www.nexusmods.com/fallout4/mods/67483)
+
+## 1.4.1
+Hotfix to remove Random Overlay Framework as it was causing performance issues for some users.
+
+## 1.4.2
+1. Updated Provocative Perks to v1.11.1
+2. Updated Rohzima Animations to v3.20
+3. Updated SAM Enhanced Animations to v1.4.7
+4. Regenerated NAFicator output
+5. Added FaceGen files for select mods that had NPCs with invisible heads
+
+## 1.5
+
+*** spoop returns ***
+
+1. Fixed an issue with multi-coloured hair/beards
+2. Fixed Heather Casdin's appearance
+3. Fixed missing high heel bodyslides
+4. Updated CRX Workshop Crosses to v2.4
+5. Updated a couple small mods
