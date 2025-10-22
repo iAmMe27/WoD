@@ -76,7 +76,13 @@ In terms of accounts you will need:
 > Your Steam install of Fallout 4 must be up to date - do not downgrade for WoD!
 
 ## DLC
-You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.
+You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.  
+![Image](/img/fo4_dlc.png)
+
+> [!TIP]
+> If you have the Game of the Year (GOTY) edition of Fallout 4, you're good to go, it includes all the needed DLC.
+>
+> While it is not a problem for the modlist instllation to have High Resolution DLC installed, you can save ~60GB of space on your SSD by not having it installed.
 
 # Updating Wasteland of Depravity
 To update WoD, do the same steps as in installation, but point the Wabbajack install folder to your curernt WoD folder.
