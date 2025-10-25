@@ -15,6 +15,7 @@
 - [Content](#content)
 - [Mod setup](#mod-setup)
   - [Swags Dommy Mommy Milkers Wasteland](#swags-dommy-mommy-milkers-wasteland)
+  - [I want to play as a male](#i-want-to-play-as-a-male)
 - [Need support?](#need-support)
 
 # Mod setup
@@ -41,24 +42,28 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 5. One that is done, make a new full save from the pause menu.
 
-## Swags Dommy Mommy Milkers Wasteland
+## Optional MCM Configs
+
+>[!IMPORTANT]
+> You must apply the main MCM config ***before*** you apply any of these optional settings.
+
+### Swags Dommy Mommy Milkers Wasteland
 
 > [!NOTE]
 > this MCM setup is for profile 2 only!
 
 ```
-Best run the the following MCM Config after the original "Wasteland of Depravity" one.
-
 What does the MCM Preset "Swags Dommy Mommy Milkers Wasteland" do?
 It pretty much does 2 main things.
 
-  1. Adjusts "if possible" all MCM options to be only targeted/ approached by female NPCs
-  2. Some personal "Quality of Life" adjustments, for example the chance of events that can happen etc.
+  1. Adjusts, where possible, all MCM options to be only targeted/approached by female NPCs,
+  2. Some personal "Quality of Life" adjustments, for example, tweaking the chance of certain events that can happen etc.
 
-Those are pretty much the big 2 changes it does.
-
-Also if you don't like the sounds of this don't use it. Don't come at me berating me why anyone would want this or that's too much females etc. I really don't care and neither should you. Have a pleasant day.
+If you don't like heavily female orientaed playthroughs, this is not the config for you.
 ```
+
+### I want to play as a male
+This is an optional set of tweaks for male characters. A lot of the adult content based mods assume your character is female and this tweaks changes things for male player characters where possible.
 
 # Need support?
 If you encounter any problems during installation, please have a look at our [Common Issues](CommonIssues.md) page.  
