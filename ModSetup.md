@@ -14,8 +14,9 @@
 # Content
 - [Content](#content)
 - [Mod setup](#mod-setup)
-  - [Swags Dommy Mommy Milkers Wasteland](#swags-dommy-mommy-milkers-wasteland)
-  - [I want to play as a male](#i-want-to-play-as-a-male)
+  - [Optional MCM Configs](#optional-mcm-configs)
+    - [Swags Dommy Mommy Milkers Wasteland](#swags-dommy-mommy-milkers-wasteland)
+    - [I want to play as a male](#i-want-to-play-as-a-male)
 - [Need support?](#need-support)
 
 # Mod setup
