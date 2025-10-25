@@ -36,9 +36,12 @@
   - [My game performance sucks!](#my-game-performance-sucks)
 - [Gameplay Issues](#gameplay-issues)
   - [Controls](#controls)
-  - [VATS doesn't work](#vats-doesnt-work)
+    - [VATS doesn't work](#vats-doesnt-work)
+  - [User Interface](#user-interface)
+    - [I want my my ammo counter back!](#i-want-my-ammo-counter-back!)
+    - [I want my 3rd person crosshair back!](#i-want-my-3rd-person-crosshair-back!)
   - [Quests](#quests)
-  - [Nick Valentine won't talk to me about a missing child!](#nick-valentine-wont-talk-to-me-about-a-missing-child)
+    - [Nick Valentine won't talk to me about a missing child!](#nick-valentine-wont-talk-to-me-about-a-missing-child)
 
 ## Preface
 Please help me to help yourself here. Search this page and the [FAQ](FAQ.md) if you are having issues. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
@@ -178,10 +181,34 @@ If you have ensured all of the above is right, try lowering settings in BethINI,
 
 ### Controls
 
-### VATS doesn't work
+#### VATS doesn't work
 We don't use VATS, we use VAFS - consider it like bullet time. If it won't trigger, set the VATS keybind in the Settings menu to something else.
+
+### User Interface
+
+#### I want my ammo counter back!
+This is deliberately hidden on profile 3 in preference to another mod that provides ammo checking functionality. If you are not on profile 3 but the ammo counter is not visible, you can make it visible again by following the below steps:
+  1. Head to the `Fall UI - HUD` MCM
+  2. Click the part of the UI you want to see in the window on the right (ammo or grenade count)
+  3. Click the `Show/Hide` button in the overlay menu.
+
+[Ammo Counter](img/HUDAmmoCounter.png)
+
+You will likely have to save and load your game again to refresh the UI and make the change appear.
+
+#### I want my 3rd person crosshair back!
+This is deliberately hidden on profile 3. If you are not on profile 3 but want the 3rd person crosshair, check the following:
+  1. Check your chosen HUD layout in the `FallUI - HUD` MCM to make sure that the crosshair is not disabled there
+  2. Check the `Immersive HUD` MCM and set your crosshair settings according the below image.
+  3. Check the vanilla game settings.
+
+*Note: some scope options deliberately hide the 3rd person crosshair!*
+
+[Crosshair](img/HUDImmersiveHud.png)
+
+You will likely have to save and load your game again to refresh the UI and make the change appear.
 
 ### Quests
 
-### Nick Valentine won't talk to me about a missing child!
+#### Nick Valentine won't talk to me about a missing child!
 You forgot to investigate Vault 111 first. You have to do this in order to kickstart the main quest.
