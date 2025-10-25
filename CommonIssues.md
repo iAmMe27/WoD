@@ -38,8 +38,8 @@
   - [Controls](#controls)
     - [VATS doesn't work](#vats-doesnt-work)
   - [User Interface](#user-interface)
-    - [I want my my ammo counter back!](#i-want-my-ammo-counter-back!)
-    - [I want my 3rd person crosshair back!](#i-want-my-3rd-person-crosshair-back!)
+    - [I want my my ammo counter back!](#i-want-my-ammo-counter-back)
+    - [I want my 3rd person crosshair back!](#i-want-my-3rd-person-crosshair-back)
   - [Quests](#quests)
     - [Nick Valentine won't talk to me about a missing child!](#nick-valentine-wont-talk-to-me-about-a-missing-child)
 
@@ -192,7 +192,7 @@ This is deliberately hidden on profile 3 in preference to another mod that provi
   2. Click the part of the UI you want to see in the window on the right (ammo or grenade count)
   3. Click the `Show/Hide` button in the overlay menu.
 
-[Ammo Counter](img/HUDAmmoCounter.png)
+![Ammo Counter](img/HUDAmmoCounter.png)
 
 You will likely have to save and load your game again to refresh the UI and make the change appear.
 
@@ -204,7 +204,7 @@ This is deliberately hidden on profile 3. If you are not on profile 3 but want t
 
 *Note: some scope options deliberately hide the 3rd person crosshair!*
 
-[Crosshair](img/HUDImmersiveHud.png)
+![Crosshair](img/HUDImmersiveHud.png)
 
 You will likely have to save and load your game again to refresh the UI and make the change appear.
 
