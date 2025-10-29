@@ -15,7 +15,7 @@
     - [I'm getting too many perk points per level](#im-getting-too-many-perk-points-per-level)
     - [Camera stuck in character creation](#camera-stuck-in-character-creation)
     - [I added Ivy, but she has no face](#i-added-ivy-but-she-has-no-face)
-    - [Kadi has no face](#kadi-has-no-face)
+    - [Skadi has no face](#skadi-has-no-face)
     - [Sanctuary settlement layouts clip with existing buildings](#sanctuary-settlement-layouts-clip-with-existing-buildings)
     - [My mouse cursor can't reach the whole screen](#my-mouse-cursor-cant-reach-the-whole-screen)
   - [Character Creation \& NPCs](#character-creation--npcs)
@@ -120,7 +120,7 @@ To fix it, do the following:
 >  
 > Be aware that doing so is modifying your WoD install. Please ask your support questions in wod-support if you modfied your install.
 
-### Kadi has no face
+### Skadi has no face
 This is a known issue.  
   
 To fix it, do the following:
