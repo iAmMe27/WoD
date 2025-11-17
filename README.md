@@ -47,7 +47,7 @@ Just to set some expectations and boundaries surrounding modlist development her
    
 4. We're modding a nearly 10 year old game here, please temper your expectations some.
 
-> [!TIP] Gender
+> [!TIP]
 > Because most of the mods are developed with a female player character in mind, the modlist is geared heavily towards a female player character. 
 >
 > While it is technically possible to play as a male, and we do have some settings for a male playhtrough, you will still experience immersion breaking dialogue and some NPCs will refer to you as a female.
