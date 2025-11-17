@@ -47,6 +47,16 @@ Just to set some expectations and boundaries surrounding modlist development her
    
 4. We're modding a nearly 10 year old game here, please temper your expectations some.
 
+> [!TIP] Gender
+> Because most of the mods are developed with a female player character in mind, the modlist is geared heavily towards a female player character. 
+>
+> While it is technically possible to play as a male, and we do have some settings for a male playhtrough, you will still experience immersion breaking dialogue and some NPCs will refer to you as a female.
+>
+> **Because of this, we generally recommend a female player character to get the most out of your experience.**
+>
+> Additionally it is a known bug that certain male presets / hairstyles like to crash the game.  
+> You have been warned.
+
 # Getting Started
 
 ![Getting Started](img/headers/BeforeYouStart.png)
@@ -74,6 +84,8 @@ In terms of accounts you will need:
 ## Fallout 4 Install
 > [!WARNING]
 > Your Steam install of Fallout 4 must be up to date - do not downgrade for WoD!
+>
+> As of version 1.5.2, Wasteland of Depravity is compatible with the Anniversary Edition update of Fallout 4.
 
 ## DLC
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.  
