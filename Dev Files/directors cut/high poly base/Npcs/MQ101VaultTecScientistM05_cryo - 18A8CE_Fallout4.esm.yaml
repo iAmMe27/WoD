@@ -1,0 +1,171 @@
+FormKey: 18A8CE:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101VaultTecScientistM05_cryo
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 50
+DispositionBase: 35
+Unknown: -18155
+Voice: 0F700A:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 07584A:Fallout4.esm
+- 0CB1D9:Fallout4.esm
+Keywords:
+- 0C866F:Fallout4.esm
+Class: 076A06:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Vault-Tec Doctor
+CalculatedHealth: 335
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 54
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 094D04:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A9B:Fallout4.esm
+- 141091:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE65:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.459852
+  Muscular: 0.229191
+  Fat: 0.310958
+SoundLevel: Normal
+DefaultOutfit: 0E1AD2:Fallout4.esm
+TextureLighting: '#F7EFEE'
+FaceTintingLayers:
+- DataType: Value
+  Index: 1193
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.840725
+  UpperTorso: -0.911323
+  Arms: -0.069821
+  LowerTorso: 0.093734
+  Legs: -0.981839
+FaceMorphs:
+- Index: 0
+  Position: 0.26045, -0.877089, -0.869219
+  Rotation: 0.777649, 0, 0
+- Index: 1
+  Position: 0.803269, 0.113997, 0.612382
+- Index: 2
+  Position: 0.04611, 0.339289, 0.21619
+- Index: 3
+  Position: 0.688907, -0.05935, -0.736452
+  Scale: 0.511564
+- Index: 4
+  Position: 0, 0, 0.506266
+  Scale: -0.948522
+- Index: 5
+  Position: -0.463458, -0.866013, 0.665805
+  Rotation: 0, -0.55304, 0
+  Scale: -0.395032
+- Index: 6
+  Position: -0.085768, 0.693161, 0.669407
+- Index: 7
+  Position: 0.370599, 0.632795, 0.436202
+- Index: 8
+  Position: -0.843405, 0.261041, -0.82319
+  Scale: 0.84052
+- Index: 9
+  Position: 0.511017, 0.03, 0.34227
+  Scale: 0.331737
+- Index: 10
+  Position: -0.28534, 0.226333, -0.283371
+  Scale: -0.116352
+- Index: 25
+  Position: 0, 0.555885, -0.27776
+  Scale: -0.783016
+- Index: 26
+  Position: 0.515294, 0.045144, -0.790086
+- Index: 27
+  Position: -0.837193, 0.18025, 0.71459
+- Index: 62
+  Position: -0.907529, 0.608656, 0.851127
+- Index: 63
+  Position: 0, 0.390392, -0.066732
+- Index: 921646266
+  Position: 0.504834, -0.778561, -0.103078
+  Scale: 0.377468
+- Index: 921646267
+  Position: -0.652235, -0.22, 0.03524
+- Index: 921646268
+  Position: 0, -0.99457, 0.862778
+- Index: 921646269
+  Position: -0.894551, 0.065494, -0.173267
+  Scale: -0.923769
+- Index: 921646270
+  Position: 0, 0, -0.055494
+- Index: 921646271
+  Position: -0.11, -0.23, -0.38979
+  Rotation: -0.989054, 0, 0.15092
+  Scale: -0.100096
+- Index: 921646272
+  Position: 0, 0.060163, -0.077001
+- Index: 921646273
+  Position: 0.5242, 0.04354, 0.050074
+  Rotation: -0.332525, 0, 0
+  Scale: -0.588485
+- Index: 921646274
+  Position: 0, -0.788533, -0.108316
+  Scale: -0.265192
+- Index: 921646275
+  Position: 0.025277, 0.93, 0.09
+  Scale: 0.43
+- Index: 921646276
+  Position: -0.314784, -0.388415, -0.163541
+  Scale: 0.475341
+- Index: 921646277
+  Position: 0.565932, 0.07, -0.384868
+  Rotation: 0, 0, -0.076821
+- Index: 921646278
+  Position: 0, 0.860936, 0.102332
+  Scale: 0.439665
+- Index: 921646279
+  Position: 0, -0.217213, 0.506842
+  Scale: -0.532685
+MajorFlags:
+- 0x40000

@@ -1,0 +1,235 @@
+FormKey: 05E559:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: LawrenceHiggs
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: Inventory
+Unknown: 103
+Factions:
+- Faction: 05E558:Fallout4.esm
+- Faction: 0A95E6:Fallout4.esm
+- Faction: 1CB6BB:Fallout4.esm
+Voice: 06935B:Fallout4.esm
+DefaultTemplate: 05E70F:Fallout4.esm
+TemplateActors:
+  InventoryTemplate: 05E70F:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 1A777C:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Cautious
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 061C3D:Fallout4.esm
+Keywords:
+- 024593:Fallout4.esm
+- 0C8670:Fallout4.esm
+Class: 031757:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Lawrence Higgs
+ShortName:
+  TargetLanguage: English
+  Value: Lawrence
+CalculatedHealth: 50
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1D2A60:Fallout4.esm
+- 1D2A61:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.443
+  Muscular: 0.104
+  Fat: 0.453
+SoundLevel: Normal
+DefaultOutfit: 1ACD13:Fallout4.esm
+CrimeFaction: 0A95E6:Fallout4.esm
+HeadTexture: 128C59:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646456
+  Value: 1
+- Key: 921646550
+  Value: -0.064744
+- Key: 921646200
+  Value: 0.28
+- Key: 921646547
+  Value: 0.05
+- Key: 921646608
+  Value: 0.73
+- Key: 921646549
+  Value: -0.034788
+- Key: 921646606
+  Value: 0.83
+- Key: 921646626
+  Value: 0.95
+- Key: 921646548
+  Value: -0.274274
+FaceTintingLayers:
+- DataType: Value
+  Index: 1197
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1202
+  Value: 0.26
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1256
+  Value: 0.34
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1257
+  Value: 0.34
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1563
+  Value: 0.79
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1564
+  Value: 0.58
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1565
+  Value: 0.34
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.26
+FaceMorphs:
+- Index: 0
+  Position: 0.05, 0.05, -0.223333
+  Rotation: -0.023333, 0, 0
+- Index: 1
+  Position: 0.03, 0.18, -0.053333
+- Index: 2
+  Position: -0.043333, 0.03, -0.38
+- Index: 3
+  Position: -0.04, 0.03, -0.04
+  Scale: 0.14
+- Index: 4
+  Position: 0, 0, -0.02
+  Scale: 0.003333
+- Index: 5
+  Position: -0.06, -0.3, 0.26
+  Rotation: 0, 0.023333, 0
+  Scale: -0.04
+- Index: 6
+  Position: 0.043333, 0.056667, 0.063333
+- Index: 7
+  Position: 0.016667, -0.036667, 0.026667
+- Index: 8
+  Position: -0.003333, 0.013333, 0.003333
+  Scale: 0.053333
+- Index: 9
+  Position: 0, 0.33, 0.14
+  Scale: -0.12
+- Index: 10
+  Position: -0.053333, -0.02, -0.163333
+  Scale: -0.06
+- Index: 25
+  Position: 0, -0.59, -0.22
+  Scale: -0.51
+- Index: 26
+  Position: 0.05, 0.05, 0.16
+- Index: 27
+  Position: -0.31, -0.61, -0.056667
+- Index: 62
+  Position: -0.006667, 0.04, -0.016667
+- Index: 63
+  Position: 0, -0.41, -0.73
+- Index: 921646266
+  Position: -0.12, 0.16, 0.06
+  Scale: 0.06
+- Index: 921646267
+  Position: 0.036667, -0.76, -0.16
+- Index: 921646268
+  Position: 0, -0.12, 0.16
+- Index: 921646269
+  Position: 0.196667, -0.17, -0.136667
+  Scale: -0.16
+- Index: 921646270
+  Position: 0, 0, 0.09
+- Index: 921646271
+  Position: -0.04, 0, -0.41
+  Rotation: 0.036667, 0, -0.3
+  Scale: 0.19
+- Index: 921646272
+  Position: 0, -0.243333, 0.03
+- Index: 921646273
+  Position: -0.016667, -0.053333, -0.33
+  Rotation: 0.08, 0, 0
+  Scale: -0.33
+- Index: 921646274
+  Position: 0, -0.15, -0.43
+  Scale: -0.6
+- Index: 921646275
+  Position: -0.03, -0.1, -0.27
+  Scale: 0.12
+- Index: 921646276
+  Position: -0.17, -0.28, -0.33
+  Scale: 0.116667
+- Index: 921646277
+  Position: 0.043333, 0.03, -0.31
+  Rotation: 0, 0, -0.333333
+- Index: 921646278
+  Position: 0, 0.2, 0.063333
+  Scale: -0.43
+- Index: 921646279
+  Position: 0, 0, -0.056667
+  Scale: -0.27
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

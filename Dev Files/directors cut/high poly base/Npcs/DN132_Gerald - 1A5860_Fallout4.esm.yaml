@@ -1,0 +1,108 @@
+FormKey: 1A5860:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DN132_Gerald
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- AutoCalcStats
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 7742
+Unknown: 16544
+Voice: 1A585F:Fallout4.esm
+DefaultTemplate: 0A0E2F:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 0A0E2F:Fallout4.esm
+  FactionsTemplate: 0A0E2F:Fallout4.esm
+  SpellListTemplate: 0A0E2F:Fallout4.esm
+  AiDataTemplate: 0A0E2F:Fallout4.esm
+  AiPackagesTemplate: 0A0E2F:Fallout4.esm
+  ScriptTemplate: 0A0E2F:Fallout4.esm
+  DefPackListTemplate: 0A0E2F:Fallout4.esm
+  AttackDataTemplate: 0A0E2F:Fallout4.esm
+  KeywordsTemplate: 0A0E2F:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Keywords:
+- 03D290:Fallout4.esm
+- 0C866F:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Male Voice
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 094D05:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A95:Fallout4.esm
+- 14108D:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042F:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+SoundLevel: Normal
+DefaultOutfit: 021842:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646213
+  Value: 1
+FaceTintingLayers:
+- DataType: Value
+  Index: 1181
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1193
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1203
+  Value: 0.47
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+MajorFlags:
+- 0x40000

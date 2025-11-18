@@ -1,0 +1,274 @@
+FormKey: 004471:DLCCoast.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC03CoA_BrotherKane
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -41, -25, 0
+  Second: 41, 72, 86
+Flags:
+- AutoCalcStats
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: DefPackList
+Unknown: -15081
+Factions:
+- Faction: 004462:DLCCoast.esm
+- Faction: 00995C:DLCCoast.esm
+- Faction: 05D37C:DLCCoast.esm
+Voice: 004472:DLCCoast.esm
+DefaultTemplate: 02FB87:Fallout4.esm
+TemplateActors:
+  DefPackListTemplate: 02FB87:Fallout4.esm
+Race: 013746:Fallout4.esm
+Perks:
+- Perk: 0A2775:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 040807:DLCCoast.esm
+    Count: 1
+- Item:
+    Item: 04080C:DLCCoast.esm
+    Count: 1
+- Item:
+    Item: 0585A4:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1BBCBD:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+NoSlowApproach: True
+Packages:
+- 004D20:DLCCoast.esm
+- 018056:DLCCoast.esm
+- 019F7F:DLCCoast.esm
+- 004497:DLCCoast.esm
+- 042838:DLCCoast.esm
+- 0044BE:DLCCoast.esm
+- 0044B3:DLCCoast.esm
+- 130DC6:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Brother Kane
+ShortName:
+  TargetLanguage: English
+  Value: Kane
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 174F92:Fallout4.esm
+- 174F93:Fallout4.esm
+- 174F94:Fallout4.esm
+- 1D7F9E:Fallout4.esm
+- 1F3D09:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+CombatStyle: 22140B:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+SoundLevel: Normal
+DefaultOutfit: 0E7474:Fallout4.esm
+CrimeFaction: 004462:DLCCoast.esm
+HeadTexture: 03B521:Fallout4.esm
+TextureLighting: '#404253'
+Morphs:
+- Key: 921646550
+  Value: 0.7
+- Key: 921646200
+  Value: -0.223659
+- Key: 921646547
+  Value: -0.73
+- Key: 921646603
+  Value: 0.54
+- Key: 921646242
+  Value: 0.99
+- Key: 921646640
+  Value: 0.64
+- Key: 921646549
+  Value: 0.33
+- Key: 921646632
+  Value: 0.7
+- Key: 921646611
+  Value: 0.41
+- Key: 921646292
+  Value: 0.83
+- Key: 921646615
+  Value: 0.48
+- Key: 921646548
+  Value: 0.500351
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00404253'
+  TemplateColorIndex: 1283
+- DataType: Value
+  Index: 1179
+  Value: 0.17
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1199
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1357
+  Value: 0.42
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1359
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1563
+  Value: 0.47
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1896
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1821
+- DataType: ValueAndColor
+  Index: 1898
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1821
+FaceMorphs:
+- Index: 0
+  Position: -0.124664, 0.05, -0.408916
+  Rotation: -0.2, 0, 0
+- Index: 1
+  Position: -0.091625, -0.37, 0.06076
+- Index: 2
+  Position: 0.33774, 0.01, 0.09764
+- Index: 3
+  Position: 0.281676, 0.06, 0.16
+  Scale: 0.472968
+- Index: 4
+  Position: 0, 0, 0.14
+  Scale: 0.476866
+- Index: 5
+  Position: 0.26, -0.239686, -0.41
+  Rotation: 0, -0.81, 0
+  Scale: 0.03
+- Index: 6
+  Position: -0.18, 0.14, 0.62
+- Index: 7
+  Position: 0.082568, 0.81, -0.59
+- Index: 8
+  Position: -0.343019, 0.111944, -0.012301
+  Scale: -0.406451
+- Index: 9
+  Position: -0.494034, 0.69, 0.253194
+  Scale: 0.085833
+- Index: 10
+  Position: -0.21, 0.013873, 0.29
+  Scale: -0.05
+- Index: 25
+  Position: 0, 0.34, 0.29
+  Scale: 0.82
+- Index: 26
+  Position: 0.1281, 0.415333, -0.298868
+- Index: 27
+  Position: -0.019478, 0.64, 0.23
+- Index: 62
+  Position: -0.482701, 0.411982, -0.75
+- Index: 63
+  Position: 0, 0.22, -0.032027
+- Index: 921646266
+  Position: 0.089384, -0.76, 0.22
+  Scale: 0.21
+- Index: 921646267
+  Position: -0.397556, -0.3059, 0.35
+- Index: 921646268
+  Position: 0, -0.171265, 0.221046
+- Index: 921646269
+  Position: 0.273212, -0.02, -0.17
+  Rotation: -0.58, 0, 0
+  Scale: 0.49
+- Index: 921646270
+  Position: 0, 0, -0.439274
+- Index: 921646271
+  Position: -0.07, 0.17, -0.311531
+  Rotation: 0.23, 0, 0.45
+  Scale: 0.24
+- Index: 921646272
+  Position: 0, -0.026791, 0.332704
+- Index: 921646273
+  Position: 0.403145, -0.031893, 0.355983
+  Rotation: -0.497048, 0, 0
+  Scale: -0.35
+- Index: 921646274
+  Position: 0, -0.24, -0.275753
+  Scale: 0.45
+- Index: 921646275
+  Position: -0.076197, 0.22, -0.28
+  Rotation: 0.88, 0, 0
+  Scale: 0.37
+- Index: 921646276
+  Position: 0.146153, -0.110807, 0.398058
+  Scale: 0.5
+- Index: 921646277
+  Position: -0.363095, -0.05, -0.12
+  Rotation: 0, 0, 0.4102
+- Index: 921646278
+  Position: 0, 0.390968, 0.405701
+  Scale: 0.5
+- Index: 921646279
+  Position: 0, 0.058976, -0.165657
+  Scale: 0.26
+FacialMorphIntensity: 1.3
+MajorFlags:
+- 0x40000

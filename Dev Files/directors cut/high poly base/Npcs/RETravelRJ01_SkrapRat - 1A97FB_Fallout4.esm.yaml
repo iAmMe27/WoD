@@ -1,0 +1,181 @@
+FormKey: 1A97FB:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: RETravelRJ01_SkrapRat
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- Respawn
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 7979
+Factions:
+- Faction: 1AB2E6:Fallout4.esm
+Voice: 00002E:Fallout4.esm
+DefaultTemplate: 02BE9E:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 02BE9E:Fallout4.esm
+  StatsTemplate: 02BE9E:Fallout4.esm
+  SpellListTemplate: 02BE9E:Fallout4.esm
+  AiPackagesTemplate: 02BE9E:Fallout4.esm
+  InventoryTemplate: 02BE9E:Fallout4.esm
+  ScriptTemplate: 02BE9E:Fallout4.esm
+  DefPackListTemplate: 02BE9E:Fallout4.esm
+  AttackDataTemplate: 02BE9E:Fallout4.esm
+  KeywordsTemplate: 02BE9E:Fallout4.esm
+Race: 013746:Fallout4.esm
+Skin: 0ADA90:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1642A9:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+AggroRadiusBehaviorEnabled: True
+AggroRadiusWarn: 1000
+AggroRadiusWarnOrAttack: 1000
+AggroRadiusAttack: 500
+Class: 20F487:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Skrap Rat
+CalculatedHealth: 85
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC29:Fallout4.esm
+- 15A166:Fallout4.esm
+- 1E6783:Fallout4.esm
+- 1E6784:Fallout4.esm
+- 1E6785:Fallout4.esm
+- 1E6786:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE69:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5849
+  Muscular: 0.1503
+  Fat: 0.2649
+SoundLevel: Normal
+DefaultOutfit: 1BE3F5:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+TextureLighting: '#404253'
+Morphs:
+- Key: 921646551
+  Value: 0.39
+- Key: 921646553
+  Value: 0.54
+FaceMorphs:
+- Index: 10062
+  Position: 0.180919, 0.174878, -0.164912
+- Index: 10063
+  Position: 0, 0.028508, -0.233578
+- Index: 100000
+  Position: 0.139982, 0.097103, -0.54
+  Rotation: -0.32, 0, 0
+- Index: 100001
+  Position: -0.094593, 0.205515, 0.192151
+- Index: 100002
+  Position: -0.05088, -0.031603, -0.097942
+- Index: 100003
+  Position: 0.032736, 0.45, 0.35
+  Scale: -0.71
+- Index: 100004
+  Position: 0, 0.61, -0.5
+  Scale: -1
+- Index: 100005
+  Position: 0.094027, 0.044569, -0.179173
+  Rotation: 0, -0.218197, 0
+  Scale: 0.111165
+- Index: 100006
+  Position: 0.237669, -0.169653, 0.007289
+- Index: 100007
+  Position: -0.021433, -0.188569, -0.207787
+- Index: 100008
+  Position: -0.023375, -0.14463, 0.125657
+  Scale: -0.141025
+- Index: 100009
+  Position: 0.245098, -0.069757, 0.05601
+  Scale: 0.42
+- Index: 100010
+  Position: -0.047206, 0.050439, 0.20162
+  Scale: -1
+- Index: 100011
+  Position: -0.212662, 0.062952, 0.49
+  Scale: -0.204852
+- Index: 100012
+  Position: 0.194474, 0.193283, 0.128674
+- Index: 100013
+  Position: 0, -0.26, -1
+- Index: 100014
+  Position: 0.03998, 0.150956, 0.14
+  Rotation: 0.005755, 0, 0
+  Scale: 0.11
+- Index: 100015
+  Position: 0, 0, -0.140206
+- Index: 100016
+  Position: -0.159308, -0.056417, 0.033664
+  Rotation: 0.209083, 0, -0.032988
+  Scale: 0.075578
+- Index: 100017
+  Position: -0.245097, 0.09243, -0.233681
+  Rotation: -0.056817, 0, 0
+  Scale: 0.222632
+- Index: 100018
+  Position: 0, -0.226872, -0.190104
+  Scale: 0.086538
+- Index: 100019
+  Position: -0.148597, 0.037681, 0.039217
+  Rotation: -0.122818, 0, 0
+  Scale: -0.45
+- Index: 100020
+  Position: 0.018403, 0.133367, 0.32
+  Scale: 0.27
+- Index: 100021
+  Position: 0.230838, -0.202405, -0.03101
+  Rotation: 0, 0, 0.089894
+- Index: 100022
+  Position: 0, 0.103083, -0.150543
+  Scale: -0.084542
+- Index: 100023
+  Position: 0, -0.244887, -0.050974
+  Scale: 0.088963
+- Index: 100024
+  Position: 0, 0.166529, -0.157746
+  Scale: -0.71
+- Index: 100025
+  Position: -0.040913, -0.08, 0.164915
+- Index: 100026
+  Position: -0.89, 0.85, -0.122159
+- Index: 100027
+  Position: 0, 0.054473, -0.2079
+MajorFlags:
+- 0x40000

@@ -1,0 +1,707 @@
+FormKey: F01874:AA Lots More Settlers and Enemies.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: LMSE_Triggermen_MFace_054
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Respawn
+- AutoCalcStats
+XpValueOffset: 5
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+CalcMinLevel: 1
+CalcMaxLevel: 25
+DispositionBase: 35
+Unknown: 496
+Factions:
+- Faction: 083AD0:Fallout4.esm
+Voice: 083ACD:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 076A0A:Fallout4.esm
+  FactionsTemplate: 076A0A:Fallout4.esm
+  SpellListTemplate: 076A0A:Fallout4.esm
+  AiDataTemplate: 076A0A:Fallout4.esm
+  AiPackagesTemplate: 076A0A:Fallout4.esm
+  InventoryTemplate: 076A0A:Fallout4.esm
+  ScriptTemplate: 076A0A:Fallout4.esm
+  DefPackListTemplate: 076A0A:Fallout4.esm
+  AttackDataTemplate: 076A0A:Fallout4.esm
+  KeywordsTemplate: 076A0A:Fallout4.esm
+Race: 013746:Fallout4.esm
+Skin: 000D64:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 3
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 15
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 30
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002E3:Fallout4.esm
+  Value: 8
+Items:
+- Item:
+    Item: 055C5A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 188B20:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 022E49:Fallout4.esm
+- 0C866C:Fallout4.esm
+Class: 1CD0A9:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Triggerman
+CalculatedHealth: 40
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 051EAF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1436DC:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE67:Fallout4.esm
+CombatStyle: 06627F:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.049769
+  Muscular: 0.040462
+  Fat: 0.909769
+SoundLevel: Normal
+DefaultOutfit: 0EBE72:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 128C59:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646269
+  Value: 0.98
+- Key: 921646609
+  Value: 0.02
+- Key: 921646550
+  Value: 0.763212
+- Key: 921646200
+  Value: -0.33
+- Key: 921646547
+  Value: -0.111536
+- Key: 921646630
+  Value: 0.3
+- Key: 921646549
+  Value: -0.820754
+- Key: 921646236
+  Value: 0.18
+- Key: 921646602
+  Value: 0.34
+- Key: 921646597
+  Value: 0.84
+- Key: 921646521
+  Value: 0.65
+- Key: 921646548
+  Value: -0.087523
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1167
+  Color: '#00000000'
+  TemplateColorIndex: 1802
+- DataType: Value
+  Index: 1171
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1172
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1173
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1174
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1175
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1176
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1177
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1178
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1179
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1180
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1181
+  Value: 0.66
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1182
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1183
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1184
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1185
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1195
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1201
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: ValueAndColor
+  Index: 1202
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: ValueAndColor
+  Index: 1203
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: ValueAndColor
+  Index: 1204
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: ValueAndColor
+  Index: 1205
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1231
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1232
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1233
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1234
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1235
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1236
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1237
+  Value: 0.12
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1256
+  Value: 0.42
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1257
+  Value: 0.16
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1258
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1259
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1260
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1261
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1341
+  Value: 0.26
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1347
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1348
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1349
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1350
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1351
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1352
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1353
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1354
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1355
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1356
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1357
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1358
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1359
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1360
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1368
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1369
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1370
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1371
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1372
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1374
+  Value: 0.56
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1375
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1376
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1377
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1378
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1379
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1380
+  Value: 0.26
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1381
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1383
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1384
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1385
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1387
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1388
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1389
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1390
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1391
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1392
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1393
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1394
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1478
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1479
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1480
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1487
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1488
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1489
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1490
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1491
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1492
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1493
+  Value: 0.16
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1494
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1495
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1558
+  Value: 0.52
+  Color: '#00AFBDA6'
+  TemplateColorIndex: 1655
+- DataType: Value
+  Index: 1562
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1563
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1564
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1565
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1678
+  Color: '#00000000'
+  TemplateColorIndex: 1803
+- DataType: ValueAndColor
+  Index: 1679
+  Color: '#00000000'
+  TemplateColorIndex: 1804
+- DataType: ValueAndColor
+  Index: 1680
+  Color: '#00000000'
+  TemplateColorIndex: 1805
+- DataType: ValueAndColor
+  Index: 1681
+  Color: '#00000000'
+  TemplateColorIndex: 1806
+- DataType: ValueAndColor
+  Index: 1682
+  Color: '#00000000'
+  TemplateColorIndex: 1807
+- DataType: ValueAndColor
+  Index: 1683
+  Color: '#00000000'
+  TemplateColorIndex: 1808
+- DataType: ValueAndColor
+  Index: 1684
+  Color: '#00000000'
+  TemplateColorIndex: 1809
+- DataType: ValueAndColor
+  Index: 1685
+  Color: '#00000000'
+  TemplateColorIndex: 1810
+- DataType: ValueAndColor
+  Index: 1686
+  Color: '#00000000'
+  TemplateColorIndex: 1811
+- DataType: ValueAndColor
+  Index: 1687
+  Color: '#00000000'
+  TemplateColorIndex: 1812
+- DataType: ValueAndColor
+  Index: 1688
+  Color: '#00000000'
+  TemplateColorIndex: 1813
+- DataType: ValueAndColor
+  Index: 1689
+  Color: '#00000000'
+  TemplateColorIndex: 1814
+- DataType: ValueAndColor
+  Index: 1690
+  Color: '#00000000'
+  TemplateColorIndex: 1815
+- DataType: ValueAndColor
+  Index: 1691
+  Color: '#00000000'
+  TemplateColorIndex: 1816
+- DataType: ValueAndColor
+  Index: 1692
+  Color: '#00000000'
+  TemplateColorIndex: 1817
+- DataType: ValueAndColor
+  Index: 1693
+  Color: '#00000000'
+  TemplateColorIndex: 1818
+- DataType: ValueAndColor
+  Index: 1694
+  Color: '#00000000'
+  TemplateColorIndex: 1819
+- DataType: ValueAndColor
+  Index: 1695
+  Color: '#00000000'
+  TemplateColorIndex: 1820
+- DataType: ValueAndColor
+  Index: 1696
+  Color: '#00000000'
+  TemplateColorIndex: 1821
+- DataType: Value
+  Index: 1764
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1765
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1797
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1798
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.381817
+  UpperTorso: 0.84
+  Arms: -0.71
+  LowerTorso: 1
+  Legs: 0.22
+FaceMorphs:
+- Index: 0
+  Position: 0.22066, -0.571275, 0.994038
+  Rotation: -0.72752, 0, 0
+- Index: 1
+  Position: 0.488274, 0.684998, -0.08457
+- Index: 2
+  Position: 0.0193, 0.52, -0.475934
+- Index: 3
+  Position: 0.463102, 0.395136, -0.53
+  Scale: -0.825564
+- Index: 4
+  Position: 0, 0, 0.34
+  Scale: 0.243586
+- Index: 5
+  Position: 0.44, -0.146001, 0.65
+  Rotation: 0, 0.612511, 0
+  Scale: -0.17
+- Index: 6
+  Position: 0.116055, -0.802775, 0.905805
+- Index: 7
+  Position: -0.146458, 0.328716, -0.21703
+- Index: 8
+  Position: -0.120802, 0.830551, -0.19605
+  Scale: 0.263432
+- Index: 9
+  Position: 0.36, 0.03, -0.831964
+  Scale: 0.39
+- Index: 10
+  Position: 0.671388, 0.29, -0.434289
+  Scale: 0.995294
+- Index: 25
+  Position: 0, 0.758316, -0.8213
+  Scale: -0.908269
+- Index: 26
+  Position: -0.601055, 0.06, 0.929594
+- Index: 27
+  Position: -0.130339, -0.491662, 0.452579
+- Index: 62
+  Position: 0.103831, -0.938135, 0.21
+- Index: 63
+  Position: 0, -0.450664, -0.341805
+- Index: 921646266
+  Position: 0.22, -0.12, 0.828766
+  Scale: -0.704491
+- Index: 921646267
+  Position: 0.16, -0.04, 0.68
+- Index: 921646268
+  Position: 0, -0.920587, -0.896879
+- Index: 921646269
+  Position: 0.742449, -0.615406, -0.497788
+  Scale: -0.277477
+- Index: 921646270
+  Position: 0, 0, 1
+- Index: 921646271
+  Position: 0.65, -0.13, 0.62
+  Rotation: -0.177753, 0, 0.188241
+  Scale: 0.28
+- Index: 921646272
+  Position: 0, -0.354225, -0.044307
+- Index: 921646273
+  Position: 0.421359, 0.37, -0.23
+  Rotation: 0.215869, 0, 0
+  Scale: 0.930427
+- Index: 921646274
+  Position: 0, 0.083904, -0.26822
+  Scale: 0.759515
+- Index: 921646275
+  Position: 0.003264, 0.14, -0.18
+  Scale: -0.437192
+- Index: 921646276
+  Position: 0.04, -1, -0.893688
+  Scale: -0.371754
+- Index: 921646277
+  Position: 0.960937, 0.44554, 0.375464
+  Rotation: 0, 0, 0.901178
+- Index: 921646278
+  Position: 0, 0.307956, 0.14
+  Scale: -0.677743
+- Index: 921646279
+  Position: 0, -0.739134, 0.13
+  Scale: 0.063777
+MajorFlags:
+- 0x40000

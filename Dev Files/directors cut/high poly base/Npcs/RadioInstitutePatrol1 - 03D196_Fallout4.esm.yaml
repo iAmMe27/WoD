@@ -1,0 +1,146 @@
+FormKey: 03D196:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: RadioInstitutePatrol1
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Voice: 03F6FF:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Institute Patrol 1
+CalculatedHealth: 25710
+CalculatedActionPoints: 29472
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A9C:Fallout4.esm
+- 1411C4:Fallout4.esm
+- 1411C5:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.713613
+  Muscular: 0.242775
+  Fat: 0.043613
+SoundLevel: Normal
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646274
+  Value: 1
+- Key: 921646503
+  Value: 1
+- Key: 921646299
+  Value: 1
+- Key: 921646311
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+BodyMorphRegionValues:
+  Head: 0.7
+FaceMorphs:
+- Index: 0
+  Position: 0.02795, 0.351939, -0.287348
+  Rotation: -0.201134, 0, 0
+- Index: 1
+  Position: -0.07315, 0.214357, 0.208611
+- Index: 2
+  Position: -0.113074, 0.036112, -0.111231
+- Index: 3
+  Position: -0.041003, 0.397065, 0.342856
+- Index: 4
+  Position: 0, 0, -0.299749
+  Scale: 0.274002
+- Index: 5
+  Position: 0, 0.30731, 0.189858
+  Rotation: 0, -0.164891, 0
+  Scale: -0.117607
+- Index: 6
+  Position: -0.062721, 0.202683, 0.343975
+- Index: 7
+  Position: -0.308697, -0.062383, -0.029505
+- Index: 8
+  Position: -0.393227, 0.035657, 0.357465
+- Index: 9
+  Position: 0, 0.125902, -0.306041
+  Scale: -0.167612
+- Index: 10
+  Position: -0.332565, -0.097498, -0.177145
+- Index: 25
+  Position: 0, 0.077382, -0.252348
+- Index: 26
+  Position: -0.004825, -0.316739, 0.173125
+- Index: 27
+  Position: -0.149059, 0.287685, 0.103348
+- Index: 921646266
+  Position: -0.21877, 0.051255, -0.347444
+- Index: 921646267
+  Position: 0, 0.032712, 0.016451
+- Index: 921646268
+  Position: 0, -0.190071, -0.31261
+- Index: 921646269
+  Position: -0.387896, 0.03949, -0.223557
+  Scale: -0.181484
+- Index: 921646270
+  Position: 0, 0, 0.225809
+- Index: 921646271
+  Position: 0.284204, -0.22806, -0.022047
+  Rotation: 0.180177, 0, -0.342576
+  Scale: 0.23169
+- Index: 921646272
+  Position: 0, 0.25961, 0.004616
+- Index: 921646273
+  Position: -0.214137, -0.150983, 0.234044
+  Scale: -0.241853
+- Index: 921646274
+  Position: 0, 0.184189, -0.004063
+- Index: 921646275
+  Position: -0.39805, -0.068801, 0.216498
+  Scale: 0.04516
+- Index: 921646276
+  Position: 0.109529, -0.228584, -0.062303
+- Index: 921646277
+  Position: -0.153837, 0.00987, 0.300367
+  Rotation: 0, 0, -0.093945
+- Index: 921646278
+  Position: 0, -0.045755, -0.154339
+  Scale: -0.260258
+- Index: 921646279
+  Position: 0, 0.247116, 0.344793
+  Scale: -0.315808
+MajorFlags:
+- 0x40000

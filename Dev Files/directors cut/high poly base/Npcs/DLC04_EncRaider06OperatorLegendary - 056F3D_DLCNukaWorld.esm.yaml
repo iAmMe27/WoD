@@ -1,0 +1,240 @@
+FormKey: 056F3D:DLCNukaWorld.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC04_EncRaider06OperatorLegendary
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- Respawn
+XpValueOffset: 55
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 39
+CalcMinLevel: 39
+DispositionBase: 35
+UseTemplateActors: 3903
+Unknown: 140
+Factions:
+- Faction: 00F439:DLCNukaWorld.esm
+DeathItem: 04E350:Fallout4.esm
+Voice: 007CF7:DLCNukaWorld.esm
+DefaultTemplate: 02E806:DLCNukaWorld.esm
+TemplateActors:
+  TraitTemplate: 011080:DLCNukaWorld.esm
+  StatsTemplate: 02E806:DLCNukaWorld.esm
+  FactionsTemplate: 02E806:DLCNukaWorld.esm
+  SpellListTemplate: 184755:Fallout4.esm
+  AiDataTemplate: 02E806:DLCNukaWorld.esm
+  AiPackagesTemplate: 02E806:DLCNukaWorld.esm
+  InventoryTemplate: 056F3A:DLCNukaWorld.esm
+  ScriptTemplate: 02E806:DLCNukaWorld.esm
+  DefPackListTemplate: 02E806:DLCNukaWorld.esm
+  AttackDataTemplate: 02E806:DLCNukaWorld.esm
+Race: 013746:Fallout4.esm
+ActorEffect:
+- 1FE6BC:Fallout4.esm
+Skin: 0ADA90:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Perks:
+- Perk: 1C346F:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 500
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C2:Fallout4.esm
+  Value: 8
+Items:
+- Item:
+    Item: 03F98D:DLCNukaWorld.esm
+    Count: 1
+- Item:
+    Item: 04E350:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 055C5A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 19FFBB:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 246C06:Fallout4.esm
+    Count: 1
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 0A56F5:Fallout4.esm
+- 024593:Fallout4.esm
+- 1CF26C:Fallout4.esm
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Legendary Operator
+CalculatedHealth: 340
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC2A:Fallout4.esm
+- 019519:DLCNukaWorld.esm
+- 01951A:DLCNukaWorld.esm
+- 01951B:DLCNukaWorld.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+CombatStyle: 03183B:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.138468
+  Muscular: 0.393064
+  Fat: 0.468468
+SoundLevel: Normal
+DefaultOutfit: 036673:DLCNukaWorld.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 00F439:DLCNukaWorld.esm
+TextureLighting: '#C4BBAA'
+Morphs:
+- Key: 921646551
+  Value: -0.39
+- Key: 921646553
+  Value: 0.23
+- Key: 921646700
+  Value: 0.64
+- Key: 921646675
+  Value: 0.34
+- Key: 921646364
+  Value: 0.35
+- Key: 921646552
+  Value: -0.61846
+- Key: 921646686
+  Value: 0.15
+- Key: 921646554
+  Value: -0.366566
+- Key: 921646749
+  Value: 0.75
+- Key: 921646328
+  Value: 0.77
+- Key: 921646726
+  Value: 0.52
+BodyMorphRegionValues:
+  Head: -0.79
+  UpperTorso: -0.61
+  Arms: 0.75
+  LowerTorso: 1
+  Legs: 0.83
+FaceMorphs:
+- Index: 10062
+  Position: 0.724856, -0.49121, 0.015432
+- Index: 10063
+  Position: 0, 0.806437, 0.600393
+- Index: 100000
+  Position: -0.776403, -0.840017, -0.2
+  Rotation: -0.691811, 0, 0
+- Index: 100001
+  Position: -0.881535, 0.146562, 0.177807
+- Index: 100002
+  Position: -0.941316, 0.864908, 0.854179
+- Index: 100003
+  Position: -0.573517, 0.597653, -0.538411
+  Scale: 0.182527
+- Index: 100004
+  Position: 0, -0.655802, 0.610647
+  Scale: -0.183763
+- Index: 100005
+  Position: -0.920821, -0.071403, -0.0357
+  Rotation: 0, 0.005288, 0
+  Scale: -0.093092
+- Index: 100006
+  Position: 0.907415, -0.754059, -0.588299
+- Index: 100007
+  Position: -0.940819, 0.74239, 0.31251
+- Index: 100008
+  Position: -0.170216, -0.338397, -0.120251
+  Scale: -0.338805
+- Index: 100009
+  Position: 0.15, -0.752683, -0.017092
+  Scale: 0.565809
+- Index: 100010
+  Position: 0.954442, 0.395947, -0.179362
+  Scale: 0.665667
+- Index: 100011
+  Position: -0.460002, 0.785599, -0.040575
+  Scale: 0.733844
+- Index: 100012
+  Position: 0.359244, 0.779172, 0.264966
+- Index: 100013
+  Position: 0, 0.406714, -0.340162
+- Index: 100014
+  Position: -0.944578, -0.59018, -0.963612
+  Rotation: 0.645831, 0, 0
+  Scale: 0.378335
+- Index: 100015
+  Position: 0, 0, -0.169301
+- Index: 100016
+  Position: 0.478838, -0.814769, 0.101368
+  Rotation: 0.262918, 0, -0.14689
+  Scale: 0.767915
+- Index: 100017
+  Position: 0.37, 0.239198, -0.185591
+  Rotation: -0.260243, 0, 0
+  Scale: -0.966328
+- Index: 100018
+  Position: 0, -0.205966, -0.267271
+  Scale: 0.372916
+- Index: 100019
+  Position: -0.241459, 0.558155, -0.171371
+  Rotation: -0.394121, 0, 0
+  Scale: -0.048648
+- Index: 100020
+  Position: -0.847391, -0.787139, -0.832256
+  Scale: 0.07
+- Index: 100021
+  Position: -0.652011, -0.634921, -0.151367
+  Rotation: 0, 0, 0.168383
+- Index: 100022
+  Position: 0, 0.590281, 0.321553
+  Scale: -0.004612
+- Index: 100023
+  Position: 0, 0.454449, -0.43
+  Scale: 0.649759
+- Index: 100024
+  Position: 0, 0.548533, 0.652885
+  Scale: 0.600183
+- Index: 100025
+  Position: 0.541004, -0.124814, 0.349038
+- Index: 100026
+  Position: -0.459742, -0.045075, -0.001191
+- Index: 100027
+  Position: 0, 0.172562, 0.148499
+MajorFlags:
+- 0x40000

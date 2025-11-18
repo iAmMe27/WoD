@@ -1,0 +1,303 @@
+FormKey: 0073C6:Beggar_Whore.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: _T_Marge
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: Tentacus:Beggar_Whore:Pimp_Fragments:_T_PimpDeath
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_Following
+      Object: 003D99:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_Pimped
+      Object: 009A25:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_PimpFaction
+      Object: 009A26:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_SexOrders
+      Object: 002850:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_ShameOrders
+      Object: 002851:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- IsCharGenFacePreset
+- AutoCalcStats
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 50
+CalcMinLevel: 10
+CalcMaxLevel: 40
+DispositionBase: 35
+Unknown: 51
+Factions:
+- Faction: 004C80:Beggar_Whore.esp
+Voice: 000F9A:Beggar_Whore.esp
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C4:Fallout4.esm
+  Value: 6
+- ActorValue: 0002C5:Fallout4.esm
+  Value: 6
+- ActorValue: 0002C6:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 7
+- ActorValue: 0002C8:Fallout4.esm
+  Value: 8
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 01F673:Fallout4.esm
+    Count: 30
+- Item:
+    Item: 092217:Fallout4.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Assistance: HelpsFriendsAndAllies
+NoSlowApproach: True
+Packages:
+- 005CD3:Beggar_Whore.esp
+- 00A1D5:Beggar_Whore.esp
+- 00A1D4:Beggar_Whore.esp
+Keywords:
+- 0AD52A:Fallout4.esm
+- 1D03E1:Fallout4.esm
+- 23F1CA:Fallout4.esm
+Class: 076A06:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Marge
+ShortName:
+  TargetLanguage: English
+  Value: Marge
+CalculatedHealth: 385
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 144A9A:Fallout4.esm
+- 144A9B:Fallout4.esm
+- 14EC2D:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5C:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.0004
+  Muscular: 0.5843
+  Fat: 0.4153
+SoundLevel: Normal
+DefaultOutfit: 14D254:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646734
+  Value: 1
+- Key: 921646350
+  Value: 1
+- Key: 921646748
+  Value: 1
+- Key: 921646676
+  Value: 1
+- Key: 921646682
+  Value: 1
+- Key: 921646709
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 1
+  Color: '#00410E29'
+  TemplateColorIndex: 1337
+- DataType: Value
+  Index: 1647
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1717
+  Value: 0.09
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1719
+  Value: 0.39
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1720
+  Value: 0.32
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1721
+  Value: 0.14
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1738
+  Value: 0.17
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1740
+  Value: 0.09
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1749
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1750
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1753
+  Value: 0.26
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1754
+  Value: 0.13
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1762
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: Value
+  Index: 1768
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1833
+  Value: 0.26
+  Color: '#00000000'
+  TemplateColorIndex: 1822
+- DataType: ValueAndColor
+  Index: 1862
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1878
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+FaceMorphs:
+- Index: 10062
+  Position: 0, -0.899974, 0.065912
+- Index: 10063
+  Position: 0, -1, 1
+- Index: 100000
+  Position: 0.056197, 0.319454, 0
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: -0.664551, 0.061729, 0
+- Index: 100002
+  Position: 0.597481, 1, 0.85
+- Index: 100003
+  Position: 0.3, -0.546842, 0.415732
+  Scale: 1
+- Index: 100004
+  Position: 0, -1, 0.097171
+  Scale: -0.6
+- Index: 100005
+  Position: 1, -0.218644, -0.55262
+  Rotation: 0, -0.6, 0
+  Scale: -0.46
+- Index: 100006
+  Position: 1, 0.123374, 0
+- Index: 100008
+  Position: 1, 0.428928, 0
+- Index: 100009
+  Position: -0.240263, 0.372964, -0.7
+- Index: 100010
+  Position: -1, -0.138939, -0.699224
+  Scale: 1
+- Index: 100011
+  Position: 0.5, -0.492166, -0.035396
+  Scale: 0.5
+- Index: 100012
+  Position: 0, 0.092579, -0.278654
+- Index: 100014
+  Position: 0.999874, -1, -0.9
+  Rotation: -0.1, 0, 0
+  Scale: 1
+- Index: 100015
+  Position: 0, 0, 0.3
+- Index: 100016
+  Position: 0.571304, -0.181191, 0.5
+  Rotation: 0, 0, 0.3
+  Scale: -0.8
+- Index: 100017
+  Position: -0.207328, -0.340492, 0.7
+  Rotation: 0.57, 0, 0
+  Scale: -0.4
+- Index: 100018
+  Position: 0, 0.170556, 0.5
+  Scale: 1
+- Index: 100019
+  Position: 0.3228, -0.453845, -0.2
+  Rotation: 0.1, 0, 0
+  Scale: 0.2
+- Index: 100020
+  Position: -1, -0.571069, -0.2
+  Scale: 0.2
+- Index: 100021
+  Position: -0.159153, 0.57971, 1
+  Rotation: 0, 0, 0.3
+- Index: 100022
+  Position: 0, 1, 1
+  Scale: -0.6
+- Index: 100023
+  Position: 0, 0.758703, -0.3
+  Scale: 0.4
+- Index: 100024
+  Position: 0, -1, 1
+- Index: 100025
+  Position: 0.007687, -0.014639, -0.7
+- Index: 100026
+  Position: 1, 0.799427, -0.1
+- Index: 100027
+  Position: 0, 0.00094, 1
+MajorFlags:
+- 0x40000

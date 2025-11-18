@@ -1,0 +1,171 @@
+FormKey: 147D51:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MS07b_MartyBullfinch
+Fallout4MajorRecordFlags:
+- Compressed
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Unknown: 4
+Voice: 147D50:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Class: 123E22:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Marty Bullfinch
+ShortName:
+  TargetLanguage: English
+  Value: Marty
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135AA2:Fallout4.esm
+- 141091:Fallout4.esm
+- 1843EB:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A0439:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.556749
+  Muscular: 0.196918
+  Fat: 0.246333
+SoundLevel: Normal
+HeadTexture: 10742F:Fallout4.esm
+TextureLighting: '#7D6657'
+Morphs:
+- Key: 921646251
+  Value: 0.54
+- Key: 921646550
+  Value: -0.639716
+- Key: 921646200
+  Value: 0.37002
+- Key: 921646547
+  Value: -0.512759
+- Key: 921646266
+  Value: 0.38
+- Key: 921646488
+  Value: 0.57
+- Key: 921646494
+  Value: 0.09
+- Key: 921646549
+  Value: 0.215245
+- Key: 921646548
+  Value: -0.028
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#007D6657'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1199
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.143537
+  UpperTorso: 0.840261
+  Arms: 0.033101
+  LowerTorso: -0.996786
+  Legs: -0.15891
+FaceMorphs:
+- Index: 0
+  Position: 0.861646, -0.910661, -0.246082
+  Rotation: -0.846171, 0, 0
+- Index: 1
+  Position: -0.183388, 0.951267, 0.664291
+- Index: 2
+  Position: -0.24535, 0.555329, -0.274318
+- Index: 3
+  Position: -0.228338, -0.643267, -0.440799
+- Index: 4
+  Position: 0, 0, 0.479831
+  Scale: 0.277464
+- Index: 5
+  Position: -0.475361, -0.220828, 0.449837
+  Rotation: 0, -0.05559, 0
+  Scale: 0.370128
+- Index: 6
+  Position: 0.413372, -0.496229, 0.484768
+- Index: 7
+  Position: -0.585304, 0.699043, -0.40606
+- Index: 8
+  Position: 0.000764, 0.203915, -0.076656
+- Index: 9
+  Position: -0.993155, -0.038058, 0.057561
+  Scale: -0.008232
+- Index: 10
+  Position: 0.138347, 0.221499, -0.275557
+- Index: 25
+  Position: 0, -0.515136, -0.837116
+- Index: 26
+  Position: 0.208699, -0.279746, 0.380515
+- Index: 27
+  Position: 0.781808, 0.020891, -0.072173
+- Index: 921646266
+  Position: 0.190123, -0.377679, 0.883843
+- Index: 921646267
+  Position: 0, -0.699005, -0.875246
+- Index: 921646268
+  Position: 0, -0.552155, 0.18113
+- Index: 921646269
+  Position: -0.012086, 0.970062, -0.334603
+  Scale: -0.057779
+- Index: 921646270
+  Position: 0, 0, 0.184885
+- Index: 921646271
+  Position: 0.381015, -0.49, -0.414674
+  Rotation: 0.593424, 0, -0.377169
+  Scale: -0.081343
+- Index: 921646272
+  Position: 0, 0.878381, 0.372146
+- Index: 921646273
+  Position: 0.68039, -0.914035, -0.195519
+  Scale: -0.824884
+- Index: 921646274
+  Position: 0, -0.261566, 0.603853
+- Index: 921646275
+  Position: -0.270012, 0.20964, 0.685612
+  Scale: 0.450596
+- Index: 921646276
+  Position: 0.303368, -0.618656, -0.828493
+- Index: 921646277
+  Position: -0.653728, 0.359165, -0.947614
+  Rotation: 0, 0, 0.302437
+- Index: 921646278
+  Position: 0, 0.528785, 0.409586
+  Scale: 0.616091
+- Index: 921646279
+  Position: 0, 0.952406, -0.545519
+  Scale: 0.033998
+MajorFlags:
+- 0x40000

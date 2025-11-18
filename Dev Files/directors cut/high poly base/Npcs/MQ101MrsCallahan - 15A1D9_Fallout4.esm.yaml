@@ -1,0 +1,178 @@
+FormKey: 15A1D9:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101MrsCallahan
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 22481
+Voice: 15A1DB:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 15E921:Fallout4.esm
+Keywords:
+- 0FA847:Fallout4.esm
+- 16F377:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Mrs. Callahan
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 08EFC3:Fallout4.esm
+- 0969C8:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE60:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.298757
+  Muscular: 0.092486
+  Fat: 0.608757
+SoundLevel: Normal
+DefaultOutfit: 098E9B:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 09BF1E:Fallout4.esm
+TextureLighting: '#8C919D'
+Morphs:
+- Key: 921646688
+  Value: 1
+- Key: 921646364
+  Value: 0.1
+- Key: 921646721
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#008C919D'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.33
+  Color: '#00432C3C'
+  TemplateColorIndex: -1
+FaceMorphs:
+- Index: 10062
+  Position: -0.24, -0.34, 0.1
+- Index: 10063
+  Position: 0, 0.06, 0.15
+- Index: 100000
+  Position: -0.051424, 0.1, -0.66
+  Rotation: 0.005512, 0, 0
+- Index: 100001
+  Position: -0.061887, 0.054182, -0.04
+- Index: 100002
+  Position: 0.072699, 0.4, -0.099979
+- Index: 100003
+  Position: -0.049453, 0.052909, 0.21
+  Scale: -0.00028
+- Index: 100004
+  Position: 0, -0.62, -0.25
+  Scale: -0.43
+- Index: 100005
+  Position: 0, 0.077264, -0.06746
+  Rotation: 0, 0.11, 0
+  Scale: -0.02
+- Index: 100006
+  Position: 0.6, 0.03, -0.43
+- Index: 100007
+  Position: -0.02608, -0.080073, -0.033231
+- Index: 100008
+  Position: 0.57, -0.08, 0.11
+  Scale: 0.29
+- Index: 100009
+  Position: -0.023513, -0.25, -0.4
+  Scale: -0.092614
+- Index: 100010
+  Position: -0.77, 0.37, 0.45
+  Scale: -0.011841
+- Index: 100011
+  Position: -0.02, -0.25, -0.12
+  Scale: -0.11
+- Index: 100012
+  Position: -0.13, -0.28, -0.79
+- Index: 100013
+  Position: 0, -0.33, -0.71
+- Index: 100014
+  Position: -0.051703, 0.16, -0.13
+  Scale: 0.03
+- Index: 100015
+  Position: 0, 0, 0.01
+- Index: 100016
+  Position: 0.11, -0.12, -0.44
+  Rotation: 0.31, 0, 0.21
+  Scale: -0.12
+- Index: 100017
+  Position: 0.11, 0.09677, -0.11
+  Rotation: 0.35, 0, 0
+  Scale: 1
+- Index: 100018
+  Position: 0, 0.0677, -0.64
+  Scale: 0.41
+- Index: 100019
+  Position: -0.15, 0.26, -0.07
+  Scale: -0.3
+- Index: 100020
+  Position: 0.019186, 0.020967, 0.27
+  Scale: 0.073442
+- Index: 100021
+  Position: 0.044925, -0.05, -0.48
+  Rotation: 0, 0, 0.22
+- Index: 100022
+  Position: 0, -0.22, -0.59
+  Scale: 0.2
+- Index: 100023
+  Position: 0, 0, -0.48
+  Scale: 0.1
+- Index: 100024
+  Position: 0, 0.51, -0.79
+  Scale: -0.91
+- Index: 100025
+  Position: -0.005133, -0.25, -0.02
+- Index: 100026
+  Position: -0.32, 0.26, -0.12
+- Index: 100027
+  Position: 0, -0.14, 0.08
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

@@ -1,0 +1,220 @@
+FormKey: 06B4D1:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: ConnieAbernathy
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: workshopnpcscript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: assignedMultiResource
+      Object: 000331:Fallout4.esm
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bCommandable
+      Data: True
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bIsWorker
+      Data: True
+    - MutagenObjectType: ScriptObjectProperty
+      Name: WorkshopParent
+      Object: 02058E:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Factions:
+- Faction: 0337F3:Fallout4.esm
+- Faction: 06B4D4:Fallout4.esm
+- Faction: 0C8608:Fallout4.esm
+- Faction: 107ADD:Fallout4.esm
+- Faction: 17605C:Fallout4.esm
+Voice: 023324:Fallout4.esm
+Race: 013746:Fallout4.esm
+FarAwayModel: 07ED0F:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 155864:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 188A93:Fallout4.esm
+    Count: 1
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Keywords:
+- 0C8670:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Connie Abernathy
+ShortName:
+  TargetLanguage: English
+  Value: Connie
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC26:Fallout4.esm
+- 1C9A71:Fallout4.esm
+- 1C9A72:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE66:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.249393
+  Muscular: 0.231214
+  Fat: 0.519393
+SoundLevel: Normal
+DefaultOutfit: 1C409D:Fallout4.esm
+CrimeFaction: 06B4D4:Fallout4.esm
+HeadTexture: 03C655:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646551
+  Value: 0.46
+- Key: 921646553
+  Value: -0.51
+- Key: 921646725
+  Value: 0.57
+- Key: 921646364
+  Value: -0.72
+- Key: 921646563
+  Value: 0.78
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1244
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.62
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: Value
+  Index: 1319
+  Value: 0.66
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.84
+  Color: '#00724D43'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1719
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1721
+  Value: 0.42
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1728
+  Value: 0.79
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1747
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1753
+  Value: 0.24
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1778
+  Value: 0.42
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.48
+  UpperTorso: -0.31
+FaceMorphs:
+- Index: 100000
+  Position: 0, -0.093333, 0.14
+- Index: 100001
+  Position: 0.136667, 0.036667, 0.106667
+- Index: 100002
+  Position: 0, 0.12, 0.016667
+- Index: 100004
+  Position: 0, 0, -0.23
+- Index: 100009
+  Scale: 0.193333
+- Index: 100014
+  Position: 0, 0.11, 0
+  Scale: 0.01
+- Index: 100015
+  Position: 0, 0, 0.26
+- Index: 100016
+  Position: 0.096667, -0.073333, -0.243333
+  Rotation: 0, 0, -0.166667
+  Scale: -0.02
+- Index: 100017
+  Position: 0, 0, -0.02
+  Rotation: 0.33, 0, 0
+- Index: 100018
+  Position: 0, 0.123333, -0.36
+  Scale: -0.79
+- Index: 100020
+  Position: 0, 0.08, 0
+  Scale: -0.16
+- Index: 100021
+  Position: -0.333333, -0.12, 0
+  Rotation: 0, 0, -0.193333
+- Index: 100022
+  Scale: -0.36
+- Index: 100023
+  Scale: -0.27
+- Index: 100024
+  Position: 0, -0.31, -0.38
+  Scale: -0.54
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

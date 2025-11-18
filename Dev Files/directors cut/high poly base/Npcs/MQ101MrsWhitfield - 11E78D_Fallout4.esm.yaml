@@ -1,0 +1,126 @@
+FormKey: 11E78D:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101MrsWhitfield
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Voice: 121D2F:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 12AC12:Fallout4.esm
+- 11E7B2:Fallout4.esm
+Keywords:
+- 0C8671:Fallout4.esm
+- 05F763:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Mrs. Whitfield
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 0F9E23:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 186FC1:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE66:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5149
+  Muscular: 0.1503
+  Fat: 0.3349
+SoundLevel: Normal
+DefaultOutfit: 209CEC:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646551
+  Value: 0.46
+- Key: 921646553
+  Value: -0.51
+- Key: 921646324
+  Value: 1
+FaceTintingLayers:
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1245
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.35
+  Color: '#00410E29'
+  TemplateColorIndex: 1337
+FaceMorphs:
+- Index: 100000
+  Position: 0, -0.28, -0.64
+- Index: 100001
+  Position: 0, 0.64, 0.32
+- Index: 100002
+  Position: 0, -0.64, -0.23
+- Index: 100009
+  Scale: 0.39
+- Index: 100014
+  Position: 0, 0.21, 0
+  Scale: 0.83
+- Index: 100016
+  Position: 0.29, -0.22, -0.73
+  Rotation: 0, 0, -0.5
+  Scale: -0.06
+- Index: 100017
+  Position: 0, 0, -0.79
+  Rotation: 0.52, 0, 0
+- Index: 100018
+  Position: 0, 0.37, -0.66
+- Index: 100020
+  Position: 0, 0.24, 0
+  Scale: -0.23
+- Index: 100021
+  Position: -1, -0.36, 0
+  Rotation: 0, 0, -0.58
+- Index: 100024
+  Position: 0, -0.53, -0.22
+  Scale: -0.25
+MajorFlags:
+- 0x40000

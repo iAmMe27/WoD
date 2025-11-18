@@ -1,0 +1,197 @@
+FormKey: 0D2BD6:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101NeighborMale01
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: -1
+Voice: 0CF91C:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 19EE30:Fallout4.esm
+Keywords:
+- 19EDD8:Fallout4.esm
+- 0C8671:Fallout4.esm
+- 03D28F:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Neighbor
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0821DC:Fallout4.esm
+- 0821DD:Fallout4.esm
+- 0821DE:Fallout4.esm
+- 0821DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042C:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5068
+  Muscular: 0.3064
+  Fat: 0.1868
+SoundLevel: Normal
+DefaultOutfit: 11C3B4:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 128C59:Fallout4.esm
+TextureLighting: '#8C939D'
+Morphs:
+- Key: 921646649
+  Value: 0.48
+- Key: 921646200
+  Value: 0.141376
+- Key: 921646549
+  Value: -0.82
+- Key: 921646463
+  Value: 0.98
+- Key: 921646550
+  Value: 0.85
+- Key: 921646297
+  Value: 0.98
+- Key: 921646547
+  Value: -0.67
+- Key: 921646548
+  Value: -0.87
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#008C939D'
+  TemplateColorIndex: 1166
+- DataType: Value
+  Index: 1179
+  Value: 0.44
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1199
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1341
+  Value: 0.26
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1374
+  Value: 0.48
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1375
+  Value: 0.78
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1376
+  Value: 0.42
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.05
+  Arms: -0.51
+  LowerTorso: 0.59
+  Legs: 0.31
+FaceMorphs:
+- Index: 0
+  Position: 0.01, -1, -0.02
+  Rotation: 1, 0, 0
+- Index: 2
+  Position: -1, -0.11, 0.31
+- Index: 3
+  Position: 1, -0.07, 0
+  Scale: 0.64
+- Index: 4
+  Position: 0, 0, -0.46
+- Index: 5
+  Position: 0.41, -0.46, 0
+  Rotation: 0, -0.53, 0
+  Scale: -0.28
+- Index: 9
+  Position: 0, 0.69, 0
+  Scale: -0.2
+- Index: 10
+  Position: -1, 0.35, -0.05
+- Index: 27
+  Position: -0.5, -0.46, 0.14
+- Index: 62
+  Position: 0, 0.47, 0.45
+- Index: 63
+  Position: 0, -0.64, 0.77
+- Index: 921646266
+  Position: 0, 0, -1
+  Scale: 0.72
+- Index: 921646269
+  Scale: -0.53
+- Index: 921646270
+  Position: 0, 0, 0.28
+- Index: 921646271
+  Position: 0.65, -0.33, 0.05
+  Rotation: 0.01, 0, 0
+  Scale: 0.09
+- Index: 921646273
+  Position: 0.01, 0.03, -0.11
+  Scale: 0.01
+- Index: 921646274
+  Position: 0, -0.05, -0.02
+- Index: 921646275
+  Position: -0.04, -0.17, -0.89
+  Scale: 0.59
+- Index: 921646276
+  Position: -0.01, 0.39, 0
+  Scale: 0.88
+- Index: 921646277
+  Position: 0.08, -0.22, -0.3
+- Index: 921646278
+  Position: 0, 0.07, 0.13
+  Scale: -0.45
+- Index: 921646279
+  Position: 0, 0.23, -0.15
+  Scale: -0.33
+MajorFlags:
+- 0x40000

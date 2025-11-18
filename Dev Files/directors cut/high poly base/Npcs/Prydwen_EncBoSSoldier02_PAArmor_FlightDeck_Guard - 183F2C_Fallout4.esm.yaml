@@ -1,0 +1,177 @@
+FormKey: 183F2C:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: Prydwen_EncBoSSoldier02_PAArmor_FlightDeck_Guard
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Respawn
+XpValueOffset: 25
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 17
+DispositionBase: 35
+UseTemplateActors: 7967
+Unknown: 18103
+Factions:
+- Faction: 05DE41:Fallout4.esm
+- Faction: 1479C1:Fallout4.esm
+- Faction: 15356B:Fallout4.esm
+- Faction: 18310B:Fallout4.esm
+- Faction: 18310E:Fallout4.esm
+- Faction: 1E2342:Fallout4.esm
+DeathItem: 077D1F:Fallout4.esm
+Voice: 077D1B:Fallout4.esm
+DefaultTemplate: 07533C:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 17D6B4:Fallout4.esm
+  StatsTemplate: 0769FB:Fallout4.esm
+  FactionsTemplate: 153807:Fallout4.esm
+  SpellListTemplate: 07533C:Fallout4.esm
+  AiDataTemplate: 07533C:Fallout4.esm
+  InventoryTemplate: 16015A:Fallout4.esm
+  ScriptTemplate: 07533C:Fallout4.esm
+  DefPackListTemplate: 07533C:Fallout4.esm
+  AttackDataTemplate: 07533C:Fallout4.esm
+  KeywordsTemplate: 07533C:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 160
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 160157:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 249039:Fallout4.esm
+Keywords:
+- 02CB72:Fallout4.esm
+- 013794:Fallout4.esm
+- 076A08:Fallout4.esm
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Brotherhood Knight
+ShortName:
+  TargetLanguage: English
+  Value: Knight
+CalculatedHealth: 80
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0821DC:Fallout4.esm
+- 0821DD:Fallout4.esm
+- 0821DE:Fallout4.esm
+- 0821DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A95:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042C:Fallout4.esm
+CombatStyle: 076A09:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1
+  Muscular: 0.75
+  Fat: 0.15
+SoundLevel: Normal
+PowerArmorStand: 181520:Fallout4.esm
+DefaultOutfit: 0642B1:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+HeadTexture: 03B521:Fallout4.esm
+TextureLighting: '#A08C939D'
+Morphs:
+- Key: 921646550
+  Value: 0.162438
+- Key: 921646297
+  Value: 0.24
+- Key: 921646547
+  Value: 0.096
+- Key: 921646518
+  Value: 0.91
+- Key: 921646549
+  Value: 0.220445
+- Key: 921646212
+  Value: 0.65
+- Key: 921646200
+  Value: 0.141376
+- Key: 921646304
+  Value: 0.46
+- Key: 921646548
+  Value: -0.02067
+FaceMorphs:
+- Index: 0
+  Position: 0.01, 0, -0.02
+  Rotation: 0.29, 0, 0
+- Index: 2
+  Position: 0.03, 0.65, 0
+- Index: 5
+  Position: 0, -0.66, 0
+  Scale: -0.25
+- Index: 9
+  Scale: -0.02
+- Index: 10
+  Position: -1, -0.3, -0.05
+- Index: 27
+  Position: -0.5, -0.86, 0.78
+- Index: 921646269
+  Scale: -0.53
+- Index: 921646270
+  Position: 0, 0, -0.97
+- Index: 921646271
+  Position: -0.02, -0.4, 0.05
+  Rotation: 0.01, 0, 0
+  Scale: -0.46
+- Index: 921646273
+  Position: 0.01, -0.54, -0.4
+  Scale: 0.01
+- Index: 921646274
+  Position: 0, -0.05, -0.02
+- Index: 921646275
+  Position: -0.04, 0.18, -1
+  Scale: 0.57
+- Index: 921646276
+  Position: -0.01, -0.02, 0
+- Index: 921646278
+  Position: 0, -0.02, 0.5
+- Index: 921646279
+  Position: 0, -0.48, 0.67
+MajorFlags:
+- 0x40000

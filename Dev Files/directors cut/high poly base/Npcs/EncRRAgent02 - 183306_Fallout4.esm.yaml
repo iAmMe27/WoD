@@ -1,0 +1,213 @@
+FormKey: 183306:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: EncRRAgent02
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Respawn
+XpValueOffset: 15
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 9
+DispositionBase: 35
+UseTemplateActors: 3902
+Factions:
+- Faction: 061BE6:Fallout4.esm
+- Faction: 0994F6:Fallout4.esm
+DeathItem: 04E350:Fallout4.esm
+Voice: 013AD2:Fallout4.esm
+DefaultTemplate: 17FCE9:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 1E7429:Fallout4.esm
+  FactionsTemplate: 17FCE9:Fallout4.esm
+  SpellListTemplate: 17FCE9:Fallout4.esm
+  AiDataTemplate: 17FCE9:Fallout4.esm
+  AiPackagesTemplate: 17FCE9:Fallout4.esm
+  InventoryTemplate: 17FCE9:Fallout4.esm
+  ScriptTemplate: 17FCE9:Fallout4.esm
+  DefPackListTemplate: 17FCE9:Fallout4.esm
+  AttackDataTemplate: 17FCE9:Fallout4.esm
+Race: 013746:Fallout4.esm
+Skin: 0ADA90:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C2:Fallout4.esm
+  Value: 4
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 30
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0F2E1E:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 183303:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: ViolenceAgainstEnemies
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 0A56F5:Fallout4.esm
+- 024593:Fallout4.esm
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Railroad Agent
+CalculatedHealth: 40
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A9C:Fallout4.esm
+- 1436DB:Fallout4.esm
+- 1436DC:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A0439:Fallout4.esm
+CombatStyle: 03183B:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5976
+  Muscular: 0.2948
+  Fat: 0.1076
+SoundLevel: Normal
+DefaultOutfit: 18330C:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646292
+  Value: 1
+- Key: 921646501
+  Value: 1
+- Key: 921646299
+  Value: 1
+- Key: 921646311
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: Value
+  Index: 1192
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1202
+  Value: 0.39
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.26
+FaceMorphs:
+- Index: 0
+  Position: -0.624134, -0.341346, -0.435721
+  Rotation: -0.138163, 0, 0
+- Index: 1
+  Position: 0.403106, 0.210923, 0.066622
+- Index: 2
+  Position: -0.53207, 0.62469, 0.560741
+- Index: 3
+  Position: -0.531715, -0.152588, 0.552626
+- Index: 4
+  Position: 0, 0, -0.545541
+  Scale: 0.609284
+- Index: 5
+  Position: 0.199777, -0.633711, -0.182527
+  Rotation: 0, 0.648744, 0
+  Scale: 0.596129
+- Index: 6
+  Position: 0.146416, -0.232037, -0.582552
+- Index: 7
+  Position: -0.21251, -0.674171, -0.426809
+- Index: 8
+  Position: -0.596707, -0.457244, -0.285591
+- Index: 9
+  Position: 0, 0.615895, -0.579532
+  Scale: 0.069694
+- Index: 10
+  Position: -0.172604, 0.353665, 0.047481
+- Index: 25
+  Position: 0, 0.474442, -0.6098
+- Index: 26
+  Position: 0.313133, 0.367821, -0.01278
+- Index: 27
+  Position: -0.340969, -0.612445, 0.268324
+- Index: 921646266
+  Position: -0.358708, 0.240229, 0.619065
+- Index: 921646267
+  Position: 0, -0.100509, 0.212434
+- Index: 921646268
+  Position: 0, 0.06303, -0.387505
+- Index: 921646269
+  Position: 0.512204, 0.47802, 0.285512
+  Scale: -0.398434
+- Index: 921646270
+  Position: 0, 0, -0.355958
+- Index: 921646271
+  Position: 0.598668, -0.279374, -0.279573
+  Rotation: -0.227917, 0, 0.04652
+  Scale: 0.130964
+- Index: 921646272
+  Position: 0, 0.00456, -0.505473
+- Index: 921646273
+  Position: 0.239717, -0.348638, -0.695727
+  Scale: 0.468664
+- Index: 921646274
+  Position: 0, 0.155571, -0.495057
+- Index: 921646275
+  Position: -0.63364, -0.447751, -0.188625
+  Scale: 0.049881
+- Index: 921646276
+  Position: -0.311386, -0.475191, -0.502888
+- Index: 921646277
+  Position: 0.678845, 0.590897, -0.640686
+  Rotation: 0, 0, -0.319038
+- Index: 921646278
+  Position: 0, 0.353445, 0.25184
+  Scale: 0.369885
+- Index: 921646279
+  Position: 0, 0.27606, 0.13817
+  Scale: 0.487531
+MajorFlags:
+- 0x40000

@@ -1,0 +1,254 @@
+FormKey: 03F22D:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: JakeFinch
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: workshopnpcscript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: assignedMultiResource
+      Object: 000331:Fallout4.esm
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bAllowCaravan
+      Data: True
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bCommandable
+      Data: True
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bIsWorker
+      Data: True
+    - MutagenObjectType: ScriptObjectProperty
+      Name: WorkshopParent
+      Object: 02058E:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: -30081
+Factions:
+- Faction: 02AAB6:Fallout4.esm
+- Faction: 0337F3:Fallout4.esm
+- Faction: 03F229:Fallout4.esm
+- Faction: 0C8608:Fallout4.esm
+- Faction: 17605C:Fallout4.esm
+Voice: 013AD2:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 023736:Fallout4.esm
+    Count: 2
+- Item:
+    Item: 043225:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A4:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 067381:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1443D3:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 0C8671:Fallout4.esm
+- 03D28F:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Jake Finch
+ShortName:
+  TargetLanguage: English
+  Value: Jake
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 127
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A9F:Fallout4.esm
+- 1E5E83:Fallout4.esm
+- 1E5E84:Fallout4.esm
+- 1E5E85:Fallout4.esm
+- 1E5E86:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3225
+  Muscular: 0.4451
+  Fat: 0.2325
+SoundLevel: Normal
+DefaultOutfit: 0DC93C:Fallout4.esm
+CrimeFaction: 03F229:Fallout4.esm
+HeadTexture: 03B521:Fallout4.esm
+TextureLighting: '#ACA89D'
+Morphs:
+- Key: 921646296
+  Value: 0.57
+- Key: 921646599
+  Value: 1
+- Key: 921646550
+  Value: -0.08
+- Key: 921646200
+  Value: 0.03
+- Key: 921646547
+  Value: -0.51
+- Key: 921646608
+  Value: 1
+- Key: 921646549
+  Value: -0.275877
+- Key: 921646274
+  Value: 0.37
+- Key: 921646506
+  Value: 0.96
+- Key: 921646597
+  Value: 0.72
+- Key: 921646548
+  Value: 0.79
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00ACA89D'
+  TemplateColorIndex: 1164
+- DataType: Value
+  Index: 1179
+  Value: 0.51
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1375
+  Value: 0.38
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1558
+  Color: '#00744362'
+  TemplateColorIndex: 1658
+BodyMorphRegionValues:
+  Head: -0.36
+  UpperTorso: 0.1
+  LowerTorso: -0.16
+  Legs: -0.47
+FaceMorphs:
+- Index: 0
+  Position: 0.0025, 0.29, -0.05
+  Rotation: 0.02, 0, 0
+- Index: 1
+  Position: 0.0025, -0.13, 0.1025
+- Index: 2
+  Position: 0.125, -0.2025, -0.15
+- Index: 3
+  Position: 0.24, -0.1, -0.04
+  Scale: 0.12
+- Index: 4
+  Position: 0, 0, -0.07
+  Scale: -0.145
+- Index: 5
+  Position: 0, 0.015, -0.1275
+  Rotation: 0, 0.025, 0
+  Scale: -0.055
+- Index: 6
+  Position: 0.25, 0.1925, -0.1475
+- Index: 7
+  Position: 0.25, 0.0825, 0.125
+- Index: 8
+  Position: 0.085, 0.1475, 0
+  Scale: -0.205
+- Index: 9
+  Position: -0.0125, 0.36, 0.08
+  Scale: -0.15
+- Index: 10
+  Position: -0.0425, 0.1375, 0.015
+  Scale: -0.1475
+- Index: 25
+  Position: 0, -0.12, -0.48
+  Scale: -0.11
+- Index: 26
+  Position: 0.06, -0.005, 0.0725
+- Index: 27
+  Position: 0.1125, -0.0725, 0.0625
+- Index: 62
+  Position: 0.0525, 0.0425, -0.01
+- Index: 63
+  Position: 0, 0.065, -0.04
+- Index: 921646266
+  Position: 0.0575, 0.2, 0.01
+- Index: 921646267
+  Position: -0.1125, 0.155, 0.0225
+- Index: 921646268
+  Position: 0, -0.25, -0.25
+- Index: 921646269
+  Position: -0.0625, 0.23, 0.07
+  Rotation: 0.0625, 0, 0
+  Scale: 0.03
+- Index: 921646270
+  Position: 0, 0, -0.06
+- Index: 921646271
+  Position: 0.11, -0.01, 0.14
+  Rotation: 0.0075, 0, -0.22
+  Scale: 0.07
+- Index: 921646272
+  Position: 0, -0.0425, 0.0575
+- Index: 921646273
+  Position: -0.135, 0.37, 0.03
+  Scale: 0.25
+- Index: 921646274
+  Position: 0, -0.12, -0.2
+  Scale: 0.25
+- Index: 921646275
+  Position: -0.05, -0.1, -0.07
+  Rotation: -0.0575, 0, 0
+  Scale: -0.0625
+- Index: 921646276
+  Position: -0.0025, 0.22, 0.18
+  Scale: 0.06
+- Index: 921646277
+  Position: -0.05, 0, -0.15
+  Rotation: 0, 0, -0.02
+- Index: 921646278
+  Position: 0, -0.28, -0.25
+  Scale: 0.11
+- Index: 921646279
+  Position: 0, 0.1575, 0.0925
+  Scale: -0.115
+FacialMorphIntensity: 4
+MajorFlags:
+- 0x40000

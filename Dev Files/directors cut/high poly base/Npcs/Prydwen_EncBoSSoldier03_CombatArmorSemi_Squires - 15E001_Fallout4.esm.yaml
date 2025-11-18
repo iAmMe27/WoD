@@ -1,0 +1,267 @@
+FormKey: 15E001:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: Prydwen_EncBoSSoldier03_CombatArmorSemi_Squires
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Respawn
+XpValueOffset: 36
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 25
+DispositionBase: 35
+UseTemplateActors: 7966
+Unknown: 18082
+Factions:
+- Faction: 05DE41:Fallout4.esm
+- Faction: 1479C1:Fallout4.esm
+- Faction: 15356B:Fallout4.esm
+- Faction: 18310B:Fallout4.esm
+- Faction: 18310E:Fallout4.esm
+- Faction: 1E2342:Fallout4.esm
+DeathItem: 077D1F:Fallout4.esm
+Voice: 077D1C:Fallout4.esm
+DefaultTemplate: 076A03:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 0769FC:Fallout4.esm
+  FactionsTemplate: 153807:Fallout4.esm
+  SpellListTemplate: 076A03:Fallout4.esm
+  AiDataTemplate: 076A03:Fallout4.esm
+  InventoryTemplate: 16014D:Fallout4.esm
+  ScriptTemplate: 076A03:Fallout4.esm
+  DefPackListTemplate: 076A03:Fallout4.esm
+  AttackDataTemplate: 076A03:Fallout4.esm
+  KeywordsTemplate: 076A03:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 260
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 160154:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 152737:Fallout4.esm
+- 1F7BA0:Fallout4.esm
+- 1F7B9F:Fallout4.esm
+- 14EB02:Fallout4.esm
+- 14EB42:Fallout4.esm
+Keywords:
+- 02CB72:Fallout4.esm
+- 013794:Fallout4.esm
+- 076A08:Fallout4.esm
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Brotherhood Knight-Sergeant
+ShortName:
+  TargetLanguage: English
+  Value: Knight-Sergeant
+CalculatedHealth: 80
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 140D29:Fallout4.esm
+- 140D2A:Fallout4.esm
+- 140D2B:Fallout4.esm
+- 141092:Fallout4.esm
+- 1E55B9:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE64:Fallout4.esm
+CombatStyle: 076A09:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1303
+  Muscular: 0.6994
+  Fat: 0.1703
+SoundLevel: Normal
+DefaultOutfit: 076A26:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+HeadTexture: 16F83D:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646310
+  Value: 0.91
+- Key: 921646550
+  Value: -0.073023
+- Key: 921646200
+  Value: -0.227105
+- Key: 921646547
+  Value: -0.033494
+- Key: 921646518
+  Value: 1
+- Key: 921646603
+  Value: 1
+- Key: 921646549
+  Value: -0.197122
+- Key: 921646207
+  Value: 0.65
+- Key: 921646597
+  Value: 1
+- Key: 921646548
+  Value: 0.187693
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: Value
+  Index: 1180
+  Value: 0.16
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1257
+  Value: 0.09
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1258
+  Value: 0.42
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1383
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1646
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  UpperTorso: -0.25
+  Arms: 0.0248
+  LowerTorso: 0.0617
+  Legs: -0.1506
+FaceMorphs:
+- Index: 0
+  Position: 0.015, 0.04, 0.0075
+  Rotation: -0.04, 0, 0
+- Index: 1
+  Position: 0.04, -0.0525, -0.135
+- Index: 2
+  Position: -0.04, -0.02, -0.04
+- Index: 3
+  Position: -0.005, -0.025, -0.1725
+  Scale: 0.06
+- Index: 4
+  Position: 0, 0, -0.12
+  Scale: -0.17
+- Index: 5
+  Position: 0.0325, -0.07, -0.25
+  Rotation: 0, -0.25, 0
+  Scale: 0.05
+- Index: 6
+  Position: -0.25, -0.74, -0.43
+- Index: 7
+  Position: 0.32, -0.025, -0.52
+- Index: 8
+  Position: 0.0475, -0.005, 0.34
+  Scale: -0.095
+- Index: 9
+  Position: 0, 0.025, 0.045
+  Scale: -0.14
+- Index: 10
+  Position: -0.0375, 0.16, 0.16
+- Index: 25
+  Position: 0, 0.45, -0.59
+  Scale: -0.04
+- Index: 26
+  Position: -0.165, 0.03, -0.0075
+- Index: 27
+  Position: -0.03, 0.13, -0.015
+- Index: 62
+  Position: 0, -0.095, 0
+- Index: 921646266
+  Position: 0.045, -0.145, -0.2475
+  Scale: -0.2325
+- Index: 921646267
+  Position: -0.1525, -0.12, -0.33
+- Index: 921646268
+  Position: 0, 0.05, -0.33
+- Index: 921646269
+  Position: -0.035, 0.06, 0.09
+- Index: 921646270
+  Position: 0, 0, 0.0325
+- Index: 921646271
+  Position: 0.03, -0.025, -0.3
+  Rotation: 0.0225, 0, -0.02
+  Scale: 0.14
+- Index: 921646272
+  Position: 0, 0.005, -0.01
+- Index: 921646273
+  Position: -0.0475, -0.25, -0.14
+  Rotation: 0.18, 0, 0
+  Scale: -0.68
+- Index: 921646274
+  Position: 0, 0.0075, -0.3
+  Scale: -0.0575
+- Index: 921646275
+  Position: 0.005, 0.1, -0.12
+  Scale: -0.0675
+- Index: 921646276
+  Position: 0.0375, 0.01, 0.005
+  Scale: -0.05
+- Index: 921646277
+  Position: -0.02, -0.15, -0.0825
+  Rotation: 0, 0, -0.28
+- Index: 921646278
+  Position: 0, 0.0075, 0.01
+  Scale: 0.04
+- Index: 921646279
+  Position: 0, -0.04, 0.0375
+  Scale: -0.0375
+FacialMorphIntensity: 4
+MajorFlags:
+- 0x40000

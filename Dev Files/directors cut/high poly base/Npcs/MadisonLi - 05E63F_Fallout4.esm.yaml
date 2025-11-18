@@ -1,0 +1,232 @@
+FormKey: 05E63F:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MadisonLi
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Factions:
+- Faction: 05E558:Fallout4.esm
+- Faction: 0A95E6:Fallout4.esm
+Voice: 06935A:Fallout4.esm
+DefaultTemplate: 05E712:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 1A777C:Fallout4.esm
+    Count: 1
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 0B2FEC:Fallout4.esm
+- 0B2FEB:Fallout4.esm
+- 1F4D3D:Fallout4.esm
+- 1F4D3C:Fallout4.esm
+- 1F4D3B:Fallout4.esm
+Keywords:
+- 0C8670:Fallout4.esm
+Class: 031757:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Madison Li
+ShortName:
+  TargetLanguage: English
+  Value: Dr. Li
+CalculatedHealth: 20055
+CalculatedActionPoints: 19777
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 16CA34:Fallout4.esm
+- 16CA37:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5786
+  Muscular: 0.2428
+  Fat: 0.1786
+SoundLevel: Normal
+DefaultOutfit: 1ACD0F:Fallout4.esm
+CrimeFaction: 0A95E6:Fallout4.esm
+HeadTexture: 03C655:Fallout4.esm
+TextureLighting: '#D1C9C0'
+Morphs:
+- Key: 921646551
+  Value: -0.08
+- Key: 921646553
+  Value: 0.26
+- Key: 921646675
+  Value: 0.47
+- Key: 921646364
+  Value: -0.21
+- Key: 921646552
+  Value: -0.89
+- Key: 921646669
+  Value: 0.39
+- Key: 921646393
+  Value: 1
+- Key: 921646578
+  Value: 1
+- Key: 921646709
+  Value: 0.49
+- Key: 921646724
+  Value: 0.2
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00D1C9C0'
+  TemplateColorIndex: 1160
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1242
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1305
+  Value: 0.22
+  Color: '#00893848'
+  TemplateColorIndex: 1306
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 0.39
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: Value
+  Index: 1319
+  Value: 0.34
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Color: '#00850505'
+  TemplateColorIndex: 1328
+- DataType: ValueAndColor
+  Index: 1718
+  Value: 0.13
+  Color: '#00CC8C96'
+  TemplateColorIndex: 1664
+- DataType: Value
+  Index: 1752
+  Value: 0.42
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.49
+  UpperTorso: -0.26
+  Arms: -0.71
+  LowerTorso: -1
+  Legs: -1
+FaceMorphs:
+- Index: 10062
+  Position: 0.04, -0.31, 0.0825
+- Index: 10063
+  Position: 0, -0.12, 0
+- Index: 100000
+  Position: 0, -0.0075, -0.25
+  Rotation: 0.31, 0, 0
+- Index: 100001
+  Position: -0.25, 0.05, 0
+- Index: 100002
+  Position: 0.05, 0.13, 0.11
+- Index: 100003
+  Position: 0.25, 0.0975, 0.1
+  Scale: -0.0675
+- Index: 100004
+  Position: 0, -0.25, 0.015
+  Scale: 0.25
+- Index: 100005
+  Position: 0, 0, 0.155
+  Scale: -0.0375
+- Index: 100006
+  Position: 0.24, 0, -0.45
+- Index: 100007
+  Position: -0.27, 0, 0.19
+- Index: 100009
+  Position: 0, -0.025, -0.25
+  Scale: -0.0875
+- Index: 100010
+  Position: -0.25, 0.0475, 0
+  Scale: -0.045
+- Index: 100011
+  Position: 0, -0.0125, 0.0125
+  Scale: -0.17
+- Index: 100012
+  Position: 0, -0.1975, 0.0675
+- Index: 100014
+  Position: 0, 0, -0.1275
+  Rotation: -0.0875, 0, 0
+  Scale: 0.0075
+- Index: 100015
+  Position: 0, 0, -0.125
+- Index: 100016
+  Position: 0.12, 0.0225, 0.02
+  Rotation: 0.0925, 0, 0.1175
+  Scale: 0.0475
+- Index: 100017
+  Position: 0, 0.1925, 0.0875
+  Rotation: 0.08, 0, 0
+  Scale: 0.25
+- Index: 100018
+  Position: 0, 0.25, -0.23
+  Scale: 0.42
+- Index: 100019
+  Position: 0, 0.045, -0.145
+  Rotation: 0.23, 0, 0
+  Scale: -0.005
+- Index: 100020
+  Position: 0, -0.05, -0.25
+  Scale: -0.1525
+- Index: 100021
+  Position: 0, -0.12, 0.225
+  Rotation: 0, 0, -0.3
+- Index: 100022
+  Position: 0, -0.0725, 0.035
+  Scale: -0.0325
+- Index: 100023
+  Position: 0, -0.0125, 0.0975
+  Scale: -0.155
+- Index: 100024
+  Position: 0, -0.07, 0.11
+  Scale: 0.05
+- Index: 100025
+  Position: 0, 0.0925, -0.2425
+- Index: 100026
+  Position: 0.25, 0.1425, -0.33
+- Index: 100027
+  Position: 0, 0, 0.15
+FacialMorphIntensity: 4
+MajorFlags:
+- 0x40000

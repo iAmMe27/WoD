@@ -1,0 +1,193 @@
+FormKey: 02A827:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: V81_KatherinePinn
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Factions:
+- Faction: 0581B3:Fallout4.esm
+- Faction: 0581B4:Fallout4.esm
+- Faction: 245D1F:Fallout4.esm
+Voice: 02A8A0:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 023329:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 10FB07:Fallout4.esm
+- 1AEFE9:Fallout4.esm
+- 1AEFEA:Fallout4.esm
+- 043A89:Fallout4.esm
+- 135EFE:Fallout4.esm
+- 135EFF:Fallout4.esm
+- 049456:Fallout4.esm
+- 049458:Fallout4.esm
+- 043A8A:Fallout4.esm
+- 1B2B22:Fallout4.esm
+Keywords:
+- 03D290:Fallout4.esm
+- 0C866F:Fallout4.esm
+- 1C776A:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Katy
+ShortName:
+  TargetLanguage: English
+  Value: Katy
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9C:Fallout4.esm
+- 144A9D:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.9563
+  Muscular: 0.0173
+  Fat: 0.0263
+SoundLevel: Normal
+DefaultOutfit: 1103A5:Fallout4.esm
+CrimeFaction: 0581B3:Fallout4.esm
+TextureLighting: '#8C939D'
+Morphs:
+- Key: 921646331
+  Value: 1
+- Key: 921646551
+  Value: 0.67
+- Key: 921646578
+  Value: 1
+- Key: 921646721
+  Value: 1
+- Key: 921646401
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#008C939D'
+  TemplateColorIndex: 1166
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.06
+  Color: '#00DE4F0A'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1319
+  Value: 0.39
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Color: '#00850505'
+  TemplateColorIndex: 1328
+- DataType: ValueAndColor
+  Index: 1718
+  Value: 0.62
+  Color: '#00CDD0E9'
+  TemplateColorIndex: 1663
+- DataType: ValueAndColor
+  Index: 1762
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: Value
+  Index: 1780
+  Value: 0.61
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -1
+FaceMorphs:
+- Index: 100000
+  Position: 0, -0.96, 0.54
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: -1, 0.31, -0.61
+- Index: 100002
+  Position: -0.74, 0.93, -0.04
+- Index: 100003
+  Position: 0, 0.37, 0.54
+- Index: 100005
+  Position: 0.86, 0.52, 0.39
+  Scale: 0.04
+- Index: 100008
+  Scale: 1
+- Index: 100009
+  Position: 0, -0.33, -0.92
+  Scale: 0.95
+- Index: 100010
+  Position: -1, 0.93, -0.59
+  Scale: -1
+- Index: 100011
+  Position: -1, 0, 0.09
+- Index: 100012
+  Position: -0.82, -0.64, 0.23
+- Index: 100014
+  Position: 0, -0.12, 0
+  Rotation: 0.68, 0, 0
+  Scale: 0.13
+- Index: 100016
+  Rotation: 0, 0, 0.82
+- Index: 100017
+  Rotation: 0.03, 0, 0
+  Scale: 1
+- Index: 100018
+  Position: 0, 0, 0.32
+- Index: 100019
+  Position: 0, 0.77, -0.15
+  Rotation: -1, 0, 0
+  Scale: -0.47
+- Index: 100020
+  Position: 0, 0.41, -0.86
+- Index: 100021
+  Position: 0, 0, 0.45
+- Index: 100022
+  Position: 0, 0, -0.94
+- Index: 100024
+  Position: 0, -1, 1
+  Scale: -1
+- Index: 100025
+  Position: 0, -0.51, 1
+MajorFlags:
+- 0x40000

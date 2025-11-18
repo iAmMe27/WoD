@@ -1,0 +1,192 @@
+FormKey: 05E557:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: AllieFilmore
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: Stats
+Unknown: 16951
+Factions:
+- Faction: 05E558:Fallout4.esm
+- Faction: 0A95E6:Fallout4.esm
+- Faction: 1ADB56:Fallout4.esm
+- Faction: 1CB6BB:Fallout4.esm
+Voice: 069356:Fallout4.esm
+DefaultTemplate: 0FD39A:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 0FD39A:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 023736:Fallout4.esm
+    Count: 8
+- Item:
+    Item: 1A777C:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 061C3D:Fallout4.esm
+Keywords:
+- 022E49:Fallout4.esm
+- 0C866C:Fallout4.esm
+- 218ADA:Fallout4.esm
+Class: 20F487:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Allie Filmore
+ShortName:
+  TargetLanguage: English
+  Value: Allie
+CalculatedHealth: 40
+CalculatedActionPoints: 73
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144AA0:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE66:Fallout4.esm
+CombatStyle: 03183B:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+SoundLevel: Normal
+DefaultOutfit: 1ACD11:Fallout4.esm
+CrimeFaction: 0A95E6:Fallout4.esm
+TextureLighting: '#C6F7EFEE'
+Morphs:
+- Key: 921646734
+  Value: 1
+- Key: 921646749
+  Value: 1
+- Key: 921646553
+  Value: -0.28
+- Key: 921646675
+  Value: 1
+- Key: 921646709
+  Value: 1
+- Key: 921646552
+  Value: -0.75
+- Key: 921646560
+  Value: 1
+- Key: 921646554
+  Value: -0.75
+- Key: 921646686
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 0.78
+  Color: '#00F7EFEE'
+  TemplateColorIndex: 1157
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1249
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1305
+  Value: 0.13
+  Color: '#00893848'
+  TemplateColorIndex: 1306
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.78
+  Color: '#0027404E'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 1
+  Color: '#003C312F'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.07
+  Color: '#00BA5C9E'
+  TemplateColorIndex: 1331
+FaceMorphs:
+- Index: 100000
+  Position: -0.41, 0.44, -0.84
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: -0.46, 0.85, -0.77
+- Index: 100002
+  Position: -0.65, -1, -0.59
+- Index: 100003
+  Position: -0.07, -1, -0.27
+  Scale: 1
+- Index: 100004
+  Position: 0, -1, -0.15
+  Scale: 0.84
+- Index: 100009
+  Position: 0, 0.21, 0
+  Scale: 0.34
+- Index: 100011
+  Position: 0.25, -0.82, -0.1
+  Scale: -0.05
+- Index: 100012
+  Position: 0, -1, 0.56
+- Index: 100014
+  Position: 0, -0.25, 0
+  Scale: -0.33
+- Index: 100015
+  Position: 0, 0, 0.39
+- Index: 100016
+  Position: 0.14, 0.16, -0.43
+  Rotation: -0.28, 0, -0.84
+- Index: 100017
+  Position: 0, 0.65, -0.7
+  Scale: -0.09
+- Index: 100018
+  Position: 0, 1, 1
+  Scale: 0.11
+- Index: 100020
+  Position: 0, 0.18, 0
+- Index: 100022
+  Scale: 0.57
+- Index: 100023
+  Position: 0, -0.36, 0.08
+  Scale: 0.67
+- Index: 100025
+  Position: 0, -0.88, 0
+- Index: 100027
+  Position: 0, -0.92, 0
+MajorFlags:
+- 0x40000

@@ -1,0 +1,327 @@
+FormKey: 00DBDF:DLCNukaWorld.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC04Shank
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: DLC04:DLC04OnUnloadClearAnimFlavor
+  - Name: DLC04:ShankWorkshopNPCScript
+    Properties:
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bAllowMove
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bApplyWorkshopOwnerFaction
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CustomBossLocRefType
+      Object: 00BE4D:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: WorkshopParent
+      Object: 02058E:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: Stats
+Unknown: 29795
+Factions:
+- Faction: 042CAA:DLCNukaWorld.esm
+- Faction: 05FD8B:Fallout4.esm
+Voice: 00DBE1:DLCNukaWorld.esm
+DefaultTemplate: 044964:DLCNukaWorld.esm
+TemplateActors:
+  StatsTemplate: 044964:DLCNukaWorld.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Perks:
+- Perk: 0A2776:Fallout4.esm
+  Rank: 1
+- Perk: 0E1A4C:Fallout4.esm
+  Rank: 1
+- Perk: 04E9CD:DLCNukaWorld.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 023736:Fallout4.esm
+    Count: 2
+- Item:
+    Item: 0DB29E:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1ACFBC:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 056C2D:DLCNukaWorld.esm
+- 050F8C:DLCNukaWorld.esm
+- 0322D9:DLCNukaWorld.esm
+- 02C9D4:DLCNukaWorld.esm
+- 130DC6:Fallout4.esm
+Keywords:
+- 03F6E0:DLCNukaWorld.esm
+- 24A03D:Fallout4.esm
+- 1909D7:Fallout4.esm
+- 249612:Fallout4.esm
+- 218ADA:Fallout4.esm
+Class: 20F487:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Shank
+CalculatedHealth: 730
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135AA0:Fallout4.esm
+- 141091:Fallout4.esm
+- 197BA0:Fallout4.esm
+- 197BA5:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5F:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1754
+  Muscular: 0.1792
+  Fat: 0.6454
+SoundLevel: Normal
+DefaultOutfit: 01CD22:DLCNukaWorld.esm
+CrimeFaction: 042CAA:DLCNukaWorld.esm
+TextureLighting: '#ACA89D'
+Morphs:
+- Key: 921646604
+  Value: 0.93
+- Key: 921646294
+  Value: 0.66
+- Key: 921646550
+  Value: 0.59
+- Key: 921646200
+  Value: -0.798176
+- Key: 921646547
+  Value: -0.911848
+- Key: 921646627
+  Value: 0.81
+- Key: 921646549
+  Value: -0.16
+- Key: 921646302
+  Value: 0.6
+- Key: 921646610
+  Value: 0.14
+- Key: 921646488
+  Value: 1
+- Key: 921646615
+  Value: 0.43
+- Key: 921646548
+  Value: 0.87
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00ACA89D'
+  TemplateColorIndex: 1164
+- DataType: Value
+  Index: 1184
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1185
+  Value: 0.28
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1204
+  Value: 0.11
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1372
+  Value: 0.35
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1374
+  Value: 0.24
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1379
+  Value: 0.48
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1380
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1383
+  Value: 0.38
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1479
+  Value: 0.24
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1558
+  Value: 0.66
+  Color: '#00A28177'
+  TemplateColorIndex: 1665
+- DataType: Value
+  Index: 1563
+  Value: 0.35
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1564
+  Value: 0.56
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1646
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1764
+  Value: 0.28
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1765
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.2359
+  UpperTorso: 0.29
+  Arms: -0.612
+  LowerTorso: -0.29
+  Legs: -1
+FaceMorphs:
+- Index: 0
+  Position: -0.213748, 0.51, -0.342921
+  Rotation: -0.772136, 0, 0
+- Index: 1
+  Position: 0.514477, -0.36, -0.267732
+- Index: 2
+  Position: -0.398495, 0.756039, -0.84
+- Index: 3
+  Position: 0.484637, -0.161148, -0.642596
+  Scale: 0.747606
+- Index: 4
+  Position: 0, 0, 0.24
+  Scale: -0.15
+- Index: 5
+  Position: -0.496893, -0.33, -0.55338
+  Rotation: 0, 0.55, 0
+  Scale: 0.126094
+- Index: 6
+  Position: 0.144088, -0.253104, 0.191562
+- Index: 7
+  Position: -0.497512, 0.31396, 0.235427
+- Index: 8
+  Position: 0.813965, -0.027545, 0.532056
+  Scale: -0.020944
+- Index: 9
+  Position: -0.315074, 0.08, 0.206912
+  Scale: 0.19
+- Index: 10
+  Position: -0.87, 1, 0
+  Scale: 1
+- Index: 25
+  Position: 0, -0.829659, 0.870085
+  Scale: -0.929422
+- Index: 26
+  Position: -0.1, -0.71, 0.093192
+- Index: 27
+  Position: -0.909588, 0.336186, -0.930943
+- Index: 62
+  Position: -0.705778, -0.651152, -0.28
+- Index: 63
+  Position: 0, 0.8806, -0.569979
+- Index: 921646266
+  Position: -0.05, -0.64, 0.39
+  Scale: -0.65
+- Index: 921646267
+  Position: -0.897202, -0.73, 0.71
+- Index: 921646268
+  Position: 0, 0.926547, 0.41
+- Index: 921646269
+  Position: -0.000823, -0.627387, -0.107072
+  Rotation: -0.411717, 0, 0
+  Scale: 0.597976
+- Index: 921646270
+  Position: 0, 0, 0.2
+- Index: 921646271
+  Position: 0.34, -0.4, -0.544767
+  Rotation: 0.55, 0, 0.01
+  Scale: 0.55
+- Index: 921646272
+  Position: 0, 0.271059, 0.331855
+- Index: 921646273
+  Position: 0.234136, -0.026232, 0.17
+  Rotation: -0.536646, 0, 0
+  Scale: -0.902571
+- Index: 921646274
+  Position: 0, 0.89, 0.264179
+  Scale: -0.17
+- Index: 921646275
+  Position: -0.2, 0.82, 0
+  Rotation: -1, 0, 0
+  Scale: 0.46
+- Index: 921646276
+  Position: -0.814924, 0.32, 0.163482
+  Scale: -0.02
+- Index: 921646277
+  Position: -0.2, -0.499769, -0.519329
+  Rotation: 0, 0, 0.150517
+- Index: 921646278
+  Position: 0, 0.49, 0.2593
+  Scale: -0.25
+- Index: 921646279
+  Position: 0, -0.75, 0.769464
+  Scale: -0.41
+MajorFlags:
+- 0x40000

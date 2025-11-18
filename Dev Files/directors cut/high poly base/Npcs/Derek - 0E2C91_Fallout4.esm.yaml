@@ -1,0 +1,123 @@
+FormKey: 0E2C91:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: Derek
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+CalcMinLevel: 20
+CalcMaxLevel: 50
+DispositionBase: 35
+Unknown: 30561
+Voice: 013AD2:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 043225:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 002CB5:Fallout4.esm
+Class: 002F64:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Derek
+ShortName:
+  TargetLanguage: English
+  Value: Derek
+CalculatedHealth: 280
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A95:Fallout4.esm
+- 14108D:Fallout4.esm
+- 1411C6:Fallout4.esm
+- 1411C7:Fallout4.esm
+- 000801:HiPolyFaces.esp
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+SoundLevel: Normal
+DefaultOutfit: 01F159:Fallout4.esm
+CrimeFaction: 002CB4:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646550
+  Value: -0.819356
+- Key: 921646200
+  Value: 0.257014
+- Key: 921646547
+  Value: -0.859958
+- Key: 921646233
+  Value: 0.29
+- Key: 921646279
+  Value: 0.44
+- Key: 921646488
+  Value: 0.57
+- Key: 921646512
+  Value: 0.31
+- Key: 921646549
+  Value: 0.937502
+- Key: 921646548
+  Value: -0.127872
+FaceTintingLayers:
+- DataType: Value
+  Index: 1228
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 9
+  Position: 0.03, 0.03, 0.01
+  Scale: 0.39
+- Index: 10
+  Position: 0, -0.15, 0
+- Index: 25
+  Position: 0, -0.09, 1
+- Index: 27
+  Position: -0.92, 0, 0
+- Index: 921646271
+  Position: 0, 0.36, 0
+- Index: 921646273
+  Position: 0, -0.58, -0.45
+- Index: 921646275
+  Position: 0, -0.33, -0.97
+  Scale: -0.58
+MajorFlags:
+- 0x40000

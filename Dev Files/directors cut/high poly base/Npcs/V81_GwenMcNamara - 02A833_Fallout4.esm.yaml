@@ -1,0 +1,199 @@
+FormKey: 02A833:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: V81_GwenMcNamara
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- Essential
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: -18279
+Factions:
+- Faction: 0581B3:Fallout4.esm
+- Faction: 0581B4:Fallout4.esm
+- Faction: 245D25:Fallout4.esm
+Voice: 02A89D:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 023329:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1103A1:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 1A94BC:Fallout4.esm
+- 153850:Fallout4.esm
+- 21A69E:Fallout4.esm
+- 1D5F29:Fallout4.esm
+- 13B104:Fallout4.esm
+- 043A8C:Fallout4.esm
+- 0F6D13:Fallout4.esm
+- 043A8B:Fallout4.esm
+Keywords:
+- 022E49:Fallout4.esm
+- 0C866C:Fallout4.esm
+- 1C776A:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Overseer
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9E:Fallout4.esm
+- 144A9F:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE62:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1083
+  Muscular: 0.1734
+  Fat: 0.7183
+SoundLevel: Normal
+DefaultOutfit: 1103A5:Fallout4.esm
+CrimeFaction: 0581B3:Fallout4.esm
+HeadTexture: 09BF1E:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646551
+  Value: 0.3
+- Key: 921646553
+  Value: -0.79
+- Key: 921646675
+  Value: 1
+- Key: 921646680
+  Value: 1
+- Key: 921646552
+  Value: 0.72
+- Key: 921646710
+  Value: 0.68
+- Key: 921646554
+  Value: -0.89
+- Key: 921646723
+  Value: 1
+- Key: 921646749
+  Value: 1
+- Key: 921646660
+  Value: 0.98
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1239
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 1
+  Color: '#005E1109'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.45
+  Color: '#005A1214'
+  TemplateColorIndex: 1332
+- DataType: ValueAndColor
+  Index: 1834
+  Value: 0.39
+  Color: '#00893848'
+  TemplateColorIndex: 1306
+FaceMorphs:
+- Index: 100000
+  Position: -0.07, -0.32, -0.38
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: 0, 0.13, -0.27
+- Index: 100002
+  Position: -0.74, 0.92, 0.75
+- Index: 100003
+  Position: -0.11, 0.39, 0.29
+  Scale: 1
+- Index: 100004
+  Position: 0, -0.94, 0.36
+  Scale: 0.64
+- Index: 100009
+  Position: 0, -0.2, 0
+  Scale: -0.53
+- Index: 100011
+  Scale: 1
+- Index: 100014
+  Position: 0, 0.06, 0.24
+  Scale: 0.06
+- Index: 100015
+  Position: 0, 0, 0.7
+- Index: 100016
+  Position: 0.32, 0, 0
+  Scale: -0.32
+- Index: 100017
+  Position: 0.13, 0.21, -0.57
+  Scale: -0.69
+- Index: 100018
+  Position: 0, 0, -0.3
+  Scale: -0.03
+- Index: 100019
+  Position: 0, 0.23, 0
+- Index: 100020
+  Scale: 0.03
+- Index: 100024
+  Scale: -0.08
+- Index: 100025
+  Position: 0, 0.28, -0.2
+- Index: 100026
+  Position: -0.25, -0.66, 0.37
+- Index: 100027
+  Position: 0, -1, 0.27
+MajorFlags:
+- 0x40000

@@ -1,0 +1,328 @@
+FormKey: 01A28B:DLCNukaWorld.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC04MQ00Kaylor
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -41, -25, 0
+  Second: 41, 72, 86
+Flags:
+- Female
+- Unique
+XpValueOffset: 21
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 14
+DispositionBase: 35
+UseTemplateActors: 7742
+Unknown: 28009
+Factions:
+- Faction: 058303:Fallout4.esm
+DeathItem: 04E350:Fallout4.esm
+Voice: 01A28C:DLCNukaWorld.esm
+DefaultTemplate: 075345:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 075345:Fallout4.esm
+  FactionsTemplate: 075345:Fallout4.esm
+  SpellListTemplate: 075345:Fallout4.esm
+  AiDataTemplate: 1CC45A:Fallout4.esm
+  AiPackagesTemplate: 075345:Fallout4.esm
+  ScriptTemplate: 075345:Fallout4.esm
+  DefPackListTemplate: 075345:Fallout4.esm
+  AttackDataTemplate: 075345:Fallout4.esm
+  KeywordsTemplate: 075345:Fallout4.esm
+Race: 013746:Fallout4.esm
+Skin: 0ADA90:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Perks:
+- Perk: 1C346F:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 30
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 15
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 110
+- ActorValue: 0002E3:Fallout4.esm
+  Value: 5
+- ActorValue: 0002EB:Fallout4.esm
+  Value: 5
+Items:
+- Item:
+    Item: 01A28E:DLCNukaWorld.esm
+    Count: 1
+- Item:
+    Item: 023736:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 04E351:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 11003C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 247551:Fallout4.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Assistance: HelpsFriendsAndAllies
+AggroRadiusBehaviorEnabled: True
+AggroRadiusWarn: 2048
+AggroRadiusWarnOrAttack: 1500
+AggroRadiusAttack: 1100
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Commander Kaylor
+ShortName:
+  TargetLanguage: English
+  Value: Kaylor
+CalculatedHealth: 50
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 15A167:Fallout4.esm
+- 1D7F9F:Fallout4.esm
+- 1E55C4:Fallout4.esm
+- 1E6787:Fallout4.esm
+- 1E6788:Fallout4.esm
+- 1E6789:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+CombatStyle: 16CA4E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.178555
+  Muscular: 0.50289
+  Fat: 0.318555
+SoundLevel: Normal
+DefaultOutfit: 247554:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+TextureLighting: '#D1C9C0'
+Morphs:
+- Key: 921646551
+  Value: 0.13
+- Key: 921646381
+  Value: 0.73
+- Key: 921646675
+  Value: 0.61
+- Key: 921646364
+  Value: -0.184652
+- Key: 921646552
+  Value: 0.025118
+- Key: 921646746
+  Value: 0.33
+- Key: 921646589
+  Value: 1
+- Key: 921646333
+  Value: 0.58
+- Key: 921646696
+  Value: 0.83
+- Key: 921646554
+  Value: 0.02
+- Key: 921646553
+  Value: 0.3
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00D1C9C0'
+  TemplateColorIndex: 1160
+- DataType: ValueAndColor
+  Index: 1209
+  Value: 0.16
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1246
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.42
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 0.63
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.07
+  Color: '#00303F65'
+  TemplateColorIndex: 1883
+- DataType: Value
+  Index: 1401
+  Value: 0.74
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1717
+  Value: 0.77
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1720
+  Value: 0.18
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1726
+  Value: 0.08
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1730
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1734
+  Value: 0.16
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1800
+  Value: 0.76
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1860
+  Value: 0.56
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1862
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+BodyMorphRegionValues:
+  Head: -0.21
+  UpperTorso: -0.02
+  Arms: 0.57
+  LowerTorso: -0.44
+  Legs: 0.25
+FaceMorphs:
+- Index: 10062
+  Position: -0.431159, 0.59, 0.42
+- Index: 10063
+  Position: 0, 0.186924, 0.538744
+- Index: 100000
+  Position: 0.730387, -0.12, 0.72
+  Rotation: -0.523073, 0, 0
+- Index: 100001
+  Position: 0.167641, -0.76, 0.162693
+- Index: 100002
+  Position: 0.7, 0.93, 0.129428
+- Index: 100003
+  Position: 0.768526, 0.31, 0.27
+  Scale: -0.874087
+- Index: 100004
+  Position: 0, -0.2, 0.28
+  Scale: -0.26
+- Index: 100005
+  Position: 0.267696, 0.547921, -0.80903
+  Rotation: 0, -0.953658, 0
+  Scale: 0.172156
+- Index: 100006
+  Position: 0.290174, -0.458182, 0.695542
+- Index: 100007
+  Position: 0.04401, -0.91562, 0.750948
+- Index: 100008
+  Position: -0.121717, -0.25009, 0.868879
+  Scale: 0.911364
+- Index: 100009
+  Position: -0.657389, -0.01, -0.417478
+  Scale: -0.75
+- Index: 100010
+  Position: 0.295516, -0.732741, 0.616745
+  Scale: -0.623245
+- Index: 100011
+  Position: -0.121721, 0.27, 0.170066
+  Scale: -0.775365
+- Index: 100012
+  Position: -0.602762, -0.43, -0.04
+- Index: 100013
+  Position: 0, -0.690957, -0.674086
+- Index: 100014
+  Position: 0.493662, -0.09, -0.02
+  Rotation: 0.977124, 0, 0
+  Scale: -0.18
+- Index: 100015
+  Position: 0, 0, -0.07
+- Index: 100016
+  Position: 0.62, -0.64, -0.089577
+  Rotation: -0.24, 0, 0.8
+  Scale: -0.71
+- Index: 100017
+  Position: 0.426832, -0.12, 0.89275
+  Rotation: -0.53, 0, 0
+  Scale: 0.41
+- Index: 100018
+  Position: 0, -0.89, -0.376831
+  Scale: -0.633385
+- Index: 100019
+  Position: -0.211736, -0.603056, 0.65
+  Rotation: 0.297351, 0, 0
+  Scale: -0.089345
+- Index: 100020
+  Position: -0.524359, -0.860816, -0.49
+  Scale: 0.6
+- Index: 100021
+  Position: 0.982227, 0.2, 0.39
+  Rotation: 0, 0, 0.57
+- Index: 100022
+  Position: 0, 0.46, 0.950135
+  Scale: 0.05
+- Index: 100023
+  Position: 0, 0.13, 0.521636
+  Scale: 0.12
+- Index: 100024
+  Position: 0, 0.96535, 0.009804
+  Scale: 0.094527
+- Index: 100025
+  Position: 0.408927, 0.304665, -0.5
+- Index: 100026
+  Position: -0.633202, 0.18, 0.11
+- Index: 100027
+  Position: 0, -0.758274, -0.02
+MajorFlags:
+- 0x40000

@@ -1,0 +1,196 @@
+FormKey: 019978:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: Deb
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: workshopnpcscript
+    Properties:
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bCommandable
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bIsWorker
+      Data: True
+    - MutagenObjectType: ScriptObjectProperty
+      Name: WorkshopParent
+      Object: 02058E:Fallout4.esm
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 14
+Factions:
+- Faction: 01995B:Fallout4.esm
+- Faction: 0337F3:Fallout4.esm
+- Faction: 05FD34:Fallout4.esm
+- Faction: 184E59:Fallout4.esm
+Voice: 023324:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 032B0C:Fallout4.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 05FD35:Fallout4.esm
+- 003641:Fallout4.esm
+Keywords:
+- 0C866F:Fallout4.esm
+- 03D290:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Deb
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9E:Fallout4.esm
+- 144A9F:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1E55C9:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+SoundLevel: Normal
+DefaultOutfit: 0B2D9F:Fallout4.esm
+CrimeFaction: 01995B:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646385
+  Value: 1
+- Key: 921646364
+  Value: 0.36
+- Key: 921646557
+  Value: 1
+- Key: 921646709
+  Value: 1
+- Key: 921646436
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1206
+  Value: 0.29
+  Color: '#00B0B0B0'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1207
+  Value: 0.53
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1242
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.72
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 0.7
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: Value
+  Index: 1319
+  Value: 0.76
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.61
+  Color: '#005E4251'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1717
+  Value: 0.26
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1718
+  Value: 0.5
+  Color: '#00B89D85'
+  TemplateColorIndex: 1656
+- DataType: Value
+  Index: 1750
+  Value: 0.38
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1762
+  Value: 0.57
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+FaceMorphs:
+- Index: 10062
+  Position: 0, -0.59, -0.12
+- Index: 10063
+  Position: 0, 0, 0.03
+- Index: 100001
+  Position: 0, -0.41, 0.37
+- Index: 100003
+  Position: -0.07, 0.13, 0.29
+- Index: 100004
+  Position: 0, 0.88, -0.17
+  Scale: 0.85
+- Index: 100009
+  Position: 0, 0, -0.03
+- Index: 100016
+  Position: 0.47, 0.11, 0.34
+  Rotation: -0.32, 0, 0.72
+  Scale: -0.17
+- Index: 100017
+  Position: 0, 0, 0.14
+- Index: 100020
+  Scale: -0.1
+- Index: 100022
+  Position: 0, 0, 0.23
+  Scale: 1
+- Index: 100025
+  Position: 0, -0.15, -1
+MajorFlags:
+- 0x40000

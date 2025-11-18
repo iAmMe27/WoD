@@ -1,0 +1,251 @@
+FormKey: 00CC90:DLCNukaWorld.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC04_DaraHubbell
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- Essential
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 10
+DispositionBase: 35
+Unknown: 44
+Factions:
+- Faction: 00CC95:DLCNukaWorld.esm
+- Faction: 106C31:Fallout4.esm
+Voice: 00CC93:DLCNukaWorld.esm
+Race: 013746:Fallout4.esm
+Perks:
+- Perk: 0B9884:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 0296B8:DLCNukaWorld.esm
+    Count: 1
+- Item:
+    Item: 128D63:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 00D395:DLCNukaWorld.esm
+- 00D3B5:DLCNukaWorld.esm
+Keywords:
+- 03D28F:Fallout4.esm
+- 0FA851:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Dara Hubbell
+ShortName:
+  TargetLanguage: English
+  Value: Dara
+CalculatedHealth: 230
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 15A166:Fallout4.esm
+- 16CA35:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5C:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.4059
+  Muscular: 0.3165
+  Fat: 0.2777
+SoundLevel: Normal
+DefaultOutfit: 00CC91:DLCNukaWorld.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 00CC95:DLCNukaWorld.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646551
+  Value: -0.1
+- Key: 921646553
+  Value: 0.13
+- Key: 921646715
+  Value: 0.4
+- Key: 921646364
+  Value: -0.117722
+- Key: 921646552
+  Value: 0.609643
+- Key: 921646686
+  Value: 0.91
+- Key: 921646322
+  Value: 0.95
+- Key: 921646673
+  Value: 0.64
+- Key: 921646554
+  Value: 0.900401
+- Key: 921646750
+  Value: 0.22
+- Key: 921646697
+  Value: 0.85
+- Key: 921646706
+  Value: 0.39
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1207
+  Value: 0.26
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1246
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.25
+  Color: '#00000000'
+  TemplateColorIndex: 1339
+- DataType: Value
+  Index: 1720
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1731
+  Value: 0.14
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1735
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1739
+  Value: 0.25
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1862
+  Value: 0.81
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+BodyMorphRegionValues:
+  Head: 0.6581
+  UpperTorso: 0.31
+  Arms: 0.31
+  LowerTorso: -0.4722
+  Legs: 0.03
+FaceMorphs:
+- Index: 10062
+  Position: 0.83524, 0.483923, -0.062194
+- Index: 10063
+  Position: 0, 0.29, 0.634125
+- Index: 100000
+  Position: 0.295642, -0.819356, -0.837661
+  Rotation: -0.470817, 0, 0
+- Index: 100001
+  Position: -0.098596, -0.890189, 0.467818
+- Index: 100002
+  Position: 0.805852, 0.999819, -0.170983
+- Index: 100003
+  Position: 0.8024, 0.315246, 0.046319
+  Scale: -0.594248
+- Index: 100004
+  Position: 0, -0.400976, 0.153201
+  Scale: -0.519561
+- Index: 100005
+  Position: -0.813363, -0.277449, 0.581751
+  Rotation: 0, -0.209921, 0
+  Scale: 0.461751
+- Index: 100006
+  Position: 0.643076, -0.740781, -0.545049
+- Index: 100007
+  Position: -0.838721, -0.558438, -0.193345
+- Index: 100008
+  Position: 0.367366, 0.090333, -0.751151
+  Scale: 0.889533
+- Index: 100009
+  Position: 0.1, -0.56, -0.451513
+  Scale: -0.69
+- Index: 100010
+  Position: -0.506351, 0.224557, 0.861449
+  Scale: 0.002486
+- Index: 100011
+  Position: 0.927006, 0.63115, -0.625636
+  Scale: -0.332666
+- Index: 100012
+  Position: 0.830969, 0.953628, 0.190413
+- Index: 100013
+  Position: 0, -0.915678, -0.357094
+- Index: 100014
+  Position: 0.109561, -0.374977, -0.462954
+  Rotation: -0.593687, 0, 0
+  Scale: -0.690566
+- Index: 100016
+  Position: 0.85, -0.86, 0.49
+  Rotation: -0.342038, 0, -0.697458
+  Scale: -0.381562
+- Index: 100017
+  Position: 0.038493, -0.38, 0.16
+  Rotation: -0.613381, 0, 0
+  Scale: -0.765536
+- Index: 100018
+  Position: 0, -0.63278, -0.835377
+  Scale: 0.598561
+- Index: 100019
+  Position: -0.555123, -0.43, -0.36
+  Rotation: 0.336292, 0, 0
+  Scale: 0.299579
+- Index: 100020
+  Position: -0.851406, -0.955204, -0.080276
+  Scale: -0.500704
+- Index: 100021
+  Position: -0.588317, -0.257057, -0.223569
+  Rotation: 0, 0, 0.400685
+- Index: 100022
+  Position: 0, 0.372804, -0.761168
+  Scale: 0.830044
+- Index: 100023
+  Position: 0, -0.123174, -0.784171
+  Scale: 0.11748
+- Index: 100024
+  Position: 0, 0.267866, -0.353383
+  Scale: 0.861681
+- Index: 100025
+  Position: -0.700724, 0.123972, -0.482015
+- Index: 100026
+  Position: -0.057739, 0.033623, -0.889699
+- Index: 100027
+  Position: 0, 0.994484, -0.780508
+MajorFlags:
+- 0x40000

@@ -1,0 +1,210 @@
+FormKey: 039FCF:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: TedHuntley
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: workshopnpcscript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: assignedMultiResource
+      Object: 000331:Fallout4.esm
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bCommandable
+      Data: True
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bIsWorker
+      Data: True
+    - MutagenObjectType: ScriptObjectProperty
+      Name: WorkshopParent
+      Object: 02058E:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 16384
+Factions:
+- Faction: 0337F3:Fallout4.esm
+- Faction: 062030:Fallout4.esm
+- Faction: 0F0C6A:Fallout4.esm
+- Faction: 22118A:Fallout4.esm
+Voice: 039FD0:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0DF242:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0E928D:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 023331:Fallout4.esm
+Keywords:
+- 03D28F:Fallout4.esm
+- 0C8671:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Ted Huntley
+ShortName:
+  TargetLanguage: English
+  Value: Ted Huntley
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 197B9D:Fallout4.esm
+- 197BA2:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.9032
+  Muscular: 0.0636
+  Fat: 0.0332
+SoundLevel: Normal
+DefaultOutfit: 0DC93F:Fallout4.esm
+CrimeFaction: 0F0C6A:Fallout4.esm
+HeadTexture: 16F83D:Fallout4.esm
+TextureLighting: '#E7D3CB'
+Morphs:
+- Key: 921646307
+  Value: 1
+- Key: 921646268
+  Value: 1
+- Key: 921646254
+  Value: 1
+- Key: 921646549
+  Value: 0.89
+- Key: 921646597
+  Value: 1
+- Key: 921646298
+  Value: 1
+- Key: 921646602
+  Value: 1
+- Key: 921646550
+  Value: 0.92
+- Key: 921646607
+  Value: 1
+- Key: 921646548
+  Value: -0.98
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00E7D3CB'
+  TemplateColorIndex: 1159
+- DataType: Value
+  Index: 1228
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 0
+  Position: 0.01, -0.01, -1
+  Rotation: -0.02, 0, 0
+- Index: 1
+  Position: 0.57, 0.19, -1
+- Index: 2
+  Position: 0, -1, -0.45
+- Index: 3
+  Position: 1, 0.06, -0.35
+  Scale: -0.91
+- Index: 4
+  Position: 0, 0, -0.19
+  Scale: 1
+- Index: 5
+  Position: 0.03, -0.09, 0
+  Rotation: 0, 0.03, 0
+  Scale: 0.09
+- Index: 6
+  Position: 0, 0, -1
+- Index: 7
+  Position: 0, 0, -1
+- Index: 8
+  Position: 0, -0.32, 0
+- Index: 9
+  Position: 0, -0.07, -0.79
+  Scale: -0.74
+- Index: 10
+  Position: 1, 0, 0
+  Scale: -0.84
+- Index: 25
+  Position: 0, -1, -1
+  Scale: -1
+- Index: 26
+  Position: 0, 0.45, -1
+- Index: 62
+  Position: -0.2, 1, -0.55
+- Index: 921646266
+  Position: 1, 0.68, -1
+- Index: 921646267
+  Position: -0.07, 0, 0.65
+- Index: 921646269
+  Position: 0, 0.29, 0
+  Scale: -0.99
+- Index: 921646270
+  Position: 0, 0, -1
+- Index: 921646271
+  Position: 0.19, 0.03, -0.57
+  Rotation: 0, 0, 1
+  Scale: -0.22
+- Index: 921646272
+  Position: 0, 1, -1
+- Index: 921646273
+  Position: 0, 0, 0.57
+  Rotation: -0.3, 0, 0
+  Scale: -1
+- Index: 921646274
+  Position: 0, 0.01, -1
+  Scale: -1
+- Index: 921646275
+  Scale: 0.82
+- Index: 921646276
+  Scale: -0.33
+MajorFlags:
+- 0x40000

@@ -1,0 +1,89 @@
+FormKey: 0D0500:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: RadioHalluciGenDemoAnnouncer
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Unknown: 32
+Voice: 013ADD:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Class: 0CA9D3:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: HalluciGen Mainframe
+GearedUpWeapons: 1
+Unused: 77
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0E12A1:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC26:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A042D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+SoundLevel: Normal
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646423
+  Value: 1
+- Key: 921646321
+  Value: 1
+- Key: 921646576
+  Value: 1
+FaceMorphs:
+- Index: 100003
+  Position: 0.05, -0.46, -0.43
+- Index: 100004
+  Position: 0, 0, -0.2
+  Scale: -0.14
+- Index: 100011
+  Position: 0.03, -0.56, -1
+- Index: 100012
+  Position: 0, -1, 0
+- Index: 100014
+  Position: 0, 0, -0.09
+  Scale: -0.35
+- Index: 100015
+  Position: 0, 0, -0.35
+- Index: 100021
+  Position: -0.43, 0, 0
+- Index: 100022
+  Position: 0, 0.34, 0
+- Index: 100023
+  Position: 0, -0.18, 0
+- Index: 100025
+  Position: -0.02, -0.33, -0.05
+- Index: 100027
+  Position: 0, -0.15, -0.48
+MajorFlags:
+- 0x40000

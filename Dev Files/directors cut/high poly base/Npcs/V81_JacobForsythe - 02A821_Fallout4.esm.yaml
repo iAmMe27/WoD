@@ -1,0 +1,206 @@
+FormKey: 02A821:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: V81_JacobForsythe
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Essential
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 3968
+Factions:
+- Faction: 0581B3:Fallout4.esm
+- Faction: 0581B4:Fallout4.esm
+- Faction: 245D20:Fallout4.esm
+Voice: 02A89A:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1103A1:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 043A84:Fallout4.esm
+- 043A83:Fallout4.esm
+- 1B2B22:Fallout4.esm
+Keywords:
+- 0C866F:Fallout4.esm
+- 03D290:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Dr. Jacob Forsythe
+ShortName:
+  TargetLanguage: English
+  Value: Dr. Forsythe
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0821DC:Fallout4.esm
+- 0821DD:Fallout4.esm
+- 0821DE:Fallout4.esm
+- 0821DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.443
+  Muscular: 0.474
+  Fat: 0.083
+SoundLevel: Normal
+DefaultOutfit: 1103A6:Fallout4.esm
+CrimeFaction: 0581B3:Fallout4.esm
+HeadTexture: 128C59:Fallout4.esm
+TextureLighting: '#A08C939D'
+Morphs:
+- Key: 921646550
+  Value: -0.39
+- Key: 921646200
+  Value: 0.141376
+- Key: 921646547
+  Value: -0.48
+- Key: 921646297
+  Value: 0.24
+- Key: 921646549
+  Value: -0.33
+- Key: 921646606
+  Value: 1
+- Key: 921646459
+  Value: 1
+- Key: 921646646
+  Value: 0.91
+- Key: 921646304
+  Value: 0.46
+- Key: 921646548
+  Value: 0.03
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 0.63
+  Color: '#008C939D'
+  TemplateColorIndex: 1166
+- DataType: Value
+  Index: 1196
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.57
+FaceMorphs:
+- Index: 0
+  Position: 0, 0.03, -0.12
+  Rotation: 0.075, 0, 0
+- Index: 1
+  Position: 0, 0.11, 0
+- Index: 2
+  Position: 0.0075, 0.16, -0.04
+- Index: 3
+  Position: 0, -0.26, -0.15
+  Scale: 0.26
+- Index: 4
+  Position: 0, 0, -0.04
+- Index: 5
+  Position: -0.135, -0.09, 0
+  Scale: -0.1
+- Index: 8
+  Position: 0, -0.75, 0
+  Scale: 0.75
+- Index: 9
+  Position: 0, 0.1725, 0.03
+  Scale: 0.1575
+- Index: 10
+  Position: 0.75, 0.1425, -0.015
+- Index: 25
+  Position: 0, 0.36, -0.15
+  Scale: -0.3
+- Index: 26
+  Position: 0, -0.5175, 0
+- Index: 27
+  Position: -0.5, -0.33, -0.35
+- Index: 62
+  Position: -0.17, -0.23, -0.2
+- Index: 63
+  Position: 0, -0.23, 0
+- Index: 921646266
+  Position: 0.2175, -0.61, 0
+- Index: 921646267
+  Position: 0, -0.63, -0.45
+- Index: 921646268
+  Position: 0, 0, 0.34
+- Index: 921646269
+  Position: 0, -0.28, -0.19
+  Rotation: -0.16, 0, 0
+  Scale: 0.03
+- Index: 921646270
+  Position: 0, 0, 0.21
+- Index: 921646271
+  Position: -0.0075, -0.1725, 0.13
+  Rotation: -0.2, 0, -0.33
+  Scale: 0.16
+- Index: 921646272
+  Position: 0, -0.43, 0.16
+- Index: 921646273
+  Position: -0.0075, 0, -0.2
+  Rotation: 0.13, 0, 0
+  Scale: -0.435
+- Index: 921646274
+  Position: 0, -0.02, -0.37
+- Index: 921646275
+  Position: 0.0075, 0.14, -0.22
+  Scale: 0.135
+- Index: 921646276
+  Position: 0, -0.0075, -0.11
+  Scale: 0.36
+- Index: 921646277
+  Position: 0.1425, -0.14, 0
+  Rotation: 0, 0, -0.3075
+- Index: 921646278
+  Position: 0, -0.0075, 0
+  Scale: 0.16
+- Index: 921646279
+  Position: 0, -0.12, 0
+  Scale: 0.18
+FacialMorphIntensity: 4
+MajorFlags:
+- 0x40000

@@ -1,0 +1,207 @@
+FormKey: 045AD1:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: Desdemona
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: Stats
+Factions:
+- Faction: 0994F6:Fallout4.esm
+- Faction: 0BDAAA:Fallout4.esm
+Voice: 045AD2:Fallout4.esm
+DefaultTemplate: 0FD39A:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 0FD39A:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 065A3C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0673B2:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 17FC7B:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 20DCDB:Fallout4.esm
+Keywords:
+- 022E49:Fallout4.esm
+- 0C866C:Fallout4.esm
+Class: 20F487:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Desdemona
+ShortName:
+  TargetLanguage: English
+  Value: Desdemona
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9D:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A0431:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.562
+  Muscular: 0.1561
+  Fat: 0.282
+SoundLevel: Normal
+DefaultOutfit: 0D96D6:Fallout4.esm
+CrimeFaction: 0BDAAA:Fallout4.esm
+HeadTexture: 09BF1E:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646551
+  Value: 0.39
+- Key: 921646660
+  Value: 0.7
+- Key: 921646364
+  Value: -0.41
+- Key: 921646552
+  Value: 0.3
+- Key: 921646686
+  Value: 1
+- Key: 921646553
+  Value: 0.02
+- Key: 921646554
+  Value: -0.92
+- Key: 921646709
+  Value: 1
+- Key: 921646733
+  Value: 0.76
+- Key: 921646749
+  Value: 0.43
+FaceTintingLayers:
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1244
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1305
+  Value: 0.22
+  Color: '#00BA2552'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.14
+  Color: '#00C7A38B'
+  TemplateColorIndex: 1324
+BodyMorphRegionValues:
+  Head: -0.64
+FaceMorphs:
+- Index: 10062
+  Position: 0.54, -0.74, 0.57
+- Index: 10063
+  Position: 0, -0.66, -0.59
+- Index: 100000
+  Position: 0, 0.29, 0
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: -0.52, -0.28, 0
+- Index: 100002
+  Position: 0, 0, -0.64
+- Index: 100003
+  Position: 0.36, -0.36, -0.02
+  Scale: 1
+- Index: 100004
+  Position: 0, -0.81, -0.08
+- Index: 100005
+  Position: 0, 0, -0.66
+- Index: 100009
+  Position: 0, 0.39, 0
+  Scale: -0.51
+- Index: 100010
+  Position: 0.23, -0.59, 0.23
+  Scale: 0.13
+- Index: 100011
+  Position: 0, 0, -0.84
+  Scale: -0.28
+- Index: 100012
+  Position: 0, -0.53, -0.27
+- Index: 100013
+  Position: 0, -0.14, -0.79
+- Index: 100014
+  Position: 0, 0.19, -0.48
+  Scale: 0.39
+- Index: 100016
+  Position: 0.49, 0.5, -0.17
+  Rotation: 0, 0, 0.8
+  Scale: -0.16
+- Index: 100017
+  Position: 0, 1, -0.66
+  Scale: 1
+- Index: 100018
+  Position: 0, 0, 0.65
+  Scale: 0.05
+- Index: 100019
+  Position: 0, -0.5, -0.32
+  Scale: 0.59
+- Index: 100020
+  Scale: -0.58
+- Index: 100021
+  Position: -0.35, 0.1, 0.61
+  Rotation: 0, 0, -0.28
+- Index: 100023
+  Scale: 0.05
+- Index: 100024
+  Position: 0, -1, -0.45
+  Scale: 0.55
+- Index: 100025
+  Position: 0, 0.7, 0.26
+- Index: 100026
+  Position: 0, 0.03, -0.3
+- Index: 100027
+  Position: 0, -0.22, -0.56
+MajorFlags:
+- 0x40000

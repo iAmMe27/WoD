@@ -1,0 +1,240 @@
+FormKey: 10409C:Eli_Armour_Compendium.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: Eli_VendorNPC
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- Essential
+- IsCharGenFacePreset
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 60
+DispositionBase: 35
+Unknown: -8531
+Factions:
+- Faction: 10409A:Eli_Armour_Compendium.esp
+- Faction: 10577E:Eli_Armour_Compendium.esp
+- Faction: 002CB3:Fallout4.esm
+- Faction: 002CB4:Fallout4.esm
+- Faction: 184E59:Fallout4.esm
+Voice: 10767E:Eli_Armour_Compendium.esp
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+  Value: 8
+- ActorValue: 0002C4:Fallout4.esm
+  Value: 8
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+  Value: 8
+Items:
+- Item:
+    Item: 02332B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 14831C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 245D68:Fallout4.esm
+    Count: 4
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 10409B:Eli_Armour_Compendium.esp
+Keywords:
+- 022E49:Fallout4.esm
+- 0C866C:Fallout4.esm
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Ellie
+ShortName:
+  TargetLanguage: English
+  Value: Ellie
+CalculatedHealth: 435
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1D7F9F:Fallout4.esm
+- 1E6787:Fallout4.esm
+- 23D946:Fallout4.esm
+- 10409D:Eli_Armour_Compendium.esp
+- 10409E:Eli_Armour_Compendium.esp
+- 10409F:Eli_Armour_Compendium.esp
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5B:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3944
+  Muscular: 0.3863
+  Fat: 0.2194
+SoundLevel: Normal
+DefaultOutfit: 10483D:Eli_Armour_Compendium.esp
+CrimeFaction: 002CB4:Fallout4.esm
+HeadTexture: 0F7E65:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646333
+  Value: 1
+- Key: 921646711
+  Value: 1
+FaceTintingLayers:
+- DataType: Value
+  Index: 1239
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.48
+  Color: '#002B2C2F'
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 0.13
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1315
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.5
+  Color: '#001C4F53'
+  TemplateColorIndex: 1884
+- DataType: ValueAndColor
+  Index: 1700
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1805
+- DataType: Value
+  Index: 1746
+  Value: 0.13
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1748
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1756
+  Value: 0.32
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1758
+  Value: 0.12
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1771
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1772
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1773
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1780
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1824
+  Value: 0.5
+  Color: '#00C93248'
+  TemplateColorIndex: 1872
+- DataType: ValueAndColor
+  Index: 1860
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1861
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1862
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1879
+  Value: 0.79
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+FaceMorphs:
+- Index: 10063
+  Position: 0, -0.94, 0
+- Index: 100000
+  Position: -0.2, -0.02, 0.8
+- Index: 100009
+  Position: -0.09, -0.16, -0.3
+- Index: 100010
+  Position: 0, 0.42, -0.03
+- Index: 100014
+  Position: 0.11, 0.01, -0.8
+- Index: 100016
+  Position: 0.6, -1, 0.3
+  Scale: 0.1
+- Index: 100017
+  Position: 0.34, -0.1, 0.3
+  Rotation: -0.4, 0, 0
+  Scale: -1
+- Index: 100019
+  Position: 0, 0, -0.6
+- Index: 100020
+  Position: 0.06, -0.1, -0.9
+  Scale: -0.5
+- Index: 100021
+  Position: -0.3, 0.12, 0.4
+  Rotation: 0, 0, -0.4
+- Index: 100022
+  Position: 0, 0.05, 0
+  Scale: -1
+- Index: 100023
+  Position: 0, 0.06, -1
+  Scale: 0.4
+- Index: 100024
+  Position: 0, 0, 0.4
+- Index: 100025
+  Position: 0, 0, -1
+- Index: 100026
+  Position: -0.22, 0.5, 0
+MajorFlags:
+- 0x40000

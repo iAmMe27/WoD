@@ -1,0 +1,100 @@
+FormKey: 130B86:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: CaravanDWGuard02
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- AutoCalcStats
+- Unique
+- Protected
+Level:
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+CalcMinLevel: 7
+CalcMaxLevel: 30
+DispositionBase: 35
+UseTemplateActors: 7963
+Unknown: 27751
+Factions:
+- Faction: 130B7B:Fallout4.esm
+- Faction: 130FAC:Fallout4.esm
+- Faction: 1679D1:Fallout4.esm
+Voice: 00002D:Fallout4.esm
+DefaultTemplate: 0295A1:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 0295A1:Fallout4.esm
+  StatsTemplate: 0295A1:Fallout4.esm
+  SpellListTemplate: 0295A1:Fallout4.esm
+  AiDataTemplate: 0295A1:Fallout4.esm
+  InventoryTemplate: 0295A1:Fallout4.esm
+  ScriptTemplate: 0295A1:Fallout4.esm
+  DefPackListTemplate: 0295A1:Fallout4.esm
+  AttackDataTemplate: 0295A1:Fallout4.esm
+  KeywordsTemplate: 0295A1:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05E8E5:Fallout4.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Caravan Guard
+CalculatedHealth: 70
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 57
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 08E1AA:Fallout4.esm
+- 08E1AB:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A95:Fallout4.esm
+- 14108D:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042C:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+SoundLevel: Normal
+DefaultOutfit: 1A7FF4:Fallout4.esm
+CrimeFaction: 1679D1:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646208
+  Value: 1
+FaceMorphs:
+- Index: 1
+  Position: 0, 0.23, 0
+- Index: 2
+  Position: 0, 1, 0
+MajorFlags:
+- 0x40000

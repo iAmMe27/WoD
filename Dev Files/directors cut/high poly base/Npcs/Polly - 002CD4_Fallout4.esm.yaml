@@ -1,0 +1,181 @@
+FormKey: 002CD4:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: Polly
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 16698
+Factions:
+- Faction: 002CB3:Fallout4.esm
+- Faction: 002CB4:Fallout4.esm
+- Faction: 063599:Fallout4.esm
+Voice: 02333D:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 30
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 45
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 023329:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 02332B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 063597:Fallout4.esm
+    Count: 1
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 002F76:Fallout4.esm
+- 140D28:Fallout4.esm
+- 0034FC:Fallout4.esm
+- 136327:Fallout4.esm
+Keywords:
+- 024593:Fallout4.esm
+- 0C8670:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Polly
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1E678A:Fallout4.esm
+- 1E678B:Fallout4.esm
+- 1E678C:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE66:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1582
+  Muscular: 0.6936
+  Fat: 0.1482
+SoundLevel: Normal
+DefaultOutfit: 12A19C:Fallout4.esm
+CrimeFaction: 002CB4:Fallout4.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646551
+  Value: 0.46
+- Key: 921646553
+  Value: -0.51
+- Key: 921646364
+  Value: -0.72
+- Key: 921646421
+  Value: 0.57
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: ValueAndColor
+  Index: 1208
+  Value: 0.14
+  Color: '#00581616'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1244
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1319
+  Value: 0.66
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.84
+  Color: '#00724D43'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1753
+  Value: 0.24
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1781
+  Value: 0.26
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 100000
+  Position: 0, -0.093333, 0.14
+- Index: 100001
+  Position: 0.136667, 0.036667, 0.106667
+- Index: 100002
+  Position: 0, 0.12, 0.016667
+- Index: 100009
+  Scale: 0.193333
+- Index: 100014
+  Position: 0, 0.07, 0
+  Scale: 0.276667
+- Index: 100015
+  Position: 0, 0, 0.26
+- Index: 100016
+  Position: 0.096667, -0.073333, -0.243333
+  Rotation: 0, 0, -0.166667
+  Scale: -0.02
+- Index: 100017
+  Position: 0, 0, -0.02
+  Rotation: 0.33, 0, 0
+- Index: 100018
+  Position: 0, 0.123333, -0.36
+  Scale: -0.79
+- Index: 100020
+  Position: 0, 0.08, 0
+  Scale: -0.076667
+- Index: 100021
+  Position: -0.333333, -0.12, 0
+  Rotation: 0, 0, -0.193333
+- Index: 100024
+  Position: 0, -0.31, -0.38
+  Scale: -0.54
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

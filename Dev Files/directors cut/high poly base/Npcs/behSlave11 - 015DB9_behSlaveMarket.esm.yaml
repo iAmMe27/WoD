@@ -1,0 +1,133 @@
+FormKey: 015DB9:behSlaveMarket.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: behSlave11
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+DispositionBase: 35
+Unknown: 5269
+Factions:
+- Faction: 0119FB:behSlaveMarket.esm
+Voice: 00ED09:HumanResources.esp
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Cautious
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 015DC0:behSlaveMarket.esm
+- 015DBF:behSlaveMarket.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Sherrie  Grey
+ShortName:
+  TargetLanguage: English
+  Value: Sher
+CalculatedHealth: 140
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1D98D8:Fallout4.esm
+- 1D98D9:Fallout4.esm
+- 1D98DA:Fallout4.esm
+- 1D98DB:Fallout4.esm
+- 1E55C9:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE60:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+SoundLevel: Normal
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646385
+  Value: 1
+- Key: 921646709
+  Value: 1
+- Key: 921646557
+  Value: 1
+- Key: 921646364
+  Value: 0.36
+- Key: 921646436
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.29
+  Color: '#00850505'
+  TemplateColorIndex: 1328
+BodyMorphRegionValues:
+  UpperTorso: 0.38
+  Arms: 0.31
+  LowerTorso: -0.06
+  Legs: 0.01
+FaceMorphs:
+- Index: 10062
+  Position: 0, -0.59, -0.12
+- Index: 10063
+  Position: 0, 0, 0.03
+- Index: 100001
+  Position: 0, -0.41, 0.37
+- Index: 100003
+  Position: -0.07, 0.13, 0.29
+- Index: 100004
+  Position: 0, 0.88, -0.17
+  Scale: 0.85
+- Index: 100009
+  Position: 0, 0, -0.03
+  Scale: -0.8
+- Index: 100012
+  Scale: -0.31
+- Index: 100014
+  Scale: 0.31
+- Index: 100016
+  Position: 0.47, 0.11, 0.34
+  Rotation: -0.32, 0, 0.72
+  Scale: -0.17
+- Index: 100017
+  Position: 0, 0, 0.14
+- Index: 100020
+  Scale: -0.1
+- Index: 100022
+  Position: 0, 0, 0.23
+  Scale: 1
+- Index: 100025
+  Position: 0, -0.15, -1
+MajorFlags:
+- 0x40000

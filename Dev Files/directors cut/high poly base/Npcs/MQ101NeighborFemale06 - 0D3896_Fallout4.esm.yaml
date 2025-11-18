@@ -1,0 +1,152 @@
+FormKey: 0D3896:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101NeighborFemale06
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 115
+Voice: 11FC1D:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 1B5B32:Fallout4.esm
+Keywords:
+- 03D292:Fallout4.esm
+- 0C866D:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Neighbor
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144AA1:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE60:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.2315
+  Muscular: 0.237
+  Fat: 0.5315
+SoundLevel: Normal
+DefaultOutfit: 209CE9:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#D1C9C0'
+Morphs:
+- Key: 921646729
+  Value: 1
+- Key: 921646664
+  Value: 1
+- Key: 921646750
+  Value: 0.76
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00D1C9C0'
+  TemplateColorIndex: 1160
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.84
+  Color: '#0040251A'
+  TemplateColorIndex: 1335
+- DataType: Value
+  Index: 1486
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 10062
+  Position: -0.09, -1, 0.6
+- Index: 100000
+  Position: 0, 1, 0.7
+  Rotation: -1, 0, 0
+- Index: 100001
+  Position: -1, -0.58, 0
+- Index: 100002
+  Position: -1, -0.5, 0.85
+- Index: 100003
+  Position: 0, -0.59, 0.24
+  Scale: 1
+- Index: 100004
+  Position: 0, 0, 0.11
+- Index: 100005
+  Rotation: 0, -0.71, 0
+  Scale: -0.38
+- Index: 100009
+  Position: 0, 0.67, 0.41
+- Index: 100015
+  Position: 0, 0, 0.62
+- Index: 100016
+  Position: 0.5, 0.01, -0.5
+  Scale: 0.54
+- Index: 100017
+  Position: 0, 0, 0.62
+  Rotation: 0.57, 0, 0
+- Index: 100018
+  Scale: 1
+- Index: 100019
+  Position: 0, 0, 0.42
+  Scale: 0.65
+- Index: 100020
+  Position: 0, 0.41, 0.43
+- Index: 100021
+  Position: -1, 0.15, 0
+- Index: 100022
+  Scale: 0.65
+- Index: 100023
+  Position: 0, -1, 0
+  Scale: 0.26
+- Index: 100026
+  Position: 0, 0.08, 0.72
+MajorFlags:
+- 0x40000

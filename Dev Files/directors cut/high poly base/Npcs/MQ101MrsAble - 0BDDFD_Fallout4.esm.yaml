@@ -1,0 +1,182 @@
+FormKey: 0BDDFD:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101MrsAble
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Voice: 0BDDFE:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 12AC12:Fallout4.esm
+- 11E7B2:Fallout4.esm
+Keywords:
+- 0C8671:Fallout4.esm
+- 05F763:Fallout4.esm
+- 19EDD9:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Mrs. Able
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144AA3:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5F:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.314
+  Muscular: 0.052
+  Fat: 0.634
+SoundLevel: Normal
+DefaultOutfit: 11C3B3:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+TextureLighting: '#E7D3CB'
+Morphs:
+- Key: 921646364
+  Value: -0.74
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00E7D3CB'
+  TemplateColorIndex: 1159
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1245
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.52
+  Color: '#00410E29'
+  TemplateColorIndex: 1337
+FaceMorphs:
+- Index: 10062
+  Position: 0.044738, -0.067291, 0.023383
+- Index: 10063
+  Position: 0, -0.36, -0.38
+- Index: 100000
+  Position: -0.051424, -0.070449, -0.097055
+  Rotation: 0.005512, 0, 0
+- Index: 100001
+  Position: -0.061887, 0.054182, -0.04
+- Index: 100002
+  Position: 0.072699, 0.036516, -0.099979
+- Index: 100003
+  Position: -0.049453, 0.052909, 0.051008
+  Scale: -0.00028
+- Index: 100004
+  Position: 0, -0.62, 0.06
+  Scale: -0.2
+- Index: 100005
+  Position: 0, 0.077264, -0.06746
+  Rotation: 0, 0.006057, 0
+  Scale: 0.074967
+- Index: 100006
+  Position: -0.097093, -0.099551, -0.010789
+- Index: 100007
+  Position: -0.02608, -0.080073, -0.033231
+- Index: 100008
+  Position: -0.034027, -0.032063, -0.010543
+  Scale: 0.013559
+- Index: 100009
+  Position: -0.023513, -0.011458, -0.091048
+  Scale: -0.092614
+- Index: 100010
+  Position: -0.33, -0.12, 0.29
+  Scale: -0.011841
+- Index: 100011
+  Position: 0.063113, 0.24, -0.17
+  Scale: -0.11
+- Index: 100012
+  Position: -0.027537, -0.36, -0.65
+- Index: 100013
+  Position: 0, 0.092139, 0.011655
+- Index: 100014
+  Position: -0.051703, 0.16, -0.24
+  Scale: 0.03
+- Index: 100015
+  Position: 0, 0, 0.15
+- Index: 100016
+  Position: -0.005003, 0.077188, -0.24
+  Rotation: 0.094739, 0, 0.02014
+  Scale: 0.051627
+- Index: 100017
+  Position: 0.055041, 0.09677, -0.39
+  Rotation: 0.29, 0, 0
+  Scale: -0.02932
+- Index: 100018
+  Position: 0, 0.0677, -0.54
+  Scale: -0.044656
+- Index: 100019
+  Position: 0.050252, -0.035189, 0.068894
+  Scale: 0.066419
+- Index: 100020
+  Position: 0.019186, 0.020967, -0.057872
+  Scale: 0.073442
+- Index: 100021
+  Position: 0.044925, -0.05, 0.19
+  Rotation: 0, 0, 0.22
+- Index: 100022
+  Position: 0, -0.22, -0.091107
+  Scale: 0.02
+- Index: 100023
+  Position: 0, 0.012606, -0.049883
+  Scale: -0.078139
+- Index: 100024
+  Position: 0, -0.039587, -0.019149
+  Scale: 0.046084
+- Index: 100025
+  Position: -0.005133, -0.052679, -0.084264
+- Index: 100026
+  Position: -0.022984, 0.089563, 0.086842
+- Index: 100027
+  Position: 0, 0.079412, 0.085949
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

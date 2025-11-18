@@ -1,0 +1,189 @@
+FormKey: 10C64F:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: GoodneighborHotelWorkerF01
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 16262
+Factions:
+- Faction: 0035DE:Fallout4.esm
+- Faction: 0228A8:Fallout4.esm
+- Faction: 0228A9:Fallout4.esm
+- Faction: 023325:Fallout4.esm
+- Faction: 176058:Fallout4.esm
+Voice: 00002E:Fallout4.esm
+DefaultTemplate: 02331F:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 023329:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 10C654:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Hotel Worker
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 08EFC3:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 15A166:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A042D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5881
+  Muscular: 0.2139
+  Fat: 0.1981
+SoundLevel: Normal
+DefaultOutfit: 14D253:Fallout4.esm
+CrimeFaction: 0228A8:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646319
+  Value: 1
+- Key: 921646432
+  Value: 1
+- Key: 921646578
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1246
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.29
+  Color: '#00850505'
+  TemplateColorIndex: 1328
+BodyMorphRegionValues:
+  Head: -0.9766
+  UpperTorso: 0.4649
+  Arms: -0.7883
+  LowerTorso: 0.6953
+  Legs: 0.9467
+FaceMorphs:
+- Index: 100000
+  Position: 0.022113, 0.146022, 0.350431
+  Rotation: 0.309311, 0, 0
+- Index: 100001
+  Position: 0.323793, -0.023679, 0.267196
+- Index: 100002
+  Position: 0.080252, 0.188179, 0.18966
+- Index: 100003
+  Position: 0.20443, 0.203905, 0.324375
+- Index: 100004
+  Position: 0, 0, -0.318651
+  Scale: -0.185556
+- Index: 100005
+  Position: 0.143771, -0.012866, 0.247351
+  Rotation: 0, -0.268944, 0
+  Scale: 0.142806
+- Index: 100006
+  Position: 0.289118, -0.082002, 0.081236
+- Index: 100007
+  Position: -0.218321, 0.339664, 0.269608
+- Index: 100008
+  Position: -0.351691, -0.114851, -0.349435
+- Index: 100009
+  Position: -0.122236, 0.061845, -0.305247
+  Scale: -0.086626
+- Index: 100010
+  Position: -0.08181, -0.373968, 0.050695
+- Index: 100011
+  Position: 0.029188, -0.050427, 0.262602
+- Index: 100012
+  Position: 0, 0.000503, 0.372218
+- Index: 100013
+  Position: 0, 0.19305, 0.380713
+- Index: 100014
+  Position: -0.298416, -0.265586, -0.268127
+  Scale: -0.255255
+- Index: 100015
+  Position: 0, 0, 0.208932
+- Index: 100016
+  Position: 0.344826, -0.22, 0.028535
+  Rotation: -0.61, 0, -1
+  Scale: -0.17
+- Index: 100017
+  Position: 0.076293, -0.334016, -0.232853
+  Scale: 0.143358
+- Index: 100018
+  Position: 0, 0.009898, 0.042261
+- Index: 100019
+  Position: 0.176122, -0.239249, 0.202628
+  Scale: 0.202517
+- Index: 100020
+  Position: -0.203006, 0.122336, 0.129991
+- Index: 100021
+  Position: 0.034786, 0.315543, 0.375436
+  Rotation: 0, 0, 0.381573
+- Index: 100022
+  Position: 0, 0.078741, -0.321146
+  Scale: -0.327899
+- Index: 100023
+  Position: 0, -0.22863, -0.253761
+  Scale: -0.327469
+- Index: 100024
+  Position: 0, -0.280606, -0.303878
+- Index: 100025
+  Position: 0.144436, 0.219808, -0.246369
+- Index: 100026
+  Position: -0.251429, -0.045311, 0.046114
+- Index: 100027
+  Position: 0, 0.094305, 0.133374
+MajorFlags:
+- 0x40000

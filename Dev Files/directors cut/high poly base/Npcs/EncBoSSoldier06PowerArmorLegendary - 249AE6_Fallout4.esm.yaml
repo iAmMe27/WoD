@@ -1,0 +1,188 @@
+FormKey: 249AE6:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: EncBoSSoldier06PowerArmorLegendary
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- Respawn
+XpValueOffset: 58
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 41
+DispositionBase: 35
+UseTemplateActors: 3893
+Unknown: 18418
+Factions:
+- Faction: 05DE41:Fallout4.esm
+- Faction: 1479C1:Fallout4.esm
+DeathItem: 077D1F:Fallout4.esm
+Voice: 077D1D:Fallout4.esm
+DefaultTemplate: 076A0A:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 20EA66:Fallout4.esm
+  FactionsTemplate: 076A0A:Fallout4.esm
+  AiDataTemplate: 076A0A:Fallout4.esm
+  AiPackagesTemplate: 076A0A:Fallout4.esm
+  InventoryTemplate: 160159:Fallout4.esm
+  ScriptTemplate: 076A0A:Fallout4.esm
+  DefPackListTemplate: 076A0A:Fallout4.esm
+  AttackDataTemplate: 076A0A:Fallout4.esm
+Race: 013746:Fallout4.esm
+ActorEffect:
+- 1FE6BC:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Perks:
+- Perk: 0E1A4B:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 6
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 440
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 160155:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 02CB72:Fallout4.esm
+- 013794:Fallout4.esm
+- 076A08:Fallout4.esm
+- 1CF26C:Fallout4.esm
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Legendary Brotherhood Knight-Commander
+ShortName:
+  TargetLanguage: English
+  Value: Knight-Commander
+CalculatedHealth: 350
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144AA0:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE69:Fallout4.esm
+CombatStyle: 076A09:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.649624
+  Muscular: 0.190751
+  Fat: 0.159624
+SoundLevel: Normal
+PowerArmorStand: 181520:Fallout4.esm
+DefaultOutfit: 0642B1:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+HeadTexture: 04D0EA:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646551
+  Value: 0.2
+- Key: 921646553
+  Value: -0.41
+- Key: 921646364
+  Value: -0.51
+- Key: 921646328
+  Value: 1
+- Key: 921646421
+  Value: 0.57
+FaceMorphs:
+- Index: 10062
+  Position: 0, 0, -0.22
+- Index: 10063
+  Position: 0, 0.02, 0.37
+- Index: 100000
+  Position: 0, 0.08, -1
+  Rotation: -0.25, 0, 0
+- Index: 100001
+  Position: 0.136667, 0.18, 0.67
+- Index: 100002
+  Position: 0, 0.54, 0.13
+- Index: 100003
+  Position: 0, 0.14, -0.07
+  Scale: -0.18
+- Index: 100004
+  Position: 0, 0, 0.06
+- Index: 100009
+  Position: 0, 0.32, -0.58
+  Scale: -0.02
+- Index: 100011
+  Position: 0, 0.29, -0.55
+- Index: 100012
+  Position: 0, -0.3, -0.39
+- Index: 100013
+  Position: 0, 0.03, -0.27
+- Index: 100014
+  Position: 0, 0.29, -0.17
+  Scale: -0.07
+- Index: 100015
+  Position: 0, 0, -0.42
+- Index: 100016
+  Position: 0.19, -0.1, -0.45
+  Rotation: 0, 0, -0.06
+  Scale: -0.02
+- Index: 100017
+  Position: 0, 0, 0.01
+  Rotation: 0.14, 0, 0
+  Scale: -0.81
+- Index: 100018
+  Position: 0, 0.05, -0.49
+  Scale: -0.45
+- Index: 100019
+  Position: 0, 0, 0.31
+- Index: 100020
+  Position: 0, 0.24, -0.1
+  Scale: -0.3
+- Index: 100021
+  Position: -0.333333, 0.03, 0
+  Rotation: 0, 0, -0.22
+- Index: 100022
+  Position: 0, 0.24, 0
+- Index: 100024
+  Position: 0, -0.31, -0.53
+  Scale: -0.15
+- Index: 100025
+  Position: 0, -0.63, 0
+- Index: 100026
+  Position: 0, 0, -0.3
+- Index: 100027
+  Position: 0, 0, -0.33
+MajorFlags:
+- 0x40000

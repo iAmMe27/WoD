@@ -1,0 +1,296 @@
+FormKey: 0642B5:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: BoSProctorIngram
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -40, -31, 0
+  Second: 40, 16, 138
+Flags:
+- Female
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: Stats
+Unknown: -19066
+Factions:
+- Faction: 05DE41:Fallout4.esm
+- Faction: 176057:Fallout4.esm
+- Faction: 1E2342:Fallout4.esm
+DeathItem: 077D1F:Fallout4.esm
+Voice: 0642C0:Fallout4.esm
+DefaultTemplate: 076A05:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 1BE553:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 0585A4:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0D1923:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1081B9:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 249D38:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 224582:Fallout4.esm
+- 13BFE9:Fallout4.esm
+- 18B929:Fallout4.esm
+- 08B341:Fallout4.esm
+Keywords:
+- 024593:Fallout4.esm
+- 0C866C:Fallout4.esm
+- 218ADA:Fallout4.esm
+- 0C42E9:Fallout4.esm
+- 0F23C5:Fallout4.esm
+Class: 20F487:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Proctor Ingram
+ShortName:
+  TargetLanguage: English
+  Value: Ingram
+CalculatedHealth: 240
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1C4092:Fallout4.esm
+- 1C4093:Fallout4.esm
+- 1D7F9F:Fallout4.esm
+- 1E55C9:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE62:Fallout4.esm
+CombatStyle: 09A6B8:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.4224
+  Muscular: 0.3353
+  Fat: 0.2424
+SoundLevel: Normal
+PowerArmorStand: 225A5F:Fallout4.esm
+DefaultOutfit: 0E7BC6:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+HeadTexture: 09BF1E:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646710
+  Value: 0.56
+- Key: 921646551
+  Value: 0.77
+- Key: 921646553
+  Value: -0.77
+- Key: 921646737
+  Value: 0.48
+- Key: 921646560
+  Value: 0.48
+- Key: 921646676
+  Value: 0.44
+- Key: 921646364
+  Value: -0.72
+- Key: 921646750
+  Value: 0.5
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: ValueAndColor
+  Index: 1206
+  Value: 0.5
+  Color: '#0052473F'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1241
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.22
+  Color: '#003E2D37'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1319
+  Value: 0.45
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.64
+  Color: '#00634741'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1727
+  Value: 0.34
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1749
+  Value: 0.35
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1750
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1751
+  Value: 0.41
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1752
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1754
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1767
+  Value: 0.7
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1773
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1778
+  Value: 0.44
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1781
+  Value: 0.26
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1786
+  Value: 0.39
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1794
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.56
+  UpperTorso: -0.34
+  Legs: -0.48
+FaceMorphs:
+- Index: 10062
+  Position: 0, 0, -0.22
+- Index: 10063
+  Position: 0, -0.57, -0.36
+- Index: 100000
+  Position: 0, 0.08, -0.66
+  Rotation: 0.11, 0, 0
+- Index: 100001
+  Position: 0.136667, 0.13, 0.11
+- Index: 100002
+  Position: 0, 0.23, -0.03
+- Index: 100003
+  Position: 0, -0.17, -0.17
+- Index: 100004
+  Position: 0, 0, -0.2
+  Scale: -0.23
+- Index: 100005
+  Position: 0, 0, -0.22
+- Index: 100009
+  Position: 0.31, 0, -0.69
+  Scale: 0.06
+- Index: 100010
+  Position: 0, -0.04, 0
+- Index: 100011
+  Position: 0, -0.43, -0.31
+- Index: 100012
+  Position: 0, -0.77, -0.77
+- Index: 100013
+  Position: 0, 0.03, 0
+- Index: 100014
+  Position: 0, 0.11, -0.17
+  Scale: -0.04
+- Index: 100015
+  Position: 0, 0, -0.01
+- Index: 100016
+  Position: 0.06, -0.073333, -0.66
+  Rotation: 0, 0, -0.35
+  Scale: 0.03
+- Index: 100017
+  Position: 0, 0, 0.11
+  Rotation: 0.19, 0, 0
+  Scale: -0.81
+- Index: 100018
+  Position: 0, -0.13, -0.49
+  Scale: -0.72
+- Index: 100019
+  Position: 0, 0, 0.21
+  Rotation: -0.15, 0, 0
+- Index: 100020
+  Position: 0.26, 0.08, -0.23
+  Scale: -0.2
+- Index: 100021
+  Position: -0.333333, -0.12, 0
+  Rotation: 0, 0, -0.193333
+- Index: 100024
+  Position: 0, -0.91, -0.76
+  Scale: -0.32
+- Index: 100025
+  Position: -0.22, -0.2, 0
+- Index: 100026
+  Position: 0, 0, -0.3
+- Index: 100027
+  Position: 0, 0, -0.36
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

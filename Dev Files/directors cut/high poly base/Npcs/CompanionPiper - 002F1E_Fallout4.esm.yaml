@@ -1,0 +1,757 @@
+FormKey: 002F1E:Fallout4.esm
+EditorID: CompanionPiper
+VirtualMachineAdapter:
+  Scripts:
+  - Name: companionactorscript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CA_Event_Murder
+      Object: 04D8AB:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ConsideredMurderFactionList
+      Object: 249509:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DislikesEvent
+      Object: 1716BB:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DismissScene
+      Object: 162EFB:Fallout4.esm
+    - MutagenObjectType: ScriptStructListProperty
+      Name: EventData_Array
+      Structs:
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 1716BB:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B737:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611F:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 1716BC:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B738:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 1716BD:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B739:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611D:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 1716BE:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B73A:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0792C7:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B739:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 1D2877:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B737:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0A1B2D:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B739:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611F:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 04D8AB:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B738:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0A1B30:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B739:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0A1B31:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B737:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 04D8AA:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B737:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0A1B29:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B737:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 144356:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B739:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 144357:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B737:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 19B647:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B739:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 14435A:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B737:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 144359:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 02B739:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Experience
+      Object: 0002C9:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: HasItemForPlayer
+      Object: 16FBC6:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: HatesEvent
+      Object: 1716BC:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: HomeLocation
+      Object: 003962:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: IdleTopic
+      Object: 162C55:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: InfatuationPerk
+      Object: 178D54:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: InfatuationPerkMessage
+      Object: 1D1210:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: InfatuationRomanticMessage
+      Object: 1E774B:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: InfatuationThreshold
+      Object: 04B1C4:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ItemToGive
+      Object: 093B2C:Fallout4.esm
+    - MutagenObjectType: ScriptObjectListProperty
+      Name: KeywordsToAddWhileCurrentCompanion
+      Objects:
+      - Name: ''
+        Object: 0AD52A:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LikesEvent
+      Object: 1716BD:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LovesEvent
+      Object: 1716BE:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MQComplete
+      Object: 17D5B2:Fallout4.esm
+    - MutagenObjectType: ScriptStructListProperty
+      Name: MurderThreshold_Array
+      Structs:
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: QuestToSet
+          Object: 0BBD96:Fallout4.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: StageToSet
+          Data: 600
+      - Members:
+        - MutagenObjectType: ScriptFloatProperty
+          Name: AffinityPenalty
+          Data: -5000
+        - MutagenObjectType: ScriptObjectProperty
+          Name: QuestToSet
+          Object: 0BBD96:Fallout4.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: StageToSet
+          Data: 630
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MurderToggle
+      Object: 24997D:Fallout4.esm
+    - MutagenObjectType: ScriptObjectListProperty
+      Name: NotConsideredMurder_Array
+      Objects:
+      - Name: ''
+        Object: 22118A:Fallout4.esm
+    - MutagenObjectType: ScriptBoolProperty
+      Name: ShouldGivePlayerItems
+      Data: True
+    - MutagenObjectType: ScriptObjectProperty
+      Name: StartingThreshold
+      Object: 04B1C6:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: TemporaryAngerLevel
+      Object: 02DA12:Fallout4.esm
+    - MutagenObjectType: ScriptStructListProperty
+      Name: ThresholdData_Array
+      Structs:
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 0FA86D:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingDown
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingUp
+          Object: 0FA874:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 0BBD96:Fallout4.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 500
+        - MutagenObjectType: ScriptObjectProperty
+          Name: ThresholdMessage
+          Object: 1E774A:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C4:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 166701:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 0BBD96:Fallout4.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 495
+        - MutagenObjectType: ScriptBoolProperty
+          Name: IsMajorAffinityThreshold
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 0F75E2:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 0FA86C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingDown
+          Object: 0FA870:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingUp
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 0BBD96:Fallout4.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 400
+        - MutagenObjectType: ScriptObjectProperty
+          Name: ThresholdMessage
+          Object: 1E7747:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C5:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 166700:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 0BBD96:Fallout4.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 405
+        - MutagenObjectType: ScriptBoolProperty
+          Name: IsMajorAffinityThreshold
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 0F75E1:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingDown
+          Object: 0FA871:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 0BBD96:Fallout4.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 300
+        - MutagenObjectType: ScriptBoolProperty
+          Name: ThresholdHasBeenPreviouslyReached
+          Data: True
+        - MutagenObjectType: ScriptObjectProperty
+          Name: ThresholdMessage
+          Object: 1E774C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C6:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 0FA86E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingDown
+          Object: 0FA872:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 0BBD96:Fallout4.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 200
+        - MutagenObjectType: ScriptObjectProperty
+          Name: ThresholdMessage
+          Object: 1E7748:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C7:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 0FA86F:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingDown
+          Object: 0FA873:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: ConditionalGlobal
+          Object: 21BDFC:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 0BBD96:Fallout4.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 100
+        - MutagenObjectType: ScriptObjectProperty
+          Name: ThresholdMessage
+          Object: 1E7749:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C8:Fallout4.esm
+    - MutagenObjectType: ScriptStructListProperty
+      Name: TraitPreference_Array
+      Structs:
+      - Members:
+        - MutagenObjectType: ScriptBoolProperty
+          Name: Likes
+          Data: True
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B1C:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptBoolProperty
+          Name: Likes
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B1D:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptBoolProperty
+          Name: Likes
+          Data: True
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B20:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptBoolProperty
+          Name: Likes
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B21:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Tutorial
+      Object: 160147:Fallout4.esm
+  - Name: CompanionCrimeFactionHostilityScript
+    Properties:
+    - MutagenObjectType: ScriptObjectListProperty
+      Name: IgnoreSharedCrimeForAnyoneInTheseFactions
+      Objects:
+      - Name: ''
+        Object: 2495D0:Fallout4.esm
+      - Name: ''
+        Object: 2495CB:Fallout4.esm
+  - Name: CompanionPowerArmorKeywordScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: isPowerArmorFrame
+      Object: 15503F:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: pAttachPassenger
+      Object: 1F9859:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: pAttachSlot2
+      Object: 0FF18C:Fallout4.esm
+  - Name: teleportactorscript
+    Properties:
+    - MutagenObjectType: ScriptBoolProperty
+      Name: teleportInOnLoad
+    - MutagenObjectType: ScriptObjectProperty
+      Name: TeleportInSpell
+      Object: 062BDC:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: TeleportOutSpell
+      Object: 062BDB:Fallout4.esm
+  - Name: workshopnpcscript
+    Properties:
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bAllowCaravan
+      Data: True
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bAllowMove
+      Data: True
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bApplyWorkshopOwnerFaction
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bCommandable
+      Data: True
+    - MutagenObjectType: ScriptObjectProperty
+      Name: WorkshopParent
+      Object: 02058E:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- Essential
+- IsCharGenFacePreset
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+CalcMinLevel: 10
+DispositionBase: 35
+Factions:
+- Faction: 002CB3:Fallout4.esm
+- Faction: 002CB4:Fallout4.esm
+- Faction: 023C01:Fallout4.esm
+  Rank: -1
+- Faction: 056122:Fallout4.esm
+- Faction: 0644E5:Fallout4.esm
+- Faction: 0A1B85:Fallout4.esm
+  Rank: -1
+- Faction: 1EC1B9:Fallout4.esm
+- Faction: 2494FC:Fallout4.esm
+Voice: 01928A:Fallout4.esm
+Race: 013746:Fallout4.esm
+ActorEffect:
+- 1C63E2:Fallout4.esm
+Skin: 000D64:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Perks:
+- Perk: 04C935:Fallout4.esm
+  Rank: 1
+- Perk: 0A2775:Fallout4.esm
+  Rank: 1
+- Perk: 0B9882:Fallout4.esm
+  Rank: 1
+- Perk: 0B9883:Fallout4.esm
+  Rank: 1
+- Perk: 0B9884:Fallout4.esm
+  Rank: 1
+- Perk: 1D33D7:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C4:Fallout4.esm
+  Value: 7
+- ActorValue: 0002C5:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C6:Fallout4.esm
+  Value: 8
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C8:Fallout4.esm
+  Value: 8
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002DC:Fallout4.esm
+  Value: -100
+Items:
+- Item:
+    Item: 05DF2D:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0AF0E2:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 00494A:Fallout4.esm
+- 0975DC:Fallout4.esm
+Keywords:
+- 022E49:Fallout4.esm
+- 0847DF:Fallout4.esm
+- 0C866C:Fallout4.esm
+- 1F9859:Fallout4.esm
+- 2049E5:Fallout4.esm
+Class: 1CD0A8:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Piper
+CalculatedHealth: 185
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9C:Fallout4.esm
+- 144A9D:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1D7F9F:Fallout4.esm
+- 1E55C4:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE67:Fallout4.esm
+CombatStyle: 237E27:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.445987
+  Muscular: 0.284279
+  Fat: 0.269735
+SoundLevel: Normal
+DefaultOutfit: 000002:Wasteland of Depravity Tweaks.esp
+CrimeFaction: 2494FC:Fallout4.esm
+TextureLighting: '#BFAEAA'
+Morphs:
+- Key: 921646551
+  Value: 0.6
+- Key: 921646553
+  Value: -0.43
+- Key: 921646321
+  Value: 1
+- Key: 921646552
+  Value: 0.34
+- Key: 921646383
+  Value: 1
+- Key: 921646707
+  Value: 1
+- Key: 921646554
+  Value: 0.23
+- Key: 921646438
+  Value: 1
+- Key: 921646673
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00BFAEAA'
+- DataType: Value
+  Index: 1239
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.79
+  Color: '#00000000'
+- DataType: Value
+  Index: 1320
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1718
+  Value: 0.5
+  Color: '#00B89D85'
+- DataType: Value
+  Index: 1768
+  Value: 0.25
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1878
+  Value: 0.9
+  Color: '#00000000'
+- DataType: Value
+  Index: 2248
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 2255
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 2614
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 2617
+  Value: 0.39
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 2624
+  Value: 0.48
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.41
+FaceMorphs:
+- Index: 10062
+  Position: -0.18, -0.44, -0.42
+- Index: 10063
+  Position: 0, -0.35, 0.03
+- Index: 100000
+  Position: 0.036005, 0.8, -0.06
+  Rotation: 0.16, 0, 0
+- Index: 100001
+  Position: 0.219037, -0.96, -0.71
+- Index: 100002
+  Position: -0.474088, -1, -0.74
+- Index: 100003
+  Position: 0.45, 0.6, -0.18
+  Scale: -0.3
+- Index: 100004
+  Position: 0, 0.156853, -0.26
+  Scale: 0.04
+- Index: 100005
+  Position: -0.2, -0.223286, -0.28
+  Rotation: 0, -0.2, 0
+  Scale: 0.01
+- Index: 100008
+  Position: 1, -0.092836, 0
+- Index: 100009
+  Position: -0.365645, -0.09, -0.74
+  Scale: -0.04
+- Index: 100010
+  Position: 0.01, -1, -0.75
+  Scale: -1
+- Index: 100011
+  Position: 0.55, 0.305692, -0.38
+- Index: 100012
+  Position: -0.02, -0.49, -0.1
+- Index: 100013
+  Position: 0, -0.15, -0.51
+- Index: 100014
+  Position: 0.218376, 0.210992, -0.45
+  Scale: 0.05
+- Index: 100015
+  Position: 0, 0, -1
+- Index: 100016
+  Position: 0.46, -0.69, -0.94
+  Rotation: -0.17, 0, 0
+  Scale: 0.01
+- Index: 100017
+  Position: 1, -0.42, -0.22
+  Scale: -0.2
+- Index: 100018
+  Position: 0, -0.541289, -0.63
+  Scale: -0.98
+- Index: 100019
+  Position: 0.186072, -0.69, -0.1
+  Scale: -0.7
+- Index: 100020
+  Position: 0.02912, -0.450041, -0.79
+  Scale: -0.1
+- Index: 100021
+  Position: 0.12, -0.09, 0.55
+  Rotation: 0, 0, -0.14
+- Index: 100022
+  Position: 0, 0.06, -0.12
+  Scale: -0.15
+- Index: 100023
+  Position: 0, 0, -0.38
+  Scale: 0.62
+- Index: 100024
+  Position: 0, -1, -1
+  Scale: 0.24
+- Index: 100025
+  Position: -0.006631, 0.51, -0.87
+- Index: 100026
+  Position: 0.83, 0.08, -0.38
+- Index: 100027
+  Position: 0, 0.18, -0.78

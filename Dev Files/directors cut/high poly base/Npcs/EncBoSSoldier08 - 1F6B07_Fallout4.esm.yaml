@@ -1,0 +1,197 @@
+FormKey: 1F6B07:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: EncBoSSoldier08
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Respawn
+XpValueOffset: 81
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 57
+CalcMinLevel: 57
+DispositionBase: 35
+UseTemplateActors: 7989
+Unknown: 8293
+Factions:
+- Faction: 05DE41:Fallout4.esm
+- Faction: 1479C1:Fallout4.esm
+DeathItem: 077D1F:Fallout4.esm
+Voice: 077D1B:Fallout4.esm
+DefaultTemplate: 076A0A:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 076A0A:Fallout4.esm
+  FactionsTemplate: 076A0A:Fallout4.esm
+  AiDataTemplate: 076A0A:Fallout4.esm
+  AiPackagesTemplate: 076A0A:Fallout4.esm
+  InventoryTemplate: 076A0A:Fallout4.esm
+  ScriptTemplate: 076A0A:Fallout4.esm
+  DefPackListTemplate: 076A0A:Fallout4.esm
+  AttackDataTemplate: 076A0A:Fallout4.esm
+  KeywordsTemplate: 076A0A:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Perks:
+- Perk: 0E1A4B:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 7
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 630
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 076A1A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 02CB72:Fallout4.esm
+- 013794:Fallout4.esm
+- 076A08:Fallout4.esm
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Brotherhood Paladin-Commander
+ShortName:
+  TargetLanguage: English
+  Value: Paladin-Commander
+CalculatedHealth: 450
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0E12A4:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1436DB:Fallout4.esm
+- 1436DC:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A0439:Fallout4.esm
+CombatStyle: 076A09:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1
+  Muscular: 0.75
+  Fat: 0.15
+SoundLevel: Normal
+DefaultOutfit: 076A26:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646233
+  Value: 1
+- Key: 921646303
+  Value: 1
+- Key: 921646208
+  Value: 1
+FaceMorphs:
+- Index: 0
+  Position: 0.029838, 0.391671, 0.17049
+  Rotation: 0.263872, 0, 0
+- Index: 1
+  Position: 0.321953, -0.154085, -0.273489
+- Index: 2
+  Position: 0.204177, -0.128689, -0.343444
+- Index: 3
+  Position: -0.072756, 0.137769, -0.063963
+- Index: 4
+  Position: 0, 0, 0.019678
+  Scale: 0.268968
+- Index: 5
+  Position: 0, 0.108812, 0.266573
+  Rotation: 0, -0.116965, 0
+  Scale: -0.366271
+- Index: 6
+  Position: 0.263262, 0.268891, -0.092672
+- Index: 7
+  Position: -0.008832, 0.114625, 0.233844
+- Index: 8
+  Position: -0.361998, -0.274386, -0.311444
+- Index: 9
+  Position: 0, 0.039892, -0.044297
+  Scale: 0.241245
+- Index: 10
+  Position: -0.073917, 0.372744, -2.4E-05
+- Index: 25
+  Position: 0, 0.302132, -0.061478
+- Index: 26
+  Position: 0.019755, 0.193659, 0.32631
+- Index: 27
+  Position: -0.230663, 0.387112, 0.096823
+- Index: 921646266
+  Position: -0.184844, -0.017868, -0.0985
+- Index: 921646267
+  Position: 0, -0.152824, 0.194681
+- Index: 921646268
+  Position: 0, -0.298961, 0.398548
+- Index: 921646269
+  Position: 0.377759, -0.227134, 0.15653
+  Scale: 0.111745
+- Index: 921646270
+  Position: 0, 0, -0.196803
+- Index: 921646271
+  Position: 0.070476, -0.242479, -0.314424
+  Rotation: 0.088096, 0, 0.01819
+  Scale: -0.305874
+- Index: 921646272
+  Position: 0, 0.12036, 0.033188
+- Index: 921646273
+  Position: -0.23337, -0.386869, 0.234979
+  Scale: 0.067922
+- Index: 921646274
+  Position: 0, 0.308379, -0.265703
+- Index: 921646275
+  Position: 0.192752, -0.11831, -0.12335
+  Scale: -0.33348
+- Index: 921646276
+  Position: -0.225333, 0.112831, 0.183791
+- Index: 921646277
+  Position: -0.068329, 0.202653, -0.103703
+  Rotation: 0, 0, 0.258079
+- Index: 921646278
+  Position: 0, 0.120529, 0.025087
+  Scale: 0.131551
+- Index: 921646279
+  Position: 0, 0.35784, -0.243563
+  Scale: -0.086557
+MajorFlags:
+- 0x40000

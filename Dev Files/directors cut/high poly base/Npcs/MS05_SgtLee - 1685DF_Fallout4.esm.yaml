@@ -1,0 +1,153 @@
+FormKey: 1685DF:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MS05_SgtLee
+Fallout4MajorRecordFlags:
+- Compressed
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Voice: 1685E2:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Class: 123E22:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Sergeant Lee
+ShortName:
+  TargetLanguage: English
+  Value: Lee
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135AA2:Fallout4.esm
+- 14108D:Fallout4.esm
+- 1437FF:Fallout4.esm
+- 143800:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+SoundLevel: Normal
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646233
+  Value: 1
+- Key: 921646303
+  Value: 1
+- Key: 921646248
+  Value: 1
+- Key: 921646208
+  Value: 1
+FaceTintingLayers:
+- DataType: Value
+  Index: 1199
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1204
+  Value: 0.47
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 0
+  Position: 0.027493, -0.050449, -0.18399
+  Rotation: 0.327919, 0, 0
+- Index: 1
+  Position: 0.007147, 0.111573, -0.326469
+- Index: 2
+  Position: 0.096338, -0.214767, -0.36309
+- Index: 3
+  Position: 0.047692, 0.195369, 0.362376
+- Index: 4
+  Position: 0, 0, 0.073316
+  Scale: -0.254789
+- Index: 5
+  Position: 0, 0.398352, -0.175606
+  Rotation: 0, 0.09465, 0
+  Scale: -0.16037
+- Index: 6
+  Position: -0.34947, -0.181219, -0.321042
+- Index: 7
+  Position: -0.012296, 0.023266, 0.235656
+- Index: 8
+  Position: 0.089772, -0.280732, -0.176203
+- Index: 9
+  Position: 0, -0.001645, 0.35662
+  Scale: -0.240915
+- Index: 10
+  Position: -0.297315, -0.190506, 0.345542
+- Index: 25
+  Position: 0, 0.226644, -0.064949
+- Index: 26
+  Position: 0.271848, 0.153763, 0.239514
+- Index: 27
+  Position: 0.368781, -0.377263, -0.049623
+- Index: 921646266
+  Position: -0.379934, -0.147812, -0.216828
+- Index: 921646267
+  Position: 0, -0.322655, 0.195774
+- Index: 921646268
+  Position: 0, 0.248114, 0.173529
+- Index: 921646269
+  Position: 0.219756, 0.350081, 0.26115
+  Scale: 0.112075
+- Index: 921646270
+  Position: 0, 0, -0.361755
+- Index: 921646271
+  Position: 0.200758, -0.303675, -0.296331
+  Rotation: 0.244585, 0, -0.359335
+  Scale: 0.389532
+- Index: 921646272
+  Position: 0, 0.074845, -0.212203
+- Index: 921646273
+  Position: 0.20229, 0.322714, 0.157816
+  Scale: -0.090683
+- Index: 921646274
+  Position: 0, 0.359259, -0.160936
+- Index: 921646275
+  Position: 0.316926, -0.095757, -0.098607
+  Scale: -0.186428
+- Index: 921646276
+  Position: -0.287426, -0.011553, -0.005558
+- Index: 921646277
+  Position: -0.346695, 0.020375, 0.300476
+  Rotation: 0, 0, 0.093451
+- Index: 921646278
+  Position: 0, -0.006635, 0.365844
+  Scale: 0.167307
+- Index: 921646279
+  Position: 0, -0.003356, -0.36293
+  Scale: 0.117969
+MajorFlags:
+- 0x40000

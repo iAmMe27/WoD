@@ -1,0 +1,200 @@
+FormKey: 1A041A:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DeaconAtDiamondCity
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: DeaconUnloadScript
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Essential
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+CalcMinLevel: 10
+DispositionBase: 35
+UseTemplateActors: 3
+Unknown: 28494
+Factions:
+- Faction: 002CB4:Fallout4.esm
+- Faction: 1A0416:Fallout4.esm
+Voice: 045ACA:Fallout4.esm
+DefaultTemplate: 045AC9:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 045AC9:Fallout4.esm
+  StatsTemplate: 045AC9:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+  Value: 8
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C6:Fallout4.esm
+  Value: 8
+- ActorValue: 0002C5:Fallout4.esm
+  Value: 9
+- ActorValue: 0002C4:Fallout4.esm
+  Value: 7
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C2:Fallout4.esm
+  Value: 5
+- ActorValue: 0002DC:Fallout4.esm
+  Value: -100
+Items:
+- Item:
+    Item: 065A3C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0673B2:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 1A0417:Fallout4.esm
+Keywords:
+- 03D290:Fallout4.esm
+- 0C866F:Fallout4.esm
+- 1761C4:Fallout4.esm
+Class: 1CD0A8:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Diamond City Security
+CalculatedHealth: 185
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 094D05:Fallout4.esm
+- 0E12A4:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 14108D:Fallout4.esm
+- 000801:HiPolyFaces.esp
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.673
+  Muscular: 0.104
+  Fat: 0.223
+SoundLevel: Normal
+DefaultOutfit: 1A0419:Fallout4.esm
+CrimeFaction: 002CB4:Fallout4.esm
+HeadTexture: 10742F:Fallout4.esm
+TextureLighting: '#E1D5D0'
+Morphs:
+- Key: 921646550
+  Value: 0.75
+- Key: 921646515
+  Value: 0.94
+- Key: 921646547
+  Value: 0.57
+- Key: 921646611
+  Value: 0.74
+- Key: 921646549
+  Value: 0.2
+- Key: 921646298
+  Value: 1
+- Key: 921646630
+  Value: 1
+- Key: 921646200
+  Value: 0.48
+- Key: 921646615
+  Value: 0.31
+- Key: 921646548
+  Value: 0.87
+BodyMorphRegionValues:
+  Head: 0.02
+FaceMorphs:
+- Index: 0
+  Position: -0.216942, 0.29, 0.19
+  Rotation: 0.43, 0, 0
+- Index: 1
+  Position: 0.7, -0.8, 0.92
+- Index: 2
+  Position: -0.00096, -0.26, -0.82
+- Index: 3
+  Position: -0.2, -0.24, -0.17
+  Scale: -0.99
+- Index: 4
+  Position: 0, 0, -0.33
+  Scale: 1
+- Index: 5
+  Position: -0.285729, -0.69, -0.31
+  Rotation: 0, 0.31, 0
+  Scale: 0.13902
+- Index: 6
+  Position: 0.179958, -0.85, -0.07
+- Index: 7
+  Position: 0.8, -0.54, -0.75
+- Index: 8
+  Position: -0.13, -1, 0.67
+- Index: 9
+  Position: 0, 0.78, -0.02
+  Scale: -1
+- Index: 10
+  Position: -0.59, 0.44, 0.64
+- Index: 25
+  Position: 0, 0.195813, 0.85
+- Index: 26
+  Position: 0.26, -0.28, 0.23
+- Index: 27
+  Position: -0.05, -0.05, -0.07
+- Index: 62
+  Position: 0, 1, 0.29
+- Index: 63
+  Position: 0, -0.33, 0.7
+- Index: 921646266
+  Position: 0.74, 0.7, 0.2
+- Index: 921646267
+  Position: -0.55, 0.03, 0.37
+- Index: 921646268
+  Position: 0, 0.66, -0.92
+- Index: 921646269
+  Position: -0.04, 0.57, -0.15
+  Scale: -0.71
+- Index: 921646270
+  Position: 0, 0, 0.139235
+- Index: 921646271
+  Position: 0.09, -0.02, 0.13
+  Rotation: 0.292513, 0, -0.25
+  Scale: -0.17
+- Index: 921646272
+  Position: 0, -0.69, 0.44
+- Index: 921646273
+  Position: -0.02, 1, 0.06
+  Scale: 0.93
+- Index: 921646274
+  Position: 0, -0.144317, 0.89
+- Index: 921646275
+  Position: 0.121836, 0.41, -0.26
+  Scale: 0.07
+- Index: 921646276
+  Position: -0.338954, 0.59, 0.3867
+  Scale: 0.5
+- Index: 921646277
+  Position: 0.63, -0.25, -0.51
+  Rotation: 0, 0, -0.139245
+- Index: 921646278
+  Position: 0, -0.18, -0.337317
+  Scale: 0.016687
+- Index: 921646279
+  Position: 0, 0.03, -0.43
+  Scale: 0.03
+MajorFlags:
+- 0x40000

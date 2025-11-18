@@ -1,0 +1,266 @@
+FormKey: 1812F4:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: Prydwen_EncBoSPilot03_BridgeMale
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Respawn
+- AutoCalcStats
+XpValueOffset: 21
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 14
+DispositionBase: 35
+UseTemplateActors: 7194
+Unknown: -1
+Factions:
+- Faction: 05DE41:Fallout4.esm
+- Faction: 1479C1:Fallout4.esm
+- Faction: 15356B:Fallout4.esm
+- Faction: 16CC7B:Fallout4.esm
+- Faction: 18310B:Fallout4.esm
+- Faction: 18310E:Fallout4.esm
+DeathItem: 077D1F:Fallout4.esm
+Voice: 077D1C:Fallout4.esm
+DefaultTemplate: 12BC91:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 12BC94:Fallout4.esm
+  SpellListTemplate: 12BC91:Fallout4.esm
+  AiDataTemplate: 12BC91:Fallout4.esm
+  DefPackListTemplate: 12BC91:Fallout4.esm
+  AttackDataTemplate: 12BC91:Fallout4.esm
+  KeywordsTemplate: 12BC91:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 80
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 6
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 076A1A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 1538D3:Fallout4.esm
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Brotherhood Lancer-Knight
+ShortName:
+  TargetLanguage: English
+  Value: Lancer-Knight
+CalculatedHealth: 185
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0821DC:Fallout4.esm
+- 0821DD:Fallout4.esm
+- 0821DE:Fallout4.esm
+- 0821DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1D7F9E:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE61:Fallout4.esm
+CombatStyle: 076A09:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3264
+  Muscular: 0.4971
+  Fat: 0.1764
+SoundLevel: Normal
+DefaultOutfit: 15745F:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+HeadTexture: 10742F:Fallout4.esm
+TextureLighting: '#D6C5C0'
+Morphs:
+- Key: 921646296
+  Value: 0.57
+- Key: 921646550
+  Value: -0.214616
+- Key: 921646200
+  Value: -0.49
+- Key: 921646547
+  Value: 0.23
+- Key: 921646209
+  Value: 0.98
+- Key: 921646257
+  Value: 0.96
+- Key: 921646549
+  Value: -0.275877
+- Key: 921646610
+  Value: 1
+- Key: 921646309
+  Value: 1
+- Key: 921646548
+  Value: 0.21
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00D6C5C0'
+  TemplateColorIndex: 1161
+- DataType: Value
+  Index: 1228
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1256
+  Value: 0.37
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1352
+  Value: 0.64
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1353
+  Value: 0.51
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1383
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1564
+  Value: 0.25
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  LowerTorso: -0.16
+  Legs: -0.47
+FaceMorphs:
+- Index: 0
+  Position: 0.028153, 0.098838, 0.0819
+  Rotation: -0.095631, 0, 0
+- Index: 1
+  Position: -0.150318, 0.079248, -0.115052
+- Index: 2
+  Position: 0.011728, -0.244927, -0.224732
+- Index: 3
+  Position: 0.229348, -0.2, 0.07
+  Scale: 0.23
+- Index: 4
+  Position: 0, 0, -0.15
+  Scale: -0.245774
+- Index: 5
+  Position: -0.074032, 0.106407, 0.139824
+  Rotation: 0, -0.029582, 0
+  Scale: -0.281131
+- Index: 6
+  Position: -0.101443, 0.11205, 0.149685
+- Index: 7
+  Position: 0.068782, -0.230067, 0.279154
+- Index: 8
+  Position: 0.059041, 0.008982, -0.012244
+  Scale: 0.139158
+- Index: 9
+  Position: 0.05, 0.063098, 0.42
+  Scale: -0.062056
+- Index: 10
+  Position: -0.09727, 0.05995, 0.024614
+  Scale: 0.071561
+- Index: 25
+  Position: 0, -0.46, -0.34
+  Scale: -0.3
+- Index: 26
+  Position: 0, -0.196939, -0.2
+- Index: 27
+  Position: 0.041137, 0.121809, 0.219808
+- Index: 62
+  Position: -0.02, 0.07, -0.193344
+- Index: 63
+  Position: 0, -0.095518, -0.066518
+- Index: 921646266
+  Position: -0.038871, 0.028028, -0.49
+  Scale: 0.114839
+- Index: 921646267
+  Position: 0.132214, -0.199173, -0.138368
+- Index: 921646268
+  Position: 0, -0.243213, -0.260216
+- Index: 921646269
+  Position: 0.15, 0.119068, 0.11
+  Scale: 0.136424
+- Index: 921646270
+  Position: 0, 0, 0.08
+- Index: 921646271
+  Position: 0.045256, -0.001716, -0.05
+  Rotation: 0.118294, 0, -0.024663
+  Scale: 0.254352
+- Index: 921646272
+  Position: 0, -0.474796, 0.570172
+- Index: 921646273
+  Position: 0.1, 0.135507, -0.24
+  Rotation: -0.08, 0, 0
+  Scale: -0.177598
+- Index: 921646274
+  Position: 0, 0.034921, -0.29
+  Scale: -0.046012
+- Index: 921646275
+  Position: 0.03, 0.19, -0.26
+  Scale: -0.031113
+- Index: 921646276
+  Position: 0.06, 0.004877, 0.157893
+  Scale: 0.04608
+- Index: 921646277
+  Position: 0.166622, -0.05419, 0.02799
+  Rotation: 0, 0, 0.019829
+- Index: 921646278
+  Position: 0, -0.244882, -0.005542
+  Scale: -0.101455
+- Index: 921646279
+  Position: 0, 0.092907, -0.05
+  Scale: -0.162768
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

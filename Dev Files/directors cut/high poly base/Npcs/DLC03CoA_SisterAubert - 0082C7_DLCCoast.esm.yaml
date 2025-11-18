@@ -1,0 +1,289 @@
+FormKey: 0082C7:DLCCoast.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC03CoA_SisterAubert
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: -11870
+Factions:
+- Faction: 004462:DLCCoast.esm
+- Faction: 05D37C:DLCCoast.esm
+Voice: 0082C8:DLCCoast.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Perks:
+- Perk: 0A2775:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 0585A4:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 188A73:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+NoSlowApproach: True
+Packages:
+- 04B346:DLCCoast.esm
+- 018056:DLCCoast.esm
+- 019F7F:DLCCoast.esm
+- 030DBB:DLCCoast.esm
+- 004497:DLCCoast.esm
+- 0044B3:DLCCoast.esm
+- 130DC6:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Sister Aubert
+ShortName:
+  TargetLanguage: English
+  Value: Aubert
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1D7F9F:Fallout4.esm
+- 1E55C7:Fallout4.esm
+- 02F304:DLCCoast.esm
+- 02F306:DLCCoast.esm
+- 000800:HiPolyFaces.esp
+CombatStyle: 22140B:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.0496
+  Muscular: 0.4509
+  Fat: 0.4996
+SoundLevel: Normal
+DefaultOutfit: 0E7474:Fallout4.esm
+CrimeFaction: 004462:DLCCoast.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#E7D3CB'
+Morphs:
+- Key: 921646697
+  Value: 0.74
+- Key: 921646553
+  Value: -0.69
+- Key: 921646675
+  Value: 0.14
+- Key: 921646364
+  Value: 0.25
+- Key: 921646552
+  Value: -0.229353
+- Key: 921646710
+  Value: 0.61
+- Key: 921646554
+  Value: -0.689769
+- Key: 921646439
+  Value: 0.13
+- Key: 921646687
+  Value: 0.81
+- Key: 921646749
+  Value: 0.98
+- Key: 921646559
+  Value: 0.93
+- Key: 921646551
+  Value: 0.54
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00E7D3CB'
+  TemplateColorIndex: 1159
+- DataType: ValueAndColor
+  Index: 1207
+  Value: 0.5
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Color: '#00850505'
+  TemplateColorIndex: 1328
+- DataType: Value
+  Index: 1486
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1716
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1821
+- DataType: Value
+  Index: 1739
+  Value: 0.33
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1742
+  Value: 0.85
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1743
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1749
+  Value: 0.39
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1752
+  Value: 0.55
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1775
+  Value: 0.66
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1776
+  Value: 0.89
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1796
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.32
+  UpperTorso: -0.51
+  Arms: 0.7
+  LowerTorso: 0.23
+  Legs: 0.24
+FaceMorphs:
+- Index: 10062
+  Position: 0.686215, -0.202438, 0.02831
+- Index: 10063
+  Position: 0, -0.048316, 0.206658
+- Index: 100000
+  Position: 0.284403, -0.579045, 0.494344
+  Rotation: -0.597846, 0, 0
+- Index: 100001
+  Position: 0.312941, 0.144566, 0.602886
+- Index: 100002
+  Position: 0.256796, -0.105644, -0.399771
+- Index: 100003
+  Position: -0.12077, -0.123618, -0.4
+  Scale: -0.1063
+- Index: 100004
+  Position: 0, 0.405448, -0.5666
+  Scale: -0.515284
+- Index: 100005
+  Position: 0.595316, 0.098262, 0.144881
+  Rotation: 0, 0.673114, 0
+  Scale: 0.189891
+- Index: 100006
+  Position: 0.256096, -0.14246, -0.579134
+- Index: 100007
+  Position: 0.398909, 0.533305, 0.645321
+- Index: 100008
+  Position: -0.061029, 0.586528, -0.152922
+  Scale: -0.21778
+- Index: 100009
+  Position: 0.669244, 0.407389, -0.569799
+  Scale: 0.607188
+- Index: 100010
+  Position: -0.047143, 0.357927, -0.569591
+  Scale: 0.148913
+- Index: 100011
+  Position: -0.616058, -0.624652, -0.161141
+  Scale: -0.005193
+- Index: 100012
+  Position: 0.38445, 0.226302, -0.2
+- Index: 100013
+  Position: 0, 0.581353, 0.351111
+- Index: 100014
+  Position: -0.510719, 0.21, -0.621779
+  Rotation: -0.163747, 0, 0
+  Scale: 0.60579
+- Index: 100015
+  Position: 0, 0, 0.166832
+- Index: 100016
+  Position: 0.563942, 0.037278, -0.58098
+  Rotation: 0.617308, 0, 0.594274
+  Scale: -0.489383
+- Index: 100017
+  Position: 0.250373, 0.294971, -0.432486
+  Rotation: 0.101724, 0, 0
+  Scale: -0.452711
+- Index: 100018
+  Position: 0, -0.606433, -0.492464
+  Scale: -0.671994
+- Index: 100019
+  Position: 0.297316, -0.172945, -0.042617
+  Rotation: -0.67333, 0, 0
+  Scale: -0.036527
+- Index: 100020
+  Position: 0.266829, 0.35221, -0.5
+  Scale: -0.037711
+- Index: 100021
+  Position: -0.006917, -0.16, 0.002107
+  Rotation: 0, 0, -0.493421
+- Index: 100022
+  Position: 0, -0.18, -0.229344
+  Scale: -0.693352
+- Index: 100023
+  Position: 0, -0.461735, 0.375253
+  Scale: -0.372548
+- Index: 100024
+  Position: 0, -0.505795, -0.230838
+  Scale: 0.364037
+- Index: 100025
+  Position: 0.280992, -0.484039, 0.029828
+- Index: 100026
+  Position: 0.128861, 0.23025, 0.061588
+- Index: 100027
+  Position: 0, 0.37571, -0.538207
+MajorFlags:
+- 0x40000

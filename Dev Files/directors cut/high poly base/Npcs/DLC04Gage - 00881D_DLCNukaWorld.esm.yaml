@@ -1,0 +1,821 @@
+FormKey: 00881D:DLCNukaWorld.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC04Gage
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: companionactorscript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: AllowDismissToSettlements
+      Object: 032A56:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: CA_Event_Murder
+      Object: 04D8AB:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DislikesEvent
+      Object: 044B3C:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DismissCompanionSettlementKeywordList
+      Object: 02FA36:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DismissScene
+      Object: 0415E9:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptStructListProperty
+      Name: EventData_Array
+      Structs:
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 044B3C:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B40:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611F:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 044B3D:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B41:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 044B3E:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B42:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611D:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 044B3F:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B43:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0A1B2C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B40:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0A1B2B:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B40:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0792C7:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B40:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0792C6:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B40:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 04D8AB:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B42:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0A1B33:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B42:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0A1B30:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B42:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 04D8AA:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B42:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 0A1B32:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B42:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611F:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 144356:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B41:DLCNukaWorld.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Disposition_Global
+          Object: 05611C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Event_Keyword
+          Object: 144357:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Message_to_Display
+          Object: 044B42:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Experience
+      Object: 0002C9:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: HasItemForPlayer
+      Object: 16FBC6:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: HatesEvent
+      Object: 044B3D:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: HomeLocation
+      Object: 01FCEC:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: IdleTopic
+      Object: 027716:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: InfatuationPerk
+      Object: 0479EF:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: InfatuationPerkMessage
+      Object: 044802:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: InfatuationThreshold
+      Object: 04B1C4:Fallout4.esm
+    - MutagenObjectType: ScriptObjectListProperty
+      Name: KeywordsToAddWhileCurrentCompanion
+      Objects:
+      - Name: ''
+        Object: 0AD52A:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LikesEvent
+      Object: 044B3E:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LovesEvent
+      Object: 044B3F:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MQComplete
+      Object: 17D5B2:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: MurderToggle
+      Object: 24997D:Fallout4.esm
+    - MutagenObjectType: ScriptObjectListProperty
+      Name: NotConsideredMurder_Array
+      Objects:
+      - Name: ''
+        Object: 22118A:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: StartingThreshold
+      Object: 04B1C6:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: TemporaryAngerLevel
+      Object: 02DA12:Fallout4.esm
+    - MutagenObjectType: ScriptStructListProperty
+      Name: ThresholdData_Array
+      Structs:
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 0FA86D:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingUp
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 027715:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 500
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C4:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 0FA86C:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingDown
+          Object: 0FA870:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 027715:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 400
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C5:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 166700:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 027715:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 405
+        - MutagenObjectType: ScriptBoolProperty
+          Name: IsMajorAffinityThreshold
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 0F75E1:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingDown
+          Object: 0FA871:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 027715:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 300
+        - MutagenObjectType: ScriptBoolProperty
+          Name: ThresholdHasBeenPreviouslyReached
+          Data: True
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C6:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 0FA86E:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingDown
+          Object: 0FA872:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 027715:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 200
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C7:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_FirstTimeReached
+          Object: 0FA86F:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: AffinitySceneToPlay_Repeat_GoingDown
+          Object: 0FA873:Fallout4.esm
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Controlling_Quest
+          Object: 027715:DLCNukaWorld.esm
+        - MutagenObjectType: ScriptIntProperty
+          Name: Controlling_Quest_Stage
+          Data: 100
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Threshold_Global
+          Object: 04B1C8:Fallout4.esm
+    - MutagenObjectType: ScriptStructListProperty
+      Name: TraitPreference_Array
+      Structs:
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B1C:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B1E:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B20:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptBoolProperty
+          Name: Likes
+          Data: True
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B1D:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptBoolProperty
+          Name: Likes
+          Data: True
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B21:Fallout4.esm
+      - Members:
+        - MutagenObjectType: ScriptBoolProperty
+          Name: Likes
+          Data: True
+        - MutagenObjectType: ScriptObjectProperty
+          Name: Trait
+          Object: 0A1B1F:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Tutorial
+      Object: 160147:Fallout4.esm
+  - Name: CompanionCrimeFactionHostilityScript
+    Properties:
+    - MutagenObjectType: ScriptObjectListProperty
+      Name: IgnoreSharedCrimeForAnyoneInTheseFactions
+      Objects:
+      - Name: ''
+        Object: 013A44:DLCNukaWorld.esm
+  - Name: CompanionPowerArmorKeywordScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: isPowerArmorFrame
+      Object: 15503F:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: pAttachPassenger
+      Object: 1F9859:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: pAttachSlot2
+      Object: 0FF18C:Fallout4.esm
+  - Name: DLC04:DLC04GageCrimeFactionScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DLC04_CompanionCrime_Gage
+      Object: 056AC3:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DLC04EnemyGang
+      Object: 00D370:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DLC04GangDisciplesFaction
+      Object: 00F438:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DLC04GangOperatorsFaction
+      Object: 00F439:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DLC04GangPackFaction
+      Object: 00F43A:DLCNukaWorld.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DLC04MQ05
+      Object: 000805:DLCNukaWorld.esm
+  - Name: workshopnpcscript
+    Properties:
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bAllowCaravan
+      Data: True
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bAllowMove
+      Data: True
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bApplyWorkshopOwnerFaction
+    - MutagenObjectType: ScriptBoolProperty
+      Name: bCommandable
+      Data: True
+    - MutagenObjectType: ScriptObjectProperty
+      Name: WorkshopParent
+      Object: 02058E:Fallout4.esm
+Flags:
+- AutoCalcStats
+- Unique
+- Protected
+Level:
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+CalcMinLevel: 20
+DispositionBase: 35
+Factions:
+- Faction: 04B4D2:DLCNukaWorld.esm
+- Faction: 056AC4:DLCNukaWorld.esm
+- Faction: 023C01:Fallout4.esm
+  Rank: -1
+- Faction: 0A1B85:Fallout4.esm
+  Rank: -1
+- Faction: 1EC1B9:Fallout4.esm
+Voice: 009C8D:DLCNukaWorld.esm
+Race: 013746:Fallout4.esm
+ActorEffect:
+- 1C63E2:Fallout4.esm
+Perks:
+- Perk: 04C935:Fallout4.esm
+  Rank: 1
+- Perk: 0A2775:Fallout4.esm
+  Rank: 1
+- Perk: 0B9882:Fallout4.esm
+  Rank: 1
+- Perk: 0B9883:Fallout4.esm
+  Rank: 1
+- Perk: 0B9884:Fallout4.esm
+  Rank: 1
+- Perk: 1D33D7:Fallout4.esm
+  Rank: 1
+- Perk: 051C59:DLCNukaWorld.esm
+  Rank: 1
+- Perk: 051C5A:DLCNukaWorld.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+  Value: 7
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 9
+- ActorValue: 0002C4:Fallout4.esm
+  Value: 7
+- ActorValue: 0002C5:Fallout4.esm
+  Value: 3
+- ActorValue: 0002C6:Fallout4.esm
+  Value: 6
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 8
+- ActorValue: 0002C8:Fallout4.esm
+  Value: 7
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002DC:Fallout4.esm
+  Value: -100
+- ActorValue: 113342:Fallout4.esm
+  Value: 1
+Items:
+- Item:
+    Item: 0496EA:DLCNukaWorld.esm
+    Count: 1
+- Item:
+    Item: 0496EB:DLCNukaWorld.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 050558:DLCNukaWorld.esm
+Keywords:
+- 218ADA:Fallout4.esm
+Class: 1CD0A8:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Porter Gage
+ShortName:
+  TargetLanguage: English
+  Value: Gage
+CalculatedHealth: 235
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 0639DC:Fallout4.esm
+- 0639DD:Fallout4.esm
+- 0639DE:Fallout4.esm
+- 0639DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 141092:Fallout4.esm
+- 1E55BA:Fallout4.esm
+- 1E5E87:Fallout4.esm
+- 1E5E88:Fallout4.esm
+- 1E5E89:Fallout4.esm
+- 1E5E8A:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3462
+  Muscular: 0.5376
+  Fat: 0.1162
+SoundLevel: Normal
+DefaultOutfit: 031F4D:DLCNukaWorld.esm
+CrimeFaction: 056AC4:DLCNukaWorld.esm
+HeadTexture: 128C59:Fallout4.esm
+TextureLighting: '#D6C5C0'
+Morphs:
+- Key: 921646639
+  Value: 0.92
+- Key: 921646550
+  Value: 0.903258
+- Key: 921646460
+  Value: 1
+- Key: 921646547
+  Value: -0.805098
+- Key: 921646643
+  Value: 1
+- Key: 921646653
+  Value: 0.92
+- Key: 921646549
+  Value: -0.226932
+- Key: 921646606
+  Value: 0.97
+- Key: 921646610
+  Value: 0.2
+- Key: 921646200
+  Value: -0.23
+- Key: 921646615
+  Value: 0.98
+- Key: 921646548
+  Value: 0.514877
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00D6C5C0'
+  TemplateColorIndex: 1161
+- DataType: Value
+  Index: 1178
+  Value: 0.12
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1179
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1180
+  Value: 0.58
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1181
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1182
+  Value: 0.16
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1183
+  Value: 0.18
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1184
+  Value: 0.42
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1185
+  Value: 0.48
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1193
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1202
+  Value: 0.17
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1256
+  Value: 0.72
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1257
+  Value: 0.45
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1258
+  Value: 0.45
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1259
+  Value: 0.45
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1260
+  Value: 0.58
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1348
+  Value: 0.16
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1350
+  Value: 0.06
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1353
+  Value: 0.31
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1354
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1356
+  Value: 0.62
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1360
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1371
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1374
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1384
+  Value: 0.28
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1385
+  Value: 0.51
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1487
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1488
+  Value: 0.37
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1494
+  Value: 0.33
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1558
+  Value: 0.82
+  Color: '#00A28177'
+  TemplateColorIndex: 1665
+- DataType: Value
+  Index: 1563
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1564
+  Value: 0.94
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.8
+  UpperTorso: 0.33
+  Arms: 0.6
+  LowerTorso: -0.06
+  Legs: -0.43
+FaceMorphs:
+- Index: 0
+  Position: -0.1259, 0.41, -0.174814
+  Rotation: 0.036018, 0, 0
+- Index: 1
+  Position: 0.23906, -0.68, -0.121796
+- Index: 2
+  Position: 0.09, -0.23, -0.036021
+- Index: 3
+  Position: 0.183429, 0.67, 0.43
+  Scale: -0.42
+- Index: 4
+  Position: 0, 0, -0.1
+  Scale: 0.263303
+- Index: 5
+  Position: -0.291511, -0.1, 0.222138
+  Rotation: 0, -0.7, 0
+  Scale: -0.04
+- Index: 6
+  Position: -0.158066, 0.59, -0.176187
+- Index: 7
+  Position: -0.05, 0.42, 0.23
+- Index: 8
+  Position: 0.297418, -0.58, 0.42
+  Scale: 0.67
+- Index: 9
+  Position: -0.272562, -0.12, -0.05
+  Scale: -0.2
+- Index: 10
+  Position: 0.76, 0.34, -0.33
+  Scale: -0.55
+- Index: 25
+  Position: 0, -1, -0.66
+  Scale: 0.72
+- Index: 26
+  Position: 0.21, -0.53, -0.78
+- Index: 27
+  Position: -0.84, 0.41, 0.78
+- Index: 62
+  Position: -0.02, 0.16, -0.71
+- Index: 63
+  Position: 0, 0.29, 0.53
+- Index: 921646266
+  Position: -0.144161, -0.18786, 0.17
+  Scale: -0.08762
+- Index: 921646267
+  Position: 0.45, -0.14, 0.62
+- Index: 921646268
+  Position: 0, 0.44, 0.98
+- Index: 921646269
+  Position: 0.14, -0.45, -0.09
+  Rotation: 0.57, 0, 0
+  Scale: 0.8
+- Index: 921646270
+  Position: 0, 0, 0.4
+- Index: 921646271
+  Position: 0.58, -0.19, 0.09
+  Rotation: 0.77, 0, -0.36
+  Scale: 0.19
+- Index: 921646272
+  Position: 0, -0.28, -0.83
+- Index: 921646273
+  Position: -0.58, 0.34, 0.8
+  Rotation: 0.42, 0, 0
+  Scale: 0.59
+- Index: 921646274
+  Position: 0, 0.19, -0.294058
+  Scale: 0.085752
+- Index: 921646275
+  Position: 0.13, -0.78, 0.62
+  Rotation: -0.28, 0, 0
+  Scale: 0.4
+- Index: 921646276
+  Position: 0.079958, -0.15, -0.89
+  Scale: 0.03
+- Index: 921646277
+  Position: -0.4, -0.18, 0.49
+  Rotation: 0, 0, 0.75
+- Index: 921646278
+  Position: 0, 0.16, 0.087343
+  Scale: 0.169737
+- Index: 921646279
+  Position: 0, -0.5, -0.44
+  Scale: -0.93
+MajorFlags:
+- 0x40000

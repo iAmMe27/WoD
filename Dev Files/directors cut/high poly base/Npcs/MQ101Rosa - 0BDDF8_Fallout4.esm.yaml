@@ -1,0 +1,184 @@
+FormKey: 0BDDF8:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101Rosa
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 16256
+Factions:
+- Faction: 198B72:Fallout4.esm
+- Faction: 19C8E1:Fallout4.esm
+Voice: 0BDDF9:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 12
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 45
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 003641:Fallout4.esm
+Keywords:
+- 05F763:Fallout4.esm
+- 0C8671:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Neighbor
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 0F9E23:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC2A:Fallout4.esm
+- 15A166:Fallout4.esm
+- 186FC1:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A0431:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5479
+  Muscular: 0.3642
+  Fat: 0.0879
+SoundLevel: Normal
+DefaultOutfit: 209CEB:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 0F7E65:Fallout4.esm
+TextureLighting: '#E4D1D1'
+Morphs:
+- Key: 921646552
+  Value: 0.916194
+- Key: 921646551
+  Value: -0.82
+- Key: 921646393
+  Value: 0.17
+- Key: 921646420
+  Value: 0.96
+- Key: 921646554
+  Value: 0.82
+- Key: 921646553
+  Value: 0.52
+- Key: 921646364
+  Value: 0.66
+- Key: 921646323
+  Value: 0.95
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00E4D1D1'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1244
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.11
+  UpperTorso: 0.05
+  Arms: -0.34
+  LowerTorso: 0.46
+FaceMorphs:
+- Index: 100000
+  Position: 0.070053, 0.050162, 0.513533
+  Rotation: -0.169252, 0, 0
+- Index: 100001
+  Position: 0.392296, 0.339603, -0.108144
+- Index: 100002
+  Position: -0.849813, -0.584011, 0.337766
+- Index: 100003
+  Position: -0.621969, 0.47, 0.26
+- Index: 100004
+  Position: 0, 0, -1
+  Scale: -0.508654
+- Index: 100005
+  Position: 0.760774, 0.15229, -0.847008
+  Rotation: 0, 0.809263, 0
+  Scale: -0.813165
+- Index: 100006
+  Position: 0.045662, 0.585458, 0.205124
+- Index: 100007
+  Position: -0.576268, -0.567146, 0.235547
+- Index: 100008
+  Position: -0.730759, 0.945179, 0.982144
+- Index: 100009
+  Position: 0.08, 0.042994, -0.413234
+  Scale: -0.816768
+- Index: 100010
+  Position: 0.663601, -0.126751, -0.004716
+- Index: 100011
+  Position: 0.23, 0.153707, 0.8
+- Index: 100012
+  Position: 0, 0.729486, -0.33516
+- Index: 100013
+  Position: 0, 0.588219, 0.306441
+- Index: 100014
+  Position: -0.793614, -0.66, -0.25
+  Scale: -0.07
+- Index: 100015
+  Position: 0, 0, -0.476308
+- Index: 100016
+  Position: -0.2, 0.26, 0.022186
+  Rotation: -0.069174, 0, 0.86
+  Scale: -0.09
+- Index: 100017
+  Position: 0.02, -0.68, 0.62
+  Scale: -0.352322
+- Index: 100018
+  Position: 0, -0.396855, 0.164589
+- Index: 100019
+  Position: -0.23, -0.724127, 0.87
+  Scale: 0.368462
+- Index: 100020
+  Position: -0.349761, 0.47, 0.5947
+- Index: 100021
+  Position: 0.99, -0.070781, -0.07
+  Rotation: 0, 0, -0.399311
+- Index: 100022
+  Position: 0, 0.34, -1
+  Scale: 0.23
+- Index: 100023
+  Position: 0, -0.16, -0.59
+  Scale: -0.17
+- Index: 100024
+  Position: 0, -0.610214, -0.240519
+- Index: 100025
+  Position: -0.266751, 0.032844, 0.233371
+- Index: 100026
+  Position: -0.191923, -0.768905, -0.266245
+- Index: 100027
+  Position: 0, -0.32032, 0.648036
+MajorFlags:
+- 0x40000

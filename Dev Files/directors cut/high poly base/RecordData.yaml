@@ -1,0 +1,58 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Fallout4
+  Version: 0.40
+ModKey: HighPoly_Base.esp
+GameRelease: Fallout4
+ModHeader:
+  Flags:
+  - Small
+  Author: ''
+  MasterReferences:
+  - Master: Fallout4.esm
+    FileSize: 0
+  - Master: DLCRobot.esm
+    FileSize: 0
+  - Master: DLCCoast.esm
+    FileSize: 0
+  - Master: DLCworkshop03.esm
+    FileSize: 0
+  - Master: DLCNukaWorld.esm
+    FileSize: 0
+  - Master: Unofficial Fallout 4 Patch.esp
+    FileSize: 0
+  - Master: behSlaveMarket.esm
+    FileSize: 0
+  - Master: SouthOfTheSea.esm
+    FileSize: 0
+  - Master: StartMeUp.esp
+    FileSize: 0
+  - Master: HumanResources.esp
+    FileSize: 0
+  - Master: Beggar_Whore.esp
+    FileSize: 0
+  - Master: Commonwealth Captives.esp
+    FileSize: 0
+  - Master: TatsAfterRape.esp
+    FileSize: 0
+  - Master: BetterLivingThroughCumistry.esp
+    FileSize: 0
+  - Master: CRX.esp
+    FileSize: 0
+  - Master: Eli_Armour_Compendium.esp
+    FileSize: 0
+  - Master: CrimeTown.esp
+    FileSize: 0
+  - Master: TDOW_LC.esp
+    FileSize: 0
+  - Master: JSSynths.esp
+    FileSize: 0
+  - Master: AA Lots More Settlers and Enemies.esp
+    FileSize: 0
+  - Master: AA LMSE_FarHarbor.esp
+    FileSize: 0
+  - Master: Ketaros_World.esp
+    FileSize: 0
+  - Master: HiPolyFaces.esp
+    FileSize: 0
+  - Master: Wasteland of Depravity Tweaks.esp
+    FileSize: 0

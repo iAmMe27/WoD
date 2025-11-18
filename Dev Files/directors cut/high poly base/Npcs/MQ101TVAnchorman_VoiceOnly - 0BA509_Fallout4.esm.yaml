@@ -1,0 +1,176 @@
+FormKey: 0BA509:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101TVAnchorman_VoiceOnly
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Unknown: 29301
+Voice: 0BA50A:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 003641:Fallout4.esm
+Keywords:
+- 03D290:Fallout4.esm
+- 0C866F:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: TV
+CalculatedHealth: 90
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A99:Fallout4.esm
+- 14108C:Fallout4.esm
+- 1436DB:Fallout4.esm
+- 1436DC:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A0439:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.4911
+  Muscular: 0.0578
+  Fat: 0.4511
+SoundLevel: Normal
+DefaultOutfit: 1C3AF5:Fallout4.esm
+HeadTexture: 10742F:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646461
+  Value: 1
+- Key: 921646549
+  Value: -0.62
+- Key: 921646254
+  Value: 0.96
+- Key: 921646550
+  Value: -0.9
+- Key: 921646200
+  Value: 0.814217
+- Key: 921646547
+  Value: 0.59
+- Key: 921646548
+  Value: 0.85
+FaceTintingLayers:
+- DataType: Value
+  Index: 1195
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.93
+  UpperTorso: -0.2988
+  Arms: -0.54
+  LowerTorso: -0.03
+  Legs: -0.38
+FaceMorphs:
+- Index: 0
+  Position: -0.542079, 0.03, 0.346915
+  Rotation: -0.717393, 0, 0
+- Index: 1
+  Position: -1, -0.391185, 0.052846
+- Index: 2
+  Position: 1, 0.23, -0.574391
+- Index: 3
+  Position: 0.69, -0.354364, -0.12
+- Index: 4
+  Position: 0, 0, 0.54
+  Scale: 0.330525
+- Index: 5
+  Position: -0.204497, -0.575451, 1
+  Rotation: 0, 0.08, 0
+  Scale: -0.23
+- Index: 6
+  Position: 0.593239, 0.61419, -0.895699
+- Index: 7
+  Position: -0.455232, -0.637277, 0.79487
+- Index: 8
+  Position: -0.038264, 1, -0.20444
+- Index: 9
+  Position: 0.05, -0.43, -0.88249
+  Scale: -0.51
+- Index: 10
+  Position: 0.400624, -0.1, 0.1
+- Index: 25
+  Position: 0, 0.272679, -0.952237
+- Index: 26
+  Position: -0.699124, -0.25, -0.136588
+- Index: 27
+  Position: -0.72, 0.93, -0.9
+- Index: 921646266
+  Position: -0.06, -0.04, -0.02
+- Index: 921646267
+  Position: 0, 0.34, -1
+- Index: 921646268
+  Position: 0, 0.061085, 0.069733
+- Index: 921646269
+  Position: -0.507185, -0.44, -0.12
+  Scale: -0.46
+- Index: 921646270
+  Position: 0, 0, 0.49
+- Index: 921646271
+  Position: 0.8, -1, 0.61
+  Rotation: 0.778559, 0, 1
+  Scale: -0.36
+- Index: 921646272
+  Position: 0, 0.948855, -0.75
+- Index: 921646273
+  Position: -0.147441, -0.283597, 0.017589
+  Scale: -0.86
+- Index: 921646274
+  Position: 0, -0.15, -0.558645
+- Index: 921646275
+  Position: 0.05, 0.49, -0.34
+  Scale: 0.36
+- Index: 921646276
+  Position: -0.722643, -0.71, -0.950476
+- Index: 921646277
+  Position: 0.24, -0.12, -0.41
+  Rotation: 0, 0, -0.581428
+- Index: 921646278
+  Position: 0, -1, -0.73
+  Scale: -1
+- Index: 921646279
+  Position: 0, 0.52, 0.85
+  Scale: -0.079029
+MajorFlags:
+- 0x40000

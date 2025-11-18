@@ -1,0 +1,251 @@
+FormKey: 04F10F:DLCCoast.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC03AcadiaSynthRefugeeF03
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: DLC03:DLC03AcadiaGenericActorScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DLC03MQ05
+      Object: 001B43:DLCCoast.esm
+Flags:
+- Female
+- AutoCalcStats
+XpValueOffset: 9
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 5
+DispositionBase: 35
+UseTemplateActors: 2070
+Unknown: 18325
+Factions:
+- Faction: 00463D:DLCCoast.esm
+- Faction: 04F110:DLCCoast.esm
+DeathItem: 1357E6:Fallout4.esm
+Voice: 013ADD:Fallout4.esm
+DefaultTemplate: 04F109:DLCCoast.esm
+TemplateActors:
+  StatsTemplate: 04F109:DLCCoast.esm
+  FactionsTemplate: 04F109:DLCCoast.esm
+  AiDataTemplate: 04F109:DLCCoast.esm
+  AttackDataTemplate: 04F109:DLCCoast.esm
+Race: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 023329:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 18DFEB:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+NoSlowApproach: True
+Packages:
+- 107AEA:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Synth Refugee
+CalculatedHealth: 180
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 65
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1D7F9F:Fallout4.esm
+- 1D98D8:Fallout4.esm
+- 1D98D9:Fallout4.esm
+- 1D98DA:Fallout4.esm
+- 1D98DC:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3258
+  Muscular: 0.4476
+  Fat: 0.2266
+SoundLevel: Normal
+DefaultOutfit: 0DC93C:Fallout4.esm
+TextureLighting: '#8C939D'
+Morphs:
+- Key: 921646551
+  Value: -0.308484
+- Key: 921646586
+  Value: 0.98
+- Key: 921646709
+  Value: 0.38
+- Key: 921646552
+  Value: 0.485867
+- Key: 921646722
+  Value: 0.36
+- Key: 921646553
+  Value: -0.60666
+- Key: 921646329
+  Value: 0.02
+- Key: 921646554
+  Value: 0.078855
+- Key: 921646747
+  Value: 0.26
+- Key: 921646689
+  Value: 0.07
+- Key: 921646364
+  Value: -0.773922
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#008C939D'
+  TemplateColorIndex: 1166
+- DataType: ValueAndColor
+  Index: 1207
+  Value: 0.31
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1239
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.19
+  Color: '#00847548'
+  TemplateColorIndex: 1325
+- DataType: ValueAndColor
+  Index: 1718
+  Value: 1
+  Color: '#00CC8C96'
+  TemplateColorIndex: 1664
+- DataType: Value
+  Index: 1723
+  Value: 0.33
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.1312
+  UpperTorso: 0.0951
+  Arms: -0.2324
+  LowerTorso: -0.2093
+  Legs: -0.3257
+FaceMorphs:
+- Index: 10062
+  Position: 0.029098, 0.023684, 0.09
+- Index: 10063
+  Position: 0, 0.37871, -0.09524
+- Index: 100000
+  Position: -0.436785, -0.278082, 0.751345
+  Rotation: 0.519218, 0, 0
+- Index: 100001
+  Position: -0.33947, 0.386495, -0.511397
+- Index: 100002
+  Position: 0.410388, -0.457657, 0.990174
+- Index: 100003
+  Position: 0.218617, -0.515436, 0.766268
+  Scale: -0.394081
+- Index: 100004
+  Position: 0, 0.767025, -0.515894
+  Scale: 0.421703
+- Index: 100005
+  Position: -0.615835, 0.806443, 0.052253
+  Rotation: 0, 0.764469, 0
+  Scale: 0.036836
+- Index: 100006
+  Position: 0.62991, 0.496005, -0.77875
+- Index: 100007
+  Position: -0.58055, -0.011907, -0.919097
+- Index: 100008
+  Position: -0.743488, -0.492829, 0.86988
+  Scale: 0.90221
+- Index: 100009
+  Position: -0.261058, 0.319478, 0.163143
+  Scale: -0.547374
+- Index: 100010
+  Position: 0.483773, -0.281153, 0.561607
+  Scale: -0.676097
+- Index: 100011
+  Position: -0.201191, -0.217424, -0.940706
+  Scale: 0.090695
+- Index: 100012
+  Position: -0.84132, 0.469523, 0.714579
+- Index: 100013
+  Position: 0, -0.612531, -0.649592
+- Index: 100014
+  Position: -0.07, 0.44, 0.62277
+  Rotation: 0.03, 0, 0
+  Scale: -0.36
+- Index: 100015
+  Position: 0, 0, -0.04
+- Index: 100016
+  Position: 0.534181, -0.804652, 0.116131
+  Rotation: 0.155035, 0, 0.37008
+  Scale: -0.173899
+- Index: 100017
+  Position: 0.174295, 0.472353, -0.693397
+  Rotation: -0.342544, 0, 0
+  Scale: -0.363642
+- Index: 100018
+  Position: 0, 0.589343, -0.375904
+  Scale: 0.032524
+- Index: 100019
+  Position: -0.915658, 0.288735, 0.900299
+  Rotation: -0.426, 0, 0
+  Scale: -0.604682
+- Index: 100020
+  Position: -0.604613, 0.129283, 0.030547
+  Scale: 0.34
+- Index: 100021
+  Position: 0.293226, 0.712933, -0.45
+  Rotation: 0, 0, 0.278836
+- Index: 100022
+  Position: 0, 0.73115, -0.332424
+  Scale: 0.09
+- Index: 100023
+  Position: 0, 0.09593, 0.057074
+  Scale: -0.15
+- Index: 100024
+  Position: 0, 0.75291, 0.559507
+  Scale: 0.891468
+- Index: 100025
+  Position: 0.047587, -0.989684, -0.830763
+- Index: 100026
+  Position: 0.497932, -0.546043, 0.346521
+- Index: 100027
+  Position: 0, -0.238365, 0.584999
+MajorFlags:
+- 0x40000

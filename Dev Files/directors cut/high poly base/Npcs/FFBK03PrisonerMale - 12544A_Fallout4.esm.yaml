@@ -1,0 +1,182 @@
+FormKey: 12544A:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: FFBK03PrisonerMale
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 7995
+Unknown: 27
+Factions:
+- Faction: 03E0C8:Fallout4.esm
+Voice: 00002D:Fallout4.esm
+DefaultTemplate: 05FD56:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 05FD56:Fallout4.esm
+  StatsTemplate: 05FD56:Fallout4.esm
+  SpellListTemplate: 05FD56:Fallout4.esm
+  AiDataTemplate: 05FD56:Fallout4.esm
+  AiPackagesTemplate: 05FD56:Fallout4.esm
+  InventoryTemplate: 05FD56:Fallout4.esm
+  ScriptTemplate: 05FD56:Fallout4.esm
+  DefPackListTemplate: 05FD56:Fallout4.esm
+  AttackDataTemplate: 05FD56:Fallout4.esm
+  KeywordsTemplate: 05FD56:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 032B0B:Fallout4.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 1263EE:Fallout4.esm
+- 05FD59:Fallout4.esm
+- 023331:Fallout4.esm
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Caravan Prisoner
+CalculatedHealth: 165
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 100
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0E12A4:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1D2A67:Fallout4.esm
+- 1D2A68:Fallout4.esm
+- 1D2A69:Fallout4.esm
+- 1E55B9:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5F:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.333333
+  Muscular: 0.333333
+  Fat: 0.333333
+SoundLevel: Normal
+DefaultOutfit: 0DC93F:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646623
+  Value: 1
+- Key: 921646550
+  Value: -0.7
+- Key: 921646200
+  Value: 0.67
+- Key: 921646547
+  Value: 0.08
+- Key: 921646549
+  Value: 0.34
+- Key: 921646605
+  Value: 1
+- Key: 921646293
+  Value: 0.65
+- Key: 921646630
+  Value: 1
+- Key: 921646548
+  Value: 0.85
+FaceMorphs:
+- Index: 0
+  Position: 0, 0.21, 0.71
+  Rotation: -0.25, 0, 0
+- Index: 1
+  Position: -0.66, 0.13, 0.91
+- Index: 2
+  Position: -1, -1, 1
+- Index: 3
+  Position: -0.12, 0.01, 0.32
+  Scale: 0.97
+- Index: 4
+  Position: 0, 0, -0.22
+  Scale: -0.43
+- Index: 5
+  Position: 0, 0, -0.69
+  Scale: 0.05
+- Index: 9
+  Position: 0, -0.3, 0
+  Scale: -0.36
+- Index: 10
+  Position: 0, 0.36, 0
+  Scale: -0.74
+- Index: 26
+  Position: 0.19, -0.45, 0.57
+- Index: 27
+  Position: -0.14, -0.32, -0.63
+- Index: 62
+  Position: 0, 0, -0.55
+- Index: 921646266
+  Position: 0.19, 0.29, -0.84
+- Index: 921646267
+  Position: 0, -0.77, -0.36
+- Index: 921646269
+  Position: 0, 0, 0.24
+  Rotation: -0.35, 0, 0
+  Scale: -0.12
+- Index: 921646270
+  Position: 0, 0, -0.35
+- Index: 921646271
+  Position: -0.13, -0.18, 0.12
+  Rotation: 0, 0, 0.43
+  Scale: -0.01
+- Index: 921646272
+  Position: 0, 0.31, -0.36
+- Index: 921646273
+  Position: 0, 0, 0.21
+  Rotation: 0.1, 0, 0
+- Index: 921646274
+  Position: 0, 0, -0.73
+  Scale: 1
+- Index: 921646275
+  Position: 0, 0.51, 0.54
+  Rotation: -0.94, 0, 0
+  Scale: 0.34
+- Index: 921646276
+  Position: -0.46, 0.31, 0
+  Scale: -0.05
+- Index: 921646277
+  Position: 0.16, -0.04, 0.11
+  Rotation: 0, 0, -0.08
+- Index: 921646278
+  Position: 0, 0, 0.6
+  Scale: 0.9
+- Index: 921646279
+  Position: 0, 0, 0.96
+  Scale: 0.52
+MajorFlags:
+- 0x40000

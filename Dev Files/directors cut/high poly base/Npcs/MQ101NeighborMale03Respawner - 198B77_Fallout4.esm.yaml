@@ -1,0 +1,204 @@
+FormKey: 198B77:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101NeighborMale03Respawner
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 17591
+Factions:
+- Faction: 198B73:Fallout4.esm
+- Faction: 19C8E1:Fallout4.esm
+Voice: 11FC1E:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 003641:Fallout4.esm
+Keywords:
+- 05F763:Fallout4.esm
+- 0C8671:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Neighbor
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A9A:Fallout4.esm
+- 1436DC:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A0431:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.6201
+  Muscular: 0.1098
+  Fat: 0.2701
+SoundLevel: Normal
+DefaultOutfit: 14BF72:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 10742F:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646204
+  Value: 1
+- Key: 921646295
+  Value: 1
+- Key: 921646489
+  Value: 0.55
+FaceTintingLayers:
+- DataType: Value
+  Index: 1180
+  Value: 0.35
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1181
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1193
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1202
+  Value: 0.34
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1492
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.5912
+  UpperTorso: -0.33
+  Arms: -1
+  LowerTorso: -0.12
+  Legs: 0.9232
+FaceMorphs:
+- Index: 0
+  Position: -0.747385, -0.355458, -1
+  Rotation: 0.883549, 0, 0
+- Index: 1
+  Position: -0.271512, -0.097098, 0.36242
+- Index: 2
+  Position: -0.418784, 0.685382, 0.268658
+- Index: 3
+  Position: 0.410875, -0.698371, -0.669641
+  Scale: -0.656314
+- Index: 4
+  Position: 0, 0, 0.68319
+  Scale: 0.496165
+- Index: 5
+  Position: 0.545283, 0.015787, 0.26
+  Rotation: 0, -0.23, 0
+  Scale: 0.05
+- Index: 6
+  Position: 0.085003, -0.499761, 0.150121
+- Index: 7
+  Position: -0.424065, -0.622274, -0.620901
+- Index: 8
+  Position: -0.383755, 0.092824, 0.424839
+  Scale: -0.920606
+- Index: 9
+  Position: -0.717479, 0.782917, 0.727748
+  Scale: 0.1
+- Index: 10
+  Position: -0.987918, 0.589325, 0.53219
+  Scale: 0.381702
+- Index: 25
+  Position: 0, 0.59, -0.32
+  Scale: -1
+- Index: 26
+  Position: -0.032885, 0.282995, -0.433224
+- Index: 27
+  Position: -0.827674, -0.01036, -0.031436
+- Index: 62
+  Position: 0.955574, 0.38059, -0.519535
+- Index: 63
+  Position: 0, 0.116199, 0.096454
+- Index: 921646266
+  Position: -0.092953, -0.770328, -0.255156
+  Scale: 0.573992
+- Index: 921646267
+  Position: -0.741721, -0.3306, -0.141705
+- Index: 921646268
+  Position: 0, -0.016848, 0.988192
+- Index: 921646269
+  Position: -0.866158, 0.178674, 0.094549
+  Scale: -0.057217
+- Index: 921646270
+  Position: 0, 0, -0.732054
+- Index: 921646271
+  Position: 0.568783, 0.195049, -0.036133
+  Rotation: -0.145843, 0, -0.293239
+  Scale: 0.056348
+- Index: 921646272
+  Position: 0, -0.747306, -0.985019
+- Index: 921646273
+  Position: 0.087369, -0.162494, -0.685898
+  Rotation: 0.217482, 0, 0
+  Scale: 0.039167
+- Index: 921646274
+  Position: 0, -0.844621, -1
+  Scale: 0.899233
+- Index: 921646275
+  Position: 0.039992, 0.105476, 0.887691
+  Scale: -0.099626
+- Index: 921646276
+  Position: -0.068576, 0.502144, 0.772479
+  Scale: 0.883969
+- Index: 921646277
+  Position: 0.403347, 0.28, 0.750284
+  Rotation: 0, 0, -0.15
+- Index: 921646278
+  Position: 0, 0.41, 0.308955
+  Scale: -0.814739
+- Index: 921646279
+  Position: 0, 0.260449, 0.25
+  Scale: 0.644557
+MajorFlags:
+- 0x40000

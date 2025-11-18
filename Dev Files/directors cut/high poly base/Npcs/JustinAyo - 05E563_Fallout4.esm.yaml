@@ -1,0 +1,162 @@
+FormKey: 05E563:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: JustinAyo
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Unknown: 1023
+Factions:
+- Faction: 05E558:Fallout4.esm
+- Faction: 0A95E6:Fallout4.esm
+Voice: 069358:Fallout4.esm
+DefaultTemplate: 05E712:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 73
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 1A777C:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 061C3D:Fallout4.esm
+Keywords:
+- 024593:Fallout4.esm
+- 0C8670:Fallout4.esm
+Class: 031757:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Justin Ayo
+ShortName:
+  TargetLanguage: English
+  Value: Justin
+CalculatedHealth: 19521
+CalculatedActionPoints: 17481
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 094D04:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A9B:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.8032
+  Muscular: 0.0636
+  Fat: 0.1332
+SoundLevel: Normal
+DefaultOutfit: 1ACD0E:Fallout4.esm
+CrimeFaction: 0A95E6:Fallout4.esm
+HeadTexture: 03B521:Fallout4.esm
+TextureLighting: '#E3D8C6'
+Morphs:
+- Key: 921646266
+  Value: 1
+- Key: 921646549
+  Value: 0.93
+- Key: 921646487
+  Value: 1
+- Key: 921646547
+  Value: -0.97
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00E3D8C6'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1199
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1233
+  Value: 0.39
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.89
+FaceMorphs:
+- Index: 0
+  Position: -0.02, -1, 0.66
+- Index: 1
+  Position: 0, 0.19, 0
+- Index: 2
+  Position: 0, -1, 0
+- Index: 4
+  Position: 0, 0, -0.93
+- Index: 5
+  Position: 0, 0.56, -0.63
+  Rotation: 0, -0.5, 0
+  Scale: -0.61
+- Index: 9
+  Position: 0, 0.19, -1
+  Scale: -0.71
+- Index: 10
+  Position: 0.86, 0.19, 0.45
+- Index: 25
+  Position: 0, -0.87, -0.9
+- Index: 26
+  Position: 0, 0.39, 0
+- Index: 921646266
+  Position: 0.79, 1, -1
+- Index: 921646267
+  Position: 0, 0, -0.76
+- Index: 921646269
+  Position: -0.05, 1, -0.89
+  Scale: -0.69
+- Index: 921646270
+  Position: 0, 0, -0.87
+- Index: 921646271
+  Position: 0.88, -0.69, 0.84
+  Rotation: 0, 0, 1
+  Scale: 0.59
+- Index: 921646274
+  Position: 0, 0.82, 0
+- Index: 921646275
+  Position: 0, 0.41, -1
+  Scale: 0.47
+- Index: 921646277
+  Position: 0, -0.26, 0
+- Index: 921646278
+  Position: 0, -0.73, -0.92
+- Index: 921646279
+  Position: 0, 0.18, -0.9
+MajorFlags:
+- 0x40000

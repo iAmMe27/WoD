@@ -1,0 +1,192 @@
+FormKey: 039FC8:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: AmeliaStockton
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Factions:
+- Faction: 249670:Fallout4.esm
+Voice: 039FC9:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 0CFF74:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Keywords:
+- 03D28F:Fallout4.esm
+- 0C8671:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Amelia Stockton
+ShortName:
+  TargetLanguage: English
+  Value: Amelia
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9A:Fallout4.esm
+- 144A9B:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC26:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A042D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.8307
+  Muscular: 0.1388
+  Fat: 0.0306
+SoundLevel: Normal
+DefaultOutfit: 116F32:Fallout4.esm
+CrimeFaction: 249670:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646708
+  Value: 0.2
+- Key: 921646321
+  Value: 1
+- Key: 921646748
+  Value: 1
+- Key: 921646420
+  Value: 1
+FaceTintingLayers:
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1241
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1319
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.18
+  Color: '#0040251A'
+  TemplateColorIndex: 1335
+- DataType: ValueAndColor
+  Index: 1718
+  Color: '#009DB1C6'
+  TemplateColorIndex: 1657
+- DataType: Value
+  Index: 1719
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1752
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 100000
+  Position: 0.396738, 0.193203, -0.138114
+  Rotation: 0.424006, 0, 0
+- Index: 100001
+  Position: 0.95, -0.018326, -0.196645
+- Index: 100002
+  Position: 0.290816, -0.205853, 0.240608
+- Index: 100003
+  Position: -0.576011, -0.213006, -0.56946
+- Index: 100004
+  Position: 0, 0, 0.658736
+  Scale: -0.230219
+- Index: 100005
+  Position: 0, -0.451188, -0.034695
+  Rotation: 0, -0.05489, 0
+  Scale: -0.622719
+- Index: 100006
+  Position: -0.602716, 0.423284, -0.510746
+- Index: 100007
+  Position: 0.18811, 0.083173, -0.506623
+- Index: 100008
+  Position: -0.35472, 0.55328, 0.458813
+- Index: 100009
+  Position: 0, 0.462217, 0.125907
+  Scale: 0.476607
+- Index: 100010
+  Position: -0.553234, 0.350357, -0.363417
+- Index: 100011
+  Position: -0.449576, 0.048819, 0.227331
+- Index: 100012
+  Position: 0, 0.059697, 0.111752
+- Index: 100013
+  Position: 0, -0.484519, -0.366098
+- Index: 100014
+  Position: 0.540336, 0.539361, -0.011687
+  Scale: 0.631897
+- Index: 100015
+  Position: 0, 0, -0.72
+- Index: 100016
+  Position: 0.44, 0.162384, 0.03
+  Rotation: 0.083295, 0, -0.12
+  Scale: 0.09
+- Index: 100017
+  Position: 0.108345, 0.270449, 0.099335
+  Scale: -0.386131
+- Index: 100018
+  Position: 0, -0.09, 0.03
+- Index: 100019
+  Position: -0.385516, 0.420373, -0.338241
+  Scale: 0.456753
+- Index: 100020
+  Position: 0.344199, 0.641259, -0.080705
+- Index: 100021
+  Position: -0.253301, -0.297258, -0.033282
+  Rotation: 0, 0, -0.458305
+- Index: 100022
+  Position: 0, -0.181137, -0.424094
+  Scale: -0.541243
+- Index: 100023
+  Position: 0, -0.325287, 0.327758
+  Scale: -0.293769
+- Index: 100024
+  Position: 0, -0.627516, -0.469115
+- Index: 100025
+  Position: 0.159245, -0.647237, 0.122118
+- Index: 100026
+  Position: -0.589409, -0.336989, -0.593951
+- Index: 100027
+  Position: 0, 0.295016, -0.583235
+MajorFlags:
+- 0x40000

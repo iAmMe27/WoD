@@ -1,0 +1,219 @@
+FormKey: 022616:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: Fahrenheit
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- Essential
+- AutoCalcStats
+- Unique
+- CalcForEachTemplate
+XpValueOffset: 10
+Level:
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+DispositionBase: 35
+Factions:
+- Faction: 0228A8:Fallout4.esm
+- Faction: 0228A9:Fallout4.esm
+- Faction: 0E1ACD:Fallout4.esm
+Voice: 022617:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 15
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 30
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 500
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 023736:Fallout4.esm
+    Count: 2
+- Item:
+    Item: 0673A1:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0EEBED:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 18ABDB:Fallout4.esm
+    Count: 100
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 04AC36:Fallout4.esm
+- 1160A2:Fallout4.esm
+Keywords:
+- 022E49:Fallout4.esm
+- 0C866C:Fallout4.esm
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Fahrenheit
+CalculatedHealth: 540
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1E55C2:Fallout4.esm
+- 1E678A:Fallout4.esm
+- 1E678B:Fallout4.esm
+- 1E678C:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A0439:Fallout4.esm
+CombatStyle: 064125:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+SoundLevel: Normal
+DefaultOutfit: 0CF313:Fallout4.esm
+CrimeFaction: 0228A8:Fallout4.esm
+HeadTexture: 0F7E65:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646437
+  Value: 1
+- Key: 921646370
+  Value: 1
+- Key: 921646709
+  Value: 1
+- Key: 921646364
+  Value: -0.58
+- Key: 921646335
+  Value: 0.67
+FaceTintingLayers:
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1242
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1305
+  Value: 0.48
+  Color: '#00893848'
+  TemplateColorIndex: 1306
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.33
+  Color: '#00BF0000'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1319
+  Value: 0.66
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.64
+  Color: '#005A1214'
+  TemplateColorIndex: 1332
+- DataType: ValueAndColor
+  Index: 1718
+  Value: 0.62
+  Color: '#00D3C4BE'
+  TemplateColorIndex: 1661
+- DataType: Value
+  Index: 1719
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1720
+  Value: 0.75
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1721
+  Value: 0.26
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1751
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1770
+  Value: 0.91
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1785
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 100000
+  Position: 0, 0, 0.67
+- Index: 100001
+  Position: 0.72, -0.92, 0
+- Index: 100003
+  Position: 0.51, 0.15, 0.11
+  Scale: 0.52
+- Index: 100004
+  Position: 0, 0.78, 0
+  Scale: -0.77
+- Index: 100009
+  Position: 0, 0.13, 0
+  Scale: -0.04
+- Index: 100011
+  Position: 0, -0.64, -0.25
+- Index: 100016
+  Position: 0.13, 0, 0
+  Rotation: 0, 0, 0.41
+- Index: 100017
+  Position: 0, 1, 0
+  Rotation: 0.74, 0, 0
+  Scale: -1
+- Index: 100019
+  Scale: -0.64
+- Index: 100020
+  Position: 0, 0.21, 0
+- Index: 100021
+  Position: 0, -0.33, 0.64
+- Index: 100022
+  Position: 0, 0, 0.18
+  Scale: 1
+- Index: 100023
+  Position: 0, 1, 0
+  Scale: -0.84
+- Index: 100027
+  Position: 0, 1, 0
+MajorFlags:
+- 0x40000

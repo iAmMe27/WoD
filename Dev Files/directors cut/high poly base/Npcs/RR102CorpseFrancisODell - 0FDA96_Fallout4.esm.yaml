@@ -1,0 +1,174 @@
+FormKey: 0FDA96:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: RR102CorpseFrancisODell
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 968
+DefaultTemplate: 0A0E3A:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Keywords:
+- 03D290:Fallout4.esm
+- 0C866F:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Francis O'Dell
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A9C:Fallout4.esm
+- 1477CF:Fallout4.esm
+- 1477D0:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A0439:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.4314
+  Muscular: 0.3873
+  Fat: 0.1814
+SoundLevel: Normal
+DefaultOutfit: 021842:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646292
+  Value: 1
+- Key: 921646299
+  Value: 1
+- Key: 921646501
+  Value: 1
+- Key: 921646311
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: Value
+  Index: 1193
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.26
+FaceMorphs:
+- Index: 0
+  Position: -0.136641, -0.531922, 0.167244
+  Rotation: -0.466773, 0, 0
+- Index: 1
+  Position: -0.257553, 0.484393, 0.586553
+- Index: 2
+  Position: -0.570201, -0.447747, -0.170923
+- Index: 3
+  Position: -0.222347, -0.163794, 0.103367
+- Index: 4
+  Position: 0, 0, -0.333349
+  Scale: 0.145644
+- Index: 5
+  Position: 0, -0.115131, 0.478893
+  Rotation: 0, -0.68491, 0
+  Scale: -0.581782
+- Index: 6
+  Position: 0.331002, 0.319247, -0.071424
+- Index: 7
+  Position: 0.329537, 0.224395, -0.04089
+- Index: 8
+  Position: 0.228394, 0.16741, 0.068047
+- Index: 9
+  Position: 0, 0.039182, 0.562196
+  Scale: -0.063658
+- Index: 10
+  Position: -0.55529, 0.6506, -0.547049
+- Index: 25
+  Position: 0, 0.031402, -0.56533
+- Index: 26
+  Position: -0.407846, -0.312816, -0.053624
+- Index: 27
+  Position: -0.183476, 0.29736, 0.072892
+- Index: 921646266
+  Position: 0.169041, 0.659343, -0.290556
+- Index: 921646267
+  Position: 0, 0.491737, -0.00805
+- Index: 921646268
+  Position: 0, -0.63614, 0.081802
+- Index: 921646269
+  Position: -0.258694, -0.543802, 0.096722
+  Scale: 0.373352
+- Index: 921646270
+  Position: 0, 0, -0.545524
+- Index: 921646271
+  Position: -0.686998, 0.244645, 0.130689
+  Rotation: -0.344895, 0, 0.385726
+  Scale: -0.68012
+- Index: 921646272
+  Position: 0, 0.079225, 0.05437
+- Index: 921646273
+  Position: -0.271279, 0.345336, 0.382129
+  Scale: -0.267035
+- Index: 921646274
+  Position: 0, -0.137514, 0.05237
+- Index: 921646275
+  Position: 0.498818, -0.470841, -0.444888
+  Scale: 0.36414
+- Index: 921646276
+  Position: 0.428971, -0.015743, -0.375667
+- Index: 921646277
+  Position: 0.446313, 0.632709, 0.606431
+  Rotation: 0, 0, 0.33336
+- Index: 921646278
+  Position: 0, -0.36398, 0.258974
+  Scale: -0.042481
+- Index: 921646279
+  Position: 0, -0.069427, -0.068314
+  Scale: 0.625668
+MajorFlags:
+- 0x40000

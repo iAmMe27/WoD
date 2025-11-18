@@ -1,0 +1,175 @@
+FormKey: 0CF919:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101InstAgentFemale
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 30063
+Voice: 0CF91B:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 06B187:Fallout4.esm
+- 0EEF46:Fallout4.esm
+- 0D4AD3:Fallout4.esm
+Keywords:
+- 0446FA:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Mysterious Figure
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9C:Fallout4.esm
+- 144A9D:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A042E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.7833
+  Muscular: 0.1734
+  Fat: 0.0433
+SoundLevel: Normal
+DefaultOutfit: 1B2CC1:Fallout4.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646371
+  Value: 0.24
+- Key: 921646553
+  Value: 0.027443
+- Key: 921646407
+  Value: 0.45
+- Key: 921646364
+  Value: -0.529899
+- Key: 921646552
+  Value: 0.60824
+- Key: 921646439
+  Value: 1
+- Key: 921646554
+  Value: -0.226311
+- Key: 921646320
+  Value: 1
+- Key: 921646551
+  Value: -0.610155
+FaceTintingLayers:
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1244
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.7516
+  UpperTorso: 0.3042
+  Arms: -0.8793
+  LowerTorso: 0.8603
+  Legs: 0.6801
+FaceMorphs:
+- Index: 100000
+  Position: -0.476966, 0.234347, 0.322552
+  Rotation: 0.12277, 0, 0
+- Index: 100001
+  Position: 0.43, -1, -0.038899
+- Index: 100002
+  Position: -0.772172, 1, 0.897345
+- Index: 100003
+  Position: 0, -1, 0
+- Index: 100004
+  Position: 0, 0, 0.03
+  Scale: 0.75
+- Index: 100005
+  Position: -0.21624, 0.833255, 0.231457
+  Rotation: 0, -0.288663, 0
+  Scale: -0.446279
+- Index: 100006
+  Position: -0.714302, -0.746451, 0.016801
+- Index: 100007
+  Position: -0.841699, -0.326952, -0.593377
+- Index: 100008
+  Position: 0.496325, -0.564439, 0.165259
+- Index: 100009
+  Position: -0.574245, -0.980385, -0.871446
+  Scale: -0.182384
+- Index: 100010
+  Position: -0.958356, 0.138768, -0.364269
+- Index: 100011
+  Position: 0.717729, 0.968222, 0.64
+- Index: 100012
+  Position: 0, 0.546587, 0.75
+- Index: 100013
+  Position: 0, 0.403308, -0.180809
+- Index: 100014
+  Position: -0.296958, -0.345173, 0.642842
+  Scale: -0.02
+- Index: 100015
+  Position: 0, 0, 0.44
+- Index: 100016
+  Position: -0.232927, 0.03, -0.53
+  Rotation: -1, 0, -1
+  Scale: 0.14
+- Index: 100017
+  Position: 0.763558, 0.635608, 0.620459
+  Scale: -0.008477
+- Index: 100018
+  Position: 0, -0.605347, 0.471515
+- Index: 100019
+  Position: 0.975511, -0.56317, -0.27991
+  Scale: 0.819416
+- Index: 100020
+  Position: 0.610503, -0.667685, -0.325083
+- Index: 100021
+  Position: -0.905063, -1, 0.516366
+  Rotation: 0, 0, -0.470506
+- Index: 100022
+  Position: 0, -0.528338, -0.366537
+  Scale: 0.224933
+- Index: 100023
+  Position: 0, 0.596852, 0.092253
+  Scale: -0.343394
+- Index: 100024
+  Position: 0, 0.49, -0.18
+- Index: 100025
+  Position: 0.545713, -0.30823, -0.368479
+- Index: 100026
+  Position: -0.323138, -0.75429, 0.810412
+- Index: 100027
+  Position: 0, -0.02, -0.350449
+MajorFlags:
+- 0x40000

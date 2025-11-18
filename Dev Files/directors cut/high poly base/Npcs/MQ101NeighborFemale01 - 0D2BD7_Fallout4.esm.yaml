@@ -1,0 +1,187 @@
+FormKey: 0D2BD7:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101NeighborFemale01
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: -17612
+Voice: 0CF91D:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 19EE30:Fallout4.esm
+Keywords:
+- 03D28F:Fallout4.esm
+- 0C8671:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Neighbor
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 1D98D8:Fallout4.esm
+- 1D98D9:Fallout4.esm
+- 1D98DA:Fallout4.esm
+- 1D98DB:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE60:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.285723
+  Muscular: 0.248555
+  Fat: 0.465723
+SoundLevel: Normal
+DefaultOutfit: 11C3B3:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#BFAEAA'
+Morphs:
+- Key: 921646551
+  Value: 0.89
+- Key: 921646432
+  Value: 1
+- Key: 921646683
+  Value: 1
+- Key: 921646554
+  Value: 0.84
+- Key: 921646330
+  Value: 1
+- Key: 921646553
+  Value: -0.28
+- Key: 921646552
+  Value: 0.84
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00BFAEAA'
+  TemplateColorIndex: 1163
+- DataType: Value
+  Index: 1319
+  Value: 0.7
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.61
+  Color: '#00410E29'
+  TemplateColorIndex: 1337
+BodyMorphRegionValues:
+  Head: -0.08
+  UpperTorso: -0.28
+  Arms: 0.03
+  LowerTorso: 0.31
+  Legs: -0.15
+FaceMorphs:
+- Index: 100000
+  Position: -0.053468, 1, -0.1
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: 0.374943, -0.721505, -0.081318
+- Index: 100002
+  Position: -1, 0.09, 0.13
+- Index: 100003
+  Position: -0.992645, 0.32, 0.23
+- Index: 100004
+  Position: 0, 0, 0.75
+  Scale: 0.794334
+- Index: 100005
+  Position: 0.059772, 0.88, 0.981972
+  Rotation: 0, -0.38, 0
+  Scale: -0.27
+- Index: 100006
+  Position: 0.635206, -0.681518, -0.932607
+- Index: 100007
+  Position: 0.974891, 0.154356, 0.575075
+- Index: 100008
+  Position: 0.657184, 0.8603, 0.550854
+- Index: 100009
+  Position: 0.061234, -0.11, 0.110474
+  Scale: 0.690709
+- Index: 100010
+  Position: -0.902536, -0.378402, -0.804372
+- Index: 100011
+  Position: -0.232883, 0.109901, 0.303255
+- Index: 100012
+  Position: 0, -1, 0.29
+- Index: 100013
+  Position: 0, -0.590978, -0.950976
+- Index: 100014
+  Position: 0.670238, -1, -0.66
+  Scale: 0.7023
+- Index: 100015
+  Position: 0, 0, -0.976161
+- Index: 100016
+  Position: -0.109786, -0.069294, -0.17
+  Rotation: 0.622961, 0, -0.50591
+  Scale: -0.231113
+- Index: 100017
+  Position: -0.935114, 0.05, 0.08
+  Rotation: -0.77, 0, 0
+  Scale: 0.364042
+- Index: 100018
+  Position: 0, 0.925225, 0.245056
+- Index: 100019
+  Position: 0.03, 0.12, -0.28504
+  Scale: 0.13
+- Index: 100020
+  Position: 0.084131, -0.8547, -0.2
+- Index: 100021
+  Position: -0.277097, 0.581307, 0.275052
+  Rotation: 0, 0, -0.037976
+- Index: 100022
+  Position: 0, -0.151552, 0.39
+  Scale: 0.35
+- Index: 100023
+  Position: 0, 0.03, 0.68
+  Scale: 0.29
+- Index: 100024
+  Position: 0, 0.514066, -0.767672
+- Index: 100025
+  Position: -0.345284, 0.579607, -0.972242
+- Index: 100026
+  Position: -0.304883, -0.46, 0.07
+- Index: 100027
+  Position: 0, -0.934134, 0.45673
+MajorFlags:
+- 0x40000

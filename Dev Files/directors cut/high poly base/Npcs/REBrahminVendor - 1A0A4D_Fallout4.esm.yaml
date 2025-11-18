@@ -1,0 +1,273 @@
+FormKey: 1A0A4D:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: REBrahminVendor
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: REBrahminVendorScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: GenericGoHome
+      Object: 0D242A:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: REBrahminForSale
+      Object: 1A0A4F:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: REBrahminVendorPrice
+      Object: 1A02D8:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: RELinkFollow
+      Object: 084EB7:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: WorkshopParent
+      Object: 02058E:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- Protected
+- OppositeGenderAnims
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 35
+DispositionBase: 35
+Unknown: 18093
+Factions:
+- Faction: 0035DE:Fallout4.esm
+- Faction: 02F126:Fallout4.esm
+  Rank: -1
+- Faction: 1A02BF:Fallout4.esm
+Voice: 00002E:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 60
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 113342:Fallout4.esm
+  Value: 1
+Items:
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 18F662:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 1A02C0:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Kelly
+CalculatedHealth: 440
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC29:Fallout4.esm
+- 15A166:Fallout4.esm
+- 1C4092:Fallout4.esm
+- 1C4093:Fallout4.esm
+- 1D7F9F:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE69:Fallout4.esm
+CombatStyle: 03183B:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.564624
+  Muscular: 0.190751
+  Fat: 0.244624
+SoundLevel: Normal
+DefaultOutfit: 0DC93C:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+TextureLighting: '#D6C5C0'
+Morphs:
+- Key: 921646551
+  Value: -0.07
+- Key: 921646553
+  Value: 0.262971
+- Key: 921646708
+  Value: 0.59
+- Key: 921646715
+  Value: 0.12
+- Key: 921646364
+  Value: -0.74067
+- Key: 921646552
+  Value: -0.491658
+- Key: 921646686
+  Value: 0.64
+- Key: 921646699
+  Value: 0.11
+- Key: 921646554
+  Value: 0.488427
+- Key: 921646555
+  Value: 0.32
+- Key: 921646750
+  Value: 0.79
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00D6C5C0'
+  TemplateColorIndex: 1161
+- DataType: Value
+  Index: 1319
+  Value: 0.65
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.33
+  Color: '#00000000'
+  TemplateColorIndex: 1339
+- DataType: Value
+  Index: 1731
+  Value: 0.81
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1749
+  Value: 0.61
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1750
+  Value: 0.66
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1752
+  Value: 0.61
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1757
+  Value: 0.38
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1774
+  Value: 0.65
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1783
+  Value: 0.47
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.606443
+  UpperTorso: 0.2
+  Arms: -0.369769
+  LowerTorso: 0.02
+  Legs: -0.810071
+FaceMorphs:
+- Index: 10062
+  Position: -0.459355, 0.497577, 0.130158
+- Index: 10063
+  Position: 0, -0.438769, 0.229495
+- Index: 100000
+  Position: -0.047869, -0.019485, -0.336257
+  Rotation: 0.264089, 0, 0
+- Index: 100001
+  Position: 0.339534, 0.678028, -0.128602
+- Index: 100002
+  Position: 0.697175, -0.717777, -0.538391
+- Index: 100003
+  Position: -0.535032, 0.38599, 0.461404
+  Scale: 0.337893
+- Index: 100004
+  Position: 0, -0.532208, -0.604693
+  Scale: 0.282948
+- Index: 100005
+  Position: -0.133035, 0.3165, -0.306116
+  Rotation: 0, -0.01433, 0
+  Scale: -0.08
+- Index: 100006
+  Position: -0.895394, 0.887038, 0.070131
+- Index: 100007
+  Position: 0.543428, -0.584761, -0.119683
+- Index: 100008
+  Position: 0.221334, -0.176051, -0.952001
+  Scale: 0.1913
+- Index: 100009
+  Position: 0.29098, -0.733115, -0.866556
+  Scale: 0.687463
+- Index: 100010
+  Position: 0.757392, -0.828714, -0.614889
+  Scale: 0.423898
+- Index: 100011
+  Position: 0.452854, 0.16132, -0.074308
+  Scale: -0.495249
+- Index: 100012
+  Position: -0.661901, -0.988503, -0.019751
+- Index: 100013
+  Position: 0, -0.172499, 0.930605
+- Index: 100014
+  Position: 0.308993, 0.451285, -0.360262
+  Rotation: -0.638929, 0, 0
+  Scale: 0.970007
+- Index: 100015
+  Position: 0, 0, -0.829717
+- Index: 100016
+  Position: 0.65, -0.740448, 0.966337
+  Rotation: -0.384663, 0, -0.67
+  Scale: 0.1
+- Index: 100017
+  Position: 0.09, 0.03, -0.36
+  Rotation: -0.51, 0, 0
+  Scale: -0.05
+- Index: 100018
+  Position: 0, 0.234058, 0.968422
+  Scale: -0.150559
+- Index: 100019
+  Position: 0.21, -0.182927, 0.881889
+  Rotation: -0.723051, 0, 0
+  Scale: 0.05
+- Index: 100020
+  Position: -0.185313, -0.111644, -0.074513
+  Scale: -0.421987
+- Index: 100021
+  Position: 0.175551, 0.032089, -0.382828
+  Rotation: 0, 0, 0.624334
+- Index: 100022
+  Position: 0, 0.647448, 0.329475
+  Scale: -0.242825
+- Index: 100023
+  Position: 0, -0.212472, 0.156525
+  Scale: -0.643741
+- Index: 100024
+  Position: 0, -0.168949, 0.498946
+  Scale: 0.970516
+- Index: 100025
+  Position: -0.201973, -0.445441, -0.515989
+- Index: 100026
+  Position: 0.151196, -0.840057, 0.532046
+- Index: 100027
+  Position: 0, -0.429987, 0.600156
+MajorFlags:
+- 0x40000

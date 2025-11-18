@@ -1,0 +1,173 @@
+FormKey: 182DF3:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DN060_HestersAnnouncer
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Voice: 019FE3:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 100E30:Fallout4.esm
+    Count: 1
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Hester's Announcer
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0B3DBE:Fallout4.esm
+- 0B3DBF:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A9C:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A0439:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5976
+  Muscular: 0.2948
+  Fat: 0.1076
+SoundLevel: Normal
+DefaultOutfit: 01F159:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646292
+  Value: 1
+- Key: 921646501
+  Value: 1
+- Key: 921646299
+  Value: 1
+- Key: 921646311
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: Value
+  Index: 1192
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1202
+  Value: 0.39
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.26
+FaceMorphs:
+- Index: 0
+  Position: -0.471845, -0.552531, 0.373114
+  Rotation: -0.436871, 0, 0
+- Index: 1
+  Position: 0.137649, -0.396844, 0.638583
+- Index: 2
+  Position: -0.018035, 0.624741, 0.475136
+- Index: 3
+  Position: 0.572459, -0.3863, 0.004027
+- Index: 4
+  Position: 0, 0, -0.228788
+  Scale: -0.121874
+- Index: 5
+  Position: 0, -0.293457, -0.412479
+  Rotation: 0, 0.379683, 0
+  Scale: -0.568973
+- Index: 6
+  Position: -0.301477, 0.021574, 0.577696
+- Index: 7
+  Position: -0.361591, 0.524641, -0.416653
+- Index: 8
+  Position: 0.30993, 0.347724, -0.536223
+- Index: 9
+  Position: 0, 0.307357, -0.561351
+  Scale: 0.374403
+- Index: 10
+  Position: -0.358701, 0.228191, 0.259757
+- Index: 25
+  Position: 0, 0.266937, 0.0651
+- Index: 26
+  Position: -0.577982, -0.044977, -0.250225
+- Index: 27
+  Position: 0.565704, -0.384195, -0.552875
+- Index: 921646266
+  Position: 0.361062, -0.544592, -0.173561
+- Index: 921646267
+  Position: 0, -0.323617, 0.349775
+- Index: 921646268
+  Position: 0, -0.248107, 0.686351
+- Index: 921646269
+  Position: 0.174933, 0.174767, 0.325058
+  Scale: -0.338866
+- Index: 921646270
+  Position: 0, 0, -0.345541
+- Index: 921646271
+  Position: 0.633189, -0.616138, 0.208804
+  Rotation: 0.337458, 0, 0.67559
+  Scale: 0.015328
+- Index: 921646272
+  Position: 0, 0.673912, -0.115556
+- Index: 921646273
+  Position: -0.213124, 0.343025, 0.240187
+  Scale: 0.034014
+- Index: 921646274
+  Position: 0, -0.580818, 0.409255
+- Index: 921646275
+  Position: -0.427762, -0.327125, 0.204034
+  Scale: 0.169227
+- Index: 921646276
+  Position: 0.394031, 0.152834, -0.106776
+- Index: 921646277
+  Position: -0.445939, 0.605397, -0.504355
+  Rotation: 0, 0, 0.320351
+- Index: 921646278
+  Position: 0, 0.461187, 0.514453
+  Scale: -0.185822
+- Index: 921646279
+  Position: 0, -0.017023, -0.18625
+  Scale: 0.099192
+MajorFlags:
+- 0x40000

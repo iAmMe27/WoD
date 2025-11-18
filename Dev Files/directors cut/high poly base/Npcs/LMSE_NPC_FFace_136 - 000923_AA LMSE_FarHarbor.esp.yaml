@@ -1,0 +1,281 @@
+FormKey: 000923:AA LMSE_FarHarbor.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: LMSE_NPC_FFace_136
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- AutoCalcStats
+- Protected
+XpValueOffset: 25
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 16
+DispositionBase: 35
+UseTemplateActors: 7738
+Unknown: 84
+Factions:
+- Faction: 01055B:DLCCoast.esm
+- Faction: 0035DE:Fallout4.esm
+- Faction: 02E005:Fallout4.esm
+- Faction: 02F126:Fallout4.esm
+  Rank: -1
+- Faction: 0337F3:Fallout4.esm
+- Faction: 062555:Fallout4.esm
+  Rank: -1
+- Faction: 062556:Fallout4.esm
+  Rank: -1
+Voice: 013ADD:Fallout4.esm
+DefaultTemplate: 113340:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 046020:DLCCoast.esm
+  SpellListTemplate: 046020:DLCCoast.esm
+  AiDataTemplate: 113340:Fallout4.esm
+  AiPackagesTemplate: 113340:Fallout4.esm
+  BaseDataTemplate: 113340:Fallout4.esm
+  InventoryTemplate: 113340:Fallout4.esm
+  ScriptTemplate: 113340:Fallout4.esm
+  DefPackListTemplate: 113340:Fallout4.esm
+  AttackDataTemplate: 113340:Fallout4.esm
+  KeywordsTemplate: 113340:Fallout4.esm
+Race: 013746:Fallout4.esm
+Skin: 000D64:Fallout4.esm
+Perks:
+- Perk: 0B9884:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 2
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 000BAE:AA LMSE_FarHarbor.esp
+    Count: 1
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 023331:Fallout4.esm
+Keywords:
+- 1B5CB8:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Pauline
+CalculatedHealth: 240
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144AA0:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1D7F9F:Fallout4.esm
+- 1E55C3:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE68:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.383583
+  Muscular: 0.584501
+  Fat: 0.031916
+SoundLevel: Normal
+DefaultOutfit: 000BAC:AA LMSE_FarHarbor.esp
+TextureLighting: '#ACA89D'
+Morphs:
+- Key: 921646551
+  Value: 1
+- Key: 921646553
+  Value: 0.49
+- Key: 921646576
+  Value: 1
+- Key: 921646552
+  Value: -0.69
+- Key: 921646332
+  Value: 1
+- Key: 921646707
+  Value: 1
+- Key: 921646439
+  Value: 1
+- Key: 921646554
+  Value: 0.45
+- Key: 921646747
+  Value: 1
+- Key: 921646673
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00F7EFEE'
+  TemplateColorIndex: 1157
+- DataType: Value
+  Index: 1221
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1222
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1223
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1224
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1225
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1226
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1227
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1239
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1320
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1395
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1396
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1397
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1398
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1399
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1400
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1401
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1402
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1403
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1718
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1799
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1800
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 10063
+  Position: 0, -0.09, 0
+- Index: 100001
+  Position: -0.69, 0.36, 0.1
+- Index: 100002
+  Position: 0.98, -0.65, 1
+- Index: 100003
+  Position: 0, -0.22, -0.17
+- Index: 100004
+  Position: 0, -0.32, -0.11
+- Index: 100005
+  Position: 0, -0.28, -0.78
+  Rotation: 0, 0.1, 0
+  Scale: -0.3
+- Index: 100009
+  Position: -0.09, -0.36, 0.4
+  Scale: 0.8
+- Index: 100010
+  Position: 0.2, 0.24, -0.75
+- Index: 100011
+  Position: 0, 0.28, -0.42
+- Index: 100012
+  Position: 0, 0.15, -0.24
+- Index: 100014
+  Position: 0.38, -0.01, -0.3
+  Scale: -0.2
+- Index: 100015
+  Position: 0, 0, -0.7
+- Index: 100016
+  Position: 0.61, -0.53, 0.5
+  Scale: 0.4
+- Index: 100017
+  Position: 0, 0, 0.3
+  Rotation: -0.3, 0, 0
+  Scale: 0.6
+- Index: 100018
+  Position: 0, -0.51, 0.3
+- Index: 100019
+  Position: 0.2, 0.21, -0.1
+  Scale: 0.2
+- Index: 100020
+  Position: 0.41, -0.01, 0
+- Index: 100021
+  Position: -0.26, 0.33, -0.4
+- Index: 100022
+  Position: 0, 0.16, 0.7
+  Scale: 0.2
+- Index: 100023
+  Position: 0, -0.41, -0.7
+  Scale: 0.1
+- Index: 100024
+  Position: 0, -1, 1
+  Scale: -0.8
+- Index: 100025
+  Position: 0, 0, -1
+- Index: 100027
+  Position: 0, -0.33, -1
+MajorFlags:
+- 0x40000

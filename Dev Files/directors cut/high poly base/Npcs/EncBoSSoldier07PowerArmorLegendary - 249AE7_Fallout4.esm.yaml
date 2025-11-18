@@ -1,0 +1,225 @@
+FormKey: 249AE7:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: EncBoSSoldier07PowerArmorLegendary
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Respawn
+XpValueOffset: 70
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 49
+DispositionBase: 35
+UseTemplateActors: 3893
+Unknown: 2313
+Factions:
+- Faction: 05DE41:Fallout4.esm
+- Faction: 1479C1:Fallout4.esm
+DeathItem: 077D1F:Fallout4.esm
+Voice: 077D1C:Fallout4.esm
+DefaultTemplate: 076A0A:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 17D6B6:Fallout4.esm
+  FactionsTemplate: 076A0A:Fallout4.esm
+  AiDataTemplate: 076A0A:Fallout4.esm
+  AiPackagesTemplate: 076A0A:Fallout4.esm
+  InventoryTemplate: 160159:Fallout4.esm
+  ScriptTemplate: 076A0A:Fallout4.esm
+  DefPackListTemplate: 076A0A:Fallout4.esm
+  AttackDataTemplate: 076A0A:Fallout4.esm
+Race: 013746:Fallout4.esm
+ActorEffect:
+- 1FE6BC:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Perks:
+- Perk: 0E1A4B:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 6
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 520
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 160155:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 02CB72:Fallout4.esm
+- 013794:Fallout4.esm
+- 076A08:Fallout4.esm
+- 1CF26C:Fallout4.esm
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Legendary Brotherhood Paladin
+ShortName:
+  TargetLanguage: English
+  Value: Paladin
+CalculatedHealth: 350
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1E5E83:Fallout4.esm
+- 1E5E84:Fallout4.esm
+- 1E5E85:Fallout4.esm
+- 1E5E86:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+CombatStyle: 076A09:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.396127
+  Muscular: 0.427746
+  Fat: 0.176127
+SoundLevel: Normal
+PowerArmorStand: 181520:Fallout4.esm
+DefaultOutfit: 0642B1:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+HeadTexture: 03B521:Fallout4.esm
+TextureLighting: '#9E9896'
+Morphs:
+- Key: 921646296
+  Value: 0.57
+- Key: 921646550
+  Value: -0.08
+- Key: 921646273
+  Value: 0.84
+- Key: 921646547
+  Value: 0.31
+- Key: 921646603
+  Value: 1
+- Key: 921646549
+  Value: -0.275877
+- Key: 921646512
+  Value: 1
+- Key: 921646200
+  Value: -0.62
+- Key: 921646307
+  Value: 1
+- Key: 921646607
+  Value: 1
+- Key: 921646548
+  Value: 0.25
+FaceMorphs:
+- Index: 0
+  Position: 0.016924, 0.277014, 0.16
+  Rotation: -0.2, 0, 0
+- Index: 1
+  Position: -0.032465, -0.105452, 0.133881
+- Index: 2
+  Position: 0.092704, -0.189448, -0.1
+- Index: 3
+  Position: -0.187814, -0.045853, -0.03
+  Scale: 0.071602
+- Index: 4
+  Position: 0, 0, -0.13
+  Scale: -0.12169
+- Index: 5
+  Position: 0.007438, 0.058587, -0.167449
+  Rotation: 0, -0.009994, 0
+  Scale: -0.003007
+- Index: 6
+  Position: 0.238247, 0.218409, -0.178571
+- Index: 7
+  Position: 0.277395, 0.072379, 0.080867
+- Index: 8
+  Position: 0.070142, 0.149827, 0.02197
+  Scale: -0.224323
+- Index: 9
+  Position: -0.002687, 0.239343, 0.077265
+  Scale: -0.12
+- Index: 10
+  Position: 0.21, -0.02, 0.027164
+  Scale: -0.48
+- Index: 25
+  Position: 0, -0.25226, 0.046654
+  Scale: -0.148052
+- Index: 26
+  Position: 0.016016, 0.025596, 0.101178
+- Index: 27
+  Position: 0.147272, -0.02078, 0.048071
+- Index: 62
+  Position: 0.056672, 0.074593, -0.056513
+- Index: 63
+  Position: 0, 0.042732, 0.163967
+- Index: 921646266
+  Position: 0.07, 0.3, -0.02
+  Scale: -0.23
+- Index: 921646267
+  Position: -0.73, -0.25, -0.27
+- Index: 921646268
+  Position: 0, -0.236536, -0.250612
+- Index: 921646269
+  Position: -0.094499, 0.17, 0.03
+  Rotation: -0.17, 0, 0
+  Scale: -0.05
+- Index: 921646270
+  Position: 0, 0, -0.28
+- Index: 921646271
+  Position: 0.047667, -0.01353, 0.055036
+  Rotation: 0.041796, 0, -0.11
+  Scale: 0.070437
+- Index: 921646272
+  Position: 0, 0.006631, 0.089595
+- Index: 921646273
+  Position: -0.106455, -0.14, 0.08
+  Rotation: -0.04, 0, 0
+  Scale: 0.213708
+- Index: 921646274
+  Position: 0, -0.10951, -0.65
+  Scale: 0.296358
+- Index: 921646275
+  Position: -0.093857, -0.245474, -0.15
+  Rotation: -0.21, 0, 0
+  Scale: -0.10653
+- Index: 921646276
+  Position: 0.023781, 0.164277, 0.06
+  Scale: -0.11
+- Index: 921646277
+  Position: -0.059129, -0.081289, -0.178807
+  Rotation: 0, 0, -0.208032
+- Index: 921646278
+  Position: 0, -0.245227, -0.232193
+  Scale: 0.256144
+- Index: 921646279
+  Position: 0, 0.151635, 0.104389
+  Scale: -0.124189
+MajorFlags:
+- 0x40000

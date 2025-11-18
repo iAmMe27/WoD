@@ -1,0 +1,132 @@
+FormKey: 0BDE09:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101MrsDonoghue
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Voice: 0BDE0A:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 12
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 45
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 003641:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Mrs. Donoghue
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9A:Fallout4.esm
+- 144A9B:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC26:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE64:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.569624
+  Muscular: 0.190751
+  Fat: 0.239624
+SoundLevel: Normal
+DefaultOutfit: 1507B8:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 09BF1E:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646710
+  Value: 0.6
+- Key: 921646686
+  Value: 1
+- Key: 921646739
+  Value: 0.41
+- Key: 921646676
+  Value: 0.53
+- Key: 921646750
+  Value: 0.59
+- Key: 921646665
+  Value: 0.44
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1305
+  Color: '#00893848'
+  TemplateColorIndex: 1306
+- DataType: Value
+  Index: 1319
+  Value: 0.78
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Color: '#00000000'
+  TemplateColorIndex: 1339
+FaceMorphs:
+- Index: 100000
+  Position: 0, 0.37, -0.51
+- Index: 100001
+  Position: 0, 0, 0.24
+- Index: 100003
+  Position: 0, 0, 0.01
+- Index: 100004
+  Position: 0, 0, -0.2
+- Index: 100009
+  Scale: 0.32
+- Index: 100012
+  Position: 0, -0.9, -0.42
+- Index: 100014
+  Position: 0, 0.16, -0.18
+- Index: 100016
+  Position: 0, 0.21, -0.32
+  Rotation: 0, 0, -0.3
+- Index: 100017
+  Position: 0, -0.5, -0.45
+  Rotation: 0.23, 0, 0
+- Index: 100018
+  Position: 0, 0, -0.46
+  Scale: -1
+- Index: 100019
+  Position: 0, 0.18, 0.27
+- Index: 100021
+  Position: 0.27, -0.02, 0
+  Rotation: 0, 0, -0.09
+- Index: 100024
+  Position: 0, -0.95, -0.56
+  Scale: -0.38
+- Index: 100025
+  Position: -0.07, 0.19, -0.32
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

@@ -1,0 +1,287 @@
+FormKey: 0226DC:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: ClairHutchins
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: RentRoomScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Bed
+      Object: 10C651:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: RentRoomAV
+      Object: 10C92E:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: RentRoomCost
+      Object: 026A98:Fallout4.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: RentRoomHours
+      Object: 10C92B:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Factions:
+- Faction: 0228A8:Fallout4.esm
+- Faction: 0228A9:Fallout4.esm
+- Faction: 0E1ACA:Fallout4.esm
+- Faction: 10C92C:Fallout4.esm
+Voice: 0226DB:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 023329:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1C3AF0:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 075EDA:Fallout4.esm
+- 002CB5:Fallout4.esm
+Keywords:
+- 075B80:Fallout4.esm
+- 0FA849:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Clair Hutchins
+ShortName:
+  TargetLanguage: English
+  Value: Clair
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 1D9ADD:Fallout4.esm
+- 1D9ADE:Fallout4.esm
+- 1D9ADF:Fallout4.esm
+- 1D9AE0:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5A:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.252428
+  Muscular: 0.075145
+  Fat: 0.672428
+SoundLevel: Normal
+DefaultOutfit: 10C261:Fallout4.esm
+CrimeFaction: 0228A8:Fallout4.esm
+HeadTexture: 03C655:Fallout4.esm
+TextureLighting: '#9E9896'
+Morphs:
+- Key: 921646551
+  Value: -0.28
+- Key: 921646553
+  Value: -0.89
+- Key: 921646743
+  Value: 1
+- Key: 921646364
+  Value: 0.56
+- Key: 921646552
+  Value: -0.84
+- Key: 921646710
+  Value: 0.93
+- Key: 921646663
+  Value: 0.82
+- Key: 921646676
+  Value: 1
+- Key: 921646695
+  Value: 1
+- Key: 921646750
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#009E9896'
+  TemplateColorIndex: 1165
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1244
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.08
+  Color: '#00DE6D29'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 0.57
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: Value
+  Index: 1319
+  Value: 0.42
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Color: '#005A1214'
+  TemplateColorIndex: 1332
+- DataType: ValueAndColor
+  Index: 1718
+  Value: 0.51
+  Color: '#009DB1C6'
+  TemplateColorIndex: 1657
+- DataType: Value
+  Index: 1723
+  Value: 0.34
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1750
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1751
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1755
+  Value: 0.18
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1759
+  Value: 0.17
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1762
+  Value: 0.71
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: Value
+  Index: 1768
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1780
+  Value: 0.33
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1784
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.85
+  UpperTorso: 0.34
+  Arms: -0.57
+  LowerTorso: 0.27
+  Legs: -0.68
+FaceMorphs:
+- Index: 10062
+  Position: 0, -0.66, 0
+- Index: 100000
+  Position: 0, 0.85, 0
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: -1, -0.92, 0.31
+- Index: 100002
+  Position: 0.52, -0.72, -0.74
+- Index: 100003
+  Position: 0, 0.44, 0.43
+  Scale: 1
+- Index: 100004
+  Position: 0, -0.45, 0
+  Scale: -0.72
+- Index: 100009
+  Position: 0, 1.18, -0.76
+  Scale: -0.76
+- Index: 100010
+  Position: -1, -0.32, 1
+  Scale: -0.04
+- Index: 100011
+  Position: 0.28, 0.45, 0.27
+- Index: 100012
+  Position: -0.5, -0.58, -0.03
+- Index: 100014
+  Position: 0, 0.62, -0.12
+  Rotation: -0.71, 0, 0
+  Scale: -0.8
+- Index: 100015
+  Position: 0, 0, 0.27
+- Index: 100016
+  Position: 0.42, 0.04, 0.6
+  Rotation: 0, 0, 0.18
+  Scale: -0.32
+- Index: 100017
+  Position: 0, -1, -1
+  Rotation: 0.4, 0, 0
+  Scale: 0.72
+- Index: 100019
+  Position: 0, -1, -1
+  Rotation: -1, 0, 0
+  Scale: -1
+- Index: 100020
+  Position: 0, 1.18, -0.68
+  Scale: -0.48
+- Index: 100021
+  Position: 0, 0.21, 0.54
+  Rotation: 0, 0, 0.91
+- Index: 100022
+  Position: 0, 0, -0.05
+  Scale: 0.41
+- Index: 100023
+  Position: 0, 1, 0
+  Scale: -0.18
+- Index: 100025
+  Position: 0, 0, 0.4
+- Index: 100026
+  Position: -0.81, 0.78, -0.02
+- Index: 100027
+  Position: 0, -1, -0.5
+MajorFlags:
+- 0x40000

@@ -1,0 +1,159 @@
+FormKey: 1BCEA1:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: ParsonsFaceM02
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+XpValueOffset: 21
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 14
+DispositionBase: 35
+UseTemplateActors: 7982
+Unknown: -16332
+Factions:
+- Faction: 058303:Fallout4.esm
+DeathItem: 0DE95D:Fallout4.esm
+Voice: 083C7B:Fallout4.esm
+DefaultTemplate: 0FD39B:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 0FD39B:Fallout4.esm
+  FactionsTemplate: 0FD39B:Fallout4.esm
+  SpellListTemplate: 0FD39B:Fallout4.esm
+  AiPackagesTemplate: 0FD39B:Fallout4.esm
+  InventoryTemplate: 1BCEA0:Fallout4.esm
+  ScriptTemplate: 0FD39B:Fallout4.esm
+  DefPackListTemplate: 0FD39B:Fallout4.esm
+  AttackDataTemplate: 0FD39B:Fallout4.esm
+  KeywordsTemplate: 0FD39B:Fallout4.esm
+Race: 013746:Fallout4.esm
+Skin: 0ADA90:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Perks:
+- Perk: 1C346F:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 30
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 15
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 110
+- ActorValue: 0002E3:Fallout4.esm
+  Value: 5
+- ActorValue: 0002EB:Fallout4.esm
+  Value: 5
+Items:
+- Item:
+    Item: 04E351:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0F2E1E:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0FD39E:Fallout4.esm
+    Count: 1
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Mercenary
+CalculatedHealth: 40
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 051631:Fallout4.esm
+- 0B3DBE:Fallout4.esm
+- 135A97:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042D:Fallout4.esm
+CombatStyle: 064126:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+SoundLevel: Normal
+DefaultOutfit: 0FD39D:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+TextureLighting: '#93D6C5C0'
+Morphs:
+- Key: 921646204
+  Value: 1
+- Key: 921646489
+  Value: 0.55
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 0.58
+  Color: '#00D6C5C0'
+  TemplateColorIndex: 1161
+- DataType: Value
+  Index: 1181
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1202
+  Value: 0.34
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1228
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 9
+  Position: 0, -0.2, 0
+  Scale: -0.02
+- Index: 10
+  Position: -1, 0.09, 0
+- Index: 921646273
+  Position: 0, 0.03, -0.53
+  Scale: 0.78
+- Index: 921646275
+  Position: 0, 1, -1
+  Scale: -0.4
+- Index: 921646278
+  Scale: 0.03
+MajorFlags:
+- 0x40000

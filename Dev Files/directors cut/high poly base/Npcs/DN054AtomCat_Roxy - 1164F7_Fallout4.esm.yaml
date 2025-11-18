@@ -1,0 +1,303 @@
+FormKey: 1164F7:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DN054AtomCat_Roxy
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: Stats
+Factions:
+- Faction: 048641:Fallout4.esm
+Voice: 013ADD:Fallout4.esm
+DefaultTemplate: 0FD39A:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 0FD39A:Fallout4.esm
+Race: 013746:Fallout4.esm
+Skin: 017AD1:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Perks:
+- Perk: 1B40C1:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 055C5A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05E8E5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0F2E1E:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 116863:Fallout4.esm
+- 0B8B14:Fallout4.esm
+Keywords:
+- 0C866F:Fallout4.esm
+- 03D290:Fallout4.esm
+Class: 20F487:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Roxy
+CalculatedHealth: 30
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9C:Fallout4.esm
+- 144A9D:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE65:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.4252
+  Muscular: 0.2197
+  Fat: 0.3552
+SoundLevel: Normal
+DefaultOutfit: 11650E:Fallout4.esm
+CrimeFaction: 048641:Fallout4.esm
+TextureLighting: '#8C939D'
+Morphs:
+- Key: 921646551
+  Value: -0.03
+- Key: 921646553
+  Value: -0.59
+- Key: 921646385
+  Value: 0.68
+- Key: 921646364
+  Value: -0.589572
+- Key: 921646552
+  Value: -0.05
+- Key: 921646722
+  Value: 0.4
+- Key: 921646707
+  Value: 1
+- Key: 921646554
+  Value: 0.48
+- Key: 921646328
+  Value: 0.84
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#008C939D'
+  TemplateColorIndex: 1166
+- DataType: ValueAndColor
+  Index: 1207
+  Value: 0.14
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1241
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.76
+  Color: '#00420D0E'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1720
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1722
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1732
+  Value: 0.26
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1770
+  Value: 0.17
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1772
+  Value: 0.11
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1776
+  Value: 0.21
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1778
+  Value: 0.17
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1780
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1824
+  Value: 0.12
+  Color: '#00991BE4'
+  TemplateColorIndex: 1865
+- DataType: ValueAndColor
+  Index: 1830
+  Value: 0.52
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1860
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1862
+  Value: 0.9
+  Color: '#00382F25'
+  TemplateColorIndex: 1836
+- DataType: ValueAndColor
+  Index: 1874
+  Value: 0.35
+  Color: '#0061CBCB'
+  TemplateColorIndex: 1873
+BodyMorphRegionValues:
+  Head: -0.18
+  UpperTorso: 0.57
+  Arms: -0.38
+  LowerTorso: 0.3
+  Legs: 0.48
+FaceMorphs:
+- Index: 10062
+  Position: 0.142047, 0.106065, -0.0473
+- Index: 10063
+  Position: 0, 0.086601, -0.046355
+- Index: 100000
+  Position: -0.281177, 0.149746, 0.183227
+  Rotation: -0.238763, 0, 0
+- Index: 100001
+  Position: -0.1817, 0.180897, 0.177306
+- Index: 100002
+  Position: 0.014029, 0.022569, -0.11709
+- Index: 100003
+  Position: 0.027958, -0.01, 0.109507
+  Scale: 0.121296
+- Index: 100004
+  Position: 0, -0.262472, 0.09
+  Scale: 0.34
+- Index: 100005
+  Position: 0.008335, -0.007101, 0.090838
+  Rotation: 0, 0.035886, 0
+  Scale: -0.08479
+- Index: 100006
+  Position: 0.175085, -0.166878, -0.057604
+- Index: 100007
+  Position: -0.282045, 0.060657, 0.090903
+- Index: 100008
+  Position: 0.157211, -0.20463, 0.190539
+  Scale: -0.010731
+- Index: 100009
+  Position: 0.00575, 0.198907, -0.27926
+  Scale: -0.080138
+- Index: 100010
+  Position: -0.008939, -0.086268, 0.129424
+  Scale: -0.217613
+- Index: 100011
+  Position: -0.172516, 0.284591, 0.157894
+  Scale: 0.250807
+- Index: 100012
+  Position: -0.227707, 0.008724, -0.1
+- Index: 100013
+  Position: 0, 0.114229, -0.069259
+- Index: 100014
+  Position: -0.153755, 0.120152, -0.051666
+  Rotation: -0.037119, 0, 0
+  Scale: 0.011172
+- Index: 100015
+  Position: 0, 0, 0.218463
+- Index: 100016
+  Position: 0.26, -0.01, -0.129711
+  Rotation: -0.055515, 0, 0.164918
+  Scale: 0.21
+- Index: 100017
+  Position: 0.17624, -0.167946, -0.170421
+  Rotation: 0.166095, 0, 0
+  Scale: -0.172033
+- Index: 100018
+  Position: 0, -0.230216, -0.208345
+  Scale: -0.169233
+- Index: 100019
+  Position: 0.294008, 0.27, 0.092314
+  Rotation: -0.152334, 0, 0
+  Scale: 0.1
+- Index: 100020
+  Position: 0.24442, 0.28186, 0.281869
+  Scale: -0.142765
+- Index: 100021
+  Position: -0.15929, -0.020931, 0.224586
+  Rotation: 0, 0, 0.133571
+- Index: 100022
+  Position: 0, -0.234951, 0.162627
+  Scale: 0.248846
+- Index: 100023
+  Position: 0, 0.227507, 0.068179
+  Scale: 0.153217
+- Index: 100024
+  Position: 0, 0.281613, 0.032071
+  Scale: 0.133685
+- Index: 100025
+  Position: 0.006471, -0.032782, 0.270152
+- Index: 100026
+  Position: 0.097197, 0.148185, 0.260422
+- Index: 100027
+  Position: 0, 0.254455, -0.005256
+FacialMorphIntensity: 1.5
+MajorFlags:
+- 0x40000

@@ -1,0 +1,205 @@
+FormKey: 002F10:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MalcolmLatimer
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 1241
+Factions:
+- Faction: 002CB3:Fallout4.esm
+- Faction: 06A68C:Fallout4.esm
+- Faction: 1E889D:Fallout4.esm
+Voice: 02FCD9:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 06A68E:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: ViolenceAgainstEnemies
+Assistance: HelpsAllies
+Packages:
+- 02FCDA:Fallout4.esm
+- 002F76:Fallout4.esm
+- 004B61:Fallout4.esm
+- 136327:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Malcom Latimer
+ShortName:
+  TargetLanguage: English
+  Value: Malcom
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1E5E7E:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.6816
+  Muscular: 0.0867
+  Fat: 0.2316
+SoundLevel: Normal
+DefaultOutfit: 12A1A7:Fallout4.esm
+CrimeFaction: 1E889D:Fallout4.esm
+HeadTexture: 128C59:Fallout4.esm
+TextureLighting: '#7E8D9C'
+Morphs:
+- Key: 921646639
+  Value: 1
+- Key: 921646200
+  Value: -0.25
+- Key: 921646241
+  Value: 1
+- Key: 921646549
+  Value: -0.07
+- Key: 921646548
+  Value: -0.05
+- Key: 921646602
+  Value: 0.7
+- Key: 921646650
+  Value: 1
+- Key: 921646547
+  Value: -0.03
+- Key: 921646620
+  Value: 0.48
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#007E8D9C'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1199
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  LowerTorso: -0.16
+  Legs: -0.47
+FaceMorphs:
+- Index: 0
+  Position: 0.292684, 0.83, 1
+  Rotation: -0.17, 0, 0
+- Index: 1
+  Position: 0.048426, 0.03, 0.38
+- Index: 2
+  Position: -0.206953, 0.52, -0.53
+- Index: 3
+  Position: -0.04, -0.53, 0.29
+  Scale: 0.18
+- Index: 4
+  Position: 0, 0, 0.36
+  Scale: 0.026018
+- Index: 5
+  Position: -0.11, -0.55, 0.47
+  Rotation: 0, -0.109246, 0
+  Scale: -0.02
+- Index: 6
+  Position: -0.035689, 0.037353, -0.108468
+- Index: 7
+  Position: -0.174988, -0.022664, 0.222107
+- Index: 8
+  Position: -0.170886, 0.263308, -0.063363
+  Scale: -0.191584
+- Index: 9
+  Position: 0, 0.28, 0.59
+  Scale: -0.4
+- Index: 10
+  Position: 0.26, -0.55, -0.07
+  Scale: 0.54
+- Index: 25
+  Position: 0, -0.59, 0.47
+  Scale: 0.73
+- Index: 26
+  Position: -0.3, -0.1, 0.49
+- Index: 27
+  Position: -0.79, -0.35, 0.34
+- Index: 62
+  Position: 0.182631, -0.275081, 0.187109
+- Index: 63
+  Position: 0, -1, 0.08
+- Index: 921646266
+  Position: 0.03, -0.63, -0.45
+  Scale: 0.09
+- Index: 921646267
+  Position: -0.23, -0.51, -0.060655
+- Index: 921646268
+  Position: 0, 0.65, 0.18
+- Index: 921646269
+  Position: 0.37, -0.53, -0.58
+  Scale: 0.57
+- Index: 921646270
+  Position: 0, 0, 0.72
+- Index: 921646271
+  Position: 0.2, 0.55, 0.82
+  Rotation: -0.27, 0, -0.3
+  Scale: 0.81
+- Index: 921646272
+  Position: 0, -0.02, 0.83
+- Index: 921646273
+  Position: 0.06, 0.68, 0.48
+  Scale: 0.26
+- Index: 921646274
+  Position: 0, 0.3, -0.43
+  Scale: -0.23
+- Index: 921646275
+  Position: 0.068885, 0.03, 0.14
+  Scale: 0.21
+- Index: 921646276
+  Position: 0, -0.56, 0.11
+  Scale: -0.08
+- Index: 921646277
+  Position: 0.14281, -0.26, -0.085575
+  Rotation: 0, 0, -0.100287
+- Index: 921646278
+  Position: 0, -0.17, 0.061315
+  Scale: 0.06
+- Index: 921646279
+  Position: 0, 0.54, 0.027935
+  Scale: -0.54
+MajorFlags:
+- 0x40000

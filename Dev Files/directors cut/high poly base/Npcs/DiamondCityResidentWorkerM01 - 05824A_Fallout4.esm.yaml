@@ -1,0 +1,131 @@
+FormKey: 05824A:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DiamondCityResidentWorkerM01
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 7706
+Factions:
+- Faction: 002CB3:Fallout4.esm
+- Faction: 002CB4:Fallout4.esm
+- Faction: 0035DE:Fallout4.esm
+- Faction: 005818:Fallout4.esm
+- Faction: 02CB15:Fallout4.esm
+- Faction: 059AAB:Fallout4.esm
+  Rank: -1
+- Faction: 176058:Fallout4.esm
+Voice: 00002D:Fallout4.esm
+DefaultTemplate: 00365D:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 00365D:Fallout4.esm
+  SpellListTemplate: 00365D:Fallout4.esm
+  AiDataTemplate: 00365D:Fallout4.esm
+  ScriptTemplate: 00365D:Fallout4.esm
+  DefPackListTemplate: 00365D:Fallout4.esm
+  AttackDataTemplate: 00365D:Fallout4.esm
+  KeywordsTemplate: 00365D:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 023329:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 028EC3:Fallout4.esm
+- 003673:Fallout4.esm
+- 002F77:Fallout4.esm
+- 023331:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Resident
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 08E1AA:Fallout4.esm
+- 08E1AB:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A95:Fallout4.esm
+- 14108D:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042C:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+SoundLevel: Normal
+DefaultOutfit: 14D254:Fallout4.esm
+CrimeFaction: 002CB4:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646208
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1167
+  Value: 0.31
+  Color: '#00000000'
+  TemplateColorIndex: 1168
+- DataType: Value
+  Index: 1181
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1199
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1202
+  Value: 0.34
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 1
+  Position: 0, 0.23, 0
+- Index: 2
+  Position: 0, 1, 0
+MajorFlags:
+- 0x40000

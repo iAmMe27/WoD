@@ -1,0 +1,155 @@
+FormKey: 148B75:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: NathanFilmore
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Factions:
+- Faction: 05E558:Fallout4.esm
+- Faction: 0A95E6:Fallout4.esm
+- Faction: 1ADB56:Fallout4.esm
+Voice: 00002D:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Class: 123E22:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Nathan Filmore
+ShortName:
+  TargetLanguage: English
+  Value: Nathan
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A98:Fallout4.esm
+- 14108D:Fallout4.esm
+- 141091:Fallout4.esm
+- 1411C4:Fallout4.esm
+- 1411C5:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+SoundLevel: Normal
+DefaultOutfit: 1209F5:Fallout4.esm
+CrimeFaction: 0A95E6:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646204
+  Value: 1
+- Key: 921646248
+  Value: 1
+FaceTintingLayers:
+- DataType: Value
+  Index: 1195
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 0
+  Position: 0.343249, 0.144141, 0.265816
+  Rotation: -0.336779, 0, 0
+- Index: 1
+  Position: -0.308496, -0.22, 0.205654
+- Index: 2
+  Position: -0.07, 1, -0.110102
+- Index: 3
+  Position: 0.157279, -0.312048, -0.303925
+- Index: 4
+  Position: 0, 0, -0.127721
+  Scale: -0.049313
+- Index: 5
+  Position: 0, -0.302136, -0.262461
+  Rotation: 0, 0.03397, 0
+  Scale: -0.211285
+- Index: 6
+  Position: -0.026882, -0.18741, 0.277947
+- Index: 7
+  Position: -0.00865, 0.303725, -0.357863
+- Index: 8
+  Position: 0.136516, 0.180949, 0.154362
+- Index: 9
+  Position: 0, 0.364446, 0.342391
+  Scale: -0.225728
+- Index: 10
+  Position: 0.269188, -0.387389, -0.193378
+- Index: 25
+  Position: 0, 0.143853, -0.214732
+- Index: 26
+  Position: 0.258361, 0.213276, -0.351214
+- Index: 27
+  Position: -0.09846, 0.063055, 0.184239
+- Index: 921646266
+  Position: 0.336771, 0.224826, 0.284542
+- Index: 921646267
+  Position: 0, 0.319333, -0.145824
+- Index: 921646268
+  Position: 0, 0.136779, 0.116857
+- Index: 921646269
+  Position: -0.282765, 0.134145, 0.02894
+  Scale: -0.00105
+- Index: 921646270
+  Position: 0, 0, -0.210566
+- Index: 921646271
+  Position: -0.04, -0.09, -0.05
+  Rotation: 0.03, 0, -0.07
+  Scale: 0.06
+- Index: 921646272
+  Position: 0, -0.100489, 0.381365
+- Index: 921646273
+  Position: 0.39148, -0.042422, 0.067316
+  Scale: -0.352516
+- Index: 921646274
+  Position: 0, 0.096417, 0.201458
+- Index: 921646275
+  Position: 0.19846, -0.079917, -0.200943
+  Scale: 0.090639
+- Index: 921646276
+  Position: -0.236116, -0.121874, 0.223816
+- Index: 921646277
+  Position: 0.170236, 0.190304, -0.172984
+  Rotation: 0, 0, -0.005662
+- Index: 921646278
+  Position: 0, 0.265812, -0.314552
+  Scale: 0.176165
+- Index: 921646279
+  Position: 0, -0.084907, -0.385371
+  Scale: -0.287362
+MajorFlags:
+- 0x40000

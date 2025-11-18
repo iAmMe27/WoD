@@ -1,0 +1,225 @@
+FormKey: 038B31:DLCCoast.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC03_Vault118_SantiagoAvida_Prewar
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Factions:
+- Faction: 020629:DLCCoast.esm
+Voice: 020621:DLCCoast.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 004822:Fallout4.esm
+    Count: 1
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+NoSlowApproach: True
+Class: 20F487:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Santiago Avida
+ShortName:
+  TargetLanguage: English
+  Value: Santiago
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051EAC:Fallout4.esm
+- 051EB6:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 141091:Fallout4.esm
+- 1891FC:Fallout4.esm
+- 1891FD:Fallout4.esm
+- 1D7F9E:Fallout4.esm
+- 1E55C0:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.738526
+  Muscular: 0.132948
+  Fat: 0.128526
+SoundLevel: Normal
+DefaultOutfit: 10B6C0:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646310
+  Value: 0.75
+- Key: 921646550
+  Value: 0.23
+- Key: 921646605
+  Value: 0.71
+- Key: 921646547
+  Value: 0.42
+- Key: 921646608
+  Value: 0.3
+- Key: 921646655
+  Value: 0.81
+- Key: 921646549
+  Value: 0.560169
+- Key: 921646274
+  Value: 0.92
+- Key: 921646615
+  Value: 0.32
+- Key: 921646200
+  Value: -0.41
+- Key: 921646513
+  Value: 0.63
+- Key: 921646548
+  Value: -0.64
+FaceTintingLayers:
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1256
+  Value: 0.39
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1370
+  Value: 0.38
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1558
+  Value: 0.69
+  Color: '#005A1214'
+  TemplateColorIndex: 1660
+- DataType: Value
+  Index: 1563
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1565
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1640
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.905372
+  UpperTorso: -0.845016
+  Arms: -0.371091
+  LowerTorso: -0.527674
+  Legs: -0.206121
+FaceMorphs:
+- Index: 0
+  Position: -0.15006, 0.920251, 0.883894
+  Rotation: -0.629331, 0, 0
+- Index: 1
+  Position: 0.653901, 0.102839, -0.813602
+- Index: 2
+  Position: 0.901673, -0.085115, 0.126086
+- Index: 3
+  Position: 0.157128, 0.26874, 0.885636
+  Scale: 0.760985
+- Index: 4
+  Position: 0, 0, 0.142673
+  Scale: -0.374864
+- Index: 5
+  Position: -0.838485, -0.634031, -0.074219
+  Rotation: 0, 0.617843, 0
+  Scale: -0.299808
+- Index: 6
+  Position: 0.449015, -0.503873, 0.925295
+- Index: 7
+  Position: 0.735125, 0.567008, -0.832324
+- Index: 8
+  Position: -0.761518, -0.92618, 0.007878
+  Scale: -0.951072
+- Index: 9
+  Position: -0.923777, -0.720191, 0.460011
+  Scale: -0.25197
+- Index: 10
+  Position: 0.195894, -0.757371, -0.145898
+  Scale: -0.023346
+- Index: 25
+  Position: 0, -0.920018, -0.914692
+  Scale: -0.873405
+- Index: 26
+  Position: -0.548835, 0.24172, -0.513849
+- Index: 27
+  Position: 0.906565, 0.128459, -0.643159
+- Index: 62
+  Position: -0.461805, -0.334681, -0.064328
+- Index: 63
+  Position: 0, -0.750963, -0.582849
+- Index: 921646266
+  Position: 0.064845, 0.163631, -0.457312
+  Scale: 0.681934
+- Index: 921646267
+  Position: -0.226911, -0.714714, -0.787975
+- Index: 921646268
+  Position: 0, -0.14879, -0.162215
+- Index: 921646269
+  Position: -0.553483, 0.434184, 0.091341
+  Rotation: -0.105152, 0, 0
+  Scale: 0.882223
+- Index: 921646270
+  Position: 0, 0, -0.272941
+- Index: 921646271
+  Position: 0.578597, 0.088254, 0.223595
+  Rotation: 0.686099, 0, 0.625845
+  Scale: 0.251356
+- Index: 921646272
+  Position: 0, -0.947967, -0.851532
+- Index: 921646273
+  Position: -0.875859, -0.731586, -0.969654
+  Rotation: 0.141946, 0, 0
+  Scale: 0.52463
+- Index: 921646274
+  Position: 0, 0.026163, 0.737607
+  Scale: -0.705747
+- Index: 921646275
+  Position: -0.992407, -0.083819, -0.528695
+  Rotation: -0.628636, 0, 0
+  Scale: -0.804274
+- Index: 921646276
+  Position: 0.29, -0.28, 0.04
+  Scale: 0.55
+- Index: 921646277
+  Position: 0.02, -0.266598, 0.31
+  Rotation: 0, 0, -0.45
+- Index: 921646278
+  Position: 0, -0.006061, -0.529062
+  Scale: 0.789972
+- Index: 921646279
+  Position: 0, -0.67144, -0.536053
+  Scale: -0.15
+MajorFlags:
+- 0x40000

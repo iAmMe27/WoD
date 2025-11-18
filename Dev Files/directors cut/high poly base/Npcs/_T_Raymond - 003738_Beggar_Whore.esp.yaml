@@ -1,0 +1,248 @@
+FormKey: 003738:Beggar_Whore.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: _T_Raymond
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: Tentacus:Beggar_Whore:Pimp_Fragments:_T_PimpDeath
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_Following
+      Object: 003D99:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_Pimped
+      Object: 009A25:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_PimpFaction
+      Object: 009A26:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_SexOrders
+      Object: 002850:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_ShameOrders
+      Object: 002851:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- IsCharGenFacePreset
+- AutoCalcStats
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 50
+CalcMinLevel: 10
+CalcMaxLevel: 40
+DispositionBase: 35
+Unknown: 17137
+Factions:
+- Faction: 004C80:Beggar_Whore.esp
+Voice: 000F9A:Beggar_Whore.esp
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+  Value: 7
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C4:Fallout4.esm
+  Value: 6
+- ActorValue: 0002C5:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C6:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C8:Fallout4.esm
+  Value: 8
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 60
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 00000F:Fallout4.esm
+    Count: 600
+- Item:
+    Item: 09221C:Fallout4.esm
+    Count: 30
+- Item:
+    Item: 0CE97D:Fallout4.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Assistance: HelpsFriendsAndAllies
+NoSlowApproach: True
+Packages:
+- 005CD3:Beggar_Whore.esp
+- 00A1D5:Beggar_Whore.esp
+- 00A1D4:Beggar_Whore.esp
+Keywords:
+- 1D03E1:Fallout4.esm
+- 0AD52A:Fallout4.esm
+- 23F1CA:Fallout4.esm
+Class: 076A06:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Mister Raymond
+ShortName:
+  TargetLanguage: English
+  Value: Mister Raymond
+CalculatedHealth: 385
+CalculatedActionPoints: 60
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 051631:Fallout4.esm
+- 135AA1:Fallout4.esm
+- 13A21D:Fallout4.esm
+- 1E55CB:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042C:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1706
+  Muscular: 0.2145
+  Fat: 0.615
+SoundLevel: Normal
+DefaultOutfit: 003739:Beggar_Whore.esp
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646514
+  Value: 1
+- Key: 921646550
+  Value: 1
+- Key: 921646605
+  Value: 1
+- Key: 921646547
+  Value: -1
+- Key: 921646632
+  Value: 1
+- Key: 921646549
+  Value: 0.120763
+- Key: 921646614
+  Value: 1
+- Key: 921646207
+  Value: 0.362952
+- Key: 921646297
+  Value: 1
+- Key: 921646548
+  Value: -0.492268
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: Value
+  Index: 1256
+  Value: 0.57
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1562
+  Value: 0.28
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1564
+  Value: 0.34
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1643
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  LowerTorso: -0.16
+  Legs: -0.46
+FaceMorphs:
+- Index: 0
+  Position: -0.680767, 0.234993, -1
+  Rotation: -1, 0, 0
+- Index: 1
+  Position: -0.616487, -0.668962, -1
+- Index: 2
+  Position: 0.966658, -0.308881, -0.8
+- Index: 3
+  Position: 0.2, 0.144238, -0.977715
+  Scale: -1
+- Index: 4
+  Position: 0, 0, 0.240154
+  Scale: -0.42
+- Index: 5
+  Position: 0.5, 0.470295, -1
+- Index: 6
+  Position: 1, -0.000454, 0
+- Index: 7
+  Position: -1, 0.334709, 0.28
+- Index: 9
+  Position: 0.289596, 0.988252, 0.2
+  Scale: -1
+- Index: 10
+  Position: -0.3, -0.742048, 0.242907
+  Scale: -1
+- Index: 25
+  Position: 0, -1, 0.4
+  Scale: -1
+- Index: 26
+  Position: 0.156671, 0.66635, -0.1
+- Index: 27
+  Position: -1, -0.653784, -0.4
+- Index: 62
+  Position: -1, -1, -1
+- Index: 63
+  Position: 0, 0.028625, -1
+- Index: 921646266
+  Position: 0.2, -0.051683, -0.997324
+  Scale: 0.3
+- Index: 921646267
+  Position: -0.18, -0.002338, -0.047894
+- Index: 921646268
+  Position: 0, -0.729617, -1
+- Index: 921646269
+  Position: -1, 0.175596, -1
+  Rotation: -1, 0, 0
+  Scale: 0.4
+- Index: 921646270
+  Position: 0, 0, -0.2
+- Index: 921646271
+  Position: 0.96176, -0.83106, 0
+  Rotation: 0, 0, -0.3
+  Scale: -1
+- Index: 921646272
+  Position: 0, 1, -0.313272
+- Index: 921646273
+  Position: -0.619397, 1, -0.4
+  Rotation: -0.4, 0, 0
+  Scale: 1
+- Index: 921646274
+  Position: 0, -0.533034, -1
+  Scale: 1
+- Index: 921646275
+  Position: -0.623098, -0.727658, -0.2
+  Rotation: 0.4, 0, 0
+  Scale: 0.3
+- Index: 921646276
+  Position: 1, -0.159313, -1
+  Scale: 0.4
+- Index: 921646277
+  Position: -0.38452, 0.561432, -0.56
+  Rotation: 0, 0, 0.5
+- Index: 921646278
+  Position: 0, 0.00842, 1
+  Scale: -0.9
+- Index: 921646279
+  Position: 0, -1, 0.2
+  Scale: 0.06
+MajorFlags:
+- 0x40000

@@ -1,0 +1,207 @@
+FormKey: 015DAA:behSlaveMarket.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: behSlaveMarketGuard03
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: PcLevelMult
+  LevelMult: 1
+CalcMinLevel: 20
+CalcMaxLevel: 50
+DispositionBase: 35
+Unknown: -20829
+Factions:
+- Faction: 00CE4E:behSlaveMarket.esm
+Voice: 00ED01:HumanResources.esp
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 240
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 01F66B:Fallout4.esm
+    Count: 8
+- Item:
+    Item: 023736:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 04F46A:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 015DB0:behSlaveMarket.esm
+- 015DAF:behSlaveMarket.esm
+Class: 002F64:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Robert Baste
+ShortName:
+  TargetLanguage: English
+  Value: Rob
+CalculatedHealth: 375
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 051EA7:Fallout4.esm
+- 051EAD:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 197B9D:Fallout4.esm
+- 197BA2:Fallout4.esm
+- 1E55BC:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE65:Fallout4.esm
+FacialHairColor: 19EE65:Fallout4.esm
+CombatStyle: 029970:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.6281
+  Muscular: 0.2139
+  Fat: 0.1581
+SoundLevel: Normal
+DefaultOutfit: 011A15:behSlaveMarket.esm
+HeadTexture: 16F83D:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646604
+  Value: 1
+- Key: 921646550
+  Value: -0.214616
+- Key: 921646613
+  Value: 1
+- Key: 921646547
+  Value: 0.23
+- Key: 921646608
+  Value: 0.52
+- Key: 921646200
+  Value: -0.49
+- Key: 921646549
+  Value: 0.05
+- Key: 921646274
+  Value: 0.98
+- Key: 921646300
+  Value: 0.57
+- Key: 921646646
+  Value: 0.96
+- Key: 921646311
+  Value: 1
+- Key: 921646548
+  Value: 0.21
+BodyMorphRegionValues:
+  LowerTorso: -0.16
+  Legs: -0.47
+FaceMorphs:
+- Index: 0
+  Position: 0.0648, 0.11, 0.010102
+  Rotation: 0.06839, 0, 0
+- Index: 1
+  Position: 5.3E-05, 0.081723, -0.061404
+- Index: 2
+  Position: -0.063408, 0.065719, -0.020488
+- Index: 3
+  Position: 0.022023, -0.02039, 0.068592
+  Scale: 0.023195
+- Index: 4
+  Position: 0, 0, -0.001909
+  Scale: 0.059892
+- Index: 5
+  Position: 0.091675, -0.048953, -0.074312
+  Rotation: 0, 0.044266, 0
+  Scale: -0.036536
+- Index: 6
+  Position: -0.01996, 0.00622, 0.059289
+- Index: 7
+  Position: -0.053003, 0.019615, -0.053008
+- Index: 8
+  Position: -0.087117, -0.012947, 0.040134
+  Scale: -0.066036
+- Index: 9
+  Position: -0.061222, 0.043483, 0.081126
+  Scale: -0.07
+- Index: 10
+  Position: 0.31, 0.47, 0.06
+  Scale: -0.44
+- Index: 25
+  Position: 0, -0.052608, -0.005164
+  Scale: -0.041228
+- Index: 26
+  Position: -0.091138, 0.051545, 0.044171
+- Index: 27
+  Position: -0.028535, 0.022191, -0.0067
+- Index: 62
+  Position: -0.060178, 0.078192, 0.060191
+- Index: 63
+  Position: 0, -0.050413, -0.049859
+  Scale: -0.12
+- Index: 921646266
+  Position: -0.080902, 0.063323, -0.018507
+  Scale: 0.029263
+- Index: 921646267
+  Position: -0.037251, 0.048047, 0.002419
+- Index: 921646268
+  Position: 0, -0.057576, -0.016895
+- Index: 921646269
+  Position: -0.042845, 0.11, -0.25
+  Scale: 0.024137
+- Index: 921646270
+  Position: 0, 0, 0.0234
+- Index: 921646271
+  Position: 0.24, -0.022111, 0.33
+  Rotation: 0.062719, 0, -0.088805
+  Scale: -0.030159
+- Index: 921646272
+  Position: 0, -0.077347, -0.083963
+- Index: 921646273
+  Position: -0.025923, -0.088079, -0.28
+  Rotation: 0.23, 0, 0
+  Scale: -0.031713
+- Index: 921646274
+  Position: 0, 0.63, -0.074146
+  Scale: 0.036776
+- Index: 921646275
+  Position: -0.055292, 0.27, -0.04
+  Scale: -0.14
+- Index: 921646276
+  Position: 0.000614, -0.020018, -0.01
+  Scale: -0.05396
+- Index: 921646277
+  Position: -0.011493, -0.05, 0.006461
+  Rotation: 0, 0, -0.33
+- Index: 921646278
+  Position: 0, 0.000676, 0.072794
+  Scale: -0.059094
+- Index: 921646279
+  Position: 0, -0.097316, 0.091058
+  Scale: 0.027757
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

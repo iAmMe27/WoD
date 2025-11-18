@@ -1,0 +1,190 @@
+FormKey: 051E90:DLCNukaWorld.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC04PackAmphitheaterCaptiveF02
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Protected
+XpValueOffset: 5
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 2
+DispositionBase: 35
+UseTemplateActors: 2059
+Unknown: -8
+Factions:
+- Faction: 051E8C:DLCNukaWorld.esm
+Voice: 013ADD:Fallout4.esm
+DefaultTemplate: 113347:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 113347:Fallout4.esm
+  StatsTemplate: 113347:Fallout4.esm
+  SpellListTemplate: 113347:Fallout4.esm
+  AttackDataTemplate: 113347:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 051E96:DLCNukaWorld.esm
+Keywords:
+- 03D292:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Pack Captive
+CalculatedHealth: 100
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 0F9E23:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 186FC1:Fallout4.esm
+- 1E55C3:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A0431:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.333333
+  Muscular: 0.333333
+  Fat: 0.333333
+SoundLevel: Normal
+DefaultOutfit: 026217:DLCNukaWorld.esm
+HeadTexture: 09BF1E:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646551
+  Value: -0.48
+- Key: 921646553
+  Value: -0.02
+- Key: 921646420
+  Value: 1
+- Key: 921646364
+  Value: 0.31
+- Key: 921646552
+  Value: -0.44
+- Key: 921646746
+  Value: 1
+- Key: 921646383
+  Value: 1
+- Key: 921646554
+  Value: 0.05
+- Key: 921646323
+  Value: 0.58
+BodyMorphRegionValues:
+  Head: 0.9973
+  UpperTorso: -0.28
+  Arms: 0.7407
+  LowerTorso: 0.13
+  Legs: 0.0627
+FaceMorphs:
+- Index: 10062
+  Position: 0.331611, -0.03, 0.23
+- Index: 10063
+  Position: 0, -0.188247, -0.24313
+- Index: 100000
+  Position: -0.131187, 0.230181, 0.2
+  Rotation: -0.000331, 0, 0
+- Index: 100001
+  Position: 0.140807, -0.49, -0.080344
+- Index: 100002
+  Position: -0.260331, 0.58, 0.030111
+- Index: 100003
+  Position: -0.27, 0.31, 0.27
+  Scale: 0.119063
+- Index: 100004
+  Position: 0, 1, 0.16
+  Scale: 0.193011
+- Index: 100005
+  Position: -0.027162, -0.240685, 0.114579
+  Rotation: 0, -0.201639, 0
+  Scale: -0.162215
+- Index: 100006
+  Position: -0.059267, 0.034102, -0.150893
+- Index: 100007
+  Position: 0.067901, 0.340195, 0.075446
+- Index: 100008
+  Position: -0.123496, -0.339869, 0.279274
+  Scale: -0.219768
+- Index: 100009
+  Position: -0.349868, 0, 0.92
+  Scale: -0.167872
+- Index: 100010
+  Position: 0.200508, 0.144465, -0.04
+  Scale: 0.26
+- Index: 100011
+  Position: 0.04, -0.6, -0.12
+  Scale: -0.013742
+- Index: 100012
+  Position: -0.021308, -1, 0.56
+- Index: 100013
+  Position: 0, 0.329888, -0.287176
+- Index: 100014
+  Position: -0.03, -0.03, 0.32
+  Rotation: -0.08, 0, 0
+  Scale: 0.51
+- Index: 100015
+  Position: 0, 0, 0.257646
+- Index: 100016
+  Position: 0.44, 0.261483, 0.41
+  Rotation: 0.200258, 0, -0.32
+  Scale: -0.1
+- Index: 100017
+  Position: -0.256359, 1, -0.32
+  Rotation: -0.34, 0, 0
+  Scale: -1
+- Index: 100018
+  Position: 0, -0.000285, 0.124495
+  Scale: 0.079831
+- Index: 100019
+  Position: 0.069175, 0.17, -0.2
+  Rotation: -0.4, 0, 0
+  Scale: -0.13
+- Index: 100020
+  Position: 0.002986, -0.31, 0.55
+  Scale: -0.05
+- Index: 100021
+  Position: -0.16, -0.27, -0.14
+- Index: 100022
+  Position: 0, 0.020183, -0.59
+  Scale: 0.62
+- Index: 100023
+  Position: 0, -0.63, -0.73
+  Scale: -1
+- Index: 100024
+  Position: 0, -0.68, 0.33
+  Scale: 0.35
+- Index: 100025
+  Position: -0.04, 0.82, -0.04
+- Index: 100026
+  Position: 0.38, -0.79, 0.03
+- Index: 100027
+  Position: 0, 0.42, 0.32
+MajorFlags:
+- 0x40000

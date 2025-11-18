@@ -1,0 +1,235 @@
+FormKey: 000012:JSSynths.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: JS06Gen2XTraitsF1
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- IsCharGenFacePreset
+- Respawn
+XpValueOffset: 70
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 49
+DispositionBase: 35
+UseTemplateActors: 7998
+Unknown: -4113
+Factions:
+- Faction: 05E558:Fallout4.esm
+- Faction: 083B31:Fallout4.esm
+- Faction: 24903B:Fallout4.esm
+DefaultTemplate: 15F03C:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 1A03F7:Fallout4.esm
+  FactionsTemplate: 15F03C:Fallout4.esm
+  SpellListTemplate: 000018:JSSynths.esp
+  AiDataTemplate: 15F03C:Fallout4.esm
+  AiPackagesTemplate: 15F03C:Fallout4.esm
+  InventoryTemplate: 000018:JSSynths.esp
+  ScriptTemplate: 15F03C:Fallout4.esm
+  DefPackListTemplate: 15F03C:Fallout4.esm
+  AttackDataTemplate: 15F03C:Fallout4.esm
+  KeywordsTemplate: 15F03C:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Perks:
+- Perk: 04A0AF:Fallout4.esm
+  Rank: 1
+- Perk: 04A0B8:Fallout4.esm
+  Rank: 1
+- Perk: 0A2775:Fallout4.esm
+  Rank: 1
+- Perk: 0A2776:Fallout4.esm
+  Rank: 1
+- Perk: 20AEE4:Fallout4.esm
+  Rank: 1
+- Perk: 20AEEB:Fallout4.esm
+  Rank: 1
+- Perk: 20AEF0:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 30
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 15
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 490
+- ActorValue: 0002E3:Fallout4.esm
+  Value: 35
+- ActorValue: 0002EB:Fallout4.esm
+  Value: 25
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1A7777:Fallout4.esm
+    Count: 1
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 1ABC07:Fallout4.esm
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Gen2X Spymaster
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 16CA34:Fallout4.esm
+- 16CA37:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE67:Fallout4.esm
+CombatStyle: 119BB3:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.415954
+  Muscular: 0.208092
+  Fat: 0.375954
+SoundLevel: Normal
+DefaultOutfit: 00002E:JSSynths.esp
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 24903B:Fallout4.esm
+HeadTexture: 04D0EA:Fallout4.esm
+TextureLighting: '#FEF3F1'
+Morphs:
+- Key: 921646720
+  Value: 1
+- Key: 921646349
+  Value: 0.79
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00FEF3F1'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1242
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1717
+  Value: 0.22
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  LowerTorso: -0.16
+  Legs: -0.47
+FaceMorphs:
+- Index: 10062
+  Position: 0.046667, 0.08, -0.1
+- Index: 10063
+  Position: 0, -0.163333, -0.043333
+- Index: 100000
+  Position: 0.066667, 0.333333, 0.24
+  Rotation: -0.303333, 0, 0
+- Index: 100001
+  Position: 0.016667, 0.016667, -0.326667
+- Index: 100002
+  Position: -0.013333, 0.246667, -0.103333
+- Index: 100003
+  Position: 0.03, 0.04, 0.173333
+  Scale: -0.036667
+- Index: 100004
+  Position: 0, 0.09, 0.066667
+  Scale: 0.08
+- Index: 100005
+  Position: 0, 0.086667, 0.07
+  Rotation: 0, -0.043333, 0
+  Scale: 0.03
+- Index: 100006
+  Position: -0.013333, 0.03, 0.063333
+- Index: 100007
+  Position: -0.063333, 0.01, 0.056667
+- Index: 100008
+  Position: -0.07, 0.046667, 0.096667
+  Scale: -0.013333
+- Index: 100009
+  Position: 0.026667, 0.043333, -0.47
+  Scale: 0.086667
+- Index: 100010
+  Position: -0.333333, 0.026667, -0.063333
+  Scale: 0.223333
+- Index: 100011
+  Position: 0.03, 0.05, -0.066667
+  Scale: -0.096667
+- Index: 100012
+  Position: 0.043333, 0.003333, 0.086667
+- Index: 100013
+  Position: 0, -0.08, 0.066667
+- Index: 100014
+  Position: 0.033333, -0.05, -0.116667
+  Scale: -0.023333
+- Index: 100015
+  Position: 0, 0, -0.186667
+- Index: 100016
+  Position: -0.046667, 0.013333, -0.333333
+  Rotation: -0.063333, 0, 0.073333
+  Scale: 0.073333
+- Index: 100017
+  Position: -0.136667, 0.273333, -0.15
+  Rotation: 0.333333, 0, 0
+  Scale: -0.83
+- Index: 100018
+  Position: 0, 0.01, -0.333333
+  Scale: 0.01
+- Index: 100019
+  Position: -0.03, 0.05, 0.31
+  Rotation: 0.39, 0, 0
+  Scale: -0.04
+- Index: 100020
+  Position: 0, 0.04, -0.25
+  Scale: 0.07
+- Index: 100021
+  Position: 0.09, -0.186667, -0.073333
+  Rotation: 0, 0, 0.03
+- Index: 100022
+  Position: 0, -0.096667, -0.216667
+  Scale: -0.153333
+- Index: 100023
+  Position: 0, -0.003333, 0.146667
+  Scale: -0.093333
+- Index: 100024
+  Position: 0, -0.01, -0.81
+  Scale: 0.083333
+- Index: 100025
+  Position: 0, -0.08, 0.003333
+- Index: 100026
+  Position: -0.053333, -0.143333, -0.093333
+- Index: 100027
+  Position: 0, -0.003333, -0.016667
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

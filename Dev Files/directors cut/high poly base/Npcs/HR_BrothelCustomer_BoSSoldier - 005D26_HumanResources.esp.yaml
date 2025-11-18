@@ -1,0 +1,122 @@
+FormKey: 005D26:HumanResources.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: HR_BrothelCustomer_BoSSoldier
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- AutoCalcStats
+- NoActivationOrHellos
+XpValueOffset: 5
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 7999
+Factions:
+- Faction: 016639:behSlaveMarket.esm
+- Faction: 0337F3:Fallout4.esm
+DeathItem: 077D1F:Fallout4.esm
+Voice: 077D1B:Fallout4.esm
+DefaultTemplate: 005D22:HumanResources.esp
+TemplateActors:
+  TraitTemplate: 005D29:HumanResources.esp
+  StatsTemplate: 076A03:Fallout4.esm
+  FactionsTemplate: 005D22:HumanResources.esp
+  SpellListTemplate: 076A03:Fallout4.esm
+  AiDataTemplate: 005D22:HumanResources.esp
+  AiPackagesTemplate: 005D22:HumanResources.esp
+  InventoryTemplate: 16014D:Fallout4.esm
+  ScriptTemplate: 005D22:HumanResources.esp
+  DefPackListTemplate: 005D22:HumanResources.esp
+  AttackDataTemplate: 076A03:Fallout4.esm
+  KeywordsTemplate: 005D22:HumanResources.esp
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Perks:
+- Perk: 1B40C1:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 30
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 15
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: -10
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 160154:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 0054BB:HumanResources.esp
+Keywords:
+- 0C866C:Fallout4.esm
+- 022E49:Fallout4.esm
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Brotherhood Soldier
+CalculatedHealth: 30
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 086320:Fallout4.esm
+- 086321:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A96:Fallout4.esm
+- 14108D:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042F:Fallout4.esm
+CombatStyle: 03183B:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1
+  Muscular: 0.75
+  Fat: 0.15
+SoundLevel: Normal
+DefaultOutfit: 076A26:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646213
+  Value: 1
+MajorFlags:
+- 0x40000

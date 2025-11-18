@@ -1,0 +1,209 @@
+FormKey: 0B1E28:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: BoSM01_KnightAstlin
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- OppositeGenderAnims
+XpValueOffset: 5
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 7742
+Factions:
+- Faction: 05DE41:Fallout4.esm
+- Faction: 1479C1:Fallout4.esm
+Voice: 0ABE9C:Fallout4.esm
+DefaultTemplate: 16015D:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 16015D:Fallout4.esm
+  FactionsTemplate: 16015D:Fallout4.esm
+  SpellListTemplate: 16015D:Fallout4.esm
+  AiDataTemplate: 16015D:Fallout4.esm
+  AiPackagesTemplate: 16015D:Fallout4.esm
+  ScriptTemplate: 16015D:Fallout4.esm
+  DefPackListTemplate: 16015D:Fallout4.esm
+  AttackDataTemplate: 16015D:Fallout4.esm
+  KeywordsTemplate: 16015D:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 40
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 160155:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 02CB72:Fallout4.esm
+- 013794:Fallout4.esm
+- 076A08:Fallout4.esm
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Knight Astlin
+ShortName:
+  TargetLanguage: English
+  Value: Astlin
+CalculatedHealth: 80
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0E12A1:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 186FC0:Fallout4.esm
+- 1E55C7:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5F:Fallout4.esm
+CombatStyle: 076A09:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1582
+  Muscular: 0.6936
+  Fat: 0.1482
+SoundLevel: Normal
+DefaultOutfit: 162AC4:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+HeadTexture: 09BF1E:Fallout4.esm
+TextureLighting: '#DDE1E3'
+Morphs:
+- Key: 921646551
+  Value: 0.77
+- Key: 921646553
+  Value: -0.77
+- Key: 921646321
+  Value: 1
+- Key: 921646364
+  Value: -0.72
+- Key: 921646736
+  Value: 0.57
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00DDE1E3'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1206
+  Value: 0.58
+  Color: '#00422722'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1242
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1319
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.52
+  Color: '#006A615E'
+  TemplateColorIndex: -1
+BodyMorphRegionValues:
+  Head: 0.56
+  UpperTorso: -0.34
+  Legs: -0.48
+FaceMorphs:
+- Index: 10062
+  Position: 0, 0, -0.22
+- Index: 10063
+  Position: 0, -0.53, -0.36
+- Index: 100000
+  Position: 0, 0.08, -0.89
+- Index: 100001
+  Position: 0.136667, 0.16, 0.42
+- Index: 100002
+  Position: 0, 0.54, -0.03
+- Index: 100004
+  Position: 0, 0, -0.17
+- Index: 100009
+  Position: 0, 0, -0.4
+  Scale: -0.02
+- Index: 100011
+  Position: 0, 0.29, 0
+- Index: 100012
+  Position: 0, -0.23, 0.05
+- Index: 100013
+  Position: 0, 0.03, 0
+- Index: 100014
+  Position: 0, 0.11, -0.17
+  Scale: -0.01
+- Index: 100015
+  Position: 0, 0, -0.42
+- Index: 100016
+  Position: 0.096667, -0.073333, -0.243333
+  Rotation: 0, 0, -0.166667
+  Scale: -0.02
+- Index: 100017
+  Position: -0.36, 0, -0.1
+  Rotation: 0.42, 0, 0
+  Scale: -0.81
+- Index: 100018
+  Position: 0, -0.13, -0.24
+  Scale: -0.79
+- Index: 100020
+  Position: 0, 0.08, -0.23
+  Scale: -0.076667
+- Index: 100021
+  Position: -0.333333, -0.12, 0
+  Rotation: 0, 0, -0.193333
+- Index: 100024
+  Position: 0, -0.31, -0.77
+  Scale: -0.15
+- Index: 100026
+  Position: 0, 0, -0.3
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

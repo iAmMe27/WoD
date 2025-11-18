@@ -1,0 +1,108 @@
+FormKey: 18A8CF:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101VaultTecScientistM04_cryo
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 50
+DispositionBase: 35
+Voice: 0F7009:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 07585D:Fallout4.esm
+- 0CB1D9:Fallout4.esm
+Keywords:
+- 0C866F:Fallout4.esm
+Class: 076A06:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Vault-Tec Doctor
+CalculatedHealth: 335
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 54
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0E12A4:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1411C4:Fallout4.esm
+- 1411C5:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042C:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+SoundLevel: Normal
+DefaultOutfit: 0CB1BC:Fallout4.esm
+HeadTexture: 03B521:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646214
+  Value: 1
+- Key: 921646248
+  Value: 1
+FaceTintingLayers:
+- DataType: Value
+  Index: 1194
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 0
+  Position: 0, 0, -0.3
+- Index: 1
+  Position: 0, 1, 0
+- Index: 2
+  Position: 0, -1, 0
+- Index: 3
+  Position: 0, -0.53, -0.33
+- Index: 921646271
+  Position: 0, 0, 0.01
+  Scale: -0.02
+- Index: 921646273
+  Position: 0.01, -0.27, -0.43
+- Index: 921646275
+  Position: 0, 0.77, -0.82
+- Index: 921646276
+  Position: 0, -1, 0
+- Index: 921646279
+  Position: 0, 0, 1
+MajorFlags:
+- 0x40000

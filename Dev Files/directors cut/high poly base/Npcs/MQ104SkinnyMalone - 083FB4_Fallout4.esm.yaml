@@ -1,0 +1,295 @@
+FormKey: 083FB4:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ104SkinnyMalone
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 3586
+Unknown: 1662
+Factions:
+- Faction: 083AD0:Fallout4.esm
+Voice: 018A83:Fallout4.esm
+DefaultTemplate: 083AD5:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 083AD5:Fallout4.esm
+  ScriptTemplate: 083AD5:Fallout4.esm
+  DefPackListTemplate: 083AD5:Fallout4.esm
+  AttackDataTemplate: 083AD5:Fallout4.esm
+Race: 013746:Fallout4.esm
+ActorEffect:
+- 0D3FC6:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 055C5A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 188B20:Fallout4.esm
+    Count: 1
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 22B60F:Fallout4.esm
+Keywords:
+- 022E49:Fallout4.esm
+- 0C866C:Fallout4.esm
+- 218ADA:Fallout4.esm
+Class: 20F487:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Skinny Malone
+CalculatedHealth: 40
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0E12A4:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1D2A60:Fallout4.esm
+- 1D2A61:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.158
+  Muscular: 0.104
+  Fat: 0.738
+SoundLevel: Normal
+DefaultOutfit: 0B4871:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646639
+  Value: 1
+- Key: 921646550
+  Value: -0.214616
+- Key: 921646200
+  Value: -0.35
+- Key: 921646547
+  Value: -1
+- Key: 921646276
+  Value: 0.43
+- Key: 921646549
+  Value: -0.275877
+- Key: 921646296
+  Value: 0.91
+- Key: 921646613
+  Value: 1
+- Key: 921646515
+  Value: 0.96
+- Key: 921646548
+  Value: 0.21
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00E9DAD8'
+  TemplateColorIndex: 1158
+- DataType: Value
+  Index: 1179
+  Value: 0.41
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1182
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1183
+  Value: 0.24
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1228
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1232
+  Value: 0.09
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1233
+  Value: 0.04
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1236
+  Value: 0.06
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1256
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1257
+  Value: 0.11
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1259
+  Value: 0.45
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1260
+  Value: 0.55
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1377
+  Value: 0.33
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1558
+  Value: 0.52
+  Color: '#00744362'
+  TemplateColorIndex: 1658
+- DataType: Value
+  Index: 1562
+  Value: 0.24
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1563
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.57
+  UpperTorso: 0.7
+  Arms: 0.38
+  LowerTorso: 0.27
+  Legs: 0.11
+FaceMorphs:
+- Index: 0
+  Position: 0.614517, -0.654685, 0.391003
+  Rotation: -0.060981, 0, 0
+- Index: 1
+  Position: 0.361627, -0.295885, 0.108308
+- Index: 2
+  Position: -0.047143, -0.675573, 0.120191
+- Index: 3
+  Position: -0.92, 0.516063, -0.680984
+  Scale: -0.570936
+- Index: 4
+  Position: 0, 0, 0.225468
+  Scale: 0.41
+- Index: 5
+  Position: -0.55, 0.27, 0.558334
+  Rotation: 0, 0.42, 0
+  Scale: 0.08
+- Index: 6
+  Position: 0.576974, -0.038123, -0.463483
+- Index: 7
+  Position: -0.068595, -0.195701, 0.016224
+- Index: 8
+  Position: -0.042496, 0.069559, 0.569512
+  Scale: -0.045113
+- Index: 9
+  Position: 0.49, -0.11, 0.029759
+  Scale: 0.43
+- Index: 10
+  Position: 0.175363, -0.44145, -0.28
+  Scale: -0.531924
+- Index: 25
+  Position: 0, 0.244825, -0.667356
+  Scale: 0.088029
+- Index: 26
+  Position: 0.068684, 0.222051, 0.288981
+- Index: 27
+  Position: -0.620676, 0.21676, -0.220933
+- Index: 62
+  Position: 0.041299, 0.492186, 0.059392
+- Index: 63
+  Position: 0, 0.489213, -0.328507
+- Index: 921646266
+  Position: -0.66, 0.41383, 0.62
+  Scale: -0.433397
+- Index: 921646267
+  Position: -0.35, -0.4, 1
+- Index: 921646268
+  Position: 0, 0.119103, 0.426357
+- Index: 921646269
+  Position: -0.28, -0.359454, 0.37
+  Rotation: 0.52, 0, 0
+  Scale: 0.78
+- Index: 921646270
+  Position: 0, 0, 0.72
+- Index: 921646271
+  Position: 0.5, -0.19, -0.08
+  Rotation: -0.18, 0, -0.4
+  Scale: 0.08
+- Index: 921646272
+  Position: 0, 0.671017, 0.23
+- Index: 921646273
+  Position: 0.13, 0.13, 0.65
+  Rotation: -0.25, 0, 0
+  Scale: -0.558329
+- Index: 921646274
+  Position: 0, 0.584322, -0.516946
+  Scale: 0.309542
+- Index: 921646275
+  Position: 0.24, -0.25, 0.7
+  Rotation: 0.411327, 0, 0
+  Scale: 0.1
+- Index: 921646276
+  Position: -0.34, -0.45, -0.87
+  Scale: 0.34
+- Index: 921646277
+  Position: 0.56938, 0.16, 0.28
+  Rotation: 0, 0, 0.425707
+- Index: 921646278
+  Position: 0, -0.455418, 0.502538
+  Scale: 0.526488
+- Index: 921646279
+  Position: 0, 0.217982, -0.171552
+  Scale: 0.313685
+MajorFlags:
+- 0x40000

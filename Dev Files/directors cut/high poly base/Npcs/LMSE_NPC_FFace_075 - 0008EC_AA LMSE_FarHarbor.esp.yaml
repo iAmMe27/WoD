@@ -1,0 +1,763 @@
+FormKey: 0008EC:AA LMSE_FarHarbor.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: LMSE_NPC_FFace_075
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- AutoCalcStats
+- Protected
+XpValueOffset: 25
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 16
+DispositionBase: 35
+UseTemplateActors: 7738
+Unknown: 84
+Factions:
+- Faction: 01055B:DLCCoast.esm
+- Faction: 0035DE:Fallout4.esm
+- Faction: 02E005:Fallout4.esm
+- Faction: 02F126:Fallout4.esm
+  Rank: -1
+- Faction: 0337F3:Fallout4.esm
+- Faction: 062555:Fallout4.esm
+  Rank: -1
+- Faction: 062556:Fallout4.esm
+  Rank: -1
+Voice: 013ADD:Fallout4.esm
+DefaultTemplate: 113340:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 046020:DLCCoast.esm
+  SpellListTemplate: 046020:DLCCoast.esm
+  AiDataTemplate: 113340:Fallout4.esm
+  AiPackagesTemplate: 113340:Fallout4.esm
+  BaseDataTemplate: 113340:Fallout4.esm
+  InventoryTemplate: 113340:Fallout4.esm
+  ScriptTemplate: 113340:Fallout4.esm
+  DefPackListTemplate: 113340:Fallout4.esm
+  AttackDataTemplate: 113340:Fallout4.esm
+  KeywordsTemplate: 113340:Fallout4.esm
+Race: 013746:Fallout4.esm
+Skin: 000D64:Fallout4.esm
+Perks:
+- Perk: 0B9884:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 2
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 000BAE:AA LMSE_FarHarbor.esp
+    Count: 1
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 023331:Fallout4.esm
+Keywords:
+- 1B5CB8:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Anissa
+CalculatedHealth: 240
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1D7F9F:Fallout4.esm
+- 1E55C9:Fallout4.esm
+- 000800:HiPolyFaces.esp
+- 000980:AA LMSE_FarHarbor.esp
+HairColor: 19EE62:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.486954
+  Muscular: 0.484426
+  Fat: 0.02862
+SoundLevel: Normal
+DefaultOutfit: 000BAC:AA LMSE_FarHarbor.esp
+HeadTexture: 04D0EA:Fallout4.esm
+TextureLighting: '#BFAEAA'
+Morphs:
+- Key: 921646331
+  Value: 1
+- Key: 921646551
+  Value: 1
+- Key: 921646553
+  Value: -0.13
+- Key: 921646576
+  Value: 1
+- Key: 921646552
+  Value: -1
+- Key: 921646592
+  Value: 1
+- Key: 921646707
+  Value: 1
+- Key: 921646554
+  Value: -0.545662
+- Key: 921646747
+  Value: 1
+- Key: 921646395
+  Value: 1
+- Key: 921646673
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00BFAEAA'
+  TemplateColorIndex: 1163
+- DataType: ValueAndColor
+  Index: 1206
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: ValueAndColor
+  Index: 1207
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: ValueAndColor
+  Index: 1208
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: ValueAndColor
+  Index: 1209
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: ValueAndColor
+  Index: 1210
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1221
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1222
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1223
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1224
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1225
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1226
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1227
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1239
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1305
+  Color: '#00000000'
+  TemplateColorIndex: 1822
+- DataType: ValueAndColor
+  Index: 1310
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1311
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1315
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: Value
+  Index: 1317
+  Value: 0.14
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1319
+  Value: 0.58
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.61
+  Color: '#005A1214'
+  TemplateColorIndex: 1332
+- DataType: Value
+  Index: 1395
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1396
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1397
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1398
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1399
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1400
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1401
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1402
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1403
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1697
+  Color: '#00000000'
+  TemplateColorIndex: 1802
+- DataType: ValueAndColor
+  Index: 1698
+  Color: '#00000000'
+  TemplateColorIndex: 1803
+- DataType: ValueAndColor
+  Index: 1699
+  Color: '#00000000'
+  TemplateColorIndex: 1804
+- DataType: ValueAndColor
+  Index: 1700
+  Color: '#00000000'
+  TemplateColorIndex: 1805
+- DataType: ValueAndColor
+  Index: 1701
+  Color: '#00000000'
+  TemplateColorIndex: 1806
+- DataType: ValueAndColor
+  Index: 1702
+  Color: '#00000000'
+  TemplateColorIndex: 1807
+- DataType: ValueAndColor
+  Index: 1703
+  Color: '#00000000'
+  TemplateColorIndex: 1808
+- DataType: ValueAndColor
+  Index: 1704
+  Color: '#00000000'
+  TemplateColorIndex: 1809
+- DataType: ValueAndColor
+  Index: 1705
+  Color: '#00000000'
+  TemplateColorIndex: 1810
+- DataType: ValueAndColor
+  Index: 1706
+  Color: '#00000000'
+  TemplateColorIndex: 1811
+- DataType: ValueAndColor
+  Index: 1707
+  Color: '#00000000'
+  TemplateColorIndex: 1812
+- DataType: ValueAndColor
+  Index: 1708
+  Color: '#00000000'
+  TemplateColorIndex: 1813
+- DataType: ValueAndColor
+  Index: 1709
+  Color: '#00000000'
+  TemplateColorIndex: 1814
+- DataType: ValueAndColor
+  Index: 1710
+  Color: '#00000000'
+  TemplateColorIndex: 1815
+- DataType: ValueAndColor
+  Index: 1711
+  Color: '#00000000'
+  TemplateColorIndex: 1816
+- DataType: ValueAndColor
+  Index: 1712
+  Color: '#00000000'
+  TemplateColorIndex: 1817
+- DataType: ValueAndColor
+  Index: 1713
+  Color: '#00000000'
+  TemplateColorIndex: 1818
+- DataType: ValueAndColor
+  Index: 1714
+  Color: '#00000000'
+  TemplateColorIndex: 1819
+- DataType: ValueAndColor
+  Index: 1715
+  Color: '#00000000'
+  TemplateColorIndex: 1820
+- DataType: ValueAndColor
+  Index: 1716
+  Color: '#00000000'
+  TemplateColorIndex: 1821
+- DataType: Value
+  Index: 1717
+  Value: 0.14
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1718
+  Value: 0.52
+  Color: '#00AFBDA6'
+  TemplateColorIndex: 1655
+- DataType: Value
+  Index: 1719
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1720
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1721
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1722
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1723
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1724
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1725
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1726
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1727
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1728
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1729
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1730
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1731
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1732
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1733
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1734
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1735
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1736
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1737
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1738
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1739
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1740
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1741
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1742
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1743
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1744
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1745
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1746
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1747
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1748
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1749
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1750
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1751
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1752
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1753
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1754
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1755
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1756
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1757
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1758
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1759
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1760
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1761
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1762
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: Value
+  Index: 1766
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1767
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1768
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1769
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1770
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1771
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1772
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1773
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1774
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1775
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1776
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1777
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1778
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1779
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1780
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1781
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1782
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1783
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1784
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1785
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1786
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1793
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1794
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1795
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1796
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1799
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1800
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1822
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1824
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1830
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1833
+  Color: '#00000000'
+  TemplateColorIndex: 1822
+- DataType: ValueAndColor
+  Index: 1834
+  Color: '#00000000'
+  TemplateColorIndex: 1822
+- DataType: ValueAndColor
+  Index: 1858
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1859
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1860
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1861
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1862
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1874
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1878
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1879
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+BodyMorphRegionValues:
+  Head: -0.02
+FaceMorphs:
+- Index: 10062
+  Position: -0.53, 0.76, 0.6
+- Index: 10063
+  Position: 0, 0.26, 0.2
+- Index: 100000
+  Position: -0.86203, 0.75, -0.3
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: -1, -0.51, 0
+- Index: 100002
+  Position: 0.68, -1, 1
+- Index: 100003
+  Position: -0.08, 0.392133, 0.297763
+  Scale: 0.19
+- Index: 100004
+  Position: 0, -0.057092, -0.005029
+- Index: 100005
+  Position: 0.4, -0.02, -0.96
+  Rotation: 0, 0.09, 0
+  Scale: -0.05
+- Index: 100009
+  Position: 0.11, -0.19, -0.09
+  Scale: 0.7
+- Index: 100010
+  Position: -1, -0.56, -1
+- Index: 100011
+  Position: 0.9, -1, -1
+  Scale: -0.95
+- Index: 100012
+  Position: -1, 0.43, 0.44
+- Index: 100013
+  Position: 0, -0.98, 0.52
+- Index: 100014
+  Position: 0.02, 0.15, -0.38
+  Scale: 0.02
+- Index: 100015
+  Position: 0, 0, -1
+- Index: 100016
+  Position: 0.59, -0.23, -0.3
+  Rotation: 0, 0, 0.1
+  Scale: -0.2
+- Index: 100017
+  Position: -0.27, -0.01, 0.05
+  Rotation: -0.2, 0, 0
+  Scale: 0.3
+- Index: 100018
+  Position: 0, -0.667381, -0.01
+  Scale: -0.2
+- Index: 100019
+  Position: -0.258765, -0.32, -0.65
+  Scale: 0.33
+- Index: 100020
+  Position: 0.469078, -0.252996, -0.2
+  Scale: -0.41
+- Index: 100021
+  Position: -0.09, 0.38, 0.36
+  Rotation: 0, 0, 0.9
+- Index: 100022
+  Position: 0, 1, 0.7
+  Scale: -0.39
+- Index: 100023
+  Position: 0, 1, -1
+  Scale: 0.4
+- Index: 100024
+  Position: 0, -1, 0.8
+  Scale: -0.4
+- Index: 100025
+  Position: -0.62, 0.28, -1
+- Index: 100026
+  Position: -0.45, 1, -1
+- Index: 100027
+  Position: 0, 0.54, -1
+MajorFlags:
+- 0x40000

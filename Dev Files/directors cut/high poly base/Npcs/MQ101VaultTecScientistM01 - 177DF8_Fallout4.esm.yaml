@@ -1,0 +1,161 @@
+FormKey: 177DF8:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101VaultTecScientistM01
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 50
+DispositionBase: 35
+Voice: 0CB1D2:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 177DFA:Fallout4.esm
+Keywords:
+- 0C866F:Fallout4.esm
+Class: 076A06:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Overseer
+CalculatedHealth: 335
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 54
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 051EAA:Fallout4.esm
+- 051EB2:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1411C4:Fallout4.esm
+- 1411C5:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.286
+  Muscular: 0.2081
+  Fat: 0.506
+SoundLevel: Normal
+DefaultOutfit: 098E9B:Fallout4.esm
+HeadTexture: 03B521:Fallout4.esm
+TextureLighting: '#FBF7F7'
+Morphs:
+- Key: 921646251
+  Value: 1
+- Key: 921646611
+  Value: 1
+- Key: 921646549
+  Value: -0.2
+- Key: 921646309
+  Value: 1
+- Key: 921646550
+  Value: -0.85
+- Key: 921646200
+  Value: 0.28
+- Key: 921646547
+  Value: 0.84
+- Key: 921646276
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00FBF7F7'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1179
+  Value: 0.66
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1194
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1257
+  Value: 0.31
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1368
+  Value: 0.71
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.2
+  UpperTorso: 0.11
+  Arms: -0.21
+  LowerTorso: 0.23
+  Legs: -0.1
+FaceMorphs:
+- Index: 0
+  Position: 0, 0, -0.3
+- Index: 1
+  Position: 0, 0.88, 0
+- Index: 2
+  Position: 0, -1, 0
+- Index: 3
+  Position: 0.41, -0.53, 0.15
+- Index: 10
+  Position: 0, 0.65, 0
+- Index: 25
+  Position: 0, 0.31, 1
+  Scale: 0.95
+- Index: 921646269
+  Position: 0, 0.37, -0.81
+  Scale: -0.61
+- Index: 921646270
+  Position: 0, 0, 0.6
+- Index: 921646271
+  Position: 0.37, -0.35, 0.02
+  Scale: -0.02
+- Index: 921646273
+  Position: 0.01, -0.27, -0.18
+  Rotation: -0.33, 0, 0
+- Index: 921646274
+  Position: 0, 0, 0.83
+- Index: 921646275
+  Position: 0, 0.43, 0.52
+  Scale: -0.71
+- Index: 921646276
+  Position: 0, 0.18, 0
+- Index: 921646279
+  Position: 0, 0, 1
+MajorFlags:
+- 0x40000

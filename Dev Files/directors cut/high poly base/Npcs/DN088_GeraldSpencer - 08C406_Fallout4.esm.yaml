@@ -1,0 +1,149 @@
+FormKey: 08C406:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DN088_GeraldSpencer
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Unique
+- DoesNotBleed
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Unknown: 16256
+Factions:
+- Faction: 077C6C:Fallout4.esm
+Voice: 08C402:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 056D5D:Fallout4.esm
+Class: 02333A:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Gerald Spencer
+ShortName:
+  TargetLanguage: English
+  Value: Gerald
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0821DC:Fallout4.esm
+- 0821DD:Fallout4.esm
+- 0821DE:Fallout4.esm
+- 0821DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A95:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042C:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 3.4028235E+38
+  Muscular: 3.4028235E+38
+SoundLevel: Normal
+DefaultOutfit: 04A9F2:Fallout4.esm
+HeadTexture: 128C59:Fallout4.esm
+TextureLighting: '#A08C939D'
+Morphs:
+- Key: 921646550
+  Value: 0.162438
+- Key: 921646200
+  Value: 0.141376
+- Key: 921646547
+  Value: 0.096
+- Key: 921646518
+  Value: 0.91
+- Key: 921646549
+  Value: 0.220445
+- Key: 921646212
+  Value: 0.65
+- Key: 921646297
+  Value: 0.24
+- Key: 921646304
+  Value: 0.46
+- Key: 921646548
+  Value: -0.02067
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 0.63
+  Color: '#008C939D'
+  TemplateColorIndex: 1166
+- DataType: Value
+  Index: 1196
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1231
+  Value: 0.53
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1235
+  Value: 0.57
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 0
+  Position: 0.01, 0, -0.02
+  Rotation: 0.29, 0, 0
+- Index: 2
+  Position: 0.03, 0.65, 0
+- Index: 5
+  Position: 0, -0.66, 0
+  Scale: 0.47
+- Index: 9
+  Scale: -0.32
+- Index: 10
+  Position: 0, 0, 0.05
+- Index: 921646269
+  Scale: -0.53
+- Index: 921646270
+  Position: 0, 0, 0.52
+- Index: 921646271
+  Position: -0.02, -0.4, 0.05
+  Rotation: 0.01, 0, 0
+  Scale: -0.46
+- Index: 921646273
+  Position: -0.02, 0.01, 0
+  Scale: 0.01
+- Index: 921646274
+  Position: 0, -0.05, -0.02
+- Index: 921646275
+  Scale: -0.43
+- Index: 921646276
+  Position: -0.01, -0.02, 0
+- Index: 921646278
+  Position: 0, -0.02, 0
+- Index: 921646279
+  Position: 0, -0.48, 0
+MajorFlags:
+- 0x40000

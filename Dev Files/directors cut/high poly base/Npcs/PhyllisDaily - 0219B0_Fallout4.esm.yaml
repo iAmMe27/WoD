@@ -1,0 +1,196 @@
+FormKey: 0219B0:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: PhyllisDaily
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- OppositeGenderAnims
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Factions:
+- Faction: 026DCF:Fallout4.esm
+Voice: 0219B9:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 023791:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: ViolenceAgainstEnemies
+Assistance: HelpsAllies
+Packages:
+- 002CB5:Fallout4.esm
+Keywords:
+- 024593:Fallout4.esm
+- 0FA849:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Phyllis Daily
+ShortName:
+  TargetLanguage: English
+  Value: Phyllis
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC2E:Fallout4.esm
+- 15A166:Fallout4.esm
+- 1C2077:Fallout4.esm
+- 1C2078:Fallout4.esm
+- 000800:HiPolyFaces.esp
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+SoundLevel: Normal
+DefaultOutfit: 10E12E:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 03C655:Fallout4.esm
+TextureLighting: '#F7EFEE'
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.04
+  Color: '#00DFFEFF'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1717
+  Value: 0.41
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1719
+  Value: 0.74
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1750
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+FaceMorphs:
+- Index: 10062
+  Position: -0.122072, -1, -0.217581
+- Index: 10063
+  Position: 0, 0.060303, -0.128762
+- Index: 100000
+  Position: 0.152479, -1, 0.07366
+  Rotation: -1, 0, 0
+- Index: 100001
+  Position: -0.122489, -0.76, -0.112068
+- Index: 100002
+  Position: -0.299513, 0.08, -0.04247
+- Index: 100003
+  Position: -0.2, -0.294367, 0.06811
+  Scale: 0.081933
+- Index: 100004
+  Position: 0, -1, 0.24
+  Scale: 0.155909
+- Index: 100005
+  Position: 0.291795, -0.09432, 0.015212
+  Rotation: 0, 0.015417, 0
+  Scale: -0.282928
+- Index: 100006
+  Position: -0.295532, 0.017396, -0.23784
+- Index: 100007
+  Position: -0.30623, -0.136414, -0.139247
+- Index: 100008
+  Position: 0.064548, 0.11, 0.279873
+  Scale: 0.022839
+- Index: 100009
+  Position: 0.059933, 0.32, -0.176997
+  Scale: 0.34
+- Index: 100010
+  Position: 0.148756, 0.314632, -0.084089
+  Scale: -0.29674
+- Index: 100011
+  Position: 0.08, -1, 0.29
+  Scale: -0.291378
+- Index: 100012
+  Position: -0.03774, -0.286405, 0.213671
+- Index: 100013
+  Position: 0, 0.02339, 0.21987
+- Index: 100014
+  Position: -0.248978, -0.28, -0.123052
+  Rotation: -0.001018, 0, 0
+  Scale: 0.7
+- Index: 100015
+  Position: 0, 0, 0.19
+- Index: 100016
+  Position: 0.189432, -0.296217, 0.300615
+  Rotation: -0.181048, 0, -0.179509
+  Scale: -0.250808
+- Index: 100017
+  Position: 0.054116, -0.022595, 0.197927
+  Rotation: 0.318269, 0, 0
+  Scale: 0.138571
+- Index: 100018
+  Position: 0, -0.6, 0.146649
+  Scale: -0.219491
+- Index: 100019
+  Position: 0.019768, 0.238529, -0.153473
+  Rotation: -0.020025, 0, 0
+  Scale: 0.242834
+- Index: 100020
+  Position: -0.2, 0.55, 0.289825
+  Scale: 0.48
+- Index: 100021
+  Position: 0.043151, -0.68, -0.156486
+  Rotation: 0, 0, -0.71
+- Index: 100022
+  Position: 0, -0.323627, -0.315637
+  Scale: -0.120101
+- Index: 100023
+  Position: 0, -0.061785, 0.27372
+  Scale: -0.91
+- Index: 100024
+  Position: 0, -0.321989, 0.267147
+  Scale: 0.151455
+- Index: 100025
+  Position: -0.132275, -0.07, 0.119955
+- Index: 100026
+  Position: 0.23828, -1, -0.266909
+- Index: 100027
+  Position: 0, -0.175335, 0.27
+FacialMorphIntensity: 1.6
+MajorFlags:
+- 0x40000

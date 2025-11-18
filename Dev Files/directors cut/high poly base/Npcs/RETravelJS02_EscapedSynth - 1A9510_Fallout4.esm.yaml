@@ -1,0 +1,188 @@
+FormKey: 1A9510:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: RETravelJS02_EscapedSynth
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+DeathItem: 1357E6:Fallout4.esm
+Voice: 013AD2:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 004822:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 188A98:Fallout4.esm
+    Count: 1
+Confidence: Cautious
+EnergyLevel: 50
+Responsibility: NoCrime
+Class: 0CA9D3:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Timothy
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 12AC13:Fallout4.esm
+- 135A9F:Fallout4.esm
+- 1D2A60:Fallout4.esm
+- 1D2A61:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE68:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.505234
+  Muscular: 0.386036
+  Fat: 0.108729
+SoundLevel: Normal
+DefaultOutfit: 1209F6:Fallout4.esm
+TextureLighting: '#ADD1C9C0'
+Morphs:
+- Key: 921646634
+  Value: 0.78
+- Key: 921646550
+  Value: -0.787872
+- Key: 921646605
+  Value: 0.04
+- Key: 921646624
+  Value: 0.08
+- Key: 921646241
+  Value: 0.56
+- Key: 921646547
+  Value: 0.44194
+- Key: 921646549
+  Value: -0.958274
+- Key: 921646463
+  Value: 0.57
+- Key: 921646610
+  Value: 0.46
+- Key: 921646200
+  Value: -0.326351
+- Key: 921646615
+  Value: 0.49
+- Key: 921646548
+  Value: -0.836168
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 0.68
+  Color: '#00D1C9C0'
+  TemplateColorIndex: 1160
+BodyMorphRegionValues:
+  Head: 0.315192
+  UpperTorso: -0.087015
+  Arms: 0.100343
+  LowerTorso: 0.413767
+  Legs: -0.65274
+FaceMorphs:
+- Index: 0
+  Position: -0.144618, -0.332375, 0.109116
+  Rotation: 0.262835, 0, 0
+- Index: 1
+  Position: -0.097444, -0.09336, -0.461404
+- Index: 2
+  Position: 0.390227, 0.516416, -0.143003
+- Index: 3
+  Position: 0.478124, -0.420758, 0.80875
+  Scale: 0.855814
+- Index: 4
+  Position: 0, 0, -0.398089
+  Scale: -0.57928
+- Index: 5
+  Position: 0.126511, 0.08, -0.33
+  Rotation: 0, -0.06, 0
+  Scale: -0.15
+- Index: 6
+  Position: -0.217736, -0.753574, -0.212145
+- Index: 7
+  Position: -0.195825, 0.286668, -0.45021
+- Index: 8
+  Position: 0.842206, 0.148464, -0.165052
+  Scale: -0.88855
+- Index: 9
+  Position: -0.836276, 0.509872, -0.230069
+  Scale: -0.783162
+- Index: 10
+  Position: -0.733925, 0.278954, 0.193081
+  Scale: 0.119074
+- Index: 25
+  Position: 0, 0.566694, 0.653831
+  Scale: -0.400044
+- Index: 26
+  Position: 0.257246, 0.993074, 0.443226
+- Index: 27
+  Position: -0.985885, -0.531105, 0.767326
+- Index: 62
+  Position: 0.675045, -0.330181, -0.04868
+- Index: 63
+  Position: 0, 0.609728, 0.143446
+- Index: 921646266
+  Position: 0.178687, 0.753986, -0.645592
+  Scale: -0.67399
+- Index: 921646267
+  Position: 0.464584, -0.654224, -0.46926
+- Index: 921646268
+  Position: 0, -0.216984, 0.608582
+- Index: 921646269
+  Position: 0.663045, -0.545271, -0.086646
+  Rotation: 0.466428, 0, 0
+  Scale: 0.44591
+- Index: 921646270
+  Position: 0, 0, -0.865262
+- Index: 921646271
+  Position: -0.27, 0.16634, -0.227602
+  Rotation: -0.859126, 0, -1
+  Scale: -0.38
+- Index: 921646272
+  Position: 0, -0.348287, -0.286495
+- Index: 921646273
+  Position: 0.288951, 0.633002, 0.265358
+  Rotation: -0.28406, 0, 0
+  Scale: -0.760937
+- Index: 921646274
+  Position: 0, -0.257411, -0.058172
+  Scale: -0.087998
+- Index: 921646275
+  Position: -0.467068, 0.014855, 0.559346
+  Rotation: -0.069916, 0, 0
+  Scale: 0.297398
+- Index: 921646276
+  Position: 0.427298, -0.83787, 0.22472
+  Scale: 0.402324
+- Index: 921646277
+  Position: -0.04, -0.38, -0.02
+  Rotation: 0, 0, -1
+- Index: 921646278
+  Position: 0, -0.1, 0.06
+  Scale: -0.54
+- Index: 921646279
+  Position: 0, -0.02, 0.08
+  Scale: -0.77
+MajorFlags:
+- 0x40000

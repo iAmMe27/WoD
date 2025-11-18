@@ -1,0 +1,236 @@
+FormKey: 0121F8:BetterLivingThroughCumistry.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: BLTC_Krista
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- IsCharGenFacePreset
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Factions:
+- Faction: 0228A8:Fallout4.esm
+Voice: 0121F7:BetterLivingThroughCumistry.esp
+Race: 013746:Fallout4.esm
+Skin: 0ADA90:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0DF279:Fallout4.esm
+    Count: 10
+- Item:
+    Item: 188A73:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 03B86A:BetterLivingThroughCumistry.esp
+Keywords:
+- 03D28F:Fallout4.esm
+- 0FA851:Fallout4.esm
+Class: 123E22:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Krista Carpenter
+ShortName:
+  TargetLanguage: English
+  Value: Krista
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 1C9A71:Fallout4.esm
+- 1C9A72:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE62:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.6004
+  Muscular: 0.1792
+  Fat: 0.2204
+SoundLevel: Normal
+DefaultOutfit: 1507B7:Fallout4.esm
+CrimeFaction: 0228A8:Fallout4.esm
+TextureLighting: '#FFECEC'
+Morphs:
+- Key: 921646551
+  Value: 0.8
+- Key: 921646553
+  Value: -0.72
+- Key: 921646398
+  Value: 1
+- Key: 921646552
+  Value: -0.99
+- Key: 921646343
+  Value: 1
+- Key: 921646707
+  Value: 1
+- Key: 921646439
+  Value: 1
+- Key: 921646554
+  Value: 0.09
+- Key: 921646747
+  Value: 1
+- Key: 921646577
+  Value: 1
+- Key: 921646673
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00FFECEC'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1310
+  Value: 0.79
+  Color: '#000F277D'
+  TemplateColorIndex: 1864
+- DataType: Value
+  Index: 1317
+  Value: 0.35
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.61
+  Color: '#0073002A'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1735
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1751
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1752
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1834
+  Value: 0.39
+  Color: '#00893848'
+  TemplateColorIndex: 1306
+BodyMorphRegionValues:
+  Head: -0.04
+  UpperTorso: -0.46
+  Arms: 0.18
+  LowerTorso: 0.18
+  Legs: -0.44
+FaceMorphs:
+- Index: 10062
+  Position: -1, 1, 0.42
+- Index: 10063
+  Position: 0, 1, -1
+- Index: 100000
+  Position: 1, -0.02, 0.7
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: -1, -0.3, -1
+- Index: 100002
+  Position: -1, 0.08, -0.4
+- Index: 100003
+  Position: 1, 0.05, -0.13
+  Scale: -0.3
+- Index: 100004
+  Position: 0, -1, 0.18
+  Scale: -1
+- Index: 100005
+  Position: -0.2, 0.786714, -0.55
+  Rotation: 0, -0.2, 0
+  Scale: -0.29
+- Index: 100006
+  Position: -0.68, 0.38, 0
+- Index: 100008
+  Position: 1, 1, 0
+  Scale: 1
+- Index: 100009
+  Position: 0.614355, -0.76, -0.6
+  Scale: -0.7
+- Index: 100010
+  Position: 1, -0.37, -0.65
+  Scale: -0.8
+- Index: 100011
+  Position: 1, -0.514308, -1
+  Scale: -1
+- Index: 100012
+  Position: 1, -1, -0.95
+- Index: 100013
+  Position: 0, -0.59, -1
+- Index: 100014
+  Position: 0.488376, -0.169008, -0.85
+  Rotation: -1, 0, 0
+  Scale: 0.05
+- Index: 100015
+- Index: 100016
+  Position: 0.2, -1, 0.2
+  Rotation: -0.17, 0, 0.2
+  Scale: 0.8
+- Index: 100017
+  Position: 0.57, 1, 0.2
+  Rotation: 0.1, 0, 0
+  Scale: 1
+- Index: 100018
+  Position: 0, -1, -1
+  Scale: -0.7
+- Index: 100019
+  Position: 0.406072, 0.2, -0.3
+  Rotation: -0.4, 0, 0
+  Scale: -0.6
+- Index: 100020
+  Position: 0.73912, -0.330041, -1
+  Scale: -0.2
+- Index: 100021
+  Position: 0.51, -0.02, 1
+- Index: 100022
+  Position: 0, 0.85, 1
+  Scale: -0.5
+- Index: 100023
+  Position: 0, -0.04, -1
+  Scale: 0.4
+- Index: 100024
+  Position: 0, -0.99, -1
+  Scale: 0.3
+- Index: 100025
+  Position: -0.256631, -0.35, -1
+- Index: 100026
+  Position: 1, -1, 0.4
+- Index: 100027
+  Position: 0, -1, 0.17
+MajorFlags:
+- 0x40000

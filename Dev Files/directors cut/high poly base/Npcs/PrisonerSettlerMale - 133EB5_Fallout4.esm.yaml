@@ -1,0 +1,198 @@
+FormKey: 133EB5:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: PrisonerSettlerMale
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- AutoCalcStats
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 6665
+Factions:
+- Faction: 03E0C8:Fallout4.esm
+Voice: 023323:Fallout4.esm
+DefaultTemplate: 0A0E2F:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 17AC91:Fallout4.esm
+  SpellListTemplate: 0A0E2F:Fallout4.esm
+  ScriptTemplate: 0A0E2F:Fallout4.esm
+  AttackDataTemplate: 0A0E2F:Fallout4.esm
+  KeywordsTemplate: 0A0E2F:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: -85
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Keywords:
+- 03D290:Fallout4.esm
+- 0C866F:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Settler
+CalculatedHealth: 5
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051EAC:Fallout4.esm
+- 051EB6:Fallout4.esm
+- 0821DC:Fallout4.esm
+- 0821DD:Fallout4.esm
+- 0821DE:Fallout4.esm
+- 0821DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 14108F:Fallout4.esm
+- 141091:Fallout4.esm
+- 1D7F9E:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042C:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1196
+  Muscular: 0.4509
+  Fat: 0.4296
+SoundLevel: Normal
+DefaultOutfit: 021842:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 128C59:Fallout4.esm
+TextureLighting: '#8C939D'
+Morphs:
+- Key: 921646296
+  Value: 0.59
+- Key: 921646601
+  Value: 0.06
+- Key: 921646524
+  Value: 0.58
+- Key: 921646550
+  Value: -0.628731
+- Key: 921646200
+  Value: 0.761248
+- Key: 921646547
+  Value: -0.72
+- Key: 921646464
+  Value: 0.04
+- Key: 921646549
+  Value: -0.07
+- Key: 921646602
+  Value: 0.36
+- Key: 921646610
+  Value: 0.54
+- Key: 921646615
+  Value: 0.61
+- Key: 921646548
+  Value: -0.894246
+FaceMorphs:
+- Index: 0
+  Position: 0.228388, -0.178701, 0.014675
+  Rotation: 0.212393, 0, 0
+- Index: 1
+  Position: 0.308245, -0.268901, 0.171153
+- Index: 2
+  Position: 0.197069, -0.045907, -0.00466
+- Index: 3
+  Position: -0.255319, 0.215772, 0.34
+  Scale: -0.43
+- Index: 4
+  Position: 0, 0, -0.05
+  Scale: -0.02
+- Index: 5
+  Position: -0.339695, -0.181154, -0.18
+  Rotation: 0, 0.350226, 0
+  Scale: 0.26
+- Index: 6
+  Position: -0.394848, -0.286515, -0.016156
+- Index: 7
+  Position: -0.16371, -0.46, -0.27522
+- Index: 8
+  Position: 0.11, -0.36, 0.347508
+  Scale: 0.7
+- Index: 9
+  Position: 0.174801, -0.086844, 0.198054
+  Scale: 0.1
+- Index: 10
+  Position: 0.171124, 0.186518, 0.154609
+  Scale: 0.48
+- Index: 25
+  Position: 0, -0.384001, -0.034883
+  Scale: 0.179255
+- Index: 26
+  Position: 0.154036, -0.064995, -0.24159
+- Index: 27
+  Position: 0.271977, 0.169197, -0.129292
+- Index: 62
+  Position: 0.25952, 0.285537, -0.028499
+- Index: 63
+  Position: 0, 0.16, 0.31
+- Index: 921646266
+  Position: 0.058256, 0.327602, -0.04417
+  Scale: 0.11
+- Index: 921646267
+  Position: 0.342733, -0.115933, -0.236826
+- Index: 921646268
+  Position: 0, 0.348671, -0.170078
+- Index: 921646269
+  Position: 0.112017, 0.075861, 0.197362
+  Rotation: 0.370784, 0, 0
+  Scale: 0.46
+- Index: 921646270
+  Position: 0, 0, 0.230264
+- Index: 921646271
+  Position: -0.378019, -0.124238, 0.301803
+  Rotation: 0.229503, 0, -0.062782
+  Scale: -0.384041
+- Index: 921646272
+  Position: 0, 0.011681, -0.59
+- Index: 921646273
+  Position: 0.064798, 0.025842, -0.155822
+  Rotation: -0.167094, 0, 0
+  Scale: -0.3828
+- Index: 921646274
+  Position: 0, -0.263251, -0.363618
+  Scale: 0.314089
+- Index: 921646275
+  Position: -0.005982, 0.392336, -0.109872
+  Rotation: 0.36293, 0, 0
+  Scale: 0.21
+- Index: 921646276
+  Position: -0.335447, 0.05, 0.56
+  Scale: -0.088687
+- Index: 921646277
+  Position: -0.126976, -0.055645, 0.272165
+  Rotation: 0, 0, 0.263114
+- Index: 921646278
+  Position: 0, 0.54, -0.8
+  Scale: 0.75
+- Index: 921646279
+  Position: 0, -0.266055, -0.07
+  Scale: -0.02
+MajorFlags:
+- 0x40000

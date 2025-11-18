@@ -1,0 +1,261 @@
+FormKey: 0B26EF:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: BoSKnightGavil
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: BoSM02CleanupQuestActorsOnUnload
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: BoSM02
+      Object: 04402C:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 3082
+Unknown: 29537
+Factions:
+- Faction: 05DE41:Fallout4.esm
+DeathItem: 077D1F:Fallout4.esm
+Voice: 0ABE9E:Fallout4.esm
+DefaultTemplate: 160161:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 1BE553:Fallout4.esm
+  SpellListTemplate: 160161:Fallout4.esm
+  DefPackListTemplate: 160161:Fallout4.esm
+  AttackDataTemplate: 160161:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 160154:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 0BC116:Fallout4.esm
+Keywords:
+- 013794:Fallout4.esm
+- 02CB72:Fallout4.esm
+- 076A08:Fallout4.esm
+- 022E49:Fallout4.esm
+- 0FA849:Fallout4.esm
+- 155046:Fallout4.esm
+Class: 20F487:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Knight Sergeant Gavil
+ShortName:
+  TargetLanguage: English
+  Value: Gavil
+CalculatedHealth: 80
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 062E5E:Fallout4.esm
+- 062E5F:Fallout4.esm
+- 063140:Fallout4.esm
+- 063141:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 1E5E83:Fallout4.esm
+- 1E5E84:Fallout4.esm
+- 1E5E85:Fallout4.esm
+- 1E5E86:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5D:Fallout4.esm
+CombatStyle: 09A6B8:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3653
+  Muscular: 0.4393
+  Fat: 0.1953
+SoundLevel: Normal
+DefaultOutfit: 1908A4:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+TextureLighting: '#7A7D83'
+Morphs:
+- Key: 921646289
+  Value: 1
+- Key: 921646628
+  Value: 0.61
+- Key: 921646601
+  Value: 1
+- Key: 921646615
+  Value: 0.84
+- Key: 921646549
+  Value: -0.49
+- Key: 921646200
+  Value: 0.41
+- Key: 921646547
+  Value: 0.11
+- Key: 921646548
+  Value: 0.61
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#007A7D83'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1181
+  Value: 0.62
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1182
+  Value: 0.58
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1183
+  Value: 0.83
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1194
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1256
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  UpperTorso: 0.21
+FaceMorphs:
+- Index: 0
+  Position: -0.0675, -0.27, 0.17
+  Rotation: 0.09, 0, 0
+- Index: 1
+  Position: -0.06, 0.42, 0.015
+- Index: 2
+  Position: -0.06, 0.47, -0.02
+- Index: 3
+  Position: 0.0225, -0.13, 0.05
+  Scale: -0.05
+- Index: 4
+  Position: 0, 0, -0.07
+  Scale: -0.075
+- Index: 5
+  Position: 0, -0.12, 0.1425
+  Rotation: 0, 0.0225, 0
+  Scale: -0.03
+- Index: 6
+  Position: -0.0525, 0.06, -0.12
+- Index: 7
+  Position: 0.0825, -0.1125, -0.1125
+- Index: 8
+  Position: -0.0225, 0.0075, -0.1275
+  Scale: -0.075
+- Index: 9
+  Position: -0.0525, 0.35, 0.01
+  Scale: 0.23
+- Index: 10
+  Position: -0.0375, -0.07, -0.15
+  Scale: 0.14
+- Index: 25
+  Position: 0, 0.18, -0.13
+  Scale: -0.0075
+- Index: 26
+  Position: 0, -0.0075, 0.21
+- Index: 27
+  Position: -0.12, -0.0225, -0.43
+- Index: 62
+  Position: 0.0975, -0.05, -0.33
+- Index: 63
+  Position: 0, -0.0375, -0.41
+- Index: 921646266
+  Position: -0.03, -0.12, -0.435
+  Scale: -0.135
+- Index: 921646267
+  Position: -0.0525, -0.1875, 0.0825
+- Index: 921646268
+  Position: 0, 0.0675, 0.09
+- Index: 921646269
+  Position: 0.075, 0.03, -0.07
+  Scale: 0.12
+- Index: 921646270
+  Position: 0, 0, 0.02
+- Index: 921646271
+  Position: -0.11, 0.195, 0.01
+  Rotation: -0.075, 0, -0.12
+  Scale: 0.12
+- Index: 921646272
+  Position: 0, -0.015, 0.12
+- Index: 921646273
+  Position: -0.14, -0.15, -0.25
+  Rotation: 0.0225, 0, 0
+  Scale: -0.08
+- Index: 921646274
+  Position: 0, 0.36, -0.24
+  Scale: -0.2775
+- Index: 921646275
+  Position: -0.105, -0.02, -0.33
+  Rotation: -0.15, 0, 0
+  Scale: -0.14
+- Index: 921646276
+  Position: 0, 0.01, 0.02
+  Scale: -0.02
+- Index: 921646277
+  Position: -0.15, -0.05, -0.38
+  Rotation: 0, 0, -0.17
+- Index: 921646278
+  Position: 0, 0.38, -0.37
+  Scale: 0.03
+- Index: 921646279
+  Position: 0, -0.0225, -0.05
+  Scale: -0.2
+FacialMorphIntensity: 4
+MajorFlags:
+- 0x40000

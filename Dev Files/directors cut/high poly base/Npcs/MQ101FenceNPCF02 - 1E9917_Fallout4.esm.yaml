@@ -1,0 +1,183 @@
+FormKey: 1E9917:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101FenceNPCF02
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+- IsGhost
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: -2498
+Voice: 0BDE04:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 1E990D:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Neighbor
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0B98B1:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 186AEE:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE60:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.2988
+  Muscular: 0.0925
+  Fat: 0.6088
+SoundLevel: Normal
+DefaultOutfit: 11C3B2:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#D5C9C8'
+Morphs:
+- Key: 921646714
+  Value: 0.64
+- Key: 921646684
+  Value: 1
+- Key: 921646556
+  Value: 0.96
+- Key: 921646554
+  Value: 0.82
+- Key: 921646553
+  Value: 0.34
+- Key: 921646364
+  Value: 0.1
+- Key: 921646552
+  Value: 0.66
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00D5C9C8'
+  TemplateColorIndex: -1
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.33
+  Color: '#00432C3C'
+  TemplateColorIndex: -1
+FaceMorphs:
+- Index: 10062
+  Position: 0.16, -0.28, 0.42
+- Index: 10063
+  Position: 0, 0.02, -0.23
+- Index: 100000
+  Position: -0.051424, 0.27, -0.66
+  Rotation: 0.005512, 0, 0
+- Index: 100001
+  Position: -0.061887, 0.054182, -0.04
+- Index: 100002
+  Position: 0.072699, -0.07, -0.1
+- Index: 100003
+  Position: -0.049453, -0.2, 0.11
+  Scale: -0.36
+- Index: 100004
+  Position: 0, -0.37, -0.13
+  Scale: -0.62
+- Index: 100005
+  Position: 0, 0.17, -0.06746
+  Rotation: 0, 0.11, 0
+  Scale: -0.16
+- Index: 100006
+  Position: 0.6, 0.03, -0.43
+- Index: 100007
+  Position: -0.02608, -0.080073, -0.033231
+- Index: 100008
+  Position: 0.57, -0.08, 0.11
+  Scale: 0.29
+- Index: 100009
+  Position: -0.023513, -0.07, 0.06
+  Scale: 0.45
+- Index: 100010
+  Position: -0.74, -0.17, -0.35
+  Scale: -0.66
+- Index: 100011
+  Position: -0.3, -0.14, -0.14
+  Scale: -0.06
+- Index: 100012
+  Position: -0.13, -0.8, -0.79
+- Index: 100013
+  Position: 0, 0.08, -0.22
+- Index: 100014
+  Position: -0.051703, 0.21, -0.13
+  Scale: -0.09
+- Index: 100015
+  Position: 0, 0, 0.11
+- Index: 100016
+  Position: 0.03, 0.12, -0.21
+  Rotation: -0.64, 0, 0.32
+  Scale: -0.02
+- Index: 100017
+  Position: 0.11, 0.09677, -0.55
+  Rotation: -0.15, 0, 0
+  Scale: -0.54
+- Index: 100018
+  Position: 0, -0.13, -0.59
+  Scale: -0.66
+- Index: 100019
+  Position: 0.02, 0.18, -0.36
+  Scale: -0.12
+- Index: 100020
+  Position: 0.019186, -0.03, 0
+  Scale: 0.073442
+- Index: 100021
+  Position: 0.044925, -0.05, -0.16
+  Rotation: 0, 0, -0.16
+- Index: 100022
+  Position: 0, -0.58, -0.4
+  Scale: 0.42
+- Index: 100023
+  Position: 0, 0, -0.48
+  Scale: 0.1
+- Index: 100024
+  Position: 0, -0.75, -0.2
+  Scale: -0.17
+- Index: 100025
+  Position: -0.005133, -0.25, -0.55
+- Index: 100026
+  Position: -0.32, 0.26, -0.12
+- Index: 100027
+  Position: 0, -0.14, 0.17
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

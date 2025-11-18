@@ -1,0 +1,244 @@
+FormKey: 0C392B:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: BoSKnightRylan
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+- Protected
+XpValueOffset: 6
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 2
+DispositionBase: 35
+UseTemplateActors: 7998
+Unknown: 1
+Factions:
+- Faction: 05DE41:Fallout4.esm
+- Faction: 1479C1:Fallout4.esm
+Voice: 077D1B:Fallout4.esm
+DefaultTemplate: 0769FE:Fallout4.esm
+TemplateActors:
+  StatsTemplate: 0769FE:Fallout4.esm
+  FactionsTemplate: 0769FE:Fallout4.esm
+  SpellListTemplate: 0769FE:Fallout4.esm
+  AiDataTemplate: 0769FE:Fallout4.esm
+  AiPackagesTemplate: 0769FE:Fallout4.esm
+  InventoryTemplate: 0769FE:Fallout4.esm
+  ScriptTemplate: 0769FE:Fallout4.esm
+  DefPackListTemplate: 0769FE:Fallout4.esm
+  AttackDataTemplate: 0769FE:Fallout4.esm
+  KeywordsTemplate: 0769FE:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 10
+Items:
+- Item:
+    Item: 05859B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A5:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 0585A6:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 076A1A:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 22D0F8:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 02CB72:Fallout4.esm
+- 013794:Fallout4.esm
+- 076A08:Fallout4.esm
+Class: 076A07:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Knight Rylan
+ShortName:
+  TargetLanguage: English
+  Value: Rylan
+CalculatedHealth: 40
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0E12A4:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 140D29:Fallout4.esm
+- 140D2A:Fallout4.esm
+- 140D2B:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE69:Fallout4.esm
+CombatStyle: 076A09:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.358208
+  Muscular: 0.063584
+  Fat: 0.578208
+SoundLevel: Normal
+DefaultOutfit: 076A26:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 05DE41:Fallout4.esm
+TextureLighting: '#DADCE7'
+Morphs:
+- Key: 921646266
+  Value: 1
+- Key: 921646511
+  Value: 0.61
+- Key: 921646200
+  Value: -0.75
+- Key: 921646597
+  Value: 0.84
+- Key: 921646548
+  Value: 0.61
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00DADCE7'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1193
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1201
+  Value: 0.79
+  Color: '#0052252E'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1256
+  Value: 0.52
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1350
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  UpperTorso: 0.21
+FaceMorphs:
+- Index: 0
+  Position: -0.093194, 0.19, 0.19
+  Rotation: -0.01304, 0, 0
+- Index: 1
+  Position: -0.077012, 0.32, 0.016975
+- Index: 2
+  Position: -0.082155, 0.75, 0.27
+- Index: 3
+  Position: 0.028124, 0.03365, -0.12
+  Scale: -0.127227
+- Index: 4
+  Position: 0, 0, -0.1
+  Scale: -0.1041
+- Index: 5
+  Position: 0, -0.16, 0.191025
+  Rotation: 0, 0.028611, 0
+  Scale: -0.04
+- Index: 6
+  Position: -0.070063, 0.082509, -0.157197
+- Index: 7
+  Position: 0.114812, -0.146312, -0.145372
+- Index: 8
+  Position: -0.032737, 0.011053, -0.170023
+  Scale: -0.104127
+- Index: 9
+  Position: -0.073466, 0.066331, 0.108893
+  Scale: 0.010854
+- Index: 10
+  Position: -0.052186, 0.059134, -0.029942
+  Scale: -0.016281
+- Index: 25
+  Position: 0, 0.24, 0.39
+  Scale: -0.01
+- Index: 26
+  Position: 0, -0.01, 0.28
+- Index: 27
+  Position: -0.156976, -0.032471, -0.3
+- Index: 62
+  Position: 0.134852, -0.43, -0.01
+- Index: 63
+  Position: 0, -0.052545, 0.068669
+- Index: 921646266
+  Position: -0.036675, -0.161492, -0.58
+  Scale: -0.179741
+- Index: 921646267
+  Position: -0.07112, -0.25, -0.81
+- Index: 921646268
+  Position: 0, 0.094175, 0.120837
+- Index: 921646269
+  Position: 0.09976, 0.24, -0.26
+  Scale: 0.163002
+- Index: 921646270
+  Position: 0, 0, 0.24
+- Index: 921646271
+  Position: 0.04, 0.26, 0.19
+  Rotation: -0.10379, 0, -0.28
+  Scale: 0.16
+- Index: 921646272
+  Position: 0, -0.021057, 0.159991
+- Index: 921646273
+  Position: -0.003236, -0.195632, -0.02
+  Rotation: 0.12, 0, 0
+  Scale: -0.087745
+- Index: 921646274
+  Position: 0, 0.6, -0.32
+  Scale: -0.37
+- Index: 921646275
+  Position: -0.137584, 0.32, -0.04
+  Scale: 0.11
+- Index: 921646276
+  Position: 0, 0.038484, -0.64
+  Scale: -0.199048
+- Index: 921646277
+  Position: 0.025229, -0.102325, 0.134295
+  Rotation: 0, 0, -0.132528
+- Index: 921646278
+  Position: 0, 0.057136, -0.031823
+  Scale: 0.088882
+- Index: 921646279
+  Position: 0, -0.032426, 0.41
+  Scale: -0.29
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

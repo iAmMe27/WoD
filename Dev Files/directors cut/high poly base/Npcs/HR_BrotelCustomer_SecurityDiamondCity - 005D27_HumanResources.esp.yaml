@@ -1,0 +1,202 @@
+FormKey: 005D27:HumanResources.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: HR_BrotelCustomer_SecurityDiamondCity
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- NoActivationOrHellos
+XpValueOffset: 5
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 7999
+Unknown: 12848
+Factions:
+- Faction: 016639:behSlaveMarket.esm
+- Faction: 0337F3:Fallout4.esm
+Voice: 0AA8D3:Fallout4.esm
+DefaultTemplate: 005D22:HumanResources.esp
+TemplateActors:
+  TraitTemplate: 002F68:Fallout4.esm
+  StatsTemplate: 002F68:Fallout4.esm
+  FactionsTemplate: 005D22:HumanResources.esp
+  SpellListTemplate: 002F68:Fallout4.esm
+  AiDataTemplate: 005D22:HumanResources.esp
+  AiPackagesTemplate: 005D22:HumanResources.esp
+  InventoryTemplate: 002F68:Fallout4.esm
+  ScriptTemplate: 005D22:HumanResources.esp
+  DefPackListTemplate: 005D22:HumanResources.esp
+  AttackDataTemplate: 002F68:Fallout4.esm
+  KeywordsTemplate: 005D22:HumanResources.esp
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+CombatOverridePackageList: 04223F:Fallout4.esm
+Perks:
+- Perk: 1B40C1:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002CD:Fallout4.esm
+  Value: 30
+- ActorValue: 0002CC:Fallout4.esm
+  Value: 15
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 5
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 4
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: -10
+Items:
+- Item:
+    Item: 02332F:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 023736:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 0054BB:HumanResources.esp
+Keywords:
+- 0C866C:Fallout4.esm
+- 022E49:Fallout4.esm
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Diamond City Security
+CalculatedHealth: 30
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0E12A4:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 137AB0:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE60:Fallout4.esm
+CombatStyle: 03183B:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3561
+  Muscular: 0.4277
+  Fat: 0.2161
+SoundLevel: Normal
+DefaultOutfit: 0BAD65:Fallout4.esm
+DefaultPackageList: 022B33:Fallout4.esm
+TextureLighting: '#E7D3CB'
+Morphs:
+- Key: 921646642
+  Value: 0.61
+- Key: 921646200
+  Value: -0.52
+- Key: 921646547
+  Value: 0.51
+FaceMorphs:
+- Index: 0
+  Position: -0.093194, -0.54, 0.11613
+  Rotation: -0.01304, 0, 0
+- Index: 1
+  Position: -0.077012, 0.64, -0.07
+- Index: 2
+  Position: 0.47, 0.49, -0.12
+- Index: 3
+  Position: 0.028124, 0.03365, -0.15
+  Scale: -0.127227
+- Index: 4
+  Position: 0, 0, -0.014886
+  Scale: -0.1041
+- Index: 5
+  Position: 0, -0.1, 0.191025
+  Rotation: 0, 0.028611, 0
+  Scale: -0.1
+- Index: 6
+  Position: -0.070063, 0.082509, -0.157197
+- Index: 7
+  Position: 0.114812, -0.146312, -0.145372
+- Index: 8
+  Position: -0.032737, 0.011053, -0.170023
+  Scale: -0.104127
+- Index: 9
+  Position: -0.073466, 0.066331, 0.108893
+  Scale: -0.13
+- Index: 10
+  Position: -0.052186, 0.059134, -0.029942
+  Scale: -0.016281
+- Index: 25
+  Position: 0, 0.153552, -0.154409
+  Scale: -0.16627
+- Index: 26
+  Position: 0, 0.23, -0.43
+- Index: 27
+  Position: -0.156976, -0.032471, -0.144984
+- Index: 62
+  Position: 0.134852, -0.034869, -0.11293
+- Index: 63
+  Position: 0, -0.052545, 0.068669
+- Index: 921646266
+  Position: -0.036675, -0.161492, 0.127589
+  Scale: -0.179741
+- Index: 921646267
+  Position: -0.07112, -0.161267, 0.18983
+- Index: 921646268
+  Position: 0, 0.094175, 0.43
+- Index: 921646269
+  Position: 0.09976, 0.15, 0.09
+  Scale: 0.03
+- Index: 921646270
+  Position: 0, 0, -0.05825
+- Index: 921646271
+  Position: 0.13, 0.145479, 0.25
+  Rotation: -0.10379, 0, 0.08
+  Scale: -0.1
+- Index: 921646272
+  Position: 0, -0.021057, 0.23
+- Index: 921646273
+  Position: -0.003236, -0.04, -0.1
+  Rotation: 0.1, 0, 0
+  Scale: 0.55
+- Index: 921646274
+  Position: 0, -0.13, -0.36
+  Scale: -0.01
+- Index: 921646275
+  Position: -0.137584, -0.02, -0.39
+  Rotation: -0.22, 0, 0
+  Scale: 0.039123
+- Index: 921646276
+  Position: 0, 0.038484, 0.082285
+  Scale: -0.199048
+- Index: 921646277
+  Position: 0.025229, -0.102325, 0.134295
+  Rotation: 0, 0, -0.132528
+- Index: 921646278
+  Position: 0, 0.057136, -0.031823
+  Scale: 0.088882
+- Index: 921646279
+  Position: 0, -0.032426, 0.006581
+  Scale: 0.076109
+MajorFlags:
+- 0x40000

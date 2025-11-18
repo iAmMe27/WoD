@@ -1,0 +1,288 @@
+FormKey: 00CC98:DLCNukaWorld.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC04_MauriceTurner
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- AutoCalcStats
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 10
+DispositionBase: 35
+Unknown: -17670
+Factions:
+- Faction: 00CC95:DLCNukaWorld.esm
+- Faction: 106C31:Fallout4.esm
+Voice: 0CEAA3:Fallout4.esm
+Race: 013746:Fallout4.esm
+Perks:
+- Perk: 0B9884:Fallout4.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 155864:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1879EB:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 00D397:DLCNukaWorld.esm
+- 00D3B6:DLCNukaWorld.esm
+Keywords:
+- 075B80:Fallout4.esm
+- 0FA854:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Maurice Turner
+ShortName:
+  TargetLanguage: English
+  Value: Maurice
+CalculatedHealth: 230
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0821DC:Fallout4.esm
+- 0821DD:Fallout4.esm
+- 0821DE:Fallout4.esm
+- 0821DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A9F:Fallout4.esm
+- 1E55BA:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE67:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.2861
+  Muscular: 0.4444
+  Fat: 0.2695
+SoundLevel: Normal
+DefaultOutfit: 02DF09:DLCNukaWorld.esm
+DefaultPackageList: 022B33:Fallout4.esm
+CrimeFaction: 00CC95:DLCNukaWorld.esm
+HeadTexture: 03B521:Fallout4.esm
+TextureLighting: '#6B6B7E'
+Morphs:
+- Key: 921646652
+  Value: 0.78
+- Key: 921646649
+  Value: 0.79
+- Key: 921646550
+  Value: -0.693854
+- Key: 921646200
+  Value: -0.123372
+- Key: 921646547
+  Value: 0.05293
+- Key: 921646632
+  Value: 0.84
+- Key: 921646549
+  Value: 0.602284
+- Key: 921646606
+  Value: 0.94
+- Key: 921646610
+  Value: 0.84
+- Key: 921646294
+  Value: 0.75
+- Key: 921646615
+  Value: 0.58
+- Key: 921646548
+  Value: 0.500996
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#006B6B7E'
+  TemplateColorIndex: 1282
+- DataType: Value
+  Index: 1180
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1194
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1205
+  Value: 0.14
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1260
+  Value: 0.38
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1352
+  Value: 0.39
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1353
+  Value: 0.18
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1354
+  Value: 0.62
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1374
+  Value: 0.33
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1376
+  Value: 0.39
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1563
+  Value: 0.79
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1564
+  Value: 0.77
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1565
+  Value: 0.77
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1691
+  Value: 0.61
+  Color: '#00000000'
+  TemplateColorIndex: 1816
+BodyMorphRegionValues:
+  Head: 0.3845
+  UpperTorso: -0.6133
+  Arms: -0.7995
+  LowerTorso: 0.358
+  Legs: 0.1871
+FaceMorphs:
+- Index: 0
+  Position: -0.049176, -0.295693, -0.174656
+  Rotation: -0.164059, 0, 0
+- Index: 1
+  Position: 0.256542, -0.66, -0.711523
+- Index: 2
+  Position: 0.501787, -0.119084, 0.743645
+- Index: 3
+  Position: -0.057259, 0.576037, 0.741055
+  Scale: 0.20352
+- Index: 4
+  Position: 0, 0, 0.37
+  Scale: -0.25
+- Index: 5
+  Position: 0.809884, -0.562074, -0.452266
+  Rotation: 0, -0.778342, 0
+  Scale: -0.36
+- Index: 6
+  Position: 0.650827, 0.288697, 0.559326
+- Index: 7
+  Position: -0.495673, 0.75571, 0.922559
+- Index: 8
+  Position: -0.30964, 0.471951, -0.938804
+  Scale: 0.128835
+- Index: 9
+  Position: 0.38969, -0.034728, 0.867618
+  Scale: 0.40793
+- Index: 10
+  Position: -0.209429, -0.122314, -0.51
+  Scale: -0.75
+- Index: 25
+  Position: 0, 0.21675, -0.102324
+  Scale: 0.023732
+- Index: 26
+  Position: -0.431343, -0.229656, 0.45
+- Index: 27
+  Position: 0.799188, 0.678597, -0.833313
+- Index: 62
+  Position: -0.517838, -0.489301, -0.465939
+- Index: 63
+  Position: 0, -0.118034, -0.544985
+- Index: 921646266
+  Position: 0.412314, -0.634816, -0.960006
+  Scale: 0.883217
+- Index: 921646267
+  Position: 0.192917, -0.143048, -0.432462
+- Index: 921646268
+  Position: 0, -0.045092, 0.368393
+- Index: 921646269
+  Position: -0.785473, -0.15521, -0.82
+  Rotation: -0.28, 0, 0
+  Scale: 0.651429
+- Index: 921646270
+  Position: 0, 0, 0.252501
+- Index: 921646271
+  Position: 0.05, -0.66, -0.357426
+  Rotation: -0.088204, 0, -0.203408
+  Scale: -0.15
+- Index: 921646272
+  Position: 0, -0.064107, 0.455698
+- Index: 921646273
+  Position: -0.24735, -0.124739, -0.220651
+  Rotation: 0.601541, 0, 0
+  Scale: -0.622385
+- Index: 921646274
+  Position: 0, -0.266047, -0.012735
+  Scale: -0.655573
+- Index: 921646275
+  Position: -0.684991, 0.31, -0.23
+  Rotation: 0.060954, 0, 0
+  Scale: 0.19
+- Index: 921646276
+  Position: -0.79974, -0.565949, -0.14
+  Scale: 0.225759
+- Index: 921646277
+  Position: 0.621756, -0.001368, -0.707677
+  Rotation: 0, 0, -0.696281
+- Index: 921646278
+  Position: 0, -0.490314, 0.11
+  Scale: 0.13
+- Index: 921646279
+  Position: 0, 0.64678, -0.411155
+  Scale: 0.265046
+MajorFlags:
+- 0x40000

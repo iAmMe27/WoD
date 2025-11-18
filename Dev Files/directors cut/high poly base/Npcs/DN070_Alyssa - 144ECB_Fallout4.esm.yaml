@@ -1,0 +1,165 @@
+FormKey: 144ECB:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DN070_Alyssa
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 12214
+Voice: 144ECC:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Keywords:
+- 022E49:Fallout4.esm
+- 0C866C:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Mayor Alyssa Park
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0E12A1:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC2C:Fallout4.esm
+- 186FC0:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A0439:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3573
+  Muscular: 0.1566
+  Fat: 0.4861
+SoundLevel: Normal
+DefaultOutfit: 0DC93C:Fallout4.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646395
+  Value: 1
+- Key: 921646334
+  Value: 0.88
+- Key: 921646364
+  Value: 0.89
+- Key: 921646552
+  Value: -0.637228
+- Key: 921646423
+  Value: 0.59
+- Key: 921646554
+  Value: -0.130795
+- Key: 921646553
+  Value: -0.69
+- Key: 921646381
+  Value: 0.14
+- Key: 921646551
+  Value: 0.79
+BodyMorphRegionValues:
+  Head: 0.24
+  UpperTorso: -0.1
+  Arms: -0.87
+  LowerTorso: -0.37
+  Legs: -0.28
+FaceMorphs:
+- Index: 100000
+  Position: 0.05, -0.971048, 0.1
+  Rotation: -1, 0, 0
+- Index: 100001
+  Position: 0.79, -0.981044, -0.372838
+- Index: 100002
+  Position: 0.79, 0.84, 0.87
+- Index: 100003
+  Position: -0.75411, 0.59, 0.41
+- Index: 100004
+  Position: 0, 0, -0.811493
+  Scale: -0.539052
+- Index: 100005
+  Position: 0.301659, 0.282773, 0.28
+  Rotation: 0, 0.01, 0
+  Scale: -0.62
+- Index: 100006
+  Position: 0.656395, 0.058692, 0.818369
+- Index: 100007
+  Position: -0.133537, 0.033024, -0.383587
+- Index: 100008
+  Position: -0.21484, 0.243027, 0.767586
+- Index: 100009
+  Position: 0.812749, -0.575401, 0.057979
+  Scale: 0.31
+- Index: 100010
+  Position: -0.333545, -0.621603, -0.54027
+- Index: 100011
+  Position: 0.512876, -0.361664, -0.261135
+- Index: 100012
+  Position: 0, 0.114528, 0.32224
+- Index: 100013
+  Position: 0, 0.752978, -0.862534
+- Index: 100014
+  Position: -0.236507, 0.358816, 0.476935
+  Scale: -0.702794
+- Index: 100015
+  Position: 0, 0, -0.341458
+- Index: 100016
+  Position: 0.693337, -0.72, 0.13
+  Rotation: 0.05334, 0, 0.87
+  Scale: -0.79
+- Index: 100017
+  Position: 0.6958, -0.84, 0.67
+  Scale: -0.458677
+- Index: 100018
+  Position: 0, -0.89, 0.87
+- Index: 100019
+  Position: 0.892241, -0.586224, 0.115184
+  Scale: 0.677806
+- Index: 100020
+  Position: -0.5813, -0.461281, 0.714032
+- Index: 100021
+  Position: 0.72, -0.38, 1
+  Rotation: 0, 0, -0.39088
+- Index: 100022
+  Position: 0, -0.66, -0.578771
+  Scale: -0.225478
+- Index: 100023
+  Position: 0, 0.29, -0.656982
+  Scale: 0.49
+- Index: 100024
+  Position: 0, -0.93, 0.8
+- Index: 100025
+  Position: 0.38657, -0.070504, -0.337233
+- Index: 100026
+  Position: -0.489448, 0.016648, 0.060355
+- Index: 100027
+  Position: 0, -0.195995, 0.537589
+MajorFlags:
+- 0x40000

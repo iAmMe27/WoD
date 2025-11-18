@@ -1,0 +1,160 @@
+FormKey: 19EE79:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MQ101VaultTecScientistF03_cryo
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 50
+DispositionBase: 35
+Unknown: -32768
+Voice: 17969F:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Packages:
+- 07583C:Fallout4.esm
+- 0CB1D9:Fallout4.esm
+Class: 076A06:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Vault-Tec Doctor
+CalculatedHealth: 335
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 54
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 1D98DC:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.1134
+  Muscular: 0.2832
+  Fat: 0.6034
+SoundLevel: Normal
+DefaultOutfit: 0CB1BC:Fallout4.esm
+HeadTexture: 03C655:Fallout4.esm
+TextureLighting: '#30384E'
+Morphs:
+- Key: 921646592
+  Value: 1
+- Key: 921646695
+  Value: 1
+- Key: 921646671
+  Value: 1
+- Key: 921646675
+  Value: 0.66
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#0030384E'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1245
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1305
+  Value: 0.19
+  Color: '#00893848'
+  TemplateColorIndex: 1306
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.03
+  Color: '#00E49ACE'
+  TemplateColorIndex: -1
+BodyMorphRegionValues:
+  Head: -0.69
+  UpperTorso: 0.66
+  Arms: -0.61
+  Legs: 0.57
+FaceMorphs:
+- Index: 100000
+  Rotation: 1, 0, 0
+- Index: 100001
+  Position: -0.55, 0.03, 0
+- Index: 100002
+  Position: 1, -0.99, 0
+- Index: 100003
+  Position: 0, 0.26, 0.32
+  Scale: -0.43
+- Index: 100004
+  Position: 0, 0, 0.55
+- Index: 100005
+  Position: 0, -0.5, 0
+  Rotation: 0, -0.4, 0
+- Index: 100008
+  Position: 0, -1, 0
+- Index: 100009
+  Scale: 0.5
+- Index: 100010
+  Position: 0, 0.18, 0
+- Index: 100012
+  Position: -0.82, 0.31, 0.92
+- Index: 100014
+  Position: 0, 0.08, -0.5
+  Scale: 1
+- Index: 100015
+  Position: 0, 0, 0.49
+- Index: 100016
+  Position: 0.24, 0.29, 0
+  Rotation: 0, 0, -0.63
+  Scale: -0.07
+- Index: 100017
+  Position: 0, 0, 0.01
+  Rotation: -0.81, 0, 0
+- Index: 100018
+  Scale: 0.34
+- Index: 100019
+  Position: 0, 0.54, -0.74
+- Index: 100020
+  Position: 0, 0.73, 0
+- Index: 100021
+  Position: 0, -0.41, 0
+- Index: 100022
+  Position: 0, 0.77, -0.33
+- Index: 100023
+  Position: 0, 0.6, 0.32
+- Index: 100025
+  Position: 0, 0.11, 0
+MajorFlags:
+- 0x40000

@@ -1,0 +1,186 @@
+FormKey: 05E564:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: AlanaSecord
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- Unique
+- Protected
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Factions:
+- Faction: 05E558:Fallout4.esm
+- Faction: 0A95E6:Fallout4.esm
+Voice: 069364:Fallout4.esm
+DefaultTemplate: 05E70F:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 73
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 1A777C:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 061C3D:Fallout4.esm
+Class: 031757:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Alana Secord
+ShortName:
+  TargetLanguage: English
+  Value: Alana
+CalculatedHealth: 19521
+CalculatedActionPoints: 17481
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144AA0:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC26:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A042F:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.569624
+  Muscular: 0.190751
+  Fat: 0.239624
+SoundLevel: Normal
+DefaultOutfit: 1ACD15:Fallout4.esm
+CrimeFaction: 0A95E6:Fallout4.esm
+HeadTexture: 03C655:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646686
+  Value: 1
+- Key: 921646551
+  Value: 0.64
+- Key: 921646554
+  Value: -0.84
+- Key: 921646662
+  Value: 0.91
+- Key: 921646364
+  Value: -0.31
+- Key: 921646750
+  Value: 0.59
+FaceTintingLayers:
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1319
+  Value: 0.72
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.63
+  Color: '#00322827'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1486
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1726
+  Value: 0.38
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1750
+  Value: 0.75
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1752
+  Value: 0.14
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1754
+  Value: 0.36
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: 0.56
+  UpperTorso: -0.39
+FaceMorphs:
+- Index: 10062
+  Position: 0, -0.33, 0
+- Index: 10063
+  Position: 0, -0.53, -0.4575
+- Index: 100000
+  Position: 0, 0.57, -0.3825
+- Index: 100003
+  Position: 0, 0, -0.09
+- Index: 100004
+  Position: 0, -0.25, -0.04
+- Index: 100009
+  Position: 0, 0.01, -0.14
+  Scale: 0.24
+- Index: 100010
+  Position: 0, 0.2775, 0
+- Index: 100012
+  Position: 0, -0.675, -0.315
+- Index: 100013
+  Position: 0, -0.08, -0.05
+- Index: 100014
+  Position: 0, 0.0075, -0.135
+- Index: 100016
+  Position: 0.08, 0.31, -0.43
+  Rotation: 0, 0, -0.225
+- Index: 100017
+  Position: 0, 0.18, -0.15
+  Rotation: 0.2175, 0, 0
+  Scale: -0.63
+- Index: 100018
+  Position: 0, 0.21, -0.36
+  Scale: -0.71
+- Index: 100019
+  Position: 0, 0.045, 0.13
+  Scale: 0.0825
+- Index: 100020
+  Position: 0, -0.02, -0.23
+- Index: 100021
+  Position: 0, -0.12, 0
+  Rotation: 0, 0, -0.1
+- Index: 100022
+  Scale: 0.26
+- Index: 100023
+  Scale: -0.48
+- Index: 100024
+  Position: 0, -0.42, -0.02
+  Scale: -0.285
+- Index: 100025
+  Position: -0.0525, 0.12, -0.24
+- Index: 100026
+  Position: 0, -0.46, 0
+FacialMorphIntensity: 4
+MajorFlags:
+- 0x40000

@@ -1,0 +1,173 @@
+FormKey: 0560E1:DLCNukaWorld.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DLC04PackFightsCaptiveFemale01
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- AutoCalcStats
+XpValueOffset: 5
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 2
+DispositionBase: 35
+UseTemplateActors: 2051
+Unknown: 13088
+Voice: 013ADD:Fallout4.esm
+DefaultTemplate: 1C268A:Fallout4.esm
+TemplateActors:
+  TraitTemplate: 1C268A:Fallout4.esm
+  StatsTemplate: 1C268A:Fallout4.esm
+  AttackDataTemplate: 1C268A:Fallout4.esm
+Race: 013746:Fallout4.esm
+Perks:
+- Perk: 056318:DLCNukaWorld.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 50
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Pack Captive
+CalculatedHealth: 100
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 0F9E23:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE69:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+SoundLevel: Normal
+DefaultOutfit: 026217:DLCNukaWorld.esm
+DefaultPackageList: 022B33:Fallout4.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#E9DAD8'
+Morphs:
+- Key: 921646371
+  Value: 1
+- Key: 921646553
+  Value: 0.02
+- Key: 921646420
+  Value: 1
+- Key: 921646554
+  Value: -0.02
+- Key: 921646332
+  Value: 1
+- Key: 921646551
+  Value: -0.21
+- Key: 921646552
+  Value: -0.1
+FaceMorphs:
+- Index: 10062
+  Position: -0.147263, -0.49, 0.5
+- Index: 10063
+  Position: 0, 0.328004, -0.15659
+- Index: 100000
+  Position: -0.265923, 0.08238, 0.159164
+  Rotation: 0.121063, 0, 0
+- Index: 100001
+  Position: -0.09487, -0.83, -0.088079
+- Index: 100002
+  Position: -0.22, -0.81, -0.2
+- Index: 100003
+  Position: 0.00035, 0.274572, 0.29
+  Scale: -0.131065
+- Index: 100004
+  Position: 0, -0.332093, -0.24
+  Scale: -0.303717
+- Index: 100005
+  Position: 0.105754, 0.287938, -0.013841
+  Rotation: 0, 0.140305, 0
+  Scale: 0.196236
+- Index: 100006
+  Position: 0.231622, -0.285495, 0.107744
+- Index: 100007
+  Position: 0.086266, -0.314141, 0.165038
+- Index: 100008
+  Position: -0.164428, 0.157051, -0.277903
+  Scale: 0.319867
+- Index: 100009
+  Position: 0.131545, 0.06, -0.225912
+  Scale: -0.311334
+- Index: 100010
+  Position: -0.258486, 0.18, -0.341969
+  Scale: 0.09
+- Index: 100011
+  Position: 0.349669, 0.050142, 0.39
+  Scale: -0.266601
+- Index: 100012
+  Position: -0.340878, -0.208539, 0.48
+- Index: 100013
+  Position: 0, -0.135455, -0.242762
+- Index: 100014
+  Position: -0.07, 0.170386, -0.15
+  Rotation: -0.107988, 0, 0
+  Scale: 0.39
+- Index: 100015
+  Position: 0, 0, 0.212642
+- Index: 100016
+  Position: 0.44, -0.46, -0.071592
+  Rotation: 0.24, 0, -0.92
+  Scale: 0.1
+- Index: 100017
+  Position: -0.27727, -0.009973, -0.76
+  Rotation: -0.320129, 0, 0
+  Scale: -0.179488
+- Index: 100018
+  Position: 0, 0, -0.091231
+  Scale: -0.323501
+- Index: 100019
+  Position: 0.203893, 0.185288, 0.108051
+  Rotation: -0.151547, 0, 0
+  Scale: 0.26
+- Index: 100020
+  Position: -0.226609, 0.28, -0.347625
+  Scale: -0.03
+- Index: 100021
+  Position: 0.06, -0.49, 0.34
+- Index: 100022
+  Position: 0, 0.08, -0.29
+  Scale: 0.73
+- Index: 100023
+  Position: 0, 0.49, 0.273453
+  Scale: -0.66
+- Index: 100024
+  Position: 0, -0.105474, -0.036958
+  Scale: 0.293819
+- Index: 100025
+  Position: 0.245077, -0.26, 0.203061
+- Index: 100026
+  Position: -0.176316, -0.29, 0.12
+- Index: 100027
+  Position: 0, -0.26186, 0.03
+MajorFlags:
+- 0x40000

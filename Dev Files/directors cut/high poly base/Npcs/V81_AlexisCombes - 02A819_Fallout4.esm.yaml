@@ -1,0 +1,197 @@
+FormKey: 02A819:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: V81_AlexisCombes
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: 16008
+Factions:
+- Faction: 0581B3:Fallout4.esm
+- Faction: 0581B4:Fallout4.esm
+- Faction: 130D9D:Fallout4.esm
+- Faction: 130D9E:Fallout4.esm
+- Faction: 245D23:Fallout4.esm
+Voice: 02A898:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 023329:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Packages:
+- 090C1C:Fallout4.esm
+- 049459:Fallout4.esm
+- 043A74:Fallout4.esm
+- 043A75:Fallout4.esm
+- 1B2B22:Fallout4.esm
+Keywords:
+- 1C776A:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Alexis Combes
+ShortName:
+  TargetLanguage: English
+  Value: Alexis
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EB:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 09C298:Fallout4.esm
+- 09C29A:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A042D:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.6391
+  Muscular: 0.1618
+  Fat: 0.1991
+SoundLevel: Normal
+DefaultOutfit: 1103A5:Fallout4.esm
+CrimeFaction: 0581B3:Fallout4.esm
+HeadTexture: 1865E1:Fallout4.esm
+TextureLighting: '#FAE9E4'
+Morphs:
+- Key: 921646723
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00FAE9E4'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1239
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Color: '#00E07ABC'
+  TemplateColorIndex: 1327
+BodyMorphRegionValues:
+  LowerTorso: -0.16
+  Legs: -0.47
+FaceMorphs:
+- Index: 10062
+  Position: -0.200058, -0.081558, -0.277387
+- Index: 10063
+  Position: 0, 0.61, 0.47
+- Index: 100000
+  Position: 0.251833, 1, 0.48
+  Rotation: -0.131666, 0, 0
+- Index: 100001
+  Position: -0.011394, -1, -0.99
+- Index: 100002
+  Position: 0.014332, 0.86, -0.97
+- Index: 100003
+  Position: 0.94, 0.078457, -0.008312
+  Scale: -0.079064
+- Index: 100004
+  Position: 0, -0.74, 0.21
+  Scale: 0.02
+- Index: 100005
+  Position: 0, -0.061778, 0.066798
+  Rotation: 0, -0.086809, 0
+  Scale: 0.011157
+- Index: 100006
+  Position: -0.210185, -0.277837, 0.193098
+- Index: 100007
+  Position: -0.186601, 0.137426, 0.025597
+- Index: 100008
+  Position: -0.061509, 0.129277, 0.148082
+  Scale: 0.253488
+- Index: 100009
+  Position: 0, 0.022959, 0.52
+  Scale: 0.52
+- Index: 100010
+  Position: -0.196412, 0.131294, -0.173725
+  Scale: 0.058309
+- Index: 100011
+  Position: -0.139121, -0.03976, -0.152921
+  Scale: 0.049337
+- Index: 100012
+  Position: -0.162343, -0.044545, -0.090701
+- Index: 100013
+  Position: 0, 0.128741, -0.049563
+- Index: 100014
+  Position: -0.246315, -0.181556, -0.41
+  Scale: 0.25
+- Index: 100015
+  Position: 0, 0, -0.19788
+- Index: 100016
+  Position: 0.91, -0.1, -0.21
+  Rotation: 0.058426, 0, -0.71
+  Scale: -0.052732
+- Index: 100017
+  Position: 0.149207, 0.06704, -0.61
+  Scale: 0.070105
+- Index: 100018
+  Position: 0, 0.159155, -0.069082
+  Scale: -0.188734
+- Index: 100019
+  Position: -0.094426, 0.57, 0.72
+  Scale: 0.47
+- Index: 100020
+  Position: 0, 0.47, -0.58
+  Scale: 0.62
+- Index: 100021
+  Position: 0.166488, -0.58, -0.41
+  Rotation: 0, 0, 0.271851
+- Index: 100022
+  Position: 0, -0.083107, 0.03
+  Scale: -0.070615
+- Index: 100023
+  Position: 0, 0.052289, -0.181518
+  Scale: -0.037638
+- Index: 100024
+  Position: 0, 0.23, 0.24
+  Scale: -0.03
+- Index: 100025
+  Position: 0, 0.039803, -0.277784
+- Index: 100026
+  Position: 0.297821, 0.112012, -0.27429
+- Index: 100027
+  Position: 0, -0.12, -0.6
+MajorFlags:
+- 0x40000

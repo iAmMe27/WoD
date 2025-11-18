@@ -1,0 +1,216 @@
+FormKey: 0B2FC7:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: ProfessorScara
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- Essential
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Factions:
+- Faction: 002CB3:Fallout4.esm
+- Faction: 002CB4:Fallout4.esm
+- Faction: 0C8666:Fallout4.esm
+Voice: 0B3450:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 023329:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 02332B:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 06A641:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 0B2FEE:Fallout4.esm
+- 23D32C:Fallout4.esm
+- 1BEE4A:Fallout4.esm
+- 1BEE49:Fallout4.esm
+- 002F76:Fallout4.esm
+- 136328:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Professor Scara
+ShortName:
+  TargetLanguage: English
+  Value: Scara
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 144A9A:Fallout4.esm
+- 144A9B:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE67:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.2973
+  Muscular: 0.5954
+  Fat: 0.1073
+SoundLevel: Normal
+DefaultOutfit: 0F5D80:Fallout4.esm
+CrimeFaction: 002CB4:Fallout4.esm
+HeadTexture: 03C655:Fallout4.esm
+TextureLighting: '#D6C5C0'
+Morphs:
+- Key: 921646560
+  Value: 0.44
+- Key: 921646707
+  Value: 0.79
+- Key: 921646679
+  Value: 1
+- Key: 921646726
+  Value: 0.41
+- Key: 921646750
+  Value: 0.59
+- Key: 921646673
+  Value: 0.28
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00D6C5C0'
+  TemplateColorIndex: 1161
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1239
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1319
+  Value: 0.29
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.07
+  Color: '#00DA8E81'
+  TemplateColorIndex: -1
+FaceMorphs:
+- Index: 10062
+  Position: -0.039908, 0.014043, 0.078245
+- Index: 10063
+  Position: 0, -0.48, 0.11
+- Index: 100000
+  Position: 0.095279, 0.54, -0.030339
+  Rotation: 0.074651, 0, 0
+- Index: 100001
+  Position: 0.041498, -0.33, 0.016819
+- Index: 100002
+  Position: -0.061912, 0.000912, -0.037587
+- Index: 100003
+  Position: 0.056374, -0.09609, 0.027731
+  Scale: 0.096834
+- Index: 100004
+  Position: 0, 0.017462, -0.05062
+  Scale: 0.007585
+- Index: 100005
+  Position: 0.033371, 0.014039, 0.043383
+  Rotation: 0, 0.086067, 0
+  Scale: -0.096457
+- Index: 100006
+  Position: 0.009014, -0.006084, 0.013744
+- Index: 100007
+  Position: 0.033118, 0.012669, -0.062102
+- Index: 100008
+  Position: 0.086233, 0.035907, -0.045871
+  Scale: 0.02875
+- Index: 100009
+  Position: 0.004799, 0.037288, 0.002207
+  Scale: 0.26
+- Index: 100010
+  Position: -0.093528, 0.000192, -0.08678
+  Scale: 0.033015
+- Index: 100011
+  Position: -0.072419, -0.045712, -0.084825
+  Scale: 0.090255
+- Index: 100012
+  Position: 0.062651, -0.082174, -0.064779
+- Index: 100013
+  Position: 0, -0.055459, 0.000101
+- Index: 100014
+  Position: 0.046219, 0.055861, -0.04
+- Index: 100015
+  Position: 0, 0, -0.093385
+- Index: 100016
+  Position: 0.11, -0.063952, 0.063422
+  Rotation: 0.001921, 0, 0.05
+  Scale: 0.0126
+- Index: 100017
+  Position: -0.060024, -0.09, -0.22
+  Rotation: 0.11, 0, 0
+  Scale: -0.48
+- Index: 100018
+  Position: 0, -0.012597, -0.25
+  Scale: -0.78
+- Index: 100019
+  Position: -0.074154, -0.093839, -0.056084
+  Scale: -0.1
+- Index: 100020
+  Position: -0.084627, 0.069179, -0.030026
+  Scale: -0.026656
+- Index: 100021
+  Position: 0.021647, -0.015519, 0.085505
+  Rotation: 0, 0, -0.036927
+- Index: 100022
+  Position: 0, 0.091657, 0.086767
+  Scale: 0.18
+- Index: 100023
+  Position: 0, -0.097739, 0.043086
+  Scale: -0.081936
+- Index: 100024
+  Position: 0, -0.098245, -0.05339
+  Scale: 0.069717
+- Index: 100025
+  Position: 0.050748, -0.088342, -0.069926
+- Index: 100026
+  Position: 0.071027, -0.041162, -0.00578
+- Index: 100027
+  Position: 0, 0.021065, -0.075766
+FacialMorphIntensity: 3
+MajorFlags:
+- 0x40000

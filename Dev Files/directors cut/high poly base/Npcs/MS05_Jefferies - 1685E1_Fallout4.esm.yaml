@@ -1,0 +1,163 @@
+FormKey: 1685E1:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MS05_Jefferies
+Fallout4MajorRecordFlags:
+- Compressed
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Voice: 1685E3:Fallout4.esm
+Race: 013746:Fallout4.esm
+AttackRace: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Class: 123E22:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Major Jefferies
+ShortName:
+  TargetLanguage: English
+  Value: Jefferies
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 0209F4:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0821DC:Fallout4.esm
+- 0821DD:Fallout4.esm
+- 0821DE:Fallout4.esm
+- 0821DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0E12A4:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A042F:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.2599
+  Muscular: 0.5202
+  Fat: 0.2199
+SoundLevel: Normal
+TextureLighting: '#706358'
+Morphs:
+- Key: 921646292
+  Value: 1
+- Key: 921646501
+  Value: 1
+- Key: 921646299
+  Value: 1
+- Key: 921646311
+  Value: 1
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#00706358'
+  TemplateColorIndex: -1
+- DataType: Value
+  Index: 1199
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1204
+  Value: 0.66
+  Color: '#00000000'
+  TemplateColorIndex: 1202
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.43
+FaceMorphs:
+- Index: 0
+  Position: -0.229093, -0.116957, -0.109292
+  Rotation: -0.108459, 0, 0
+- Index: 1
+  Position: 0.077679, 0.288834, 0.017768
+- Index: 2
+  Position: 0.228995, 0.418726, 0.408592
+- Index: 3
+  Position: 0.352638, -0.168001, 0.108296
+- Index: 4
+  Position: 0, 0, -0.111236
+  Scale: -0.403328
+- Index: 5
+  Position: 0, -0.408844, 0.382287
+  Rotation: 0, 0.39939, 0
+  Scale: 0.181518
+- Index: 6
+  Position: -0.15835, -0.38966, -0.229447
+- Index: 7
+  Position: -0.139507, -0.096466, 0.37612
+- Index: 8
+  Position: -0.332478, -0.451676, 0.303032
+- Index: 9
+  Position: 0, -0.277562, 0.112711
+  Scale: 0.454992
+- Index: 10
+  Position: 0.121793, -0.480456, -0.432091
+- Index: 25
+  Position: 0, 0.221084, -0.233993
+- Index: 26
+  Position: 0.058644, -0.301885, -0.374155
+- Index: 27
+  Position: 0.271599, -0.195325, -0.009001
+- Index: 921646266
+  Position: -0.441111, -0.287513, 0.138576
+- Index: 921646267
+  Position: 0, 0.437281, 0.329308
+- Index: 921646268
+  Position: 0, -0.421124, -0.122603
+- Index: 921646269
+  Position: -0.042483, -0.49748, -0.366486
+  Scale: -0.069404
+- Index: 921646270
+  Position: 0, 0, -0.39
+- Index: 921646271
+  Position: -0.160726, 0.109051, -0.430152
+  Rotation: -0.153405, 0, -0.275538
+  Scale: 0.095509
+- Index: 921646272
+  Position: 0, -0.094544, 0.298188
+- Index: 921646273
+  Position: 0.085877, 0.418555, 0.301632
+  Scale: -0.232803
+- Index: 921646274
+  Position: 0, 0.322455, 0.358985
+- Index: 921646275
+  Position: 0.140457, -0.160165, 0.364607
+  Scale: 0.311889
+- Index: 921646276
+  Position: -0.170397, 0.249933, -0.052228
+- Index: 921646277
+  Position: -0.278325, 0.234561, 0.142059
+  Rotation: 0, 0, 0.054875
+- Index: 921646278
+  Position: 0, -0.20495, -0.037132
+  Scale: 0.425004
+- Index: 921646279
+  Position: 0, 0.015552, 0.156588
+  Scale: 0.434122
+MajorFlags:
+- 0x40000

@@ -1,0 +1,159 @@
+FormKey: 18F160:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: DN041_Holotape01Actor
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: -3432
+Voice: 18F161:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 05D4D5:Fallout4.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: ViolenceAgainstEnemies
+Assistance: HelpsAllies
+Keywords:
+- 024593:Fallout4.esm
+- 0C8670:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Buzensky
+ShortName:
+  TargetLanguage: English
+  Value: Barney
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 01F735:Fallout4.esm
+- 02B891:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 0B3DBE:Fallout4.esm
+- 0B3DBF:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 135A97:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 0A0439:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.6507
+  Muscular: 0.2486
+  Fat: 0.1007
+SoundLevel: Normal
+DefaultOutfit: 162AF6:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646274
+  Value: 1
+- Key: 921646503
+  Value: 1
+- Key: 921646311
+  Value: 1
+BodyMorphRegionValues:
+  Head: 0.7
+FaceMorphs:
+- Index: 0
+  Position: -0.109952, -0.348975, -0.155213
+  Rotation: 0.394943, 0, 0
+- Index: 1
+  Position: -0.261446, 0.142384, 0.199759
+- Index: 2
+  Position: -0.101279, -0.099551, 0.013417
+- Index: 3
+  Position: 0.31367, -0.343426, -0.145224
+- Index: 4
+  Position: 0, 0, 0.229551
+  Scale: 0.094513
+- Index: 5
+  Position: 0, -0.174904, -0.087426
+  Rotation: 0, 0.113623, 0
+  Scale: 0.098025
+- Index: 6
+  Position: 0.185005, -0.320849, -0.321798
+- Index: 7
+  Position: 0.107636, -0.349214, -0.332673
+- Index: 8
+  Position: -0.023376, 0.177791, -0.062523
+- Index: 9
+  Position: 0, 0.245605, -0.206514
+  Scale: 0.066462
+- Index: 10
+  Position: -0.259936, -0.056693, -0.07038
+- Index: 25
+  Position: 0, -0.334722, 0.378049
+- Index: 26
+  Position: 0.066204, 0.112142, 0.350715
+- Index: 27
+  Position: 0.33705, -0.223789, -0.336644
+- Index: 921646266
+  Position: 0.030761, -0.334932, -0.174984
+- Index: 921646267
+  Position: 0, -0.06509, 0.242847
+- Index: 921646268
+  Position: 0, -0.274223, 0.195394
+- Index: 921646269
+  Position: -0.101054, -0.168251, -0.16303
+  Scale: 0.087516
+- Index: 921646270
+  Position: 0, 0, 0.02803
+- Index: 921646271
+  Position: -0.380382, -0.328813, 0.26298
+  Rotation: -0.218354, 0, -0.296008
+  Scale: -0.10903
+- Index: 921646272
+  Position: 0, -0.118118, -0.071693
+- Index: 921646273
+  Position: 0.187836, 0.329436, -0.140651
+  Scale: 0.29359
+- Index: 921646274
+  Position: 0, -0.374299, -0.345361
+- Index: 921646275
+  Position: -0.012411, -0.321023, 0.277281
+  Scale: 0.185999
+- Index: 921646276
+  Position: -0.18115, 0.293986, -0.007111
+- Index: 921646277
+  Position: -0.139247, 0.199991, 0.049635
+  Rotation: 0, 0, -0.07448
+- Index: 921646278
+  Position: 0, -0.24994, -0.048215
+  Scale: -0.241529
+- Index: 921646279
+  Position: 0, -0.169782, 0.080549
+  Scale: -0.191991
+MajorFlags:
+- 0x40000

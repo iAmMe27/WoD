@@ -1,0 +1,140 @@
+FormKey: 0F36E3:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: MS17Subject12
+Fallout4MajorRecordFlags:
+- Compressed
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Unknown: 19968
+Voice: 013AD2:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002D4:Fallout4.esm
+- ActorValue: 0002D5:Fallout4.esm
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Class: 0EF217:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Subject 12
+ShortName:
+  TargetLanguage: English
+  Value: Subject 12
+GearedUpWeapons: 1
+Unused: 65
+HeadParts:
+- 01F735:Fallout4.esm
+- 0423AF:Fallout4.esm
+- 051631:Fallout4.esm
+- 051EB0:Fallout4.esm
+- 051EB7:Fallout4.esm
+- 0821DC:Fallout4.esm
+- 0821DD:Fallout4.esm
+- 0821DE:Fallout4.esm
+- 0821DF:Fallout4.esm
+- 0844A7:Fallout4.esm
+- 11CCBD:Fallout4.esm
+- 14108F:Fallout4.esm
+- 1D7F9E:Fallout4.esm
+- 000801:HiPolyFaces.esp
+HairColor: 19EE5E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.564017
+  Muscular: 0.421965
+  Fat: 0.014017
+SoundLevel: Normal
+HeadTexture: 03B521:Fallout4.esm
+TextureLighting: '#8C939D'
+Morphs:
+- Key: 921646612
+  Value: 0.18
+- Key: 921646301
+  Value: 0.75
+- Key: 921646550
+  Value: -0.51257
+- Key: 921646200
+  Value: -0.263327
+- Key: 921646547
+  Value: 0.441057
+- Key: 921646488
+  Value: 0.19
+- Key: 921646506
+  Value: 0.79
+- Key: 921646459
+  Value: 0.61
+- Key: 921646602
+  Value: 0.45
+- Key: 921646549
+  Value: 0.571074
+- Key: 921646548
+  Value: 0.990101
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1156
+  Value: 1
+  Color: '#008C939D'
+  TemplateColorIndex: 1166
+- DataType: Value
+  Index: 1228
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1230
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1256
+  Value: 0.38
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1260
+  Value: 0.38
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1558
+  Value: 0.57
+  Color: '#00E3D2DD'
+  TemplateColorIndex: 1662
+- DataType: Value
+  Index: 1564
+  Value: 0.5
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1565
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+BodyMorphRegionValues:
+  Head: -0.575954
+  UpperTorso: 0.896953
+  Arms: 0.983414
+  LowerTorso: 0.195691
+  Legs: -0.36716
+MajorFlags:
+- 0x40000

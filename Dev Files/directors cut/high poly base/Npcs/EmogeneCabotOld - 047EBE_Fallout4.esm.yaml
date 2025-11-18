@@ -1,0 +1,177 @@
+FormKey: 047EBE:Fallout4.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: EmogeneCabotOld
+Fallout4MajorRecordFlags:
+- Compressed
+Flags:
+- Female
+- Essential
+- AutoCalcStats
+- Unique
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Unknown: -32768
+Factions:
+- Faction: 019BF1:Fallout4.esm
+- Faction: 047EBD:Fallout4.esm
+Voice: 047EBA:Fallout4.esm
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002C8:Fallout4.esm
+- ActorValue: 0002C7:Fallout4.esm
+- ActorValue: 0002C6:Fallout4.esm
+- ActorValue: 0002C5:Fallout4.esm
+- ActorValue: 0002C4:Fallout4.esm
+- ActorValue: 0002C3:Fallout4.esm
+- ActorValue: 0002C2:Fallout4.esm
+Items:
+- Item:
+    Item: 02332C:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 043225:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 188A98:Fallout4.esm
+    Count: 1
+- Item:
+    Item: 1E97B9:Fallout4.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: ViolenceAgainstEnemies
+Assistance: HelpsAllies
+Packages:
+- 019BF7:Fallout4.esm
+- 019C18:Fallout4.esm
+- 019C1A:Fallout4.esm
+- 019C1F:Fallout4.esm
+- 019C20:Fallout4.esm
+- 002CB5:Fallout4.esm
+Keywords:
+- 03D290:Fallout4.esm
+- 0C866F:Fallout4.esm
+Class: 01326B:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Emogene Cabot
+ShortName:
+  TargetLanguage: English
+  Value: Emogene
+CalculatedHealth: 190
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 04D0EC:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 14EC22:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 16CA35:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 0A042E:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.963439
+  Muscular: 0.023121
+  Fat: 0.013439
+SoundLevel: Normal
+DefaultOutfit: 0E7481:Fallout4.esm
+CrimeFaction: 047EBD:Fallout4.esm
+TextureLighting: '#F7EFEE'
+Morphs:
+- Key: 921646371
+  Value: 1
+- Key: 921646660
+  Value: 1
+- Key: 921646709
+  Value: 1
+- Key: 921646552
+  Value: 0.72
+- Key: 921646737
+  Value: 1
+- Key: 921646551
+  Value: -0.38
+- Key: 921646554
+  Value: 1
+- Key: 921646676
+  Value: 1
+- Key: 921646749
+  Value: 1
+- Key: 921646553
+  Value: -0.02
+FaceTintingLayers:
+- DataType: Value
+  Index: 1238
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1247
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1305
+  Value: 0.28
+  Color: '#00893848'
+  TemplateColorIndex: 1306
+- DataType: ValueAndColor
+  Index: 1320
+  Color: '#00850505'
+  TemplateColorIndex: 1328
+FaceMorphs:
+- Index: 10063
+  Position: 0, -0.84, 0
+- Index: 100000
+  Position: 0.01, -0.99, 0
+- Index: 100001
+  Position: 0, 0.02, 0
+- Index: 100003
+  Position: 0.8, -0.84, 0
+  Scale: -0.1
+- Index: 100004
+  Position: 0, -0.82, 0
+  Scale: 0.19
+- Index: 100009
+  Position: 0, 0.18, 0
+  Scale: -0.38
+- Index: 100010
+  Scale: -0.48
+- Index: 100011
+  Scale: -0.06
+- Index: 100014
+  Position: 0, 0.27, 0
+  Scale: 0.39
+- Index: 100016
+  Position: 0.06, 0, -0.36
+  Rotation: 0.73, 0, -0.77
+  Scale: -0.1
+- Index: 100017
+  Position: 0, -0.74, 0
+  Scale: -0.46
+- Index: 100019
+  Scale: 0.43
+- Index: 100020
+  Position: 0, 0.37, 0
+  Scale: -0.69
+- Index: 100021
+  Position: 0, -0.21, 0
+- Index: 100023
+  Scale: 0.54
+- Index: 100027
+  Position: 0, -0.74, 0
+MajorFlags:
+- 0x40000

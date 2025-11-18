@@ -1,0 +1,267 @@
+FormKey: 00373A:Beggar_Whore.esp
+IsCompressed: True
+MajorRecordFlagsRaw: 262144
+EditorID: _T_Isabel
+Fallout4MajorRecordFlags:
+- Compressed
+VirtualMachineAdapter:
+  Scripts:
+  - Name: Tentacus:Beggar_Whore:Pimp_Fragments:_T_PimpDeath
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_Following
+      Object: 003D99:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_Pimped
+      Object: 009A25:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_PimpFaction
+      Object: 009A26:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_SexOrders
+      Object: 002850:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: _T_ShameOrders
+      Object: 002851:Beggar_Whore.esp
+    - MutagenObjectType: ScriptObjectProperty
+      Name: PlayerRef
+      Object: 000014:Fallout4.esm
+ObjectBounds:
+  First: -22, -14, 0
+  Second: 22, 14, 128
+Flags:
+- Female
+- IsCharGenFacePreset
+- AutoCalcStats
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 50
+CalcMinLevel: 10
+CalcMaxLevel: 40
+DispositionBase: 35
+Unknown: -9089
+Factions:
+- Faction: 004C80:Beggar_Whore.esp
+Voice: 000F9A:Beggar_Whore.esp
+Race: 013746:Fallout4.esm
+Properties:
+- ActorValue: 0002C2:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C3:Fallout4.esm
+  Value: 8
+- ActorValue: 0002C4:Fallout4.esm
+  Value: 7
+- ActorValue: 0002C5:Fallout4.esm
+  Value: 9
+- ActorValue: 0002C6:Fallout4.esm
+  Value: 7
+- ActorValue: 0002C7:Fallout4.esm
+  Value: 10
+- ActorValue: 0002C8:Fallout4.esm
+  Value: 7
+- ActorValue: 0002D4:Fallout4.esm
+  Value: 100
+- ActorValue: 0002D5:Fallout4.esm
+  Value: 50
+- ActorValue: 0002DA:Fallout4.esm
+  Value: 100
+Items:
+- Item:
+    Item: 0CAC78:Fallout4.esm
+    Count: 30
+- Item:
+    Item: 0FA2FB:Fallout4.esm
+    Count: 1
+Confidence: Brave
+EnergyLevel: 50
+Assistance: HelpsFriendsAndAllies
+NoSlowApproach: True
+Packages:
+- 005CD3:Beggar_Whore.esp
+- 00A1D5:Beggar_Whore.esp
+- 00A1D4:Beggar_Whore.esp
+Keywords:
+- 1D03E1:Fallout4.esm
+- 0AD52A:Fallout4.esm
+- 23F1CA:Fallout4.esm
+Class: 05F970:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Queen Isabel
+ShortName:
+  TargetLanguage: English
+  Value: Queen Isabel
+CalculatedHealth: 385
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 04D0E9:Fallout4.esm
+- 0CFB4E:Fallout4.esm
+- 0E12A1:Fallout4.esm
+- 14EC28:Fallout4.esm
+- 000800:HiPolyFaces.esp
+HairColor: 19EE66:Fallout4.esm
+NAM5: 0xFF00
+HeightMin: 1
+NAM7: 0
+HeightMax: 1
+Weight:
+  Thin: 0.3771
+  Muscular: 0.6229
+SoundLevel: Normal
+DefaultOutfit: 0027DF:Beggar_Whore.esp
+TextureLighting: '#C4BBAA'
+Morphs:
+- Key: 921646551
+  Value: -0.767639
+- Key: 921646383
+  Value: 1
+- Key: 921646553
+  Value: -0.601746
+- Key: 921646554
+  Value: -0.601751
+- Key: 921646333
+  Value: 1
+- Key: 921646593
+  Value: 1
+- Key: 921646709
+  Value: 1
+- Key: 921646552
+  Value: 0.99461
+FaceTintingLayers:
+- DataType: ValueAndColor
+  Index: 1168
+  Value: 1
+  Color: '#00C4BBAA'
+  TemplateColorIndex: 1162
+- DataType: Value
+  Index: 1241
+  Value: 1
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1311
+  Value: 0.9
+  Color: '#003E2913'
+  TemplateColorIndex: 1869
+- DataType: Value
+  Index: 1319
+  Value: 0.19
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1320
+  Value: 0.5
+  Color: '#00101638'
+  TemplateColorIndex: 1882
+- DataType: ValueAndColor
+  Index: 1718
+  Value: 1
+  Color: '#00A28177'
+  TemplateColorIndex: 1665
+- DataType: Value
+  Index: 1753
+  Value: 0.14
+  TENDDataTypeState:
+  - Break0
+- DataType: Value
+  Index: 1754
+  Value: 0.14
+  TENDDataTypeState:
+  - Break0
+- DataType: ValueAndColor
+  Index: 1824
+  Value: 0.9
+  Color: '#003E2913'
+  TemplateColorIndex: 1869
+- DataType: ValueAndColor
+  Index: 1834
+  Value: 0.26
+  Color: '#00000000'
+  TemplateColorIndex: 1822
+- DataType: ValueAndColor
+  Index: 1859
+  Value: 1
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+- DataType: ValueAndColor
+  Index: 1862
+  Value: 0.9
+  Color: '#00000000'
+  TemplateColorIndex: 1824
+BodyMorphRegionValues:
+  Head: -0.02
+FaceMorphs:
+- Index: 10062
+  Position: -0.53, -0.74, 0
+- Index: 10063
+  Position: 0, -1, 0.2
+- Index: 100000
+  Position: -0.08203, 0.949268, 0.02
+  Rotation: 0.2, 0, 0
+- Index: 100001
+  Position: 0.637886, -1, 0
+- Index: 100002
+  Position: 0.848254, -0.429432, 0.3
+- Index: 100003
+  Position: -0.08, 0.392133, 0.297763
+  Scale: 0.19
+- Index: 100004
+  Position: 0, 0.284172, -0.006822
+- Index: 100005
+  Position: 0, 0.45, -0.05
+  Rotation: 0, -0.11, 0
+  Scale: -0.05
+- Index: 100009
+  Position: -0.023955, 0.585172, -0.09
+  Scale: -1
+- Index: 100010
+  Position: 0, -0.200085, 0.896481
+- Index: 100011
+  Position: 0.9, -0.997108, -0.686083
+  Scale: -0.95
+- Index: 100012
+  Position: -1, -0.984174, 0.041271
+- Index: 100013
+  Position: 0, -1, -1
+- Index: 100014
+  Position: 0.997283, 0.233553, -0.4
+  Scale: -0.2
+- Index: 100015
+  Position: 0, 0, -0.59
+- Index: 100016
+  Position: 0.500919, -0.502513, -0.24
+  Rotation: 0, 0, 0.38
+  Scale: -0.44
+- Index: 100017
+  Position: 0, -0.64, 0.05
+  Scale: -1
+- Index: 100018
+  Position: 0, -0.667381, -0.01
+  Scale: -0.2
+- Index: 100019
+  Position: 0.001235, 0.032761, -0.35
+  Scale: 0.33
+- Index: 100020
+  Position: -0.150922, 0.317004, -0.38
+  Scale: -0.51
+- Index: 100021
+  Position: 0.336196, 0.400396, 0.16
+  Rotation: 0, 0, 0.9
+- Index: 100022
+  Position: 0, -0.768268, -0.02
+  Scale: -0.29
+- Index: 100023
+  Position: 0, -0.507775, -0.6
+  Scale: 0.3
+- Index: 100024
+  Position: 0, -1, 1
+  Scale: -0.1
+- Index: 100025
+  Position: 0.121997, -0.996676, -0.12
+- Index: 100026
+  Position: 0.18, 0.11, -1
+- Index: 100027
+  Position: 0, -0.229194, -0.998512
+MajorFlags:
+- 0x40000
