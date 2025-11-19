@@ -1878,3 +1878,13 @@ Hotfix to remove Random Overlay Framework as it was causing performance issues f
 3. Fixed missing high heel bodyslides
 4. Updated CRX Workshop Crosses to v2.4
 5. Updated a couple small mods
+
+## 1.5.1
+1. Fixed a stuck loading screen when making a new game 
+
+## 1.5.2
+1. Update to account for Fallout 4's v1.11.137 update
+
+## 1.5.3
+1. Update to account for Fallout 4's v1.11.159 update
+2. Added Frame Generation v1.0.3
