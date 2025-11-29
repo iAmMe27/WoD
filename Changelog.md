@@ -1888,3 +1888,11 @@ Hotfix to remove Random Overlay Framework as it was causing performance issues f
 ## 1.5.3
 1. Update to account for Fallout 4's v1.11.159 update
 2. Added Frame Generation v1.0.3
+
+## 1.5.4
+1. Update to account for Fallout 4's v1.11.169 update
+2. Updated Frame Generation to v1.2.0
+3. Added Motion Vector Fixes
+
+## 1.5.4.1
+1. Hotfix for incorrect Frame Generation settings
