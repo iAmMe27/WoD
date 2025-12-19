@@ -1896,3 +1896,78 @@ Hotfix to remove Random Overlay Framework as it was causing performance issues f
 
 ## 1.5.4.1
 1. Hotfix for incorrect Frame Generation settings
+
+## 1.6
+**Built at:** `18/12/2025 12:45:04`
+
+**Info:**
+- Download size change: 435.6MB (Total: 182.8GB)
+- Install size change: 1.9GB (Total: 301.6GB)
+
+**Changes:**
+- We say goodbye to spoop once again
+- Regenerated complex sorter patches for all profiles
+
+**Fixes:**
+- Fixed Skadi missing her head when wearing her fishnet outfit pieces
+- Fixed a couple of NPCs in the Slave Market with missing heads
+
+**Download Changes:**
+
+- Added [Sub-Separator for Mod Organizer 2 v0.2.1](https://www.nexusmods.com/skyrimspecialedition/mods/165629)
+- Added [ZP's Fire and Smoke 2 v01](https://www.nexusmods.com/fallout4/mods/97726)
+- Added [THE ENHANCER v2.0.0](https://www.nexusmods.com/fallout4/mods/33249)
+- Added [Fallout 4 High Heels System NAF Patch v1.1](https://www.nexusmods.com/fallout4/mods/99207)
+- Added [Looks Menu Temp Scroll v1.0.0.0](https://www.nexusmods.com/fallout4/mods/99120)
+- Added [Upscaling v1.0.0](https://www.nexusmods.com/fallout4/mods/99130)
+- Added [Naturalistic Female Face Presets Pt.2 v1.0](https://www.nexusmods.com/fallout4/mods/84075)
+
+- Updated [Better Goodneighbor - Precombined Visibility Patches to v2.0](https://www.nexusmods.com/fallout4/mods/54036)
+- Updated [Equipment and Crafting Overhaul (ECO) - Redux to v4.9.6](https://www.nexusmods.com/fallout4/mods/67679)
+- Updated [eXofied Depravity - Fallons to v2.1.0](https://www.nexusmods.com/fallout4/mods/61767)
+- Updated [Fallout 4 - Forgotten Art to v1.0](https://www.nexusmods.com/fallout4/mods/95996)
+- Updated [Ultimate Window Overhaul Redone to v1.4.4](https://www.nexusmods.com/fallout4/mods/43458)
+- Updated [Ketaros Framework - ESL and Fixed to v2.8.5](https://www.nexusmods.com/fallout4/mods/69078)
+- Updated [Legendary Effect Overhaul (LEO) - Legendary Modification And More to v1.6.11](https://www.nexusmods.com/fallout4/mods/66900)
+- Updated [NAF Bridge to v0.780](https://www.nexusmods.com/fallout4/mods/87331)
+- Updated [The Fens Sheriff's Department - Bleachers 2 to v2.7.1](https://www.nexusmods.com/fallout4/mods/68276)
+- Updated [The Institute needs a suit like this to v1.0](https://www.nexusmods.com/fallout4/mods/72978)
+- Updated [Vault-Tec Mask to v1.0](https://www.nexusmods.com/fallout4/mods/68711)
+- Updated [Vtaw Wardrobe Preview Meshes to v1.2](https://www.nexusmods.com/fallout4/mods/78802)
+- Updated [Weapons Level List Patches to v2.18.2](https://www.nexusmods.com/fallout4/mods/49078)
+- Updated [Who's The General - Minutemen Quest Cleanup to v1.05](https://www.nexusmods.com/fallout4/mods/59019)
+- Updated [Fallout 4 High Heels System to v1.8.3](https://www.nexusmods.com/fallout4/mods/39850)
+- Updated [Far Object LOD Improvement Project to v4.2.1](https://www.nexusmods.com/fallout4/mods/61884)
+- Updated [Leveled Item Fixes (LIF) to v2.4.0](https://www.nexusmods.com/fallout4/mods/63914)
+- Updated [4estGimp - M8r98a4f2's Complex Item Sorter Enhancements to v2.7.2](https://www.nexusmods.com/fallout4/mods/51307)
+- Updated [Better Console - F4SE to vv1.4.0](https://www.nexusmods.com/fallout4/mods/26582)
+- Updated [Frame Generation to v1.0.0](https://www.nexusmods.com/fallout4/mods/98208)
+- Updated [Gloomy Glass - All transparent materials revised to v1.1](https://www.nexusmods.com/fallout4/mods/62518)
+- Updated [Halffaces - Old Rusty Trashcan to v1.01](https://www.nexusmods.com/fallout4/mods/84913)
+- Updated [Long Save Bug Fix to v0.1](https://www.nexusmods.com/fallout4/mods/68681)
+- Updated [VTAC REDUX - Vault-Tec Advanced Combat-Armor and Suit -- CBBE - TWB - 3BBB - ATOMIC - MALE - BodySlide to vv.1](https://www.nexusmods.com/fallout4/mods/81751)
+- Updated [VTAC REDUX - Vault-Tec Advanced Combat-Armor and Suit -- CBBE - TWB - 3BBB - ATOMIC - MALE - BodySlide to vv.1](https://www.nexusmods.com/fallout4/mods/81751)
+- Updated [X-Cell Fallout 4 to v1.2-b2](https://www.nexusmods.com/fallout4/mods/84214)
+- Updated [Clothes Pack 6 by DonEb14n - Fusion Girl and IKAROS Androids Patch to v1.01](https://www.nexusmods.com/fallout4/mods/74649)
+- Updated [Garden of Eden Papyrus Script Extender to v13.5](https://www.nexusmods.com/fallout4/mods/74160)
+- Updated [Vtaw Wardrobe 9 - Fusion Girl and IKAROS Androids Patch to v1.03](https://www.nexusmods.com/fallout4/mods/78280)
+- Updated [Workshop Framework to v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+- Updated [Kim Hairstyle to v1.09](https://www.nexusmods.com/fallout4/mods/76952)
+- Updated [Naturalistic Female Face Presets Pt.1 to v1.0](https://www.nexusmods.com/fallout4/mods/77949)
+- Updated [Swagmeisters Taffy Tales - Mary Preset to v1.0](https://www.nexusmods.com/fallout4/mods/70299)
+- Updated [VTAC REDUX - Fusion Girl and IKAROS Androids Patch to v1.0](https://www.nexusmods.com/fallout4/mods/82632)
+- Updated [ADD-ON - Pin-Up Card Series to v1.0](https://www.nexusmods.com/fallout4/mods/68239)
+- Updated [FlaconOil's Complete Retexture Project to vPart3-V1](https://www.nexusmods.com/fallout4/mods/3747)
+- Updated [Loot Detector Expansion to v1.1.1](https://www.nexusmods.com/fallout4/mods/62420)
+- Updated [Random Encounter Framework to v1.01](https://www.nexusmods.com/fallout4/mods/60074)
+- Updated [See Through Scopes to v2.5.3](https://www.nexusmods.com/fallout4/mods/9476)
+- Updated [Tutorials BeGone to v0.95](https://www.nexusmods.com/fallout4/mods/52960)
+- Updated [Godrays Performance Fix Redux - ESPless to v1.1.0](https://www.nexusmods.com/fallout4/mods/80942)
+- Updated [Fleiwas The Division 2 - FallUI HUD Layout to v1.3](https://www.nexusmods.com/fallout4/mods/62106)
+- Updated [Ketaros Framework to v1.3](https://www.nexusmods.com/fallout4/mods/68236)
+- Updated [Workshop Framework to v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+- Updated [ZP's Frost and Shock to v01](https://www.nexusmods.com/fallout4/mods/88525)
+- Updated [Motion Vector Fixes to v1.0.0](https://www.nexusmods.com/fallout4/mods/98544)
+- Updated [Obi's Vault Suit 4k CBBE to v1.0](https://www.nexusmods.com/fallout4/mods/80922)
+- Updated [Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person) to v0.95-beta](https://www.nexusmods.com/fallout4/mods/85053)
+- Updated [See Through Scopes - Remove Steady Aim Message Prompt to v1](https://www.nexusmods.com/fallout4/mods/72209)

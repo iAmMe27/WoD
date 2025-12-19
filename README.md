@@ -85,7 +85,7 @@ In terms of accounts you will need:
 > [!WARNING]
 > Your Steam install of Fallout 4 must be up to date - do not downgrade for WoD!
 >
-> As of version 1.5.4, Wasteland of Depravity is compatible with the Anniversary Edition update (build v1.11.169) of Fallout 4.
+> As of version 1.6, Wasteland of Depravity is compatible with the Anniversary Edition update (build v1.11.190) of Fallout 4.
 
 ## DLC
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.  
