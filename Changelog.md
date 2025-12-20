@@ -1971,3 +1971,6 @@ Hotfix to remove Random Overlay Framework as it was causing performance issues f
 - Updated [Obi's Vault Suit 4k CBBE to v1.0](https://www.nexusmods.com/fallout4/mods/80922)
 - Updated [Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person) to v0.95-beta](https://www.nexusmods.com/fallout4/mods/85053)
 - Updated [See Through Scopes - Remove Steady Aim Message Prompt to v1](https://www.nexusmods.com/fallout4/mods/72209)
+
+## 1.6.0.1
+Hotfix for the missing keyboard prompts
