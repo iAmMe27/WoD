@@ -1,0 +1,8 @@
+FormKey: 00B871:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _RecipeFHSM_chests_Layer2
+Color: '#00FFFFFF'
+Type: RecipeFilter
+Name:
+  TargetLanguage: English
+  Value: Torso Overlay

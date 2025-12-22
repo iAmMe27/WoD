@@ -1,0 +1,15 @@
+FormKey: 004C96:companion_FHSM.esp
+VersionControl: 8461
+EditorID: _cait_head_rear
+Name:
+  TargetLanguage: English
+  Value: _cait_head_rear
+Model:
+  File: Actors\fsm\fsm_head_rear.nif
+  Data: 0x04000000030000000000000001000000010000005823329264647300F292D0CB814F34F164647300F292D0CB9FA6E11164647300F292D0CBD6969DD96267736DBEE89951
+  MaterialSwap: 00268D:companion_FHSM.esp
+Flags:
+- Female
+Type: HeadRear
+TextureSet: 004C97:companion_FHSM.esp
+ValidRaces: 0A8026:Fallout4.esm

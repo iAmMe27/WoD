@@ -1,0 +1,29 @@
+FormKey: 00991D:companion_FHSM.esp
+VersionControl: 8481
+EditorID: _weap_TC_G
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - ThunderClaws Left Hand
+ObjectEffect: 00991E:companion_FHSM.esp
+WorldModel:
+  Male:
+    Model:
+      File: actors\fsm\go\weap_thunderclaws_G.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - FX
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 10C417:Fallout4.esm
+- 07820B:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: 'Fortify the armor and close combat damages (only useable by Cait) '
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 00991C:companion_FHSM.esp
+Value: 200
+ArmorRating: 17
+Unused: 0x000000

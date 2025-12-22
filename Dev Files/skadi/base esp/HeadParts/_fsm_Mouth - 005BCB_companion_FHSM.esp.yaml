@@ -1,0 +1,17 @@
+FormKey: 005BCB:companion_FHSM.esp
+VersionControl: 8462
+EditorID: _fsm_Mouth
+Name:
+  TargetLanguage: English
+  Value: fsm Mouth
+Model:
+  File: actors\fsm\fsm_Mouth.nif
+  Data: 0x04000000030000000000000001000000010000004E52187C6464730043F9D056973E1E1F6464730043F9D05689D7CBFF6464730043F9D0568AABE7586267736D7CC1A71E
+Flags:
+- Female
+Type: Teeth
+Parts:
+- PartType: Tri
+  FileName: Actors\Character\CharacterAssets\FaceParts\FemaleMouth.tri
+TextureSet: 008244:companion_FHSM.esp
+ValidRaces: 0A8026:Fallout4.esm

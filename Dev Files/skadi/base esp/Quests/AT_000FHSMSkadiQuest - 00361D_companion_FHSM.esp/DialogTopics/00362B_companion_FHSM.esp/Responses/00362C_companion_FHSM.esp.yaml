@@ -1,0 +1,21 @@
+FormKey: 00362C:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0FDC77:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: Actually, I'll be back later.
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0xF0E8C415A919D301
+Prompt:
+  TargetLanguage: English
+  Value: Never Mind
+StartScenePhase: ''
+SubtitlePriority: Low

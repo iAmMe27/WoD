@@ -1,0 +1,46 @@
+FormKey: 00361D:companion_FHSM.esp
+VersionControl: 8979
+EditorID: AT_000FHSMSkadiQuest
+VirtualMachineAdapter:
+  Script:
+    Name: Fragments:Quests:QF_AT_000FHSMSkadiQuest_0100361D
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: Skadi
+      Object: 00361D:companion_FHSM.esp
+      Alias: 0
+  Fragments:
+  - Stage: 10
+    Unknown2: 1
+    ScriptName: Fragments:Quests:QF_AT_000FHSMSkadiQuest_0100361D
+    FragmentName: Fragment_Stage_0010_Item_00
+  - Stage: 20
+    Unknown2: 1
+    ScriptName: Fragments:Quests:QF_AT_000FHSMSkadiQuest_0100361D
+    FragmentName: Fragment_Stage_0020_Item_00
+Data:
+  Flags:
+  - StartGameEnabled
+  - AllowRepeatedStages
+  - StartsEnabled
+  - RunOnce
+  Priority: 45
+UnusedConditions: []
+Stages:
+- Index: 10
+  Unknown: 116
+  LogEntries:
+  - Flags: []
+    Note: Recruit Skadi Stage 10
+- Index: 20
+  Unknown: 116
+  LogEntries:
+  - Flags: []
+    Note: Dismiss Skadi
+Aliases:
+- MutagenObjectType: QuestReferenceAlias
+  Name: Skadi
+  Flags: []
+  UniqueActor: 00361C:companion_FHSM.esp
+  VoiceTypes: Null
+Unknown: 1

@@ -1,0 +1,18 @@
+FormKey: 00365B:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0FA84D:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: Kill 'em all!
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0xC0A3AE82B319D301
+StartScenePhase: ''
+SubtitlePriority: Low

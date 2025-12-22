@@ -1,0 +1,21 @@
+FormKey: 00362A:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0C866F:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: You ready to head out?
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0xA0A91CE6A619D301
+Prompt:
+  TargetLanguage: English
+  Value: Recruit
+StartScenePhase: ''
+SubtitlePriority: Low

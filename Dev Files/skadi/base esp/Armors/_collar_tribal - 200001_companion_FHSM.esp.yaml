@@ -1,0 +1,32 @@
+FormKey: 200001:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _collar_tribal
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - Collar Tribal
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\new\collar_tribal.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - Headband
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 081B72:Fallout4.esm
+- 1E32C8:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 100001:companion_FHSM.esp
+Weight: 0.1
+ArmorRating: 3
+Unused: 0x000000
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 022821:Fallout4.esm
+- 20DE3E:Fallout4.esm

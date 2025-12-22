@@ -1,0 +1,36 @@
+FormKey: 0072F2:companion_FHSM.esp
+VersionControl: 8467
+EditorID: _fsm_collants
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - Stockings - Fishnet
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\fsm_collants.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - Shield
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 04F42C:Fallout4.esm
+- 07820B:Fallout4.esm
+- 07FACA:Fallout4.esm
+- 18B19B:Fallout4.esm
+- 1E32C8:Fallout4.esm
+- 20DE40:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 0072F1:companion_FHSM.esp
+Weight: 0.1
+ArmorRating: 10
+Unused: 0x000000
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 20DE3E:Fallout4.esm
+- 022821:Fallout4.esm

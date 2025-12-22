@@ -1,0 +1,43 @@
+FormKey: 0072A2:companion_FHSM.esp
+VersionControl: 8469
+EditorID: _armor_Fsm_Hvy_arm_R
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - Armor - Heavy Arm Right
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\Fsm_Hvy_arms.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - RightArmArmor
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 04F42C:Fallout4.esm
+- 07820B:Fallout4.esm
+- 081B40:Fallout4.esm
+- 18B19A:Fallout4.esm
+- 1E32C8:Fallout4.esm
+- 20DE40:Fallout4.esm
+- 10C417:Fallout4.esm
+- 0F4AE9:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 00729A:companion_FHSM.esp
+Weight: 5
+ArmorRating: 50
+Unused: 0x000000
+Resistances:
+- DamageType: 060A80:Fallout4.esm
+  Value: 20
+- DamageType: 060A81:Fallout4.esm
+  Value: 20
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 20DE3E:Fallout4.esm
+- 022821:Fallout4.esm

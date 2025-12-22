@@ -1,0 +1,11 @@
+FormKey: 00991E:companion_FHSM.esp
+VersionControl: 8481
+EditorID: _ench_weap_TC_Damagees
+Name:
+  TargetLanguage: English
+  Value: Fortify Damages
+EnchantType: Enchantment
+Effects:
+- BaseEffect: 00991F:companion_FHSM.esp
+  Data:
+    Magnitude: 30

@@ -1,0 +1,37 @@
+FormKey: 200046:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _new_collants3
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - Stockings - Type3
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\new\collants.nif
+      Data: 0x0400000000000000000000000000000000000000
+      MaterialSwap: 00C7BE:companion_FHSM.esp
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - Shield
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 04F42C:Fallout4.esm
+- 07820B:Fallout4.esm
+- 07FACA:Fallout4.esm
+- 18B19B:Fallout4.esm
+- 1E32C8:Fallout4.esm
+- 20DE40:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 100046:companion_FHSM.esp
+Weight: 0.1
+ArmorRating: 10
+Unused: 0x000000
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 20DE3E:Fallout4.esm
+- 022821:Fallout4.esm

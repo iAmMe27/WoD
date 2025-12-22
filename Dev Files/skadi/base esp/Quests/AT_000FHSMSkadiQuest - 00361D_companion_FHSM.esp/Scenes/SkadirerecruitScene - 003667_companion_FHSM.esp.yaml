@@ -1,0 +1,41 @@
+FormKey: 003667:companion_FHSM.esp
+VersionControl: 8979
+EditorID: SkadirerecruitScene
+Flags:
+- ShowAllText
+- 0x20
+Phases:
+- Name: ReRecruit Phase
+  EditorWidth: 350
+Actors:
+- Flags:
+  - RunOnlyScenePackages
+  BehaviorFlags:
+  - DeathEnd
+  - CombatEnd
+Actions:
+- Type:
+    MutagenObjectType: SceneActionTypicalType
+    Type: PlayerDialogue
+  Name: ''
+  AliasID: 0
+  Index: 1
+  Flags:
+  - FaceTarget
+  - HeadtrackPlayer
+  - CameraSpeakerTarget
+  StartPhase: 0
+  EndPhase: 0
+  PlayerPositiveResponse: 003671:companion_FHSM.esp
+  PlayerNegativeResponse: 003673:companion_FHSM.esp
+  PlayerNeutralResponse: 003675:companion_FHSM.esp
+  PlayerQuestionResponse: 003677:companion_FHSM.esp
+  NpcPositiveResponse: 003669:companion_FHSM.esp
+  NpcNegativeResponse: 00366B:companion_FHSM.esp
+  NpcNeutralResponse: 00366D:companion_FHSM.esp
+  NpcQuestionResponse: 00366F:companion_FHSM.esp
+  DialogueTargetActorId: 0
+Quest: 00361D:companion_FHSM.esp
+LastActionIndex: 1
+VNAM: 0x03000000030000000300000003000000
+Index: 40

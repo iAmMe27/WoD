@@ -1,0 +1,36 @@
+FormKey: 003665:companion_FHSM.esp
+VersionControl: 8980
+VirtualMachineAdapter:
+  ScriptFragments:
+    MutagenObjectType: ScriptFragments
+    Script:
+      Name: Fragments:TopicInfos:TIF_AT_000FHSMSkadiQuest_01003665
+    OnEnd:
+      ExtraBindDataVersion: 1
+      ScriptName: Fragments:TopicInfos:TIF_AT_000FHSMSkadiQuest_01003665
+      FragmentName: Fragment_End
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0C8670:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: You are really pissing me off!
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0x109A5788AF19D301
+Conditions:
+- MutagenObjectType: ConditionFloat
+  ComparisonValue: 1
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: WornHasKeyword
+    Unknown2: 39229
+    ParameterOneRecord: 15503F:Fallout4.esm
+    ParameterOneNumber: 1396799
+StartScenePhase: ''
+SubtitlePriority: Low

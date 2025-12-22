@@ -1,0 +1,31 @@
+FormKey: 30991B:companion_FHSM.esp
+VersionControl: 9067
+EditorID: co_thunderclaws_G
+Components:
+- Component: 01FA91:Fallout4.esm
+  Count: 2
+- Component: 01FA9B:Fallout4.esm
+  Count: 1
+- Component: 01FABD:Fallout4.esm
+  Count: 4
+- Component: 03D294:Fallout4.esm
+  Count: 4
+Description:
+  TargetLanguage: English
+  Value: ''
+Conditions:
+- MutagenObjectType: ConditionFloat
+  ComparisonValue: 1
+  Data:
+    MutagenObjectType: FunctionConditionData
+    RunOnType: Reference
+    Reference: 000014:Fallout4.esm
+    Function: HasPerk
+    ParameterOneRecord: 0264D9:Fallout4.esm
+    ParameterOneNumber: 156889
+CreatedObject: 00991D:companion_FHSM.esp
+WorkbenchKeyword: 00B0D2:companion_FHSM.esp
+Categories:
+- 00B876:companion_FHSM.esp
+CreatedObjectCounts:
+- Count: 1

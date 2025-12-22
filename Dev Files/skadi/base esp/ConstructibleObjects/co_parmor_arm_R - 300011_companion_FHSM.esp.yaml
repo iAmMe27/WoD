@@ -1,0 +1,15 @@
+FormKey: 300011:companion_FHSM.esp
+VersionControl: 9067
+EditorID: co_parmor_arm_R
+Components:
+- Component: 01FABD:Fallout4.esm
+  Count: 2
+Description:
+  TargetLanguage: English
+  Value: ''
+CreatedObject: 200011:companion_FHSM.esp
+WorkbenchKeyword: 00B0D2:companion_FHSM.esp
+Categories:
+- 00B0D0:companion_FHSM.esp
+CreatedObjectCounts:
+- Count: 1

@@ -1,0 +1,14 @@
+FormKey: 300032:companion_FHSM.esp
+VersionControl: 9067
+EditorID: co_jacket_shorts_stocking---annul
+Components:
+- Component: 01FAAE:Fallout4.esm
+  Count: 1
+Description:
+  TargetLanguage: English
+  Value: ''
+CreatedObject: 200032:companion_FHSM.esp
+Categories:
+- 00B87A:companion_FHSM.esp
+CreatedObjectCounts:
+- Count: 1

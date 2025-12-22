@@ -1,0 +1,18 @@
+FormKey: 003628:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0FA84C:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: Don't do anything stupid.
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0xE0D7D6B3AB19D301
+StartScenePhase: ''
+SubtitlePriority: Low

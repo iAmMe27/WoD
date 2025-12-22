@@ -1,0 +1,8 @@
+FormKey: 00268E:companion_FHSM.esp
+VersionControl: 8935
+EditorID: MS_hairline
+TreeFolder: SetDressing
+Substitutions:
+- {}
+- OriginalMaterial: Actors\FSM\fsm_hairline.bgsm
+  ReplacementMaterial: Actors\FSM\sa\fsm_hairline.bgsm

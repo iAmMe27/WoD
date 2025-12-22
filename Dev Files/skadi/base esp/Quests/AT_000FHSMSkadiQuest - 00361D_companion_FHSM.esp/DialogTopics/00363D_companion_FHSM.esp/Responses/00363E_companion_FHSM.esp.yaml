@@ -1,0 +1,21 @@
+FormKey: 00363E:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0C866C:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: Time to hit the road.
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0x30C3104BAE19D301
+Prompt:
+  TargetLanguage: English
+  Value: Dismiss
+StartScenePhase: ''
+SubtitlePriority: Low

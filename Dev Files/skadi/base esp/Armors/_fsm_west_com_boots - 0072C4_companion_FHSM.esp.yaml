@@ -1,0 +1,34 @@
+FormKey: 0072C4:companion_FHSM.esp
+VersionControl: 8467
+EditorID: _fsm_west_com_boots
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - Boot Left - Wastelander
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\fsm_west_com_boots.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - LeftLegUnderArmor
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 04F42C:Fallout4.esm
+- 07820B:Fallout4.esm
+- 1E32C8:Fallout4.esm
+- 20DE40:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 00A860:companion_FHSM.esp
+Weight: 1
+ArmorRating: 10
+Unused: 0x000000
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 20DE3E:Fallout4.esm
+- 022821:Fallout4.esm

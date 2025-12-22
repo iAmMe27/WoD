@@ -1,0 +1,18 @@
+FormKey: 003664:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+SharedDialog: 1F3CBB:Fallout4.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  ComparisonValue: 1
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: WornHasKeyword
+    ParameterOneRecord: 15503F:Fallout4.esm
+    ParameterOneNumber: 1396799
+Prompt:
+  TargetLanguage: English
+  Value: Exit Power Armor
+StartScenePhase: ''
+SubtitlePriority: Low

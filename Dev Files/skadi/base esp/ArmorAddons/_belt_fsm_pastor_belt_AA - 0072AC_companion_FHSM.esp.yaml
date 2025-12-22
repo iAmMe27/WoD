@@ -1,0 +1,22 @@
+FormKey: 0072AC:companion_FHSM.esp
+VersionControl: 8467
+EditorID: _belt_fsm_pastor_belt_AA
+BodyTemplate:
+  FirstPersonFlags:
+  - Unnamed55
+Race: 007777:companion_FHSM.esp
+Priority:
+  Male: 0
+  Female: 0
+WeightSliderEnabled:
+  Male: False
+  Female: False
+Unknown: 2
+Unknown2: 23
+WorldModel:
+  Female:
+    File: actors\Fsm\belts\fsm_pastor_belt.nif
+    Data: 0x04000000030000000000000001000000010000005823329264647300F292D0CB814F34F164647300F292D0CB9FA6E11164647300F292D0CBD6969DD96267736DBEE89951
+    Flags:
+    - HasFirstPersonModel
+BoneData: {}

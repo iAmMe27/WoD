@@ -1,0 +1,19 @@
+FormKey: 003636:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0FA84F:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: Good riddance.
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0xB046298EAE19D301
+StartScene: 003643:companion_FHSM.esp
+StartScenePhase: Dismissed Phase
+SubtitlePriority: Low

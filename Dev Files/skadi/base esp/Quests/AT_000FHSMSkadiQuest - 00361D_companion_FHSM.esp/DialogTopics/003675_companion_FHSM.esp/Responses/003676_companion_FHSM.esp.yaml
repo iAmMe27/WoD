@@ -1,0 +1,21 @@
+FormKey: 003676:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0FA84E:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: This just keeps getting weirder.
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0xF0DBF334B819D301
+Prompt:
+  TargetLanguage: English
+  Value: Sarastic
+StartScenePhase: ''
+SubtitlePriority: Low

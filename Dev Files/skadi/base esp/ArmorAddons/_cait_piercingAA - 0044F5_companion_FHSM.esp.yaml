@@ -1,0 +1,22 @@
+FormKey: 0044F5:companion_FHSM.esp
+VersionControl: 8460
+EditorID: _cait_piercingAA
+BodyTemplate:
+  FirstPersonFlags:
+  - Unnamed56
+Race: 007777:companion_FHSM.esp
+Priority:
+  Male: 0
+  Female: 0
+WeightSliderEnabled:
+  Male: False
+  Female: False
+Unknown: 2
+Unknown2: 23
+WorldModel:
+  Female:
+    File: actors\Fsm\items\fsm_piercing.nif
+    Data: 0x0400000003000000000000000100000001000000DA3C5EFD64647300F292D0CB0350589E64647300F292D0CB1DB98D7E64647300F292D0CB097248216267736DBEE89951
+    Flags:
+    - HasFirstPersonModel
+BoneData: {}

@@ -1,0 +1,17 @@
+FormKey: 30B0D3:companion_FHSM.esp
+VersionControl: 9067
+EditorID: co___Workbench___
+PickUpSound: 03DFD9:Fallout4.esm
+PutDownSound: 03DFDA:Fallout4.esm
+Components:
+- Component: 01FABD:Fallout4.esm
+  Count: 4
+Description:
+  TargetLanguage: English
+  Value: ''
+CreatedObject: 00B86E:companion_FHSM.esp
+WorkbenchKeyword: 12E2C8:Fallout4.esm
+Categories:
+- 12E2C7:Fallout4.esm
+CreatedObjectCounts:
+- Count: 1

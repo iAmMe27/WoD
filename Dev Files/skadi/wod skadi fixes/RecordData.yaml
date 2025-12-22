@@ -1,0 +1,14 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Fallout4
+  Version: 0.40
+ModKey: WoD Skadi Fixes.esp
+GameRelease: Fallout4
+ModHeader:
+  Flags:
+  - Small
+  Author: ''
+  MasterReferences:
+  - Master: Fallout4.esm
+    FileSize: 0
+  - Master: companion_FHSM.esp
+    FileSize: 0

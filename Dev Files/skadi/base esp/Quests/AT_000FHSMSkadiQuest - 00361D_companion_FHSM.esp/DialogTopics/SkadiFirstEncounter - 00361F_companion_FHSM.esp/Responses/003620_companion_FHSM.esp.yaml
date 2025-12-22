@@ -1,0 +1,40 @@
+FormKey: 003620:companion_FHSM.esp
+VersionControl: 8980
+Flags:
+  Flags:
+  - ForceAllChildrenPlayerActivateOnly
+PreviousDialog: Null
+Responses:
+- Emotion: 0FA84A:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: Who are you?
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0x20ED1A43A619D301
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: GetStage
+    Unknown2: 39228
+    ParameterOneRecord: 00361D:companion_FHSM.esp
+    ParameterOneNumber: 16791069
+- MutagenObjectType: ConditionFloat
+  ComparisonValue: 1
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: GetIsID
+    Unknown2: 39228
+    ParameterOneRecord: 00361C:companion_FHSM.esp
+    ParameterOneNumber: 16791068
+Prompt:
+  TargetLanguage: English
+  Value: Hello
+StartScene: 00361E:companion_FHSM.esp
+StartScenePhase: First Encounter Phase
+SubtitlePriority: Low

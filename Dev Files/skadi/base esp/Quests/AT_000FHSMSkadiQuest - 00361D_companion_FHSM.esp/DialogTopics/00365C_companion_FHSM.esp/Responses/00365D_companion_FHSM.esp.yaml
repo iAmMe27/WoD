@@ -1,0 +1,21 @@
+FormKey: 00365D:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0FDC77:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: Some other time, maybe.
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0x308FBB17B119D301
+Prompt:
+  TargetLanguage: English
+  Value: Confirm dismissal
+StartScenePhase: ''
+SubtitlePriority: Low

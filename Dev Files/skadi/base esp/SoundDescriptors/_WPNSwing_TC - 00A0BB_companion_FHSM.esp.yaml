@@ -1,0 +1,17 @@
+FormKey: 00A0BB:companion_FHSM.esp
+VersionControl: 8815
+EditorID: _WPNSwing_TC
+Data:
+  MutagenObjectType: SoundDescriptorStandardData
+  Priority: 64
+  Variance: 6
+  StaticAttenuation: 10.57
+Category: 0172A1:Fallout4.esm
+SoundFiles:
+- data\meshes\actors\Fsm\weapons\FX_Swing_thunderclaws1.xwm
+- data\meshes\actors\Fsm\weapons\FX_Swing_thunderclaws2.xwm
+- data\meshes\actors\Fsm\weapons\FX_Swing_thunderclaws3.xwm
+OutputModel: 05A28A:Fallout4.esm
+LoopAndRumble:
+  Unknown: 1
+  RumbleValues: 4

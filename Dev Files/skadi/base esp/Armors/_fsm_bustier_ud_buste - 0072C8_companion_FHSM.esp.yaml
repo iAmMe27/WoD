@@ -1,0 +1,36 @@
+FormKey: 0072C8:companion_FHSM.esp
+VersionControl: 8467
+EditorID: _fsm_bustier_ud_buste
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - Chest Under - Band
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\fsm_bustier_ud_buste.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - TorsoUnderArmor
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 04F42C:Fallout4.esm
+- 07820B:Fallout4.esm
+- 07FACA:Fallout4.esm
+- 18B19B:Fallout4.esm
+- 1E32C8:Fallout4.esm
+- 20DE40:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 0072C7:companion_FHSM.esp
+Weight: 0.5
+ArmorRating: 30
+Unused: 0x000000
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 20DE3E:Fallout4.esm
+- 022821:Fallout4.esm

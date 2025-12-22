@@ -1,0 +1,29 @@
+FormKey: 05FAA8:Fallout4.esm
+VersionControl: 8979
+EditorID: RedRocketCaveLocation
+Version2: 11
+PersistentActorReferencesAdded:
+- Actor: 00367A:companion_FHSM.esp
+  Location: 05E62F:Fallout4.esm
+  Grid: 32767, 32767
+UniqueActorReferencesAdded:
+- Actor: 00361C:companion_FHSM.esp
+  Ref: 00367A:companion_FHSM.esp
+  Location: 05FAA8:Fallout4.esm
+LocationRefTypeReferencesAdded:
+- LocationRefType: 02FD6F:Fallout4.esm
+  Ref: 08CC32:Fallout4.esm
+  Location: 05E62F:Fallout4.esm
+  Grid: 32767, 32767
+Name:
+  TargetLanguage: English
+  Value: Mole Rat Den
+Keywords:
+- 0254BC:Fallout4.esm
+- 0581C6:Fallout4.esm
+- 0581DA:Fallout4.esm
+- 064EDE:Fallout4.esm
+ParentLocation: 002CF0:Fallout4.esm
+WorldLocationMarkerRef: 024FBE:Fallout4.esm
+WorldLocationRadius: 1500
+ActorFadeMult: 1

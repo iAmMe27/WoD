@@ -1,0 +1,16 @@
+FormKey: 000801:companion_FHSM.esp
+VersionControl: 8460
+EditorID: _skadi_hair1
+Name:
+  TargetLanguage: English
+  Value: skadi Hair
+Model:
+  File: actors\Fsm\sa\fsm_hair.nif
+  Data: 0x040000000500000000000000020000000100000073CD588E64647300BF527BC5982985E364647300BF527BC5AAA15EED64647300BF527BC5A0EDC32664647300BF527BC5AC88529D64647300BF527BC5CA38E2476267736D30F9B8BB
+  MaterialSwap: 00268B:companion_FHSM.esp
+Flags:
+- Playable
+- Female
+Type: Hair
+TextureSet: 0044FB:companion_FHSM.esp
+ValidRaces: 0A8026:Fallout4.esm

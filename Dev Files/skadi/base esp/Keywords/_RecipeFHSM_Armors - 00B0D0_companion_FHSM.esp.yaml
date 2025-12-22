@@ -1,0 +1,8 @@
+FormKey: 00B0D0:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _RecipeFHSM_Armors
+Color: '#00FFFFFF'
+Type: RecipeFilter
+Name:
+  TargetLanguage: English
+  Value: Armors

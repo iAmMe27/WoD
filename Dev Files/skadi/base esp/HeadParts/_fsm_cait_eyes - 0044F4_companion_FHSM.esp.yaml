@@ -1,0 +1,22 @@
+FormKey: 0044F4:companion_FHSM.esp
+VersionControl: 8460
+EditorID: _fsm_cait_eyes
+Name:
+  TargetLanguage: English
+  Value: cait eyes
+Model:
+  File: actors\fsm\sa\fsm_eyes.nif
+  Data: 0x040000000400000000000000020000000100000061B4E07764647300300796FE0C9D946164647300300796FE87C6F91264647300300796FEDA8E9291646473001CDB88C58AEB5E866267736D7CC1A71E
+  MaterialSwap: 00268A:companion_FHSM.esp
+Flags:
+- Female
+Type: Eyes
+ExtraParts:
+- 14EC22:Fallout4.esm
+- 0F159E:Fallout4.esm
+- 04D0EC:Fallout4.esm
+Parts:
+- PartType: ChargenMorph
+  FileName: Actors\Character\CharacterAssets\FaceParts\FemaleEyesChargen.tri
+TextureSet: 0044F7:companion_FHSM.esp
+ValidRaces: 0A8026:Fallout4.esm

@@ -1,0 +1,43 @@
+FormKey: 200017:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _parmor_helm
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - PA_X1 - Helm
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\parmor\parmor_helm.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - HairLong
+  - RightArmUnderArmor
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 07FACA:Fallout4.esm
+- 19B812:Fallout4.esm
+- 1E32C8:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 100017:companion_FHSM.esp
+Weight: 0.5
+ArmorRating: 30
+Unused: 0x000000
+Resistances:
+- DamageType: 060A87:Fallout4.esm
+  Value: 30
+- DamageType: 060A82:Fallout4.esm
+  Value: 30
+- DamageType: 060A80:Fallout4.esm
+  Value: 30
+- DamageType: 060A81:Fallout4.esm
+  Value: 30
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 022821:Fallout4.esm
+- 20DE3E:Fallout4.esm

@@ -1,0 +1,56 @@
+FormKey: 00B86E:companion_FHSM.esp
+MajorRecordFlagsRaw: 8212
+VersionControl: 9067
+EditorID: _Workbench_FHSM
+Fallout4MajorRecordFlags:
+- NotPlayable
+- 0x10
+- 0x2000
+VirtualMachineAdapter:
+  Scripts:
+  - Name: WorkbenchScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: WorkshopItemKeyword
+      Object: 054BA6:Fallout4.esm
+ObjectBounds:
+  First: -71, -53, -7
+  Second: 98, 64, 87
+PreviewTransform: 178E82:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: Skadi Items Workbench
+Model:
+  File: meshes\actors\fsm\Workbench_HSM.nif
+  Data: 0x0400000000000000000000000000000000000000
+Keywords:
+- 091FD4:Fallout4.esm
+- 0A56D8:Fallout4.esm
+- 12F848:Fallout4.esm
+- 14D04F:Fallout4.esm
+- 00B0D2:companion_FHSM.esp
+PNAM: 0x00000000
+Flags:
+- HasModel
+Items: []
+BenchType: Alchemy
+UsesSkill: 88
+MarkerModel: Markers\WorkstationArmorB01Marker.nif
+MarkerParameters:
+- Enabled: True
+  EntryTypes:
+  - Front
+  - Behind
+  - Right
+  - Left
+  - Other
+  - 0x20
+  - 0x40
+  - 0x80
+  Unknown: 0xFFFFFF
+WBDTDataTypeState:
+- Break0
+MajorFlags:
+- HasContainer
+- 0x10
+- 0x2000

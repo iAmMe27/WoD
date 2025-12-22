@@ -1,0 +1,51 @@
+FormKey: 003631:companion_FHSM.esp
+VersionControl: 8979
+EditorID: RecruitedSkadiPhase
+Flags:
+- ShowAllText
+- 0x20
+Phases:
+- Name: Talk with skadi Phase
+  EditorWidth: 350
+Actors:
+- Flags:
+  - RunOnlyScenePackages
+  BehaviorFlags:
+  - DeathEnd
+  - CombatEnd
+Actions:
+- Type:
+    MutagenObjectType: SceneActionTypicalType
+    Type: PlayerDialogue
+  Name: ''
+  AliasID: 0
+  Index: 1
+  Flags:
+  - FaceTarget
+  - HeadtrackPlayer
+  - CameraSpeakerTarget
+  StartPhase: 0
+  EndPhase: 0
+  PlayerPositiveResponse: 00363B:companion_FHSM.esp
+  PlayerNegativeResponse: 00363D:companion_FHSM.esp
+  PlayerNeutralResponse: 00363F:companion_FHSM.esp
+  PlayerQuestionResponse: 003641:companion_FHSM.esp
+  NpcPositiveResponse: 003633:companion_FHSM.esp
+  NpcNegativeResponse: 003635:companion_FHSM.esp
+  NpcNeutralResponse: 003637:companion_FHSM.esp
+  NpcQuestionResponse: 003639:companion_FHSM.esp
+  DialogueTargetActorId: 0
+- Type:
+    MutagenObjectType: SceneActionTypicalType
+    Type: Package
+  Name: ''
+  AliasID: 0
+  Index: 2
+  StartPhase: 0
+  EndPhase: 0
+  Packages:
+  - 019AA2:Fallout4.esm
+Quest: 00361D:companion_FHSM.esp
+LastActionIndex: 2
+VNAM: 0x03000000030000000300000003000000
+Index: 20

@@ -1,0 +1,21 @@
+FormKey: 003672:companion_FHSM.esp
+VersionControl: 8980
+Flags: {}
+PreviousDialog: Null
+Responses:
+- Emotion: 0C866F:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: Let's get out of here.
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0x4038C049B719D301
+Prompt:
+  TargetLanguage: English
+  Value: Recruit
+StartScenePhase: ''
+SubtitlePriority: Low

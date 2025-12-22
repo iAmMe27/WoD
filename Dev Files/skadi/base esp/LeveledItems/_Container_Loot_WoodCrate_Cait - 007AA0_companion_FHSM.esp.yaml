@@ -1,0 +1,291 @@
+FormKey: 007AA0:companion_FHSM.esp
+VersionControl: 8469
+EditorID: _Container_Loot_WoodCrate_Cait
+MaxCount: 71
+Flags:
+- UseAll
+Entries:
+- Data:
+    Level: 1
+    Reference: 000815:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 000818:companion_FHSM.esp
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 001EF3:companion_FHSM.esp
+    Count: 2
+- Data:
+    Level: 1
+    Reference: 0044F6:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072A1:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072A2:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072A3:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072A4:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072A5:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072A6:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072A7:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072A8:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072AF:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072B0:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072B1:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072B2:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072B4:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072B7:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072B8:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072BA:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072BC:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072BE:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072C0:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072C2:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072C4:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072C6:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072C8:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072CA:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072CC:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072CE:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072CF:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072D2:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072D3:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072D6:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072D7:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072DA:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072DB:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072DE:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072E3:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072E6:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072E8:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072EA:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072EC:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072EE:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072F0:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072F2:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072F4:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072F6:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072F8:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072FA:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072FC:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 0072FD:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 007300:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 007302:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 009178:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 009178:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 009915:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00991D:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A861:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A862:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A863:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A864:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A865:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A866:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A867:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A868:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A86E:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A86F:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A870:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A871:companion_FHSM.esp
+    Count: 1
+- Data:
+    Level: 1
+    Reference: 00A872:companion_FHSM.esp
+    Count: 1

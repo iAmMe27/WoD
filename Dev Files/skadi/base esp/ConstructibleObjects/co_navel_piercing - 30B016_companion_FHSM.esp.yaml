@@ -1,0 +1,15 @@
+FormKey: 30B016:companion_FHSM.esp
+VersionControl: 9067
+EditorID: co_navel_piercing
+Components:
+- Component: 01FABD:Fallout4.esm
+  Count: 1
+Description:
+  TargetLanguage: English
+  Value: ''
+CreatedObject: 0044F6:companion_FHSM.esp
+WorkbenchKeyword: 00B0D2:companion_FHSM.esp
+Categories:
+- 00B874:companion_FHSM.esp
+CreatedObjectCounts:
+- Count: 1

@@ -1,0 +1,35 @@
+FormKey: 000818:companion_FHSM.esp
+VersionControl: 8460
+EditorID: _cait_necklace
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - Necklace
+ObjectEffect: 192198:Fallout4.esm
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\fsm_collier.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - Pipboy
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 1E32C8:Fallout4.esm
+- 081B72:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 000804:companion_FHSM.esp
+Weight: 0.1
+ArmorRating: 30
+Unused: 0x000000
+Resistances:
+- DamageType: 060A87:Fallout4.esm
+  Value: 7
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 022821:Fallout4.esm

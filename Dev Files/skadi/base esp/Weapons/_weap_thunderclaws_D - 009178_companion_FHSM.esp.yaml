@@ -1,0 +1,66 @@
+FormKey: 009178:companion_FHSM.esp
+MajorRecordFlagsRaw: 1073741824
+VersionControl: 8481
+EditorID: _weap_thunderclaws_D
+Fallout4MajorRecordFlags:
+- 0x40000000
+ObjectBounds:
+  First: -18, -10, -5
+  Second: 19, 6, 5
+PreviewTransform: 248AB0:Fallout4.esm
+Name:
+  TargetLanguage: English
+  Value: HFSM - ThunderClaws Right Hand
+Model:
+  File: actors\fsm\weapons\weap_thunderclaws_D.nif
+  Data: 0x0400000007000000000000000400000002000000072B29D36464730089804608DE472FB0646473008980460803D8C24064647300A0B863051D3117A064647300A0B863053F76F7A8646473001CDB88C5C0AEFA5064647300898046080F2C2A00646473001CDB88C5D6597AEE6267736DB98041FD866496D06267736D750FE14C
+EquipmentType: 013F42:Fallout4.esm
+BlockBashImpactDataSet: 0A726B:Fallout4.esm
+AlternateBlockMaterial: 0A726C:Fallout4.esm
+Keywords:
+- 02405E:Fallout4.esm
+- 05240E:Fallout4.esm
+- 0F4AEA:Fallout4.esm
+- 127563:Fallout4.esm
+- 187A07:Fallout4.esm
+- 1C9E79:Fallout4.esm
+- 226453:Fallout4.esm
+- 230326:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+InstanceNaming: 0B9738:Fallout4.esm
+AttachParentSlots:
+- 05524C:Fallout4.esm
+- 1E32C8:Fallout4.esm
+FirstPersonModel:
+  File: actors\fsm\weapons\weap_thunderclaws_D.nif
+  Data: 0x0400000000000000000000000000000000000000
+Speed: 1
+ReloadSpeed: 1
+Reach: 1
+MaxRange: 10
+DamageOutOfRangeMult: -1
+Flags:
+- CritEffectOnDeath
+- BoundWeapon
+SecondaryDamage: -107374180
+Weight: 7
+BaseDamage: 35
+SoundLevel: Normal
+AttackSound: 00A0BA:companion_FHSM.esp
+IdleSound: 0D40B6:Fallout4.esm
+EquipSound: 2498C9:Fallout4.esm
+UnequipSound: 1526AC:Fallout4.esm
+AnimationAttackSeconds: 1.1179512
+ActionPointCost: 20
+Stagger: Medium
+Unknown3: 2139095039
+CritDamageMult: 2
+CritChargeBonus: 1
+ImpactDataSet: 013CAC:Fallout4.esm
+DamageTypes:
+- DamageType: 060A80:Fallout4.esm
+  Value: 35
+MajorFlags:
+- 0x40000000

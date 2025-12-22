@@ -1,0 +1,15 @@
+FormKey: 300023:companion_FHSM.esp
+VersionControl: 9067
+EditorID: co_blouse_buste
+Components:
+- Component: 01FAAE:Fallout4.esm
+  Count: 1
+Description:
+  TargetLanguage: English
+  Value: ''
+CreatedObject: 200023:companion_FHSM.esp
+WorkbenchKeyword: 00B0D2:companion_FHSM.esp
+Categories:
+- 00B877:companion_FHSM.esp
+CreatedObjectCounts:
+- Count: 1

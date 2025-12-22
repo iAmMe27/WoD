@@ -1,0 +1,11 @@
+FormKey: 007305:companion_FHSM.esp
+VersionControl: 8467
+EditorID: _EnchBackpackCarryWeight520
+Name:
+  TargetLanguage: English
+  Value: Fortify Carry Weight
+EnchantType: Enchantment
+Effects:
+- BaseEffect: 04B24F:Fallout4.esm
+  Data:
+    Magnitude: 700

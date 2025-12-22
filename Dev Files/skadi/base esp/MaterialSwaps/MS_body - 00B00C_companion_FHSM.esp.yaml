@@ -1,0 +1,8 @@
+FormKey: 00B00C:companion_FHSM.esp
+VersionControl: 8931
+EditorID: MS_body
+TreeFolder: SetDressing
+Substitutions:
+- {}
+- OriginalMaterial: Actors\FSM\fsm_body.bgsm
+  ReplacementMaterial: actors\fsm\sa\fsm_body.bgsm

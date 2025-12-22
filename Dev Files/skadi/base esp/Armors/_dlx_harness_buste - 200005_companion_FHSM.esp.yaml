@@ -1,0 +1,37 @@
+FormKey: 200005:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _dlx_harness_buste
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - Chest Under - Harness Type-K
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\new\dlx_harness_buste.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - HairTop
+  - TorsoUnderArmor
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 081B74:Fallout4.esm
+- 1E32C8:Fallout4.esm
+- 07FACA:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 100005:companion_FHSM.esp
+Weight: 0.5
+ArmorRating: 30
+Unused: 0x000000
+Resistances:
+- DamageType: 060A87:Fallout4.esm
+  Value: 5
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 022821:Fallout4.esm
+- 20DE3E:Fallout4.esm

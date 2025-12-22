@@ -1,0 +1,8 @@
+FormKey: 00268A:companion_FHSM.esp
+VersionControl: 8935
+EditorID: MS_eyes
+TreeFolder: SetDressing
+Substitutions:
+- {}
+- OriginalMaterial: Actors\FSM\fsm_eyes.bgsm
+  ReplacementMaterial: Actors\FSM\sa\fsm_eyes.bgsm

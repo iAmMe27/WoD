@@ -1,0 +1,15 @@
+FormKey: 30B01B:companion_FHSM.esp
+VersionControl: 9067
+EditorID: co_armor_heavy_arm_left
+Components:
+- Component: 01FABD:Fallout4.esm
+  Count: 1
+Description:
+  TargetLanguage: English
+  Value: ''
+CreatedObject: 0072A1:companion_FHSM.esp
+WorkbenchKeyword: 00B0D2:companion_FHSM.esp
+Categories:
+- 00B0D0:companion_FHSM.esp
+CreatedObjectCounts:
+- Count: 1

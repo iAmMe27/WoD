@@ -1,0 +1,8 @@
+FormKey: 00B87C:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _kgirl_pristin_vest_cross
+TreeFolder: SetDressing
+Substitutions:
+- {}
+- OriginalMaterial: Actors\FSM\kgirl\pristin_vest.bgsm
+  ReplacementMaterial: Actors\FSM\kgirl\pristin_vest_cross.bgsm

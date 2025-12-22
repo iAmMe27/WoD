@@ -1,0 +1,8 @@
+FormKey: 00C7BD:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _new_collants_2
+TreeFolder: SetDressing
+Substitutions:
+- {}
+- OriginalMaterial: actors\fsm\new\collants_1.bgsm
+  ReplacementMaterial: actors\fsm\new\collants_2.bgsm

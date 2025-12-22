@@ -1,0 +1,15 @@
+FormKey: 30B050:companion_FHSM.esp
+VersionControl: 9067
+EditorID: co_pants_grognak
+Components:
+- Component: 01FAAE:Fallout4.esm
+  Count: 1
+Description:
+  TargetLanguage: English
+  Value: ''
+CreatedObject: 007302:companion_FHSM.esp
+WorkbenchKeyword: 00B0D2:companion_FHSM.esp
+Categories:
+- 00B879:companion_FHSM.esp
+CreatedObjectCounts:
+- Count: 1

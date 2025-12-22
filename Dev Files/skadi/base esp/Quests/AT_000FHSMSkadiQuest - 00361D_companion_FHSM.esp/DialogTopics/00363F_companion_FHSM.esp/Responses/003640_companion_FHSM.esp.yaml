@@ -1,0 +1,17 @@
+FormKey: 003640:companion_FHSM.esp
+VersionControl: 8979
+Flags: {}
+PreviousDialog: 003664:companion_FHSM.esp
+Responses:
+- Emotion: FFFFFF:companion_FHSM.esp
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: ''
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+StartScenePhase: ''
+SubtitlePriority: Low

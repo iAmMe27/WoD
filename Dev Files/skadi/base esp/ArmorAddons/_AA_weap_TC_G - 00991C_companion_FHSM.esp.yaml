@@ -1,0 +1,32 @@
+FormKey: 00991C:companion_FHSM.esp
+VersionControl: 8481
+EditorID: _AA_weap_TC_G
+BodyTemplate:
+  FirstPersonFlags:
+  - FX
+Race: 007777:companion_FHSM.esp
+Priority:
+  Male: 0
+  Female: 0
+WeightSliderEnabled:
+  Male: False
+  Female: False
+Unknown: 2
+Unknown2: 23
+WorldModel:
+  Male:
+    File: actors\fsm\weapons\weap_thunderclaws_G.nif
+    Data: 0x0400000000000000000000000000000000000000
+  Female:
+    File: actors\fsm\weapons\weap_thunderclaws_G.nif
+    Data: 0x04000000030000000000000001000000010000005823329264647300F292D0CB814F34F164647300F292D0CB9FA6E11164647300F292D0CBD6969DD96267736DBEE89951
+FirstPersonModel:
+  Male:
+    File: actors\fsm\weapons\weap_thunderclaws_G.nif
+    Data: 0x0400000000000000000000000000000000000000
+  Female:
+    File: actors\fsm\weapons\weap_thunderclaws_G.nif
+    Data: 0x0400000000000000000000000000000000000000
+AdditionalRaces:
+- 013746:Fallout4.esm
+BoneData: {}

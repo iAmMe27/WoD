@@ -1,0 +1,8 @@
+FormKey: 00268D:companion_FHSM.esp
+VersionControl: 8935
+EditorID: MS_headrear
+TreeFolder: SetDressing
+Substitutions:
+- {}
+- OriginalMaterial: Actors\FSM\fsm_head_rear.bgsm
+  ReplacementMaterial: actors\fsm\sa\fsm_head_rear.bgsm

@@ -1,0 +1,24 @@
+SpriggitSource:
+  PackageName: Spriggit.Yaml.Fallout4
+  Version: 0.40
+ModKey: companion_FHSM.esp
+GameRelease: Fallout4
+ModHeader:
+  Stats:
+    Version: 0.95
+  Author: Dlx
+  Description: companion_halfsupermutante
+  MasterReferences:
+  - Master: Fallout4.esm
+    FileSize: 0
+  TransientTypes:
+  - FormType: 78
+    Links:
+    - 00361F:companion_FHSM.esp
+  - FormType: 126
+    Links:
+    - 003643:companion_FHSM.esp
+    - 00361E:companion_FHSM.esp
+    - 003667:companion_FHSM.esp
+    - 003631:companion_FHSM.esp
+  INTV: 0x01000000

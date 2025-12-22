@@ -1,0 +1,19 @@
+FormKey: 00991F:companion_FHSM.esp
+VersionControl: 8481
+EditorID: _weap_TC_Damages
+Name:
+  TargetLanguage: English
+  Value: TC Damages
+Flags:
+- Recover
+- NoDuration
+- NoArea
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  ActorValue: 0002DE:Fallout4.esm
+DualCastScale: 1
+CastingSoundLevel: Normal
+Sounds: []
+Description:
+  TargetLanguage: English
+  Value: +<mag> Health

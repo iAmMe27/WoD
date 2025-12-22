@@ -1,0 +1,15 @@
+FormKey: 30B046:companion_FHSM.esp
+VersionControl: 9067
+EditorID: co_glove_left_spiked
+Components:
+- Component: 01FAAE:Fallout4.esm
+  Count: 1
+Description:
+  TargetLanguage: English
+  Value: ''
+CreatedObject: 0072DE:companion_FHSM.esp
+WorkbenchKeyword: 00B0D2:companion_FHSM.esp
+Categories:
+- 00B872:companion_FHSM.esp
+CreatedObjectCounts:
+- Count: 1

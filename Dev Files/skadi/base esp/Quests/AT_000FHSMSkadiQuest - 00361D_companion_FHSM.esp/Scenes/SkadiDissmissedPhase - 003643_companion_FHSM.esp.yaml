@@ -1,0 +1,51 @@
+FormKey: 003643:companion_FHSM.esp
+VersionControl: 8979
+EditorID: SkadiDissmissedPhase
+Flags:
+- ShowAllText
+- 0x20
+Phases:
+- Name: Dismissed Phase
+  EditorWidth: 350
+Actors:
+- Flags:
+  - RunOnlyScenePackages
+  BehaviorFlags:
+  - DeathEnd
+  - CombatEnd
+Actions:
+- Type:
+    MutagenObjectType: SceneActionTypicalType
+    Type: PlayerDialogue
+  Name: ''
+  AliasID: 0
+  Index: 2
+  Flags:
+  - FaceTarget
+  - HeadtrackPlayer
+  - CameraSpeakerTarget
+  StartPhase: 0
+  EndPhase: 0
+  PlayerPositiveResponse: 00365C:companion_FHSM.esp
+  PlayerNegativeResponse: 00365E:companion_FHSM.esp
+  PlayerNeutralResponse: 003660:companion_FHSM.esp
+  PlayerQuestionResponse: 003662:companion_FHSM.esp
+  NpcPositiveResponse: 003654:companion_FHSM.esp
+  NpcNegativeResponse: 003656:companion_FHSM.esp
+  NpcNeutralResponse: 003658:companion_FHSM.esp
+  NpcQuestionResponse: 00365A:companion_FHSM.esp
+  DialogueTargetActorId: 0
+- Type:
+    MutagenObjectType: SceneActionTypicalType
+    Type: Package
+  Name: ''
+  AliasID: 0
+  Index: 3
+  StartPhase: 0
+  EndPhase: 0
+  Packages:
+  - 019AA2:Fallout4.esm
+Quest: 00361D:companion_FHSM.esp
+LastActionIndex: 3
+VNAM: 0x03000000030000000300000003000000
+Index: 30

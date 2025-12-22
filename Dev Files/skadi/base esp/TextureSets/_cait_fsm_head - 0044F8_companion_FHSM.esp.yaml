@@ -1,0 +1,7 @@
+FormKey: 0044F8:companion_FHSM.esp
+VersionControl: 8460
+EditorID: _cait_fsm_head
+ObjectBounds:
+  First: -8, -30, -20
+  Second: 7, 30, 20
+Material: actors\fsm\sa\fsm_head.bgsm

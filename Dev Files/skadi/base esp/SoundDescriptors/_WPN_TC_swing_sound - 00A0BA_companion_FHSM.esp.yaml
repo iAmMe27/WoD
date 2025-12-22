@@ -1,0 +1,8 @@
+FormKey: 00A0BA:companion_FHSM.esp
+VersionControl: 8815
+EditorID: _WPN_TC_swing_sound
+Data:
+  MutagenObjectType: SoundDescriptorCompoundData
+Descriptors:
+- 00A0BB:companion_FHSM.esp
+- 07ED86:Fallout4.esm

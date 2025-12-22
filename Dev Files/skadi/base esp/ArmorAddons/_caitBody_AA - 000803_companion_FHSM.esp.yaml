@@ -1,0 +1,28 @@
+FormKey: 000803:companion_FHSM.esp
+VersionControl: 8461
+EditorID: _caitBody_AA
+BodyTemplate:
+  FirstPersonFlags:
+  - HairTop
+Race: 007777:companion_FHSM.esp
+Priority:
+  Male: 0
+  Female: 0
+WeightSliderEnabled:
+  Male: False
+  Female: False
+Unknown: 2
+Unknown2: 23
+WorldModel:
+  Female:
+    File: actors\Fsm\fsm_body.nif
+    Data: 0x04000000030000000000000001000000010000005823329264647300F292D0CB814F34F164647300F292D0CB9FA6E11164647300F292D0CBD6969DD96267736DBEE89951
+    MaterialSwap: 00B00C:companion_FHSM.esp
+    Flags:
+    - HasFirstPersonModel
+FirstPersonModel:
+  Female:
+    File: Actors\Character\CharacterAssets\1stPersonFemaleBody.nif
+    Data: 0x0400000000000000000000000000000000000000
+    MaterialSwap: 00B00C:companion_FHSM.esp
+BoneData: {}

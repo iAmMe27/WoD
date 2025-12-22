@@ -1,0 +1,21 @@
+FormKey: 100045:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _pants_new_collants2_AA
+BodyTemplate:
+  FirstPersonFlags:
+  - Shield
+Race: 007777:companion_FHSM.esp
+Priority:
+  Male: 0
+  Female: 0
+WeightSliderEnabled:
+  Male: False
+  Female: False
+Unknown: 2
+Unknown2: 23
+WorldModel:
+  Female:
+    File: actors\Fsm\new\collants.nif
+    Data: 0x04000000030000000000000001000000010000005823329264647300F292D0CB814F34F164647300F292D0CB9FA6E11164647300F292D0CBD6969DD96267736DBEE89951
+    MaterialSwap: 00C7BD:companion_FHSM.esp
+BoneData: {}

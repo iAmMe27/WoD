@@ -1,0 +1,36 @@
+FormKey: 200039:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _pristin_vest
+PreviewTransform: 009179:companion_FHSM.esp
+Name:
+  TargetLanguage: English
+  Value: Skadi - Kgirl - Leather Vest
+WorldModel:
+  Male:
+    Model:
+      File: actors\Fsm\go\kgirl\pristin_vest.nif
+      Data: 0x0400000000000000000000000000000000000000
+BipedBodyTemplate:
+  FirstPersonFlags:
+  - LeftArmUnderArmor
+Race: 007777:companion_FHSM.esp
+Keywords:
+- 081B74:Fallout4.esm
+- 1E32C8:Fallout4.esm
+- 07FACA:Fallout4.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Armatures:
+- AddonIndex: 0
+  ArmorAddon: 100039:companion_FHSM.esp
+Weight: 0.1
+ArmorRating: 5
+Unused: 0x000000
+Resistances:
+- DamageType: 060A87:Fallout4.esm
+  Value: 3
+AttachParentSlots:
+- 1E32C8:Fallout4.esm
+- 022821:Fallout4.esm
+- 20DE3E:Fallout4.esm

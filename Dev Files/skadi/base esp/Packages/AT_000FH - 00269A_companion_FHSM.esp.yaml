@@ -1,0 +1,112 @@
+FormKey: 00269A:companion_FHSM.esp
+VersionControl: 8979
+EditorID: AT_000FH
+Type: Package
+PreferredSpeed: Run
+InteruptFlags:
+- HellosToPlayer
+- RandomConversations
+- ObserveCombatBehavior
+- GreetCorpseBehavior
+- ReactionToPlayerActions
+- FriendlyFireComments
+- AggroRadiusBehavior
+- AllowIdleChatter
+- WorldInteractions
+- OffForImportantScene
+- 0x800
+- 0x1000
+- 0x2000
+- 0x4000
+- 0x8000
+ScheduleDayOfWeek: Any
+ScheduleHour: -1
+ScheduleMinute: -1
+Unknown3: 0x000000
+Conditions:
+- MutagenObjectType: ConditionFloat
+  ComparisonValue: 1
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: GetInFaction
+    ParameterOneRecord: 0A1B85:Fallout4.esm
+    ParameterOneNumber: 662405
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: GetInFaction
+    ParameterOneRecord: 023C01:Fallout4.esm
+    ParameterOneNumber: 146433
+PackageTemplate: 002CB1:Fallout4.esm
+DataInputVersion: 7
+Data:
+- Key: 2
+  Value:
+    MutagenObjectType: PackageDataLocation
+    Location:
+      Target:
+        MutagenObjectType: LocationFallback
+        Type: NearEditorLocation
+      Radius: 512
+- Key: 12
+  Value:
+    MutagenObjectType: PackageDataBool
+- Key: 5
+  Value:
+    MutagenObjectType: PackageDataBool
+    Data: True
+- Key: 6
+  Value:
+    MutagenObjectType: PackageDataBool
+    Data: True
+- Key: 7
+  Value:
+    MutagenObjectType: PackageDataBool
+    Data: True
+- Key: 8
+  Value:
+    MutagenObjectType: PackageDataBool
+    Data: True
+- Key: 9
+  Value:
+    MutagenObjectType: PackageDataBool
+    Data: True
+- Key: 14
+  Value:
+    MutagenObjectType: PackageDataBool
+    Data: True
+- Key: 10
+  Value:
+    MutagenObjectType: PackageDataBool
+- Key: 22
+  Value:
+    MutagenObjectType: PackageDataBool
+- Key: 18
+  Value:
+    MutagenObjectType: PackageDataFloat
+    Data: 50
+- Key: 20
+  Value:
+    MutagenObjectType: PackageDataBool
+- Key: 16
+  Value:
+    MutagenObjectType: PackageDataBool
+- Key: 24
+  Value:
+    MutagenObjectType: PackageDataTarget
+    Target:
+      MutagenObjectType: PackageTargetObjectType
+- Key: 26
+  Value:
+    MutagenObjectType: PackageDataFloat
+    Data: 150
+XnamMarker: 0x1B
+OnBegin:
+  Topics:
+  - MutagenObjectType: TopicReference
+OnEnd:
+  Topics:
+  - MutagenObjectType: TopicReference
+OnChange:
+  Topics:
+  - MutagenObjectType: TopicReference

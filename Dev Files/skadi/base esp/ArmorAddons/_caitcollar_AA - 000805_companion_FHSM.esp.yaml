@@ -1,0 +1,24 @@
+FormKey: 000805:companion_FHSM.esp
+VersionControl: 8460
+EditorID: _caitcollar_AA
+BodyTemplate:
+  FirstPersonFlags:
+  - Headband
+Race: 007777:companion_FHSM.esp
+Priority:
+  Male: 0
+  Female: 0
+WeightSliderEnabled:
+  Male: False
+  Female: False
+Unknown: 2
+Unknown2: 23
+WorldModel:
+  Female:
+    File: actors\Fsm\items\fsm_collar.nif
+    Data: 0x0400000000000000000000000000000000000000
+    Flags:
+    - HasFirstPersonModel
+AdditionalRaces:
+- 013746:Fallout4.esm
+BoneData: {}

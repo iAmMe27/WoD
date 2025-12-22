@@ -1,0 +1,8 @@
+FormKey: 00268B:companion_FHSM.esp
+VersionControl: 8935
+EditorID: MS_hair
+TreeFolder: SetDressing
+Substitutions:
+- {}
+- OriginalMaterial: Actors\FSM\fsm_hair.bgsm
+  ReplacementMaterial: actors\fsm\sa\fsm_hair.bgsm

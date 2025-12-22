@@ -1,0 +1,8 @@
+FormKey: 00B87D:companion_FHSM.esp
+VersionControl: 9067
+EditorID: _kgirl_tshirt_black
+TreeFolder: SetDressing
+Substitutions:
+- {}
+- OriginalMaterial: actors\fsm\kgirl\denim.bgsm
+  ReplacementMaterial: actors\fsm\kgirl\denim_black.bgsm

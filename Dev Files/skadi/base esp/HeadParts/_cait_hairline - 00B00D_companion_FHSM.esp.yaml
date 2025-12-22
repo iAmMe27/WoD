@@ -1,0 +1,15 @@
+FormKey: 00B00D:companion_FHSM.esp
+VersionControl: 8935
+EditorID: _cait_hairline
+Name:
+  TargetLanguage: English
+  Value: Cait Hairline
+Model:
+  File: actors\Fsm\sa\fsm_hairline.nif
+  Data: 0x040000000500000000000000020000000100000073CD588E64647300BF527BC5982985E364647300BF527BC5AAA15EED64647300BF527BC5A0EDC32664647300BF527BC5AC88529D64647300BF527BC5CA38E2476267736D30F9B8BB
+  MaterialSwap: 00268E:companion_FHSM.esp
+Flags:
+- Playable
+- Female
+Type: Misc
+ValidRaces: 0A8026:Fallout4.esm

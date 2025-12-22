@@ -1,0 +1,38 @@
+FormKey: 003668:companion_FHSM.esp
+VersionControl: 8980
+Flags:
+  Flags:
+  - Random
+  - ForceAllChildrenPlayerActivateOnly
+PreviousDialog: 003632:companion_FHSM.esp
+Responses:
+- Emotion: 0C8670:Fallout4.esm
+  ResponseNumber: 1
+  CameraTargetAlias: -1
+  CameraLocationAlias: -1
+  Text:
+    TargetLanguage: English
+    Value: Just leave me alone.
+  ScriptNotes: ''
+  Edits: ''
+  AlternateLipText: ''
+  TextHash: 0x8079CA7DB619D301
+Conditions:
+- MutagenObjectType: ConditionFloat
+  ComparisonValue: 1
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: GetIsID
+    Unknown2: 39228
+    ParameterOneRecord: 00361C:companion_FHSM.esp
+    ParameterOneNumber: 16791068
+- MutagenObjectType: ConditionFloat
+  Data:
+    MutagenObjectType: FunctionConditionData
+    Function: GetInFaction
+    Unknown2: 39228
+    ParameterOneRecord: 023C01:Fallout4.esm
+    ParameterOneNumber: 146433
+StartScene: 003667:companion_FHSM.esp
+StartScenePhase: ReRecruit Phase
+SubtitlePriority: Low

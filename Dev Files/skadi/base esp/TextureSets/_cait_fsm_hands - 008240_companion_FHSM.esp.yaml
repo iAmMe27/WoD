@@ -1,0 +1,6 @@
+FormKey: 008240:companion_FHSM.esp
+VersionControl: 8468
+EditorID: _cait_fsm_hands
+Diffuse: Actors/fsm/fsm_Body_nt.dds
+NormalOrGloss: Actors/fsm/fsm_Body_n.DDS
+SmoothSpec: Actors/fsm/fsm_Body_nt_s.dds

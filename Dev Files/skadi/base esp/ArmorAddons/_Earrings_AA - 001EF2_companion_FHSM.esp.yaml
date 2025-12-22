@@ -1,0 +1,27 @@
+FormKey: 001EF2:companion_FHSM.esp
+MajorRecordFlagsRaw: 64
+VersionControl: 8460
+EditorID: _Earrings_AA
+Fallout4MajorRecordFlags:
+- 0x40
+BodyTemplate:
+  FirstPersonFlags:
+  - Decapitation
+Race: 007777:companion_FHSM.esp
+Priority:
+  Male: 0
+  Female: 0
+WeightSliderEnabled:
+  Male: False
+  Female: False
+Unknown: 2
+Unknown2: 23
+WorldModel:
+  Female:
+    File: actors\Fsm\items\fsm_earrings.nif
+    Data: 0x0400000000000000000000000000000000000000
+AdditionalRaces:
+- 013746:Fallout4.esm
+BoneData: {}
+MajorFlags:
+- NoUnderarmorScaling

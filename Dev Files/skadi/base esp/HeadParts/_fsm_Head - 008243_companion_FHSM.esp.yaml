@@ -1,0 +1,20 @@
+FormKey: 008243:companion_FHSM.esp
+VersionControl: 8468
+EditorID: _fsm_Head
+Name:
+  TargetLanguage: English
+  Value: fsm Head
+Model:
+  File: actors\fsm\fsm_Head.nif
+  Data: 0x0400000004000000000000000100000001000000B211CF9A64647300F292D0CB16B7398264647300F292D0CB6B7DC9F964647300F292D0CB75941C1964647300F292D0CBA095F6476267736DBEE89951
+  MaterialSwap: 00268C:companion_FHSM.esp
+Flags:
+- Female
+Type: Face
+Parts:
+- PartType: Tri
+  FileName: Actors\Character\CharacterAssets\BaseFemaleHead.tri
+- PartType: ChargenMorph
+  FileName: Actors\Character\CharacterAssets\BaseFemaleHeadChargen.tri
+TextureSet: 0044F8:companion_FHSM.esp
+ValidRaces: 0A8026:Fallout4.esm

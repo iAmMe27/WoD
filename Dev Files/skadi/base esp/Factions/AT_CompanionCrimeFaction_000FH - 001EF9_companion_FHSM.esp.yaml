@@ -1,0 +1,12 @@
+FormKey: 001EF9:companion_FHSM.esp
+VersionControl: 8979
+EditorID: AT_CompanionCrimeFaction_000FH
+Flags:
+- TrackCrime
+SharedCrimeFactionList: 001EFA:companion_FHSM.esp
+CrimeValues:
+  AttackOnSight: True
+VendorValues:
+  EndHour: 24
+  BuysStolenItems: True
+  BuysNonStolenItems: True
