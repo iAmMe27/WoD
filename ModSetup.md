@@ -60,7 +60,7 @@ It pretty much does 2 main things.
   1. Adjusts, where possible, all MCM options to be only targeted/approached by female NPCs,
   2. Some personal "Quality of Life" adjustments, for example, tweaking the chance of certain events that can happen etc.
 
-If you don't like heavily female orientaed playthroughs, this is not the config for you.
+If you don't like heavily female oriented playthroughs, this is not the config for you.
 ```
 
 ### I want to play as a male
