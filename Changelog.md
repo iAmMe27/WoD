@@ -1974,3 +1974,6 @@ Hotfix to remove Random Overlay Framework as it was causing performance issues f
 
 ## 1.6.0.1
 Hotfix for the missing keyboard prompts
+
+## 1.6.1
+1. Removed Skadi and associated patches as the mod has been placed under moderation review on Nexus
