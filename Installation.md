@@ -102,7 +102,7 @@ Installing the list is straight forward, Wabbajack will do most of the heavy lif
 
 ## Select the Modlist
 Open Wabbajack.  
-Always open Wabbajack with the Wabbajack Launcher.exe instead of the wabbajack.exe directly to make sure you're always using the latest version.
+Always open Wabbajack with the Wabbajack Launcher.exe instead of the wabbajack.exe directly, to make sure you're always using the latest version.
 
 - Click on "Browse lists"
 ![Image](/img/wj_install_1.png)
