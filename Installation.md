@@ -24,8 +24,12 @@
   - [Start Fallout 4](#start-fallout-4)
   - [Download non-Nexus mods](#download-non-nexus-mods)
 - [Install WoD in Wabbajack](#install-wod-in-wabbajack)
-  - [Installation Folder](#installation-folder)
-  - [Wabbajack errors](#wabbajack-errors)
+  - [Select the Modlist](#select-the-modlist)
+  - [Select Installation \& Download Folders](#select-installation--download-folders)
+    - [Installation Folder \[1\]](#installation-folder-1)
+    - [Download Folder \[2\]](#download-folder-2)
+    - [Starting the Installation \[3\]](#starting-the-installation-3)
+  - [Installation is finished](#installation-is-finished)
 - [Continuing](#continuing)
 
 # Preparation
@@ -96,16 +100,58 @@ Download them and put them ***as they are*** in the Wabbajack download folder. T
 # Install WoD in Wabbajack
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
 
-## Installation Folder
-Set the installation location to a folder on the root of a drive, something like `C:\WoD`. If you have multiple Fallout 4 modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists. 
+## Select the Modlist
+Open Wabbajack.  
+Always open Wabbajack with the Wabbajack Launcher.exe instead of the wabbajack.exe directly to make sure you're always using the latest version.
+
+- Click on "Browse lists"
+![Image](/img/wj_install_1.png)
+
+- In the next window, make sure the "NSFW" toggle is **__toggled ON__**, and search for the name of the modlist.  
+Once it shows up on the right, click on it.
+![Image](/img/wj_install_2.png)
+
+- Once the detailed view is open, click "Download & Install".
+![Image](/img/wj_install_3.png)
+
+## Select Installation & Download Folders
+![Image](/img/wj_install_4.png)
+
+### Installation Folder [1]
+This folder is where the modlist will be **__installed in__**.  
+Set the installation location to a folder on the root of a drive, something like `C:\WoD`.  
 
 > [!CAUTION]
 > Do not install WoD to your game folder or in any protected folders such as your Documents or Program Files.
 
-Once you have everything set in Wabbajack, hit **GO** and let it do its thing.
+### Download Folder [2] 
+This folder is where the downloaded mods will be stored.  
 
-## Wabbajack errors
-If you encounter any errors during the installation process, have a look at our [Common Issues](CommonIssues.md) page. 
+> [!TIP]
+> If you want to save space on your fast SSD, this folder can be stored on slower drives, even an HDD.  
+> We suggest you keep your downloads and don't delete them after, so if you want to update or reinstall the list, you don't have to download everything all over again.
+
+### Starting the Installation [3]
+Once you have set your folders, hit **GO** and let it do its thing.
+
+> [!CAUTION]
+> Once you click "Install", there is no going back, the installation will start.
+>
+> Therefore, make **DOUBLE SURE** you have set your Download and Installation folder correctly.  
+> Upon start of the installation, your Installation folder **WILL BE EMPTIED**.  
+> So if you have them the wrong way around, Wabbajack can **and will DELETE ALL YOUR DOWNLOADS**!
+>
+> You have been warned.
+
+## Installation is finished
+Once the install is finished, you will see the following screen.  
+Click "Open in File Explorer" to open your installation folder and start ModOrganizer.exe in there, then continue to the next step.
+
+If your screen does not like this (especially if you have a red box with an error on the lower left), have a look at our [Common Issues](CommonIssues.md) page. 
+
+![Image](/img/wj_install_5.png)
+
+
 
 # Continuing
 If Wabbajack was able to install the modlist without any errors, you can continue with the [After Installation steps](PostInstall.md).
