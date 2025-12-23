@@ -126,6 +126,7 @@ Set the installation location to a folder on the root of a drive, something like
 
 ### Download Folder [2] 
 This folder is where the downloaded mods will be stored.  
+The **Non-Nexus mods** you downloaded in the last step **go here**.
 
 > [!TIP]
 > If you want to save space on your fast SSD, this folder can be stored on slower drives, even an HDD.  
