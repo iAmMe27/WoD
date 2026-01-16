@@ -94,6 +94,8 @@ You will need *all* of the DLC for Fallout 4 ***except*** the official HD textur
 > [!TIP]
 > If you have the Game of the Year (GOTY) edition of Fallout 4, you're good to go, it includes all the needed DLC.
 >
+> You do **NOT NEED** the Anniversary Creations Bundle, but if you have it, that's fine, it doesn't matter if it's installed or not.
+>
 > While it is not a problem for the modlist instllation to have High Resolution DLC installed, you can save ~60GB of space on your SSD by not having it installed.
 
 # Updating Wasteland of Depravity
