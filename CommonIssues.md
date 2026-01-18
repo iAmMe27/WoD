@@ -249,14 +249,35 @@ If the camera is stuck behind Nate and Nora during character creation in the bat
 - Open the console and type: `slm 14`
 - Looks Menu for your character will now open and you can change the looks to whatever you want
 
-### Controls
+### Sanctuary settlement layouts clip with existing buildings
+If you want to use settlement layouts in sanctuary (and many other settlements), you have to remove the existing buildings.
+- Repair the buildings in sanctuary
+- While still in workshop mode, press the INSERT key (this will enable you to select more objects)
+- Now scrap each of the rebuilt houses
 
-#### VATS doesn't work
+You can now build your desired settlement layout.
+
+## Quests
+
+#### Nick Valentine won't talk to me about a missing child!
+You forgot to investigate Vault 111 first. You have to do this in order to kickstart the main quest.
+
+## Controls
+
+### VATS doesn't work
 We don't use VATS, we use VAFS - consider it like bullet time. If it won't trigger, set the VATS keybind in the Settings menu to something else.
 
-### User Interface
+## User Interface
 
-#### I want my ammo counter back!
+### My mouse cursor can't reach the whole screen
+Windows Scaling can prevent games displaying correctly, often resulting in appearing "zoomed in". To mitigate this, follow the steps outlined in the image below.  
+
+**__Remember__**: You need to do this in the Stock Game folder and not your Steam install folder!
+For Fallout 4 modlists, it's Stock Game\Fallout4.exe
+
+![Change Windows Scaling](/img/GameplayFAQ/fo4-scaling.png)
+
+### I want my ammo counter back!
 This is deliberately hidden on profile 3 in preference to another mod that provides ammo checking functionality. If you are not on profile 3 but the ammo counter is not visible, you can make it visible again by following the below steps:
   1. Head to the `Fall UI - HUD` MCM
   2. Click the part of the UI you want to see in the window on the right (ammo or grenade count)
@@ -266,7 +287,7 @@ This is deliberately hidden on profile 3 in preference to another mod that provi
 
 You will likely have to save and load your game again to refresh the UI and make the change appear.
 
-#### I want my 3rd person crosshair back!
+### I want my 3rd person crosshair back!
 This is deliberately hidden on profile 3. If you are not on profile 3 but want the 3rd person crosshair, check the following:
   1. Check your chosen HUD layout in the `FallUI - HUD` MCM to make sure that the crosshair is not disabled there
   2. Check the `Immersive HUD` MCM and set your crosshair settings according the below image.
@@ -277,11 +298,6 @@ This is deliberately hidden on profile 3. If you are not on profile 3 but want t
 ![Crosshair](img/HUDImmersiveHud.png)
 
 You will likely have to save and load your game again to refresh the UI and make the change appear.
-
-### Quests
-
-#### Nick Valentine won't talk to me about a missing child!
-You forgot to investigate Vault 111 first. You have to do this in order to kickstart the main quest.
 
 ## Additions
 
