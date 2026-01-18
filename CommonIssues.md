@@ -209,6 +209,8 @@ See the lady hiding in Goodneighbour. She usually hides above the stores.
 ### Interior cells are too dark
 Use your flashlight :^)
 
+*Or*
+
 You can enable `Interior Lighting Overhaul` in NAC.X.
 Open MCM -> NACX -> Settings and enable the setting.
 Below is a comparison between off and on.
@@ -218,6 +220,34 @@ Below is a comparison between off and on.
 > This seems to happen if you start building lights in an interior cell, without reloading the cell, the setting doesn't always work.
 
 ![NacX setting comparison](img/GameplayFAQ/nacx.png)
+
+### I'm getting too many perk points per level
+*Oh no, my steak is too juicy and my lobster is too buttery!*
+
+You can adjust how many perk points per level you get, if you wish.
+
+In MO2, search for `pppl` (see below screenshot), right click on it and select "Open in Explorer".
+Then navigate through the folder structure, F4SE -> Plugins.
+There you will find the `pppl.ini` file.
+In the green text at the top of the file you'll find a manual about how the file works.
+
+If you just want the default (1 perk point per level), just put `2=1` and delete the reset (see screenshot below).
+Save the file and close the explorer window.
+
+> !WARNING
+> If you edit of the the files included in the modlist, you should ask for support in the `#wod-modified` channel in Discord, as this is now a modified list.
+
+![pppl search in mo2](/img/GameplayFAQ/pppl_mo2.png)
+![pppl file edit](/img/GameplayFAQ/pppl_file.png)
+
+### Camera stuck in character creation
+If the camera is stuck behind Nate and Nora during character creation in the bathroom scene:
+- Choose your desired gender
+- Accept the default look
+- Continue the guide until you are in the Commonwealth and have done your [Mod Setup](ModSetup.md)
+- Go in 3rd person mode and turn the camera so you can see your character
+- Open the console and type: `slm 14`
+- Looks Menu for your character will now open and you can change the looks to whatever you want
 
 ### Controls
 
@@ -252,3 +282,24 @@ You will likely have to save and load your game again to refresh the UI and make
 
 #### Nick Valentine won't talk to me about a missing child!
 You forgot to investigate Vault 111 first. You have to do this in order to kickstart the main quest.
+
+## Additions
+
+> !WARNING
+>**None of the additions here are officially supported but this information is provided here for easy reference.**
+
+### I added Ivy, but she has no face
+This is a known issue, we are not sure yet what causes it.  
+
+To fix it, do the following:
+- Open the console and click on Ivy
+- At the top of the console there should now be Ivy's name and her RefID (in brackets)
+- Type in the console: slm RefID (for example: slm A6003491)
+- With Ivy's LooksMenu open, change her Hairstyle to something else, and change it back
+- Ivy's head should now be visible
+
+> [!TIP]
+> If the solution above does not work for you, you can install the [Wasteland Wonderglue Ivy Patch](https://www.nexusmods.com/fallout4/mods/86384?tab=files).  
+>  
+> Be aware that doing so is modifying your WoD install. Please ask your support questions in wod-support if you modfied your install.
+
