@@ -36,7 +36,7 @@ First things first: **this list contains adult content and you must be of legal 
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 
-:exclamation: **I have an issue with WoD!** >[CLICK ME](FAQ.md)<
+:exclamation: **I have an issue with WoD!** >[CLICK ME](CommonIssues.md)<
 
 # Preface
 Just to set some expectations and boundaries surrounding modlist development here, there's a couple things I'd like to say first.
