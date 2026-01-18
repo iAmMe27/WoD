@@ -35,6 +35,7 @@ First things first: **this list contains adult content and you must be of legal 
 :tv:  I have an Ultrawide monitor! >[CLICK ME](Ultrawide.md)<
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
+
 :exclamation: **I have an issue with WoD!** >[CLICK ME](FAQ.md)<
 
 # Preface
