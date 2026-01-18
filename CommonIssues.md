@@ -156,7 +156,7 @@ This mod aims to reduce loading times, especially when fast travelling or travel
 
 If this behaviour bothers you, it should be safe to switch off mid-save.
 
-> !TIP
+> [!TIP]
 > This mod is disabled by default in WoD and needs to be manually enabled to work.
 
 ### I can't move my mouse cursor around the whole area of my screen
@@ -215,7 +215,7 @@ You can enable `Interior Lighting Overhaul` in NAC.X.
 Open MCM -> NACX -> Settings and enable the setting.
 Below is a comparison between off and on.
 
-> !TIP
+> [!TIP]
 > If the setting seemingly does nothing, make a full save, quit to main menu and reload the save.
 > This seems to happen if you start building lights in an interior cell, without reloading the cell, the setting doesn't always work.
 
@@ -234,7 +234,7 @@ In the green text at the top of the file you'll find a manual about how the file
 If you just want the default (1 perk point per level), just put `2=1` and delete the reset (see screenshot below).
 Save the file and close the explorer window.
 
-> !WARNING
+> [!WARNING]
 > If you edit of the the files included in the modlist, you should ask for support in the `#wod-modified` channel in Discord, as this is now a modified list.
 
 ![pppl search in mo2](/img/GameplayFAQ/pppl_mo2.png)
@@ -285,8 +285,8 @@ You forgot to investigate Vault 111 first. You have to do this in order to kicks
 
 ## Additions
 
-> !WARNING
->**None of the additions here are officially supported but this information is provided here for easy reference.**
+> [!WARNING]
+> **None of the additions here are officially supported but this information is provided here for easy reference.**
 
 ### I added Ivy, but she has no face
 This is a known issue, we are not sure yet what causes it.  
