@@ -267,6 +267,35 @@ You forgot to investigate Vault 111 first. You have to do this in order to kicks
 ### VATS doesn't work
 We don't use VATS, we use VAFS - consider it like bullet time. If it won't trigger, set the VATS keybind in the Settings menu to something else.
 
+## Character Creation & NPCs
+
+### Rotating the PC in LooksMenu
+We have a mod for that.
+
+- Shift + Left Mouse Button rotates
+- Shift + Right Mouse Button moves
+- Shift + Mouse Wheel zooms in and out
+
+### I have/an NPC has a neck seam
+A lot of FO4 skin mods don't come with matching face textures, therefore leaving an obvious seam between the neck and body. Head into the High Poly Faces REDUX MCM and enable the `Seamless High Poly Head` for the player and then follow its instructions to fix it.
+
+### Do I need to use Bodyslide?
+No. See below.
+
+### How do I edit my body?
+2 ways;
+
+1. In LooksMenu > Body > Advanced - play with the sliders to your hearts content.
+2. Press F3 to open the Screen Archer Menu > Looks > Body Morphs > Load and pick a body preset.
+
+### Can I play as a male PC?
+You can if you want.
+
+### How do I add/remove tattoos?
+In LooksMenu, Body sub-menu > Overlays.
+
+If they are tattoos added on defeat, you can't remove them this way, go see the guy in the Dugout Inn.
+
 ## User Interface
 
 ### My mouse cursor can't reach the whole screen
@@ -310,7 +339,7 @@ This is a known issue, we are not sure yet what causes it.
 To fix it, do the following:
 - Open the console and click on Ivy
 - At the top of the console there should now be Ivy's name and her RefID (in brackets)
-- Type in the console: slm RefID (for example: slm A6003491)
+- Type in the console: `slm RefID` (for example: `slm A6003491`)
 - With Ivy's LooksMenu open, change her Hairstyle to something else, and change it back
 - Ivy's head should now be visible
 
