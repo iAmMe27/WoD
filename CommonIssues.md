@@ -98,16 +98,18 @@ If you encounter an error looking like this:
 ![Wabbajack could not find part of the path error](img/wj_PartOfPath.png)
 
 Do the following:
-1. Close wabbajack
-2. Go to your install folder and locate the TEMP_BSA_FILES folder if it exists.
-3. Empty that folder if it exists
-4. Restart wabbajack
+1. Close Wabbajack.
+2. Go to your install folder and locate the `TEMP_BSA_FILES folder`, if it exists.
+3. Empty that folder.
+4. Restart Wabbajack.
 5. Restart Modlist installation.
 
 ## Game Crashes
-Heavily modded Bethesda games are prone to crashing at times. Generally speaking, the following is true:
+Heavily modded Bethesda games are prone to crashing at times. We follow the general crash rules:
 
-1 crash is a fluke, 2 crashes is weird but not impossible, 3 is a repeatable crash worth reporting and/or investigating.
+* 1 crash is a fluke, 
+* 2 crashes is weird but not impossible, 
+* 3 is a repeatable crash worth reporting and/or investigating.
 
 Before you report a crash, consider these rules and also read below to see if your issue is already known about.
 
@@ -143,6 +145,7 @@ This crash occurs when you enter workshop mode. Do not touch the `Disable Volume
 
 #### 5. Crash caused by `XAudio2_7.dll`
 Make sure your WoD folder is added to your antivirus exclusions. If it is, [download Microsoft Redist (June 2010) from here.](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+We have also found that this crash can be caused by some headsets/headphones, especially Bluetooth ones. We don't know why, only that it does crash and swapping to a different audio output device stops it.
 
 ## Other Post-Install Issues
 
@@ -153,14 +156,13 @@ This mod aims to reduce loading times, especially when fast travelling or travel
 
 If this behaviour bothers you, it should be safe to switch off mid-save.
 
+> !TIP
+> This mod is disabled by default in WoD and needs to be manually enabled to work.
+
 ### I can't move my mouse cursor around the whole area of my screen
-In MO2, under the Essentials separator, find `High Physics FPS Fix - WoD INI` and double click it. In the window that opens, head to INI Files and click the only option in the left column. Find the line:
+This is caused by Windows scaling. To fix this, navigate to your WoD install folder and then find `Stock Game\Fallout4.exe`, right click on the exe, go to the `Compatibility` tab, click the `Change high DPI settings`, tick the `High DPI scaling override` and change the dropdown option to `Application`.
 
-`Fullscreen=false`
-
-and change it to:
-
-`Fullscreen=true`
+![Scaling](img/scaling.png)
 
 ### My game performance sucks!
 This could be caused by a few things:
@@ -169,7 +171,7 @@ This could be caused by a few things:
   3. Your hardware doesn't meet the minimum recommended specs.
 
 If you genuinely have followed the above steps then ensure the following:
-  1. When setting the pagefile up, you have enough space left on the selected SSD for Windows to allocate the full pagefile size - not having the 20 to 40GB free on the SSD is the same as not having a big enough pagefile in the first place.
+  1. When setting the pagefile up, ensure you have enough space left on the selected SSD for Windows to allocate the full pagefile size - not having the 20 to 40GB free on the SSD is the same as not having a big enough pagefile in the first place.
   2. You have added your entire WoD installation folder to your antivirus exceptions/allow list - you want the whole folder, not just the Mod Organizer exe.
   3. You have your motherboards XMP/DOCP/EXPO setting switch on - without this setting on, your RAM will be running at the default 2400MHz standard, not the speed you paid for. Enabling this will give a good boost in performance across everything you do but especially games. Of course, not all RAM is capable of clocking higher than the standard 2400MHz but most "gaming" prebuilts and "gaming" level RAM should clock higher if allowed.
 
@@ -177,7 +179,45 @@ If you genuinely have followed the above steps then ensure the following:
 
 If you have ensured all of the above is right, try lowering settings in BethINI, [following this guide in the modifications channel on the Discord.](https://discord.com/channels/719714673431150627/1095988679463424000/1096709202052915250)
 
-## Gameplay Issues
+## Gameplay
+
+### Can I play the vanilla intro?
+No. It sucks and the game has been out since 2015. If you haven't played it by now, there are other ways to play it.
+
+### Automatron DLC is not starting
+WoD uses [Integrated Automatron](https://www.nexusmods.com/fallout4/mods/85317).
+
+It imposes some delays and requirements before the quest starts. For more information, read the mod page linked above.
+
+### Where are all the crafting recipes?
+I know all the mod pages say that they're in the Chem Station or whatever, but not in WoD. In WoD, they are all moved to the appropriate work station in the Universal Workbench. You can follow the quest to grab a portable one by the entrance of Vault 111 or build static ones from the settlement build menu.
+
+### How do I acquire *volunteers* for my settlements?
+You need to craft a couple things at the Universal Workbench:
+
+1. The Baton - find it in the `Weapon - Create` menu > Human Resources,
+2. A Kit - find it in the `Utility Station` menu > Human Resources.
+
+When an enemy gives up in combat, hit them with the baton to get started. Take them back to your settlement and then process them using the Human Resources terminal.
+
+### How do I cure trauma or reset attributes?
+See the nurse in the memory den.
+
+### How do I cure my addiction to creature *secretions*?
+See the lady hiding in Goodneighbour. She usually hides above the stores.
+
+### Interior cells are too dark
+Use your flashlight :^)
+
+You can enable `Interior Lighting Overhaul` in NAC.X.
+Open MCM -> NACX -> Settings and enable the setting.
+Below is a comparison between off and on.
+
+> !TIP
+> If the setting seemingly does nothing, make a full save, quit to main menu and reload the save.
+> This seems to happen if you start building lights in an interior cell, without reloading the cell, the setting doesn't always work.
+
+![NacX setting comparison](img/GameplayFAQ/nacx.png)
 
 ### Controls
 
