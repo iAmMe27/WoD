@@ -49,18 +49,30 @@ Running WoD is as simple as clicking Run with the `Fallout: Wasteland of Depravi
 ## Optional Mods
 In Wasteland of Depravity, there are a few optional mods that you can toggle on/off for your playthrough.
 
-### Essentials Category
-1. Rusty Face Fix
-   
-> [!TIP]
-> If you consistently run into the dreaded Fallout 4 rusty face issue, check things such as resolution of face textures and tint masks match if you added any skin or face texture mods.
+### Upscaler
+1. Upscaling - this mod adds FSR, DLSS and DLAA upscaling to Fallout 4. Remember to configure this mod in it's MCM.
+
+### Frame Gen Category
+*Note: if you want to use Frame Gen, you must activate the `Motion Vectors Fix` mod in MO2 also. Frame Gen can also introduce artifacting and ghosting on your screen as you play.*
+
+1. Frame Generation - this will add FSR3 frame generation to Fallout 4.
+2. Motion Vector Fixes - required for frame generation to work.
+
+### Fuck my shit up Category
+1. Unleveled World - this will remove level caps on enemies and loot, meaning you will run into enemies who are much higher level than you but also the guns you find can be better.
+
+### Danger Zone Category
+1. Uneducated Shooter - this addes weapon interia and QE leaning, like in other games such as Rainbow Six Siege.
+
+### AMD & Intel GPU Fixes
+1. WoD - AMD Fixes - this mod fixes a few texture/mesh issues specific to AMD and some Intel GPUs.
 
 ### YOUR CHOICES Category
 1. Discord Rich Presence (F4SE) - this gives you a card in Discord when you are playing WoD. It lists your character name, level and location. *It does not hook into the NSFW mods, don't worry, your secrets are safe.*
 2. LOD Hiding Fog for NAC X - adds a small amount of fog to the clear and sunny weathers to help hide those nasty Fallout 4 LODs.
-3. Be Afraid - Honest Difficulty Overhaul - YOU MUST START A NEW GAME FOR THIS TO TAKE EFFECT! This mod delevels the Commonwealth to make it dangerous.
-4. Swags Optional Stuff - Changes Brothel visitors to females only.
-5. Swags RDM Edit - Reduces the RDM headshot multipliers for some enemies to make them not 1 shot.
+3. Swags Optional Stuff - Changes Brothel visitors to females only.
+4. Swags RDM Edit - Reduces the RDM headshot multipliers for some enemies to make them not 1 shot.
+5. BugOut - replaces bugs with other enemies.
 
 # Continuing
 When you are comfortable with your choices and finally want to play, continue with the last step; [Mod Setup](ModSetup.md).

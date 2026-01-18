@@ -308,9 +308,7 @@ For Fallout 4 modlists, it's Stock Game\Fallout4.exe
 
 ### I have an Ultrawide monitor, help!
 
-There are a couple of UI mods that allow for Ultrawide resolution support. I don't have an Ultrawide monitor myself, so I can't be 100% sure if this fixes every UI element. To enable Ultrawide support, open the `UI` separator in MO2, and activate `Ultra Wide Interface (21x9)` and `No Rainbox - 21-0 Rainbox Fix`.
-
-![Ultrawide](img/UWMO2.png)
+There are a couple of UI mods that allow for Ultrawide resolution support. I don't have an Ultrawide monitor myself, so I can't be 100% sure if this fixes every UI element. To enable Ultrawide support, find the relevant 21x9 or 32x9 separator in MO2 and enable the mods inside the relevant separator.
 
 When in game, you will likely need to head into the Mod Config menu > FallUI and tweak some of the widgets to fit your screen space properly.
 
