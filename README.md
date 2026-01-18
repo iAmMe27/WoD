@@ -35,6 +35,7 @@ First things first: **this list contains adult content and you must be of legal 
 :tv:  I have an Ultrawide monitor! >[CLICK ME](Ultrawide.md)<
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
+:exclamation: **I have an issue with WoD!** >[CLICK ME](FAQ.md)<
 
 # Preface
 Just to set some expectations and boundaries surrounding modlist development here, there's a couple things I'd like to say first.
@@ -45,7 +46,7 @@ Just to set some expectations and boundaries surrounding modlist development her
    
 3. Do not expect a 100% polished, well-balanced and "perfect" experience. I am a 1-person dev team and expecting more from me than you would from AAA game studios is insanity.
    
-4. We're modding a nearly 10 year old game here, please temper your expectations some.
+4. We're modding a nearly 11 year old game here, please temper your expectations some.
 
 > [!TIP]
 > Because most of the mods are developed with a female player character in mind, the modlist is geared heavily towards a female player character. 

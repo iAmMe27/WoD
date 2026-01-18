@@ -27,7 +27,16 @@
     - [How do I add/remove tattoos?](#how-do-i-addremove-tattoos)
   
 ## Preface
-Please help me to help yourself here. Search this page and the [Common Issues page](CommonIssues.md) if you are having issues. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
+Please help me to help yourself here. Search this page (press Ctrl+F to use your browsers search function, if you are having issues. Please also use the Discord search function in the WoD channels as your issue may already be solved. Please do not just post a question in the support channel without doing your own research first.
+
+## Download Issues
+
+>!CAUTION
+> If Wabbajack throws and error, DO NOT CLICK THE RETRY BUTTON. Clicking the retry button can cause problems on some versions of Wabbajack 4.0, including deletion of mods and downloads.
+>
+> Instead, reads carefully the error Wabbajack encounters, close Wabbajack fully and fix the error before trying Wabbajack again.
+
+If you are unable to fix your Wabbajack error, or it is not listed in this list, pleaser ask for support in our Discord server. Link to join is on the [first page](README.md) of this guide.
 
 ## Additions
 
