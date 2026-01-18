@@ -306,6 +306,14 @@ For Fallout 4 modlists, it's Stock Game\Fallout4.exe
 
 ![Change Windows Scaling](/img/GameplayFAQ/fo4-scaling.png)
 
+### I have an Ultrawide monitor, help!
+
+There are a couple of UI mods that allow for Ultrawide resolution support. I don't have an Ultrawide monitor myself, so I can't be 100% sure if this fixes every UI element. To enable Ultrawide support, open the `UI` separator in MO2, and activate `Ultra Wide Interface (21x9)` and `No Rainbox - 21-0 Rainbox Fix`.
+
+![Ultrawide](img/UWMO2.png)
+
+When in game, you will likely need to head into the Mod Config menu > FallUI and tweak some of the widgets to fit your screen space properly.
+
 ### I want my ammo counter back!
 This is deliberately hidden on profile 3 in preference to another mod that provides ammo checking functionality. If you are not on profile 3 but the ammo counter is not visible, you can make it visible again by following the below steps:
   1. Head to the `Fall UI - HUD` MCM
