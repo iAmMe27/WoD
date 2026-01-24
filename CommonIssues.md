@@ -104,6 +104,19 @@ Do the following:
 4. Restart Wabbajack.
 5. Restart Modlist installation.
 
+## Game Setup
+
+### Changing Screen Resolution
+Wabbajack will automatically set your WoD install to your primary screen resolution, there's no need to actually change anything here unless you specifically want to run the game at a lower resolution.
+
+To change your resolution, locate the puzzle piece icon in MO2 and click `INI Editor`:
+![MO2 INI Editor](img/MO2INIEditor.png)
+
+In the window that opens, click `Fallout4Prefs.ini` and find `iSize W` and `iSize H` parameters:
+![MO2 FO4 Prefs](img/MO2FO4Prefs.png)
+
+Change these 2 paramters to match your screen width and height and click `Save` when done.
+
 ## Game Crashes
 Heavily modded Bethesda games are prone to crashing at times. We follow the general crash rules:
 
