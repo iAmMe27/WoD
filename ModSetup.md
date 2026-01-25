@@ -43,7 +43,6 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 5. One that is done, make a new full save from the pause menu.
 
-
 ## Optional MCM Configs
 
 > [!IMPORTANT]

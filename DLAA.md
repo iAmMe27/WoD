@@ -1,4 +1,10 @@
 # Enabling DLAA
+
+Enable the Upscaler in MO2, head in game and find the Upscaler MCM. Change the Upscaling mode to `DLAA` and done!
+
+<details>
+<summary>The below information is out of date and is only relevant to the old Upscaler and REACTOR ENB</summary>
+
 As of the v0.9 Preview Build 7.3, WoD has shipped with the FO4 Upscaler in DLAA mode. With this enabled and  the game's TAA and ENB SMAA switched off, it gives the game a better overall look in general as textures look more crisp and edges look smoother without that signature *vaseline smeared over your eyeballs* blur that TAA gives you.
 
 DLAA is compatible with ENB, so there's no need to purchase the Patreon version of the Upscaler to use DLAA. You only need the Patreon version if you want to use DLSS/FSR/XeSS.
@@ -28,3 +34,5 @@ To disable ENB AA, run the game and open the ENB menu with Shift+Enter. Open the
 Click Save in the top left of the ENB window and close the menu.
 
 Donezo!
+
+</details>
