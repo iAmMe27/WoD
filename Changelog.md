@@ -1977,3 +1977,15 @@ Hotfix for the missing keyboard prompts
 
 ## 1.6.1
 1. Removed Skadi and associated patches as the mod has been placed under moderation review on Nexus
+
+## 1.6.2
+1. Removed Christmas specific stuff
+
+## 1.6.3 
+1. Removed The Master Plan as it is down for moderation reasons 
+2. Replaced Box Houses with its no dependancy version 
+3. Replaced Stairs, Ladders and Ramps with its no dependancy version 
+4. Added FallUI Companion Carryweight Fix
+5. Added Fast AddItem Menu
+6. Updated Upscaling 
+7. Updated Motion Vector Fixes
