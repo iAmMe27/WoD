@@ -17,7 +17,7 @@
   - [Optional MCM Configs](#optional-mcm-configs)
     - [Swags Dommy Mommy Milkers Wasteland](#swags-dommy-mommy-milkers-wasteland)
     - [I want to play as a male](#i-want-to-play-as-a-male)
-- [Need support?](#need-support)
+- [Done](#done)
 
 # Mod setup
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your screen, proceed to open the door to the bathroom and make your choice as to how you'd like to start the game.  
@@ -43,20 +43,21 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 5. One that is done, make a new full save from the pause menu.
 
-> [!NOTE]
-> **A note on the Give Me Pain profile**
->
-> The Give Me Pain profile only has 1 MCM config, no optionals. It is meant to be played "as is" with no tweaks, no customisations.
-
 ## Optional MCM Configs
 
->[!IMPORTANT]
-> You must apply the main MCM config ***before*** you apply any of these optional settings.
+> [!IMPORTANT]
+> You must apply the main MCM config ***before*** you apply any of these optional settings.  
+> 
+> **Not every optional config is available for every profile**  
+> If a sepecific config you want to use is not available for the profile you want to play on, you need to change either your profile or your expectations.
+>
+> **A note on the Give Me Pain profile**  
+> The Give Me Pain profile only has 1 MCM config, no optionals. It is meant to be played "as is" with no tweaks, no customisations.
 
 ### Swags Dommy Mommy Milkers Wasteland
 
 > [!NOTE]
-> this MCM setup is for profile 2 only!
+> This MCM setup is for profile 2 only!
 
 ```
 What does the MCM Preset "Swags Dommy Mommy Milkers Wasteland" do?
@@ -71,9 +72,8 @@ If you don't like heavily female oriented playthroughs, this is not the config f
 ### I want to play as a male
 This is an optional set of tweaks for male characters. A lot of the adult content based mods assume your character is female and this tweaks changes things for male player characters where possible.
 
-# Need support?
-If you encounter any problems during installation, please have a look at our [Common Issues](CommonIssues.md) page.  
-If you want to an overwiew over gameplay changing mods, have a look at the [Gameplay](Gameplay.md) page.  
-You maybe also want to have a look at the [FAQ](FAQ.md) where we cover some of the questions we encounter the most.  
+# Done
+**You are now done with installing, you can close all menus and start playing!**  
+Congratulations and have a nice time in Wasteland Of Depravity!
 
-If your question is not answered in the documentation, please feel free to ask in our discord, as stated on the fist page of the [Readme](README.md).
+Maybe keep the [Keyboards Shortcuts Overwiew](Controls.md) handy in your strolls across the Wasteland, there is a lot to discover!
