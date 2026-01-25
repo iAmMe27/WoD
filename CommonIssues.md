@@ -23,6 +23,8 @@
   - [File/Mod not Available](#filemod-not-available)
 - [Installation Issues](#installation-issues)
   - [Could not find part of the path](#could-not-find-part-of-the-path)
+- [Game Setup](#game-setup)
+  - [Changing Screen Resolution](#changing-screen-resolution)
 - [Game Crashes](#game-crashes)
   - [Common Crashes](#common-crashes)
     - [1. Overlay Software](#1-overlay-software)
@@ -34,17 +36,42 @@
   - [Blurry Textures](#blurry-textures)
   - [I can't move my mouse cursor around the whole area of my screen](#i-cant-move-my-mouse-cursor-around-the-whole-area-of-my-screen)
   - [My game performance sucks!](#my-game-performance-sucks)
-- [Gameplay Issues](#gameplay-issues)
-  - [Controls](#controls)
-    - [VATS doesn't work](#vats-doesnt-work)
-  - [User Interface](#user-interface)
-    - [I want my my ammo counter back!](#i-want-my-ammo-counter-back)
-    - [I want my 3rd person crosshair back!](#i-want-my-3rd-person-crosshair-back)
-  - [Quests](#quests)
+- [Gameplay](#gameplay)
+  - [Can I play the vanilla intro?](#can-i-play-the-vanilla-intro)
+  - [Automatron DLC is not starting](#automatron-dlc-is-not-starting)
+  - [Where are all the crafting recipes?](#where-are-all-the-crafting-recipes)
+  - [How do I acquire *volunteers* for my settlements?](#how-do-i-acquire-volunteers-for-my-settlements)
+  - [How do I cure trauma or reset attributes?](#how-do-i-cure-trauma-or-reset-attributes)
+  - [How do I cure my addiction to creature *secretions*?](#how-do-i-cure-my-addiction-to-creature-secretions)
+  - [Interior cells are too dark](#interior-cells-are-too-dark)
+  - [I'm getting too many perk points per level](#im-getting-too-many-perk-points-per-level)
+  - [Camera stuck in character creation](#camera-stuck-in-character-creation)
+  - [Sanctuary settlement layouts clip with existing buildings](#sanctuary-settlement-layouts-clip-with-existing-buildings)
+  - [I can't move my mouse in the main menu](#i-cant-move-my-mouse-in-the-main-menu)
+- [Quests](#quests)
     - [Nick Valentine won't talk to me about a missing child!](#nick-valentine-wont-talk-to-me-about-a-missing-child)
+- [Controls](#controls)
+  - [VATS doesn't work](#vats-doesnt-work)
+- [Character Creation \& NPCs](#character-creation--npcs)
+  - [Rotating the PC in LooksMenu](#rotating-the-pc-in-looksmenu)
+  - [I have/an NPC has a neck seam](#i-havean-npc-has-a-neck-seam)
+  - [Do I need to use Bodyslide?](#do-i-need-to-use-bodyslide)
+  - [How do I edit my body?](#how-do-i-edit-my-body)
+  - [Can I play as a male PC?](#can-i-play-as-a-male-pc)
+  - [How do I add/remove tattoos?](#how-do-i-addremove-tattoos)
+- [User Interface](#user-interface)
+  - [My mouse cursor can't reach the whole screen](#my-mouse-cursor-cant-reach-the-whole-screen)
+  - [I have an Ultrawide monitor, help!](#i-have-an-ultrawide-monitor-help)
+  - [I want my ammo counter back!](#i-want-my-ammo-counter-back)
+  - [I want my 3rd person crosshair back!](#i-want-my-3rd-person-crosshair-back)
+  - [Where are the presets is saved in Screen Archer Menu?](#where-are-the-presets-is-saved-in-screen-archer-menu)
+- [Additions](#additions)
+  - [I added Ivy, but she has no face](#i-added-ivy-but-she-has-no-face)
 
 ## Preface
-Please help me to help yourself here. Search this page and the [FAQ](FAQ.md) if you are having issues. Please also use the Discord search function in the WoD channels as your issue may already be solved. Do not just post a question in the support channel without doing your own research first.
+Please help me to help yourself here. Search this page if you are having issues.  
+Please also use the Discord search function in the WoD channels as your issue may already be solved.  
+Do not just post a question in the support channel without doing your own research first.
 
 ## Download Issues
 
@@ -272,6 +299,16 @@ If you want to use settlement layouts in sanctuary (and many other settlements),
 
 You can now build your desired settlement layout.
 
+### I can't move my mouse in the main menu
+Your game is probably detecting a controller.  
+Unplug your controllers and controller-receivers from your system.
+
+If the problem still persists, or you don't have any controllers plugged in, it is possible that one of your USB devices identifies as a controller to Windows.  
+
+In this case, edit your fallout4prefs.ini in MO2 and change bGamepadEnable to the following:  
+`bGamepadEnable = 0`  
+
+
 ## Quests
 
 #### Nick Valentine won't talk to me about a missing child!
@@ -348,6 +385,10 @@ This is deliberately hidden on profile 3. If you are not on profile 3 but want t
 ![Crosshair](img/HUDImmersiveHud.png)
 
 You will likely have to save and load your game again to refresh the UI and make the change appear.
+
+### Where are the presets is saved in Screen Archer Menu?
+They are in your Overwrite in MO2:  
+\F4SE\Plugins\SAM\Outfits
 
 ## Additions
 
