@@ -49,7 +49,8 @@
   - [Sanctuary settlement layouts clip with existing buildings](#sanctuary-settlement-layouts-clip-with-existing-buildings)
   - [I can't move my mouse in the main menu](#i-cant-move-my-mouse-in-the-main-menu)
 - [Quests](#quests)
-    - [Nick Valentine won't talk to me about a missing child!](#nick-valentine-wont-talk-to-me-about-a-missing-child)
+  - [I want to start the main quest, but the Vault Dweller is missing](#i-want-to-start-the-main-quest-but-the-vault-dweller-is-missing)
+  - [Nick Valentine won't talk to me about a missing child!](#nick-valentine-wont-talk-to-me-about-a-missing-child)
 - [Controls](#controls)
   - [VATS doesn't work](#vats-doesnt-work)
 - [Character Creation \& NPCs](#character-creation--npcs)
@@ -311,7 +312,28 @@ In this case, edit your fallout4prefs.ini in MO2 and change bGamepadEnable to th
 
 ## Quests
 
-#### Nick Valentine won't talk to me about a missing child!
+### I want to start the main quest, but the Vault Dweller is missing
+If the Vault Dweller with the audio log is missing from the reactor room of Vault 111, depending on your player gender, do the following.
+
+**If you are playing as a female:**  
+Open the console and type in  
+```
+prid 1D05DE06  
+moveto player  
+```
+The corpse of Nora will spawn at your feet and you can loot the quest item.
+
+**If you are playing as a male:**  
+First of all, what are you doing with your life?  
+Second, open the console and type in  
+```
+prid 1D05DE04
+moveto player
+```
+
+The corpse of Nate will spawn at your feet and you can loot the quest item.
+
+### Nick Valentine won't talk to me about a missing child!
 You forgot to investigate Vault 111 first. You have to do this in order to kickstart the main quest.
 
 ## Controls
