@@ -37,6 +37,7 @@
   - [I can't move my mouse cursor around the whole area of my screen](#i-cant-move-my-mouse-cursor-around-the-whole-area-of-my-screen)
   - [My game performance sucks!](#my-game-performance-sucks)
 - [Gameplay](#gameplay)
+  - [I was gagged, now my voice is muffled after taking it off](#i-was-gagged-now-my-voice-is-muffled-after-taking-it-off)
   - [Can I play the vanilla intro?](#can-i-play-the-vanilla-intro)
   - [Automatron DLC is not starting](#automatron-dlc-is-not-starting)
   - [Where are all the crafting recipes?](#where-are-all-the-crafting-recipes)
@@ -223,6 +224,15 @@ If you genuinely have followed the above steps then ensure the following:
 If you have ensured all of the above is right, try lowering settings in BethINI, [following this guide in the modifications channel on the Discord.](https://discord.com/channels/719714673431150627/1095988679463424000/1096709202052915250)
 
 ## Gameplay
+
+### I was gagged, now my voice is muffled after taking it off
+If your character's voice is still muffled after taking off a gag, run this in the console:
+
+`player.setvoicetype 00018DF7`  
+    for the female player voice.
+
+`player.setvoicetype 00018DF4`  
+    for the male player voice.
 
 ### Can I play the vanilla intro?
 No. It sucks and the game has been out since 2015. If you haven't played it by now, there are other ways to play it.
