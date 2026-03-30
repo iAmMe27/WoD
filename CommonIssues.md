@@ -49,6 +49,7 @@
   - [Camera stuck in character creation](#camera-stuck-in-character-creation)
   - [Sanctuary settlement layouts clip with existing buildings](#sanctuary-settlement-layouts-clip-with-existing-buildings)
   - [I can't move my mouse in the main menu](#i-cant-move-my-mouse-in-the-main-menu)
+  - [Companion bugs and their fixes](#companion-bugs-and-their-fixes)
 - [Quests](#quests)
   - [I want to start the main quest, but the Vault Dweller is missing](#i-want-to-start-the-main-quest-but-the-vault-dweller-is-missing)
   - [Nick Valentine won't talk to me about a missing child!](#nick-valentine-wont-talk-to-me-about-a-missing-child)
@@ -318,6 +319,26 @@ If the problem still persists, or you don't have any controllers plugged in, it 
 
 In this case, edit your fallout4prefs.ini in MO2 and change bGamepadEnable to the following:  
 `bGamepadEnable = 0`  
+
+### Companion bugs and their fixes
+
+**Heather no longer has companion options and will only talk/I can't access heather's item menu:**
++ Choose the following Dialogue Options: "Are there any other options?" > "You can go now. Dismiss" > "Yeah"
++ Turn away from Heather to give her a chance to despawn, then turn around and verify she's gone
++ Go to your AID tab, and use Heather's Transponder
++ Heather should have her dialogue options again
+
+**Ivy/Lily/Vanilla companion no longer has companion options and will only talk/Companion won't pull out their gun/Can't access companions item menu:**
++ Pretty much the same fix as above, but their dismiss option should be one of the options when they're stuck just talking to you. You don't have to wait for them to disappear, once they are dismissed, you can immediately re-add them and they should get full companion options back
+
+**Heather/Ivy/Lily start blasting innocent NPCs for no reason (Settlers, Diamond City Guard/Fen's Sherriff Deputies, etc.):**
++ For Heather do the following Dialogue Options: "I want to ask you about something else" > "Are there any other options?" > "Set combat style" > "Set combat style to vanilla defensive"
++ For Ivy open the NX-2C Controller Holotape > Combat Preferences > Default Combat Style
++ For Lily/Vanilla Companion > Open up the Command Console and get the characters refid (its the characters right after their name, i.e. Paladin Danse is " (0005de4d) or 5de4d", once you know their id, run the following:
+       REFID.SetAV 2BC 0 (replace REFID with the Companion's ID, i.e: Running this on Paladin Danse would look like: 5de4d.SetAV 2BC 0). This sets their aggression to off. They'll still attack and defend you.
+
+**Nick Valentine goes Broken Mask during the "Dangerous Minds" questline at the Memory Den:**
++ Follow the guidance for Step 3 for vanilla companions. You must do this before you walk into the memory den. Nick's refence ID is: 2F25
 
 
 ## Quests
