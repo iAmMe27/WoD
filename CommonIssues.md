@@ -37,6 +37,7 @@
   - [I can't move my mouse cursor around the whole area of my screen](#i-cant-move-my-mouse-cursor-around-the-whole-area-of-my-screen)
   - [My game performance sucks!](#my-game-performance-sucks)
 - [Gameplay](#gameplay)
+  - [I was gagged, now my voice is muffled after taking it off](#i-was-gagged-now-my-voice-is-muffled-after-taking-it-off)
   - [Can I play the vanilla intro?](#can-i-play-the-vanilla-intro)
   - [Automatron DLC is not starting](#automatron-dlc-is-not-starting)
   - [Where are all the crafting recipes?](#where-are-all-the-crafting-recipes)
@@ -48,8 +49,10 @@
   - [Camera stuck in character creation](#camera-stuck-in-character-creation)
   - [Sanctuary settlement layouts clip with existing buildings](#sanctuary-settlement-layouts-clip-with-existing-buildings)
   - [I can't move my mouse in the main menu](#i-cant-move-my-mouse-in-the-main-menu)
+  - [Companion bugs and their fixes](#companion-bugs-and-their-fixes)
 - [Quests](#quests)
-    - [Nick Valentine won't talk to me about a missing child!](#nick-valentine-wont-talk-to-me-about-a-missing-child)
+  - [I want to start the main quest, but the Vault Dweller is missing](#i-want-to-start-the-main-quest-but-the-vault-dweller-is-missing)
+  - [Nick Valentine won't talk to me about a missing child!](#nick-valentine-wont-talk-to-me-about-a-missing-child)
 - [Controls](#controls)
   - [VATS doesn't work](#vats-doesnt-work)
 - [Character Creation \& NPCs](#character-creation--npcs)
@@ -223,6 +226,15 @@ If you have ensured all of the above is right, try lowering settings in BethINI,
 
 ## Gameplay
 
+### I was gagged, now my voice is muffled after taking it off
+If your character's voice is still muffled after taking off a gag, run this in the console:
+
+`player.setvoicetype 00018DF7`  
+    for the female player voice.
+
+`player.setvoicetype 00018DF4`  
+    for the male player voice.
+
 ### Can I play the vanilla intro?
 No. It sucks and the game has been out since 2015. If you haven't played it by now, there are other ways to play it.
 
@@ -308,10 +320,51 @@ If the problem still persists, or you don't have any controllers plugged in, it 
 In this case, edit your fallout4prefs.ini in MO2 and change bGamepadEnable to the following:  
 `bGamepadEnable = 0`  
 
+### Companion bugs and their fixes
+
+**Heather no longer has companion options and will only talk/I can't access heather's item menu:**
++ Choose the following Dialogue Options: "Are there any other options?" > "You can go now. Dismiss" > "Yeah"
++ Turn away from Heather to give her a chance to despawn, then turn around and verify she's gone
++ Go to your AID tab, and use Heather's Transponder
++ Heather should have her dialogue options again
+
+**Ivy/Lily/Vanilla companion no longer has companion options and will only talk/Companion won't pull out their gun/Can't access companions item menu:**
++ Pretty much the same fix as above, but their dismiss option should be one of the options when they're stuck just talking to you. You don't have to wait for them to disappear, once they are dismissed, you can immediately re-add them and they should get full companion options back
+
+**Heather/Ivy/Lily start blasting innocent NPCs for no reason (Settlers, Diamond City Guard/Fen's Sherriff Deputies, etc.):**
++ For Heather do the following Dialogue Options: "I want to ask you about something else" > "Are there any other options?" > "Set combat style" > "Set combat style to vanilla defensive"
++ For Ivy open the NX-2C Controller Holotape > Combat Preferences > Default Combat Style
++ For Lily/Vanilla Companion > Open up the Command Console and get the characters refid (its the characters right after their name, i.e. Paladin Danse is " (0005de4d) or 5de4d", once you know their id, run the following:
+       REFID.SetAV 2BC 0 (replace REFID with the Companion's ID, i.e: Running this on Paladin Danse would look like: 5de4d.SetAV 2BC 0). This sets their aggression to off. They'll still attack and defend you.
+
+**Nick Valentine goes Broken Mask during the "Dangerous Minds" questline at the Memory Den:**
++ Follow the guidance for Step 3 for vanilla companions. You must do this before you walk into the memory den. Nick's refence ID is: 2F25
+
 
 ## Quests
 
-#### Nick Valentine won't talk to me about a missing child!
+### I want to start the main quest, but the Vault Dweller is missing
+If the Vault Dweller with the audio log is missing from the reactor room of Vault 111, depending on your player gender, do the following.
+
+**If you are playing as a female:**  
+Open the console and type in  
+```
+prid 1D05DE06  
+moveto player  
+```
+The corpse of Nora will spawn at your feet and you can loot the quest item.
+
+**If you are playing as a male:**  
+First of all, what are you doing with your life?  
+Second, open the console and type in  
+```
+prid 1D05DE04
+moveto player
+```
+
+The corpse of Nate will spawn at your feet and you can loot the quest item.
+
+### Nick Valentine won't talk to me about a missing child!
 You forgot to investigate Vault 111 first. You have to do this in order to kickstart the main quest.
 
 ## Controls
