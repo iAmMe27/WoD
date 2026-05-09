@@ -32,7 +32,7 @@ First things first: **this list contains adult content and you must be of legal 
 # Quick Links
 :computer:  DLAA FOR NVIDIA RTX GPU USERS >[CLICK HERE](DLAA.md)<
 
-:tv:  I have an Ultrawide monitor! >[CLICK ME](Ultrawide.md)<
+:tv:  I have an Ultrawide monitor! >[CLICK ME](CommonIssues.md#i-have-an-ultrawide-monitor-help))<
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
 
