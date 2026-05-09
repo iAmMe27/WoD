@@ -1989,3 +1989,116 @@ Hotfix for the missing keyboard prompts
 5. Added Fast AddItem Menu
 6. Updated Upscaling 
 7. Updated Motion Vector Fixes
+
+## 1.7.0
+
+**Added:**
+1. Added Immersive Lovers Embrace Remastered AAF Patch
+2. Added C.H.A.K Animation Pack
+3. Added Inertia - Physical Movement Response System to GMP
+4. Added Fallsouls - Unpaused Game Menus to GMP
+5. Added Vulture - Looting Takes Time And Actions Make Sound
+6. Added Oasis - Green Placeable Grasses Shrubs Trees And More
+7. Added Auto Gamepad Switch
+8. Added Pip-Boy Light Detection Fix - F4SE
+9. Added OCBP and OCBPC FO4 - FPS Fix
+10. Added Remington 700 M24 and XM2010 Enhanced Sniper Rifle
+11. Added ESC to Menu Close
+12. Added Grumpy's Better Junk Fences
+13. Added Small Fences
+14. Added Fancy Fences 2
+15. Added Commonwealth Home Shopping
+16. Added FIS - Vtaw and DonEb14n Clothing Sorting
+17. Added Custom Magazine Gacha Shop
+18. Added Indecent Captivity
+19. Added Animated Tentacles The Walking Dongs
+20. Added FallUI - Unread Notes and Holotapes
+21. Added Dynamic Dismember System
+22. Added Commonwealth Ballistics - Penetration System
+23. Added Ultimate Outfit Menu
+24. Added Faster Decompression
+25. Added Hot Pockets
+26. Added Sex Attributes Arousal Helper
+27. Added ImGui Fonts
+28. Added Floating Subtitles
+29. Added Floating Subtitles - All Runtimes
+30. Added Vtaw Wardrobe 10
+31. Added Vtaw Wardrobe 10 - 2K Materials
+32. Added Vtaw Wardrobe 10 - Fusion Girl Bodyslides
+33. Added Combined Arms - Expansion Pack See Through Scopes patch
+34. Added Well Rested Replacer
+35. Added Daytripper 4
+36. Added POTC Morph+
+37. Added Expand Holes
+38. Added Cell Offset Generator
+39. Added Merged RootBehaviour
+40. Added KCore's Simple Snapable Bunk Beds and Double Beds
+41. Added Renovated Furniture
+
+**Removed:**
+1. Removed Winchester 1893 weapon as the mod has been removed from Nexus
+2. Removed In Game Mod Explorer as this was replaced by Fast AddItem Menu
+3. Removed Kelly Manor
+4. Removed AAF Autonomy Enhanced and replaced it with Autonomy Sex
+5. Removed Save Hot Key and replaced it with Quick User Saves
+
+**Updated:**
+1. Updated Who's The General to v1.16 - this will solve the CTD when activating the radio station at The Castle
+2. Updated See Through Scopes to v2.6.3
+3. Updated See Through Scopes - Remove Steady Aim Message Prompt to v2.6.3
+4. Updated VTAC and Vtaw Wardrobe Preview Meshes to v2.0
+5. Updated NAFicator to v0.11.72
+6. Updated Looks Menu Temp Scroll to v1.0.1.0
+7. Updated [ADD-ON - Pin-Up Card Series to v1.0](https://www.nexusmods.com/fallout4/mods/68239)
+8. Updated [BodyTalk to v3.8](https://www.nexusmods.com/fallout4/mods/72310)
+9. Updated [Equipment and Crafting Overhaul (ECO) - Redux to v4.9.6](https://www.nexusmods.com/fallout4/mods/67679)
+10. Updated [Ultimate Window Overhaul Redone to v1.4.4](https://www.nexusmods.com/fallout4/mods/43458)
+11. Updated [NAFicator to v0.903](https://www.nexusmods.com/fallout4/mods/88459)
+12. Updated [See Through Scopes - Remove Steady Aim Message Prompt to v1](https://www.nexusmods.com/fallout4/mods/72209)
+13. Updated [Vtaw Wardrobe Preview Meshes to v1.2](https://www.nexusmods.com/fallout4/mods/78802)
+14. Updated [X-SENSUOUS Body and Faces Texture Overhaul - FUSION GIRL - CBBE to vXXX](https://www.nexusmods.com/fallout4/mods/50793)
+15. Updated [Fast AddItem Menu to v1.1](https://www.nexusmods.com/fallout4/mods/99301)
+16. Updated [NAF Bridge to v0.780](https://www.nexusmods.com/fallout4/mods/87331)
+17. Updated [Address Library for F4SE Plugins to v1.10.163.0](https://www.nexusmods.com/fallout4/mods/47327)
+18. Updated [Customizable Combat AI Nearby Object Search - F4SE to v1.0](https://www.nexusmods.com/fallout4/mods/91400)
+19. Updated [MUTATIONS - FO76 to v1.1.3](https://www.nexusmods.com/fallout4/mods/79288)
+20. Updated [REACTOR - A FALLOUT4 ENB to v1.4.3](https://www.nexusmods.com/fallout4/mods/57321)
+21. Updated [Fallout 4 Outfit System to v1.6.1.0](https://www.nexusmods.com/fallout4/mods/75285)
+22. Updated [Tattoo Mass Vol.1 Overlay Edition to v1.0](https://www.nexusmods.com/fallout4/mods/65902)
+23. Updated [Kim Hairstyle to v1.09](https://www.nexusmods.com/fallout4/mods/76952)
+24. Updated [RobCo Patcher to v3.5.4](https://www.nexusmods.com/fallout4/mods/69798)
+25. Updated [X-SENSUOUS Body and Faces Texture Overhaul - FUSION GIRL - CBBE to vXXX](https://www.nexusmods.com/fallout4/mods/50793)
+26. Updated [See Through Scopes to v2.5.3](https://www.nexusmods.com/fallout4/mods/9476)
+27. Updated [X6-88 Synthetic Facelift to v1](https://www.nexusmods.com/fallout4/mods/58408)
+28. Updated [The Fens Sheriff's Department - Bleachers 2 to v2.7.1](https://www.nexusmods.com/fallout4/mods/68276)
+29. Updated [F4SE LooksMenu BodyGen invisible dead bodies fix to v1.0.0](https://www.nexusmods.com/fallout4/mods/93614)
+30. Updated [Facial Expression and Eyetracking Engine Fixes - F4SE to v1.1](https://www.nexusmods.com/fallout4/mods/89732)
+31. Updated [Smoking Puppy's Physics Preset - OCBPC CBP to v1.4](https://www.nexusmods.com/fallout4/mods/63790)
+32. Updated [Legendary Effect Overhaul (LEO) - Legendary Modification And More to v1.6.11](https://www.nexusmods.com/fallout4/mods/66900)
+33. Updated [Workshop Framework to v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+34. Updated [Looks Menu Temp Scroll to v1.0.0.0](https://www.nexusmods.com/fallout4/mods/99120)
+35. Updated [Show All Armors and Outfits - F4SE to v1.0](https://www.nexusmods.com/fallout4/mods/82654)
+36. Updated [Workshop Framework to v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+37. Updated [Magic Effect and Spell Engine Fixes - F4SE to v1.0](https://www.nexusmods.com/fallout4/mods/83433)
+38. Updated [Empty Vendor List Bug Fix - F4SE to v1.0](https://www.nexusmods.com/fallout4/mods/83252)
+39. Updated [Shadow Boost FO4 to v1.7](https://www.nexusmods.com/fallout4/mods/63482)
+40. Updated [Mutation for the Commonwealth to v1.0](https://www.nexusmods.com/fallout4/mods/90575)
+41. Updated [REACTOR - A FALLOUT4 ENB to v1.4.3](https://www.nexusmods.com/fallout4/mods/57321)
+42. Updated [Who's The General - Minutemen Quest Cleanup to v1.05](https://www.nexusmods.com/fallout4/mods/59019)
+43. Updated [High FPS Physics Fix to v0.8.6](https://www.nexusmods.com/fallout4/mods/44798)
+44. Updated [Mutation for the Commonwealth to v1.0](https://www.nexusmods.com/fallout4/mods/90575)
+45. Updated [NPCs Use (MAIM) Items to v1.0.0](https://www.nexusmods.com/fallout4/mods/78602)
+
+**Fixes:**
+1. Fixed missing Base Object Swapper
+2. Fixed broken collectables
+3. Fixed an issue with the Cliff Edge Hotel in Far Harbor
+4. Fixed an issue with MUTATION where minimum rads where set too low in the original mod INI
+5. Fixed an issue with MP7 ammunition damage values
+
+**Other Stuff:**
+1. Split NAFicator into 2 parts, one for profile 1 and the other for profiles 2 & 3
+2. Regenerated NAFicator outputs
+3. Regenerated Complex Sorter outputs
+4. Tweaked MCM Config Menu layout to clean it up a little
+5. New main menu :)
