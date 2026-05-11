@@ -18,7 +18,11 @@
   - [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
   - [Running WoD](#running-wod)
   - [Optional Mods](#optional-mods)
-    - [Essentials Category](#essentials-category)
+    - [Upscaler](#upscaler)
+    - [Frame Gen Category](#frame-gen-category)
+    - [Fuck my shit up Category](#fuck-my-shit-up-category)
+    - [Danger Zone Category](#danger-zone-category)
+    - [AMD \& Intel GPU Fixes](#amd--intel-gpu-fixes)
     - [YOUR CHOICES Category](#your-choices-category)
 - [Continuing](#continuing)
 
@@ -62,7 +66,7 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 1. Unleveled World - this will remove level caps on enemies and loot, meaning you will run into enemies who are much higher level than you but also the guns you find can be better.
 
 ### Danger Zone Category
-1. Uneducated Shooter - this addes weapon interia and QE leaning, like in other games such as Rainbow Six Siege.
+1. Uneducated Shooter - this adds weapon inertia and QE leaning, like in other games such as Rainbow Six Siege.
 
 ### AMD & Intel GPU Fixes
 1. WoD - AMD Fixes - this mod fixes a few texture/mesh issues specific to AMD and some Intel GPUs.
