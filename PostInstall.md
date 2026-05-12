@@ -14,7 +14,7 @@
 # Content
 - [Content](#content)
 - [After installation steps](#after-installation-steps)
-  - [Errata for 1.7.0](#errata-for-170)
+  - [Errata for current WoD version](#errata-for-current-wod-version)
     - [Disable Benchmarking in Cell Offset Generator](#disable-benchmarking-in-cell-offset-generator)
     - [Rust Face with X-SENSUOUS](#rust-face-with-x-sensuous)
   - [Handling nxm links](#handling-nxm-links)
@@ -37,9 +37,9 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 > The load order is exactly as intended out of the box and you do not need to change it.
 
 
-## Errata for 1.7.0
+## Errata for current WoD version
 > [!CAUTION]
-> **These steps are only for the above mentioned version of WOD!**  
+> **These steps are only for version 1.7.0 of WOD!**  
 > If you are on a differen version of the modlist, you **do not** need to to these steps.
 
 No version is perfect, and some errors managed to sneak into this one as well.  
