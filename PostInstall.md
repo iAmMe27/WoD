@@ -14,6 +14,9 @@
 # Content
 - [Content](#content)
 - [After installation steps](#after-installation-steps)
+  - [Errata for 1.7.0](#errata-for-170)
+    - [Disable Benchmarking in Cell Offset Generator](#disable-benchmarking-in-cell-offset-generator)
+    - [Rust Face with X-SENSUOUS](#rust-face-with-x-sensuous)
   - [Handling nxm links](#handling-nxm-links)
   - [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
   - [Running WoD](#running-wod)
@@ -30,7 +33,32 @@
 Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
 > [!WARNING]
-> DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.
+> DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT.  
+> The load order is exactly as intended out of the box and you do not need to change it.
+
+
+## Errata for 1.7.0
+> [!CAUTION]
+> **These steps are only for the above mentioned version of WOD!**  
+> If you are on a differen version of the modlist, you **do not** need to to these steps.
+
+No version is perfect, and some errors managed to sneak into this one as well.  
+Some of them can be corrected by you easily, others cannot.  
+
+
+### Disable Benchmarking in Cell Offset Generator
+Benchmarking this is only needed for develpment purposes.  
+
+- In MO2, navigate to `Essentials` -> `Cell Offset Generator`. Right click it and select `Open in Explorer`.
+- Navigate to `F4SE` -> `Plugins` and open `CellOffsetGenerator.toml` in a text editor.
+- Change `bRunBenchmark = true` to `bRunBenchmark = false`.
+
+
+### Rust Face with X-SENSUOUS
+The default textures of X-SENSUOUS come in a 2K resolution, which breaks overlay and make up mods and leads to permanent rust face.  
+You can convert the textures (to 1K) yourself if you know how to.  
+If not, wait for the next update or try one of the other skin choices.
+
 
 ## Handling nxm links
 
