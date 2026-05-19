@@ -15,8 +15,7 @@
 - [Content](#content)
 - [After installation steps](#after-installation-steps)
   - [Errata for current WoD version](#errata-for-current-wod-version)
-    - [Disable Benchmarking in Cell Offset Generator](#disable-benchmarking-in-cell-offset-generator)
-    - [Rust Face with X-SENSUOUS](#rust-face-with-x-sensuous)
+    - [Ketaros Philon cards not showing up](#ketaros-philon-cards-not-showing-up)
   - [Handling nxm links](#handling-nxm-links)
   - [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
   - [Running WoD](#running-wod)
@@ -39,25 +38,15 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 
 ## Errata for current WoD version
 > [!CAUTION]
-> **These steps are only for version 1.7.0 of WOD!**  
-> If you are on a differen version of the modlist, you **do not** need to to these steps.
+> **These steps are only for version 1.7.1 of WOD!**  
+> If you are on a differen version of the modlist, you **do not** need to read this or do anything.
 
 No version is perfect, and some errors managed to sneak into this one as well.  
-Some of them can be corrected by you easily, others cannot.  
 
 
-### Disable Benchmarking in Cell Offset Generator
-Benchmarking this is only needed for develpment purposes.  
-
-- In MO2, navigate to `Essentials` -> `Cell Offset Generator`. Right click it and select `Open in Explorer`.
-- Navigate to `F4SE` -> `Plugins` and open `CellOffsetGenerator.toml` in a text editor.
-- Change `bRunBenchmark = true` to `bRunBenchmark = false`.
-
-
-### Rust Face with X-SENSUOUS
-The default textures of X-SENSUOUS come in a 2K resolution, which breaks overlay and make up mods and leads to permanent rust face.  
-You can convert the textures (to 1K) yourself if you know how to.  
-If not, wait for the next update or try one of the other skin choices.
+### Ketaros Philon cards not showing up
+This has been the case since 1.7.0
+Currently we do not know why this happens, but as it is a low priority issue, it wasn't fixed in this hotfix release.
 
 
 ## Handling nxm links
