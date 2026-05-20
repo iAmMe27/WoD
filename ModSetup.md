@@ -35,7 +35,7 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 
 ![MCM](img/MCMSettings.jpg)
 
-3. Scroll down to find `Commonwealth Captives Outfit Injector`, head to `Global Settings`, click `Inject All Clothing` and wait for a message box to pop-up telling you that the outfit injection is done.
+3. Scroll down and click on the `"NSFW"` category to find `Commonwealth Captives Outfit Injector`, head to `Global Settings`, click `Inject All Clothing` and wait for a message box to pop-up telling you that the outfit injection is done.
 
 ![CCOI](img/CCOIMCM.jpg)
 

@@ -14,11 +14,17 @@
 # Content
 - [Content](#content)
 - [After installation steps](#after-installation-steps)
+  - [Errata for current WoD version](#errata-for-current-wod-version)
+    - [Ketaros Philon cards not showing up](#ketaros-philon-cards-not-showing-up)
   - [Handling nxm links](#handling-nxm-links)
   - [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
   - [Running WoD](#running-wod)
   - [Optional Mods](#optional-mods)
-    - [Essentials Category](#essentials-category)
+    - [Upscaler](#upscaler)
+    - [Frame Gen Category](#frame-gen-category)
+    - [Fuck my shit up Category](#fuck-my-shit-up-category)
+    - [Danger Zone Category](#danger-zone-category)
+    - [AMD \& Intel GPU Fixes](#amd--intel-gpu-fixes)
     - [YOUR CHOICES Category](#your-choices-category)
 - [Continuing](#continuing)
 
@@ -26,7 +32,22 @@
 Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
 > [!WARNING]
-> DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.
+> DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT.  
+> The load order is exactly as intended out of the box and you do not need to change it.
+
+
+## Errata for current WoD version
+> [!CAUTION]
+> **These steps are only for version 1.7.1 of WOD!**  
+> If you are on a differen version of the modlist, you **do not** need to read this or do anything.
+
+No version is perfect, and some errors managed to sneak into this one as well.  
+
+
+### Ketaros Philon cards not showing up
+This has been the case since 1.7.0
+Currently we do not know why this happens, but as it is a low priority issue, it wasn't fixed in this hotfix release.
+
 
 ## Handling nxm links
 
@@ -62,7 +83,7 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 1. Unleveled World - this will remove level caps on enemies and loot, meaning you will run into enemies who are much higher level than you but also the guns you find can be better.
 
 ### Danger Zone Category
-1. Uneducated Shooter - this addes weapon interia and QE leaning, like in other games such as Rainbow Six Siege.
+1. Uneducated Shooter - this adds weapon inertia and QE leaning, like in other games such as Rainbow Six Siege.
 
 ### AMD & Intel GPU Fixes
 1. WoD - AMD Fixes - this mod fixes a few texture/mesh issues specific to AMD and some Intel GPUs.
