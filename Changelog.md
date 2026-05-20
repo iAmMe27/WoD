@@ -2102,3 +2102,15 @@ Hotfix for the missing keyboard prompts
 3. Regenerated Complex Sorter outputs
 4. Tweaked MCM Config Menu layout to clean it up a little
 5. New main menu :)
+
+## 1.7.1
+1. Fixed an issue with X-Sensuous causing general rust face
+2. Fixed an issue with a couple of ESP headers (this is likely very inconsequential but I fixed them anyway)
+3. Fixed a couple of unintentionally disabled plugins on profile #2
+4. Fixed Buffout and X-Cell configs to reduce collision between the 2 mods
+5. Cleaned up a bunch of misc files in mod folders that the game won't ever even read or use
+6. Packed loose animation sub graph files from a couple of mods into BA2's to prevent a potential crash
+7. Packed a couple mods worth of loose precombine meshes into BA2's to prevent a potential crash
+8. Switched off Cell Offset Generator benchmarking that I accidentally left on
+9. Updated Cell Offset Generator
+10. Removed Hot Collectible Magazines and Post Cards as the mod has been deleted from Nexus
