@@ -349,19 +349,20 @@ If the Vault Dweller with the audio log is missing from the reactor room of Vaul
 **If you are playing as a female:**  
 Open the console and type in  
 ```
-prid 1D05DE06  
+prid 1C05DE06  
 moveto player  
 ```
+**These are two lines in the console, not one!**  
 The corpse of Nora will spawn at your feet and you can loot the quest item.
 
 **If you are playing as a male:**  
 First of all, what are you doing with your life?  
 Second, open the console and type in  
 ```
-prid 1D05DE04
+prid 1C05DE04
 moveto player
 ```
-
+**These are two lines in the console, not one!**  
 The corpse of Nate will spawn at your feet and you can loot the quest item.
 
 ### Nick Valentine won't talk to me about a missing child!
