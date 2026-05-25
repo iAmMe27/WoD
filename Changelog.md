@@ -2114,3 +2114,11 @@ Hotfix for the missing keyboard prompts
 8. Switched off Cell Offset Generator benchmarking that I accidentally left on
 9. Updated Cell Offset Generator
 10. Removed Hot Collectible Magazines and Post Cards as the mod has been deleted from Nexus
+
+## 1.7.2
+1. Added Base Object Swapper and RobCo Patcher support for the Philon NSFW Cards Series
+2. Added Scroll Zoom
+3. Added NPCs Don't Move in Dialogue
+4. Re-enabled dismemberment on the GMP profile
+5. Tweaked the spawn rate chance for the Philon NSFW Cards Series
+6. Replaced the FusionGirl archive for Dicky's Pinup Outfit
