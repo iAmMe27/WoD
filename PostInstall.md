@@ -15,7 +15,6 @@
 - [Content](#content)
 - [After installation steps](#after-installation-steps)
   - [Errata for current WoD version](#errata-for-current-wod-version)
-    - [Ketaros Philon cards not showing up](#ketaros-philon-cards-not-showing-up)
   - [Handling nxm links](#handling-nxm-links)
   - [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
   - [Running WoD](#running-wod)
@@ -38,15 +37,11 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 
 ## Errata for current WoD version
 > [!CAUTION]
-> **These steps are only for version 1.7.1 of WOD!**  
+> **These steps are only for version 1.7.2 of WOD!**  
 > If you are on a differen version of the modlist, you **do not** need to read this or do anything.
 
-No version is perfect, and some errors managed to sneak into this one as well.  
-
-
-### Ketaros Philon cards not showing up
-This has been the case since 1.7.0
-Currently we do not know why this happens, but as it is a low priority issue, it wasn't fixed in this hotfix release.
+<!-- No version is perfect, and some errors managed to sneak into this one as well.  -->
+No issues detected so far, yay!
 
 
 ## Handling nxm links
