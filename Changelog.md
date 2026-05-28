@@ -2122,3 +2122,6 @@ Hotfix for the missing keyboard prompts
 4. Re-enabled dismemberment on the GMP profile
 5. Tweaked the spawn rate chance for the Philon NSFW Cards Series
 6. Replaced the FusionGirl archive for Dicky's Pinup Outfit
+
+## 1.7.3
+1. Updated to account for the Fallout 4 v1.11.221 update
