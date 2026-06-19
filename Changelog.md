@@ -2125,3 +2125,6 @@ Hotfix for the missing keyboard prompts
 
 ## 1.7.3
 1. Updated to account for the Fallout 4 v1.11.221 update
+
+## 1.7.4
+1. Updated Animated Tentacles to v1.53
