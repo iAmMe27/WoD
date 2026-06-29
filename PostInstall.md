@@ -15,6 +15,7 @@
 - [Content](#content)
 - [After installation steps](#after-installation-steps)
   - [Errata for current WoD version](#errata-for-current-wod-version)
+    - [Quantum Power Armor Crash](#quantum-power-armor-crash)
   - [Handling nxm links](#handling-nxm-links)
   - [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
   - [Running WoD](#running-wod)
@@ -37,12 +38,21 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 
 ## Errata for current WoD version
 > [!CAUTION]
-> **These steps are only for version 1.7.2 of WOD!**  
+> **These steps are only for version 1.7.4 of WOD!**  
 > If you are on a differen version of the modlist, you **do not** need to read this or do anything.
 
-<!-- No version is perfect, and some errors managed to sneak into this one as well.  -->
-No issues detected so far, yay!
+<!-- No issues detected so far, yay! -->
+No version is perfect, and some errors managed to sneak into this one as well.
 
+### Quantum Power Armor Crash
+Upon opening containers with Quantum PA pieces in it (e.g. the "Mysterious Containers"), will cause a CTD becaues of a bad reference.  
+
+You can either  
+- Install [the fix](https://www.nexusmods.com/fallout4/mods/102249) (this will take up another esp slot)
+- or fix the bad reference yourself in xEdit (solution [posted by SaturnRings98 on 2025-03-16](https://www.nexusmods.com/fallout4/mods/71103?tab=posts))
+
+> [!WARNING]
+> Both of these solutions will make your install modified, and support requests (of any kind) on Discord will have to go to #wod-modified.
 
 ## Handling nxm links
 
