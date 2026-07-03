@@ -2128,3 +2128,9 @@ Hotfix for the missing keyboard prompts
 
 ## 1.7.4
 1. Updated Animated Tentacles to v1.53
+
+## 1.7.5
+1. Updated Animated Tentacles to v1.59
+
+## 1.7.5.1
+1. Updated Animated Tentacles to v1.592
