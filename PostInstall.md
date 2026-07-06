@@ -38,7 +38,7 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 
 ## Errata for current WoD version
 > [!CAUTION]
-> **These steps are only for version 1.7.5 of WOD!**  
+> **These steps are only for version 1.7.5.1 of WOD!**  
 > If you are on a differen version of the modlist, you **do not** need to read this or do anything.
 
 <!-- No issues detected so far, yay! -->
