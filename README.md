@@ -67,16 +67,16 @@ Just to set some expectations and boundaries surrounding modlist development her
 ## Hardware Requirements
 
 |             | CPU                             | RAM                 | GPU                                             |
-|-------------|---------------------------------|---------------------|-------------------------------------------------|
+| ----------- | ------------------------------- | ------------------- | ----------------------------------------------- |
 | Minimum     | Intel 7th Gen,  AMD 3000 Series | 16GB DDR4 @ 3000MHz | RTX 2060, Radeon 5700 XT (at least 6GB of VRAM) |
 | Recommended | Intel 9th Gen, AMD 5800X        | 32GB DDR4 @ 3600MHz | RTX 3070, Radeon 6800                           |
 
 ## Storage Space
 
-|             | Total Space   | Storage Type        |
-|-------------|---------------|---------------------|
-| Minimum     | 400GB         | SATA SSD            |
-| Recommended | 400GB         | NVMe SSD            |
+|             | Total Space | Storage Type |
+| ----------- | ----------- | ------------ |
+| Minimum     | 400GB       | SATA SSD     |
+| Recommended | 400GB       | NVMe SSD     |
 
 ## Accounts
 In terms of accounts you will need:
@@ -87,7 +87,7 @@ In terms of accounts you will need:
 > [!WARNING]
 > Your Steam install of Fallout 4 must be up to date - do not downgrade for WoD!
 >
-> As of version 1.7.3, Wasteland of Depravity is compatible with the Anniversary Edition update (build v1.11.221.0) of Fallout 4.
+> As of version 1.7.5.2, Wasteland of Depravity is compatible with the Anniversary Edition update (build v1.11.240.0) of Fallout 4.
 
 ## DLC
 You will need *all* of the DLC for Fallout 4 ***except*** the official HD texture pack.  
