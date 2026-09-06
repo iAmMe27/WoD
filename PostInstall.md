@@ -15,15 +15,14 @@
 - [Content](#content)
 - [After installation steps](#after-installation-steps)
   - [Errata for current WoD version](#errata-for-current-wod-version)
-    - [Quantum Power Armor Crash](#quantum-power-armor-crash)
   - [Handling nxm links](#handling-nxm-links)
   - [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
   - [Running WoD](#running-wod)
   - [Optional Mods](#optional-mods)
-    - [Upscaler](#upscaler)
-    - [Frame Gen Category](#frame-gen-category)
-    - [Fuck my shit up Category](#fuck-my-shit-up-category)
-    - [Danger Zone Category](#danger-zone-category)
+    - [Performance Options Category](#performance-options-category)
+      - [Upscaling](#upscaling)
+      - [Frame Gen](#frame-gen)
+    - [Extra Gameplay Stuff Category](#extra-gameplay-stuff-category)
     - [AMD \& Intel GPU Fixes](#amd--intel-gpu-fixes)
     - [YOUR CHOICES Category](#your-choices-category)
 - [Continuing](#continuing)
@@ -44,16 +43,6 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 <!-- No issues detected so far, yay! -->
 No version is perfect, and some errors managed to sneak into this one as well.
 
-### Quantum Power Armor Crash
-Upon opening containers with Quantum PA pieces in it (e.g. the "Mysterious Containers"), will cause a CTD becaues of a bad reference.  
-
-You can either  
-- Install [the fix](https://www.nexusmods.com/fallout4/mods/102249) (this will take up another esp slot)
-- or fix the bad reference yourself in xEdit (solution [posted by SaturnRings98 on 2025-03-16](https://www.nexusmods.com/fallout4/mods/71103?tab=posts))
-
-> [!WARNING]
-> Both of these solutions will make your install modified, and support requests (of any kind) on Discord will have to go to #wod-modified.
-
 ## Handling nxm links
 
 You can select whatever suits you best in this dialog box.
@@ -62,9 +51,8 @@ If you click yes, MO2 will open automatically when you select "Download with Mod
 ![nxm link dialog box](img/mo2_nxm.png)
 
 ## What's the difference between the 3 profiles?
-Profile #1 contains the usual depravity (humans only).  
-Profile #2 is for coomers who like NSFW artwork and creature *interactions* (yes, that means sex with creatures).  
-Profile #3 is self explanatory (it makes the game harder, and before you ask; nsfw wise, it's built on Profile #2).
+Give Me Depravity is the original WoD experience. 
+Give Me Pain is Give Me Depravity but with, in my opinion, better combat.
 
 ## Running WoD
 Running WoD is as simple as clicking Run with the `Fallout: Wasteland of Depravity` option selected in the MO2 dropdown menu, in the top right of the window.
@@ -75,20 +63,20 @@ Running WoD is as simple as clicking Run with the `Fallout: Wasteland of Depravi
 ## Optional Mods
 In Wasteland of Depravity, there are a few optional mods that you can toggle on/off for your playthrough.
 
-### Upscaler
+### Performance Options Category
+
+#### Upscaling
 1. Upscaling - this mod adds FSR, DLSS and DLAA upscaling to Fallout 4. Remember to configure this mod in it's MCM.
 
-### Frame Gen Category
+#### Frame Gen
 *Note: if you want to use Frame Gen, you must activate the `Motion Vectors Fix` mod in MO2 also. Frame Gen can also introduce artifacting and ghosting on your screen as you play.*
 
 1. Frame Generation - this will add FSR3 frame generation to Fallout 4.
 2. Motion Vector Fixes - required for frame generation to work.
 
-### Fuck my shit up Category
+### Extra Gameplay Stuff Category
 1. Unleveled World - this will remove level caps on enemies and loot, meaning you will run into enemies who are much higher level than you but also the guns you find can be better.
-
-### Danger Zone Category
-1. Uneducated Shooter - this adds weapon inertia and QE leaning, like in other games such as Rainbow Six Siege.
+2. Uneducated Shooter - this adds weapon inertia and QE leaning, like in other games such as Rainbow Six Siege.
 
 ### AMD & Intel GPU Fixes
 1. WoD - AMD Fixes - this mod fixes a few texture/mesh issues specific to AMD and some Intel GPUs.

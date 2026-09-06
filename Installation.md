@@ -153,6 +153,5 @@ If your screen does not like this (especially if you have a red box with an erro
 ![Image](/img/wj_install_5.png)
 
 
-
 # Continuing
 If Wabbajack was able to install the modlist without any errors, you can continue with the [After Installation steps](PostInstall.md).

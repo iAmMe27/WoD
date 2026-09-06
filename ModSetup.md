@@ -15,8 +15,9 @@
 - [Content](#content)
 - [Mod setup](#mod-setup)
   - [Optional MCM Configs](#optional-mcm-configs)
+    - [Give Me No Creature Stuff](#give-me-no-creature-stuff)
     - [Swags Dommy Mommy Milkers Wasteland](#swags-dommy-mommy-milkers-wasteland)
-    - [I want to play as a male](#i-want-to-play-as-a-male)
+    - [I am a male character](#i-am-a-male-character)
 - [Done](#done)
 
 # Mod setup
@@ -31,7 +32,7 @@ When starting a new game, create your character and once done, *DO NOTHING ELSE*
 The MCM setup is a one-click solution and will run when you tell it to. To do that;
 
 1. Navigate to the Mod Config menu -> `-= MCM Settings Manager =-`
-2. Click the `[Apply]` button.
+2. Click the `[Apply]` button next to the **Give Me Depravity** option.
 
 ![MCM](img/MCMSettings.jpg)
 
@@ -46,13 +47,19 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 ## Optional MCM Configs
 
 > [!IMPORTANT]
-> You must apply the main MCM config ***before*** you apply any of these optional settings.  
+> You must apply the **Give Me Depravity** MCM config ***before*** you apply any of these optional settings.  
 > 
 > **Not every optional config is available for every profile**  
 > If a sepecific config you want to use is not available for the profile you want to play on, you need to change either your profile or your expectations.
 >
 > **A note on the Give Me Pain profile**  
 > The Give Me Pain profile only has 1 MCM config, no optionals. It is meant to be played "as is" with no tweaks, no customisations.
+
+### Give Me No Creature Stuff
+Turns off all creature interactions where possible.
+
+> [!NOTE]
+> Some creatures may still have NSFW visuals but this is not possible to remove without heavier modification of WoD, a guide of which is out of the scope of this readme.
 
 ### Swags Dommy Mommy Milkers Wasteland
 
@@ -69,7 +76,7 @@ It pretty much does 2 main things.
 If you don't like heavily female oriented playthroughs, this is not the config for you.
 ```
 
-### I want to play as a male
+### I am a male character
 This is an optional set of tweaks for male characters. A lot of the adult content based mods assume your character is female and this tweaks changes things for male player characters where possible.
 
 # Done
