@@ -18,6 +18,7 @@
     - [Give Me No Creature Stuff](#give-me-no-creature-stuff)
     - [Swags Dommy Mommy Milkers Wasteland](#swags-dommy-mommy-milkers-wasteland)
     - [I am a male character](#i-am-a-male-character)
+  - [I want my profile 1 back!](#i-want-my-profile-1-back)
 - [Done](#done)
 
 # Mod setup
@@ -78,6 +79,24 @@ If you don't like heavily female oriented playthroughs, this is not the config f
 
 ### I am a male character
 This is an optional set of tweaks for male characters. A lot of the adult content based mods assume your character is female and this tweaks changes things for male player characters where possible.
+
+## I want my profile 1 back!
+The spirit of profile 1 is easy to restore. When in game, apply the above `Give Me No Creature Stuff` MCM option (ensuring you follow all of the MCM instructions) and to switch off the NSFW artwork, follow the below steps.
+
+1. In MO2, locate the `Comics - Posters - Billboards - Art` category.
+2. Expand the category.
+3. Switch off the following mods:
+   1. Splashzones NSFW Texture Mashup AIO
+   2. DanksMags
+   3. Erotic Art
+   4. Hot and Horny Wastelands - Billboards
+   5. Hot and Horny Wastelands - Paintings
+   6. Hot and Horny Wastelands - Posters
+   7. Vault-Tec Posters
+   8. Swagmeister's Taffy Tales - NSFW Posters - Billboards
+4. Turn them all off.
+5. ???
+6. Profit.
 
 # Done
 **You are now done with installing, you can close all menus and start playing!**  
