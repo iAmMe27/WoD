@@ -94,9 +94,8 @@ The spirit of profile 1 is easy to restore. When in game, apply the above `Give 
    6. Hot and Horny Wastelands - Posters
    7. Vault-Tec Posters
    8. Swagmeister's Taffy Tales - NSFW Posters - Billboards
-4. Turn them all off.
-5. ???
-6. Profit.
+4. ???
+5. Profit.
 
 # Done
 **You are now done with installing, you can close all menus and start playing!**  
