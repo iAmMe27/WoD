@@ -1,35 +1,40 @@
 # Contents
 - [Contents](#contents)
 - [Wasteland of Depravity Gameplay](#wasteland-of-depravity-gameplay)
-  - [Profiles #1 and #2](#profiles-1-and-2)
-    - [Starting the Game](#starting-the-game)
-    - [Equipment Crafting](#equipment-crafting)
-    - [SFW Gameplay Stuff](#sfw-gameplay-stuff)
-      - [Enemies](#enemies)
-      - [Gameplay Systems](#gameplay-systems)
-      - [Weapons](#weapons)
-      - [Player Homes](#player-homes)
-      - [Settlements](#settlements)
-      - [Junk \& Misc Items](#junk--misc-items)
-    - [Quests](#quests)
-    - [NSFW Gameplay](#nsfw-gameplay)
-  - [Give Me Pain](#give-me-pain)
+  - [Starting the Game](#starting-the-game)
+  - [Character Specifics](#character-specifics)
+  - [Equipment Crafting](#equipment-crafting)
+  - [SFW Gameplay Stuff](#sfw-gameplay-stuff)
+    - [Enemies](#enemies)
+    - [Gameplay Systems](#gameplay-systems)
+    - [Weapons](#weapons)
+    - [Player Homes](#player-homes)
+    - [Settlements](#settlements)
+    - [Junk \& Misc Items](#junk--misc-items)
+  - [Quests](#quests)
+  - [NSFW Gameplay](#nsfw-gameplay)
+  - [Give Me Pain Specifics](#give-me-pain-specifics)
 - [FAQ](#faq)
 
 # Wasteland of Depravity Gameplay
 
-## Profiles #1 and #2
-
-### Starting the Game
+## Starting the Game
 When starting the game, you'll create your character in the bathroom scene, same as always. Once you're done, head the bathroom door and you'll be given options on how you wish to start. 
 
-Before you ask, no you cannot do the vanilla intro to the game, it's buggy at best and the game is nearly 10 years old at this point. If you want to do the main quest, head into Vault 111 and find the deceased Vault Dweller.
+Before you ask, no you cannot do the vanilla intro to the game, it's buggy at best and the game is so old at this point. If you want to do the main quest, head into Vault 111 and find the deceased Vault Dweller.
 
 > [!TIP]
 > Mods of Interest: 
 > [Start Me Up Redux](https://www.nexusmods.com/fallout4/mods/56984)
 
-### Equipment Crafting
+## Character Specifics
+If you wish to utilise different pronouns for your character, there is an item in Sanctuary that will make the game swap pronoun references to your character throughout.
+
+> [!TIP]
+> Mods of Interest: 
+> [Gender Fluid](https://www.nexusmods.com/fallout4/mods/93938)
+
+## Equipment Crafting
 Crafting is changed from the base game. A lot of stuff has been moved to a specific multi-category workbench known as the Universal Workbench. You can make static versions from the usual workshop menu and there is a portable one near to the entrance of Vault 111.
 
 > [!TIP]
@@ -39,10 +44,10 @@ Crafting is changed from the base game. A lot of stuff has been moved to a speci
 
 There are also some unique crafting benches available as part of other mods but these should be self explanatory.
 
-### SFW Gameplay Stuff
+## SFW Gameplay Stuff
 There are lots of small mods that make changes to the general gameplay flow in WoD. Most enhance the existing systems but some replace parts entirely.
 
-#### Enemies
+### Enemies
 Enemies are tweaked in various ways, including things such as changes to accuracy, allow for encounter zone relevelling to allow continuous scaling. Enemies now also have friendly fire enabled.
 
 > [!TIP]
@@ -51,7 +56,13 @@ Enemies are tweaked in various ways, including things such as changes to accurac
 > [Encounter Zone Recalculation (Continuous Level Scaling)](https://www.nexusmods.com/fallout4/mods/45674), 
 > [Friendly Fire](https://www.nexusmods.com/fallout4/mods/74000)
 
-#### Gameplay Systems
+Enemies will also send hit squards after you for attacking them. When you kill enough enemies in an area or clear out a dungeon, you may find yourself under attack eventually. These same squads might also back their friends up if you choose to attack an area.
+
+> [!TIP]
+> Mods of Interest:
+> [Reinforcements and Retribution](https://www.nexusmods.com/fallout4/mods/98034)
+
+### Gameplay Systems
 A few of the gameplay systems are tweaked in WoD to make things more interesting and hopefully to allow for some build diversity. VATS is replaced with VAFS, which is bullet-time type system instead of the terrible X-COM attempt that VATS usually is.
 
 > [!TIP]
@@ -59,16 +70,15 @@ A few of the gameplay systems are tweaked in WoD to make things more interesting
 > [VAFS Redux](https://www.nexusmods.com/fallout4/mods/36519),
 > [Blocking Overhaul](https://www.nexusmods.com/fallout4/mods/73333),
 > [Bastion - A Power Armor Overhaul](https://www.nexusmods.com/fallout4/mods/75184),
-> [Slick Fingers - The Art of Theft](https://www.nexusmods.com/fallout4/mods/74305),
 > [Let Me Use That](https://www.nexusmods.com/fallout4/mods/74440),
 > [Deadeye](https://www.nexusmods.com/fallout4/mods/75439),
 > [Easier Crouched Steadying](https://www.nexusmods.com/fallout4/mods/74441),
 > [PerkPointsPerLevel](https://www.nexusmods.com/fallout4/mods/3938)
 
-#### Weapons
+### Weapons
 The weapons in WoD are replaced with modern guns. Energy weapons are not replaced and there are new Institute specific energy weapon types. There's far too many to list here, see the `Weapons` separator in MO2.
 
-#### Player Homes
+### Player Homes
 There are a few new player homes to choose from, as well as some Workshop Framework blueprints for existing settlements.
 
 > [!TIP]
@@ -77,11 +87,10 @@ There are a few new player homes to choose from, as well as some Workshop Framew
 > [Basement Living](https://www.nexusmods.com/fallout4/mods/10967),
 > [Fenway Flat](https://www.nexusmods.com/fallout4/mods/58747),
 > [Top Floor Loft](https://www.nexusmods.com/fallout4/mods/67032),
-> [Chestnut Lodge](https://www.nexusmods.com/fallout4/mods/25033),
-> [The Subway Safehouse](https://web.archive.org/web/20231029152710/https://www.nexusmods.com/fallout4/mods/35255),
+> [Underground Hideout](https://www.nexusmods.com/fallout4/mods/4756)
 > [Workshop Framework Settlement Collection - Vanilla-DLCs by space2jump](https://www.nexusmods.com/fallout4/mods/66509)
 
-#### Settlements
+### Settlements
 Settlements have also had some attention to make building better and adding a bunch of stuff to build with. There is also a mod to allow settlements to defend themselves provided that they have the manpower and defences to do so, so you no longer need to rush back to random settlements to help out.
 
 > [!TIP]
@@ -95,10 +104,10 @@ Settlements have also had some attention to make building better and adding a bu
 > [Build Your Own Pool](https://www.nexusmods.com/fallout4/mods/13316)
 > [Settlement Tidy Bot](https://www.nexusmods.com/fallout4/mods/33217)
 
-#### Junk & Misc Items
+### Junk & Misc Items
 Junk and misc items are now weightless. This is handled via a Synthesis patcher and can be redone just by running Synthesis.
 
-### Quests
+## Quests
 There are a bunch of new quests in WoD, lots of new NPCs to meet and even a couple different ways to finish the main story.
 
 Want a Yes Man type ending for FO4? Well, now you can.
@@ -113,12 +122,11 @@ Want a Yes Man type ending for FO4? Well, now you can.
 > [Diary of a Madman](https://www.nexusmods.com/fallout4/mods/45546),
 > [The Waste Landfill](https://www.nexusmods.com/fallout4/mods/35344),
 > [The Fens Sheriff's Department - Bleachers 2](https://www.nexusmods.com/fallout4/mods/68276),
-> [The Kelly Manor Horror](https://www.nexusmods.com/fallout4/mods/27657),
 > [Children of Ug-Qualtoth](https://www.nexusmods.com/fallout4/mods/43527),
 > [The Secret of Huntress Manor](https://www.nexusmods.com/fallout4/mods/27311),
 > [Attack of the Lobotomites](https://www.nexusmods.com/fallout4/mods/51787)
 
-### NSFW Gameplay
+## NSFW Gameplay
 There are a fair few mods that change what you can do in certain situations. I recommend that you start with reading the mod pages:
 
 > [!TIP]
@@ -134,7 +142,7 @@ There are a fair few mods that change what you can do in certain situations. I r
 
 Once you've read these mod pages, you should now have a general idea of things to do and things you'll run into in the wasteland of depravity.
 
-## Give Me Pain
+## Give Me Pain Specifics
 The Give Me Pain profile changes a fair bit of the usual gameplay routine compared to the other 2 profiles. It is not built around survival as some of the changes it makes may lead to extra suffering on survival difficulty.
 
 The first big thing you'll notice is changes to health, healing and general injuries. Both you and enemies can bleed out, can be injured in specific body parts and need specific healing items to fix yourself up.

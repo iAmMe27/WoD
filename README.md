@@ -30,8 +30,6 @@ First things first: **this list contains adult content and you must be of legal 
 - [Continuing](#continuing)
 
 # Quick Links
-:computer:  DLAA FOR NVIDIA RTX GPU USERS >[CLICK HERE](DLAA.md)<
-
 :tv:  I have an Ultrawide monitor! >[CLICK ME](CommonIssues.md#i-have-an-ultrawide-monitor-help))<
   
 :file_folder: Having issues with downloads in Wabbajack? [Check this page first.](https://github.com/iAmMe27/WoD/wiki)
@@ -47,7 +45,7 @@ Just to set some expectations and boundaries surrounding modlist development her
    
 3. Do not expect a 100% polished, well-balanced and "perfect" experience. I am a 1-person dev team and expecting more from me than you would from AAA game studios is insanity.
    
-4. We're modding a nearly 11 year old game here, please temper your expectations some.
+4. We're modding an 11 year old game here, please temper your expectations some.
 
 > [!TIP]
 > Because most of the mods are developed with a female player character in mind, the modlist is geared heavily towards a female player character. 
@@ -75,8 +73,8 @@ Just to set some expectations and boundaries surrounding modlist development her
 
 |             | Total Space | Storage Type |
 | ----------- | ----------- | ------------ |
-| Minimum     | 400GB       | SATA SSD     |
-| Recommended | 400GB       | NVMe SSD     |
+| Minimum     | 550GB       | SATA SSD     |
+| Recommended | 550GB       | NVMe SSD     |
 
 ## Accounts
 In terms of accounts you will need:

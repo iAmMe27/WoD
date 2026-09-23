@@ -33,7 +33,7 @@ When starting a new game, create your character and once done, *DO NOTHING ELSE*
 The MCM setup is a one-click solution and will run when you tell it to. To do that;
 
 1. Navigate to the Mod Config menu -> `-= MCM Settings Manager =-`
-2. Click the `[Apply]` button next to the **Give Me Depravity** option.
+2. Click the `[Apply]` button next to the **Give Me Depravity** option. (This would be the **Give Me Pain** option on the GMP profile).
 
 ![MCM](img/MCMSettings.jpg)
 
@@ -63,9 +63,6 @@ Turns off all creature interactions where possible.
 > Some creatures may still have NSFW visuals but this is not possible to remove without heavier modification of WoD, a guide of which is out of the scope of this readme.
 
 ### Swags Dommy Mommy Milkers Wasteland
-
-> [!NOTE]
-> This MCM setup is for profile 2 only!
 
 ```
 What does the MCM Preset "Swags Dommy Mommy Milkers Wasteland" do?
