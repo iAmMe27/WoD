@@ -48,19 +48,13 @@ The MCM setup is a one-click solution and will run when you tell it to. To do th
 ## Optional MCM Configs
 
 > [!IMPORTANT]
-> You must apply the **Give Me Depravity** MCM config ***before*** you apply any of these optional settings.  
-> 
-> **Not every optional config is available for every profile**  
-> If a sepecific config you want to use is not available for the profile you want to play on, you need to change either your profile or your expectations.
->
-> **A note on the Give Me Pain profile**  
-> The Give Me Pain profile only has 1 MCM config, no optionals. It is meant to be played "as is" with no tweaks, no customisations.
+> You must apply the **Give Me Depravity** or **Give Me Pain** (profile depending) MCM config ***before*** you apply any of these optional settings.  
 
 ### Give Me No Creature Stuff
 Turns off all creature interactions where possible.
 
 > [!NOTE]
-> Some creatures may still have NSFW visuals but this is not possible to remove without heavier modification of WoD, a guide of which is out of the scope of this readme.
+> Some creatures may still have NSFW visuals but this is not possible to remove without heavier modification of WoD. Removal of the NSFW visuals is not within the scope of this readme.
 
 ### Swags Dommy Mommy Milkers Wasteland
 
@@ -93,6 +87,8 @@ The spirit of profile 1 is easy to restore. When in game, apply the above `Give 
    8. Swagmeister's Taffy Tales - NSFW Posters - Billboards
 4. ???
 5. Profit.
+
+Note: like mentioned before, creatures may still have some NSFW visuals but their animations will no longer function.
 
 # Done
 **You are now done with installing, you can close all menus and start playing!**  

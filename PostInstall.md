@@ -16,7 +16,7 @@
 - [After installation steps](#after-installation-steps)
   - [Errata for current WoD version](#errata-for-current-wod-version)
   - [Handling nxm links](#handling-nxm-links)
-  - [What's the difference between the 3 profiles?](#whats-the-difference-between-the-3-profiles)
+  - [What's the difference between the 2 profiles?](#whats-the-difference-between-the-2-profiles)
   - [Running WoD](#running-wod)
   - [Optional Mods](#optional-mods)
     - [Performance Options Category](#performance-options-category)
@@ -50,7 +50,7 @@ If you click yes, MO2 will open automatically when you select "Download with Mod
 
 ![nxm link dialog box](img/mo2_nxm.png)
 
-## What's the difference between the 3 profiles?
+## What's the difference between the 2 profiles?
 Give Me Depravity is the original WoD experience. 
 Give Me Pain is Give Me Depravity but with, in my opinion, better combat.
 
@@ -79,8 +79,9 @@ If activated, the upscaling mod must be configured to your system via the F4SE M
 ![F4SE Upscaling Menu](img/UpscalingMenu.jpg)
 
 ### Extra Gameplay Stuff Category
-1. Unleveled World - this will remove level caps on enemies and loot, meaning you will run into enemies who are much higher level than you but also the guns you find can be better.
-2. Uneducated Shooter - this adds weapon inertia and QE leaning, like in other games such as Rainbow Six Siege.
+1. Full Body First Person - allows you to see your body in first person. Currently has some issues with NAF/NSFW anims but once fixed, this mod will be enabled out of the box. 
+2. Unleveled World - this will remove level caps on enemies and loot, meaning you will run into enemies who are much higher level than you but also the guns you find can be better.
+3. Uneducated Shooter - this adds weapon inertia and QE leaning, like in other games such as Rainbow Six Siege.
 
 ### AMD & Intel GPU Fixes
 1. WoD - AMD Fixes - this mod fixes a few texture/mesh issues specific to AMD and some Intel GPUs.
