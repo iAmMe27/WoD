@@ -55,6 +55,7 @@ Enemies are tweaked in various ways, including things such as changes to accurac
 > [NPC Accuracy Revised](https://www.nexusmods.com/fallout4/mods/58451), 
 > [Encounter Zone Recalculation (Continuous Level Scaling)](https://www.nexusmods.com/fallout4/mods/45674), 
 > [Friendly Fire](https://www.nexusmods.com/fallout4/mods/74000)
+> [Adaptive NPC Aim](https://www.nexusmods.com/fallout4/mods/107082)
 
 Enemies will also send hit squards after you for attacking them. When you kill enough enemies in an area or clear out a dungeon, you may find yourself under attack eventually. These same squads might also back their friends up if you choose to attack an area.
 
@@ -83,7 +84,6 @@ There are a few new player homes to choose from, as well as some Workshop Framew
 
 > [!TIP]
 > Mods of Interest: 
-> [Pineneedle Rest](https://www.nexusmods.com/fallout4/mods/60181),
 > [Basement Living](https://www.nexusmods.com/fallout4/mods/10967),
 > [Fenway Flat](https://www.nexusmods.com/fallout4/mods/58747),
 > [Top Floor Loft](https://www.nexusmods.com/fallout4/mods/67032),
@@ -103,6 +103,8 @@ Settlements have also had some attention to make building better and adding a bu
 > [Mass Fusion Wonder Power](https://www.nexusmods.com/fallout4/mods/37486),
 > [Build Your Own Pool](https://www.nexusmods.com/fallout4/mods/13316)
 > [Settlement Tidy Bot](https://www.nexusmods.com/fallout4/mods/33217)
+
+There are also a couple of new settlements for you to discover in the wasteland. Getting them setup is the same as always, clear the area, claim the area, build the area.
 
 ### Junk & Misc Items
 Junk and misc items are now weightless. This is handled via a Synthesis patcher and can be redone just by running Synthesis.
@@ -138,7 +140,6 @@ There are a fair few mods that change what you can do in certain situations. I r
 > [Sex Attributes](https://www.loverslab.com/files/file/5436-aaf-sex-attributes-framework-4172023/)
 > [Sexual Harassment](https://www.loverslab.com/files/file/5487-aaf-sexual-harassment-6242023/)
 > [Hardship](https://www.loverslab.com/files/file/10387-aaf-hardship-beggar-whore/)
-> [Dangerous Nights](https://www.loverslab.com/files/file/12719-aaf-dangerous-nights/)
 
 Once you've read these mod pages, you should now have a general idea of things to do and things you'll run into in the wasteland of depravity.
 
