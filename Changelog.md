@@ -2134,3 +2134,348 @@ Hotfix for the missing keyboard prompts
 
 ## 1.7.5.1
 1. Updated Animated Tentacles to v1.592
+
+## 2.0
+**Added**
+1. Addictol
+2. Addictol Crash Logger
+3. Game Visuals Configuration Menu - GVCM
+4. Vivid Fallout - Trees
+5. Landscape Textures Overhaul - Terrain
+6. Landscape Textures Overhaul - Roads and Pavements
+7. (UF4HD) - Architecture (Buildings)
+8. (UF4HD) - Architecture (Hightech and Skyscraper)
+9. (UF4HD) - Architecture (Barricade and Airport)
+10. (UF4HD) - Architecture (Bunkers and Capsules)
+11. (UF4HD) - Architecture (Diamond City)
+12. Colors To The Toolbox
+13. Colors To The Clutter
+14. Colors To The Trash Bin
+15. Colors To The Mattress and Dog Bed
+16. Colors To The Toolcase
+17. Colors To The Suitcases
+18. But Oxygen Tanks Are Green
+19. Ojo-Bueno-Cooler
+20. True Nuka Cola Bottle Caps Stashes
+21. Shabby Stuff AIO
+22. Workshop Workbenches to BOS
+23. HFs - Rowboat - remodel
+24. HFs - Metal barrels - remodel
+25. HFs - San Francisco Sunlights
+26. HFs - Baseball - remodel
+27. HFs - Federalist office furniture - remodel
+28. HFs - Triple A and O
+29. HFs - Tea Kettle - remodel
+30. HFs - Lunch Pail - remodel
+31. HFs - Green box - remodel
+32. HFs - Wasteland Soups - remodel
+33. HFs - Eyeball Extractors (Cutlery remodels)
+34. HFs - Saws - remodel
+35. HFs - Lounge Chairs AiO - remodel
+36. HFs - Life Preserver - remodel
+37. HFs - Oil Cans All-in-One - remodel
+38. HFs - Beer crate - remodel
+39. HFs - Toy Trucks - remodel
+40. HFs - Traffic Con - remodel
+41. HFs - Feeders - bowls remodel
+42. HFs - a little nicer food - remodels
+43. HFs - Cigar Carton - remodel
+44. HFs - Kitchen Scale - remodel
+45. HFs - Slightly better Fancy dinner set - remodels
+46. HFs - Bowling set HI-Poly
+47. HFs - Vault bed - remodel
+48. HFs - Makeshift Battery remodel
+49. HFs - Tin Cans - remodels
+50. HFs - Kitchenware
+51. HFs - Overdue and Burnt Books - remodel
+52. HFs - Forgotten rusty trash
+53. HFs - Ironing Board
+54. HFs - Sign Wet Floor
+55. HFs - Bus Station
+56. HFs - Grill
+57. HFs - Drive-In Speaker
+58. HFs - Dentist's kit
+59. SIG Sauer Pistol Pack 
+60. SIG MCX
+61. ZENIT RE-REDUX
+62. AER15 Modern Laser Assault Rifle
+63. Miniguns Rebirth
+64. Wheel Menu Remastered
+65. Halffaces - Couches remodel
+66. Steamer Trunks Retextured
+67. Reinforcements and Retribution
+68. Blood Fixes
+69. Unique Holotapes
+70. Midnight Cult Fix
+71. GEA-5H Plasma Grenade Replacer (1K - 2K)
+72. M67 Fragmentation Grenade Replacer (1K - 2K)
+73. Cryogenic Grenade Replacer (1K - 2K)
+74. UN-20 Plasma Mine Replacer (1K - 2K)
+75. G-26 Nuka Grenade Replacer (1K - 2K)
+76. Sound Condition Fix
+77. Dialogue Freeze Fix - F4SE
+78. Deathclaw Behavior Fixes
+79. Fallout Texture Overhaul - Bricks
+80. Wardrobe Manager
+81. All Vaults Have Exterior Door Controls
+82. Screen Archer Menu (SAM) Extensions
+83. Kziitd Animation Poses FM
+84. Bikini Soldier
+85. 4estGimp - T-47R Power Armor Compacted Edit - *this also fixes the power armor crash*
+86. Underground Hideout
+87. Bobble Girl
+88. Bobble Girl - Skimpy Outfit Retexture
+89. Bobble Girls in the Underground Hideout
+90. Rain Bug Fix - F4SE
+91. Antennas
+92. Takahashi's Pot of Noodles
+93. Simple Swinging Meat Bags
+94. Starlight Working Shutters
+95. Climb the Commonwealth
+96. Vivid Hair Color Extended
+97. W.K Heather Casdin Replacer
+98. Casdin Caravan Armor Mashup
+99.  People Live In - Federal Ration Stockpile
+100. We Can Live In - Poseidon Energy Turbine 18-F
+101. We Can Live In - Nahant Red Rocket
+102. We Can Live In - Rock Island Lighthouse
+103. Gender Fluid
+104. No More Endless Misc Objectives
+105. Commonwealth Encounter Pack
+106. S.R.O. - Syringer Overhaul
+107. Adaptive NPC Aim
+108. Steady Hands
+109. Light Gobo Fix
+110. Precombine And Previs Guardian
+111. Acoustic Occlusion
+112. Intentional Stealing
+113. F4SE Menu Framework
+114. Smooth Terrain F4SE
+115. Molotov Collision Fix
+116. GAPE
+117. Main Menu Video Player and World Screens
+118. Weapon Subgraph Accelerator
+119. Smooth Cell Loading
+120. Stuck LOD Fix
+121. Interior DALC Fix
+122. Wade In Water - Immersive Water Movement
+123. THBrows 2.0
+124. Joel DLSS Frame-Generation and DLSS Uspcaler beta
+125. Runtime Database
+126. Smooth Terrain F4SE
+127. Black Landscape Fix - F4SE
+128. Dynamic Grass
+129. Headpart Extended
+130. ZP's Projectile Audio and Impact Overhaul
+131. AAF Creature Resources 2
+132. Lighting Fixes
+133. NAF XML
+134. Wakey Wakey - NPCS Wake on Gunfire (F4SE)
+136. Shoot Hats (and Glasses) from NPCs F4SE
+137. Super Mutant Redux 2.0
+138. Super Mutant Redux AWKCR-Free Lite
+139. Skadi Female Super Mutant
+140. Female Super Mutants Plus
+141. AAF Violate Custom Races Patch
+142. Flutter Flicker Fixer For Foliage
+143. This Made My Spline Stiff
+144. Upscaling Custom
+145. F4SE Menu Framework
+146. Living Mannequins - Lucy and Ivy
+147. Classy Glass
+148. WattzIO - Holstered Zoom (3 and New Vegas) - F4SE
+149. A whole host of Skimpy Armor Keyword Resource Patches
+150. Some IAF Patches (RobCo)
+151. Dynamic Cubemap F4
+152. ZP's Unsettling Radio Static
+153. Workshop and Settlement Fixes
+154. Tattoos Collection by Dreivor 22X
+155. VELDT
+156. VELDT - Greener Pastures
+157. Smooth Headtracking
+158. Commonwealth Encounter Director
+159. True Third Person
+160. Smart Selection - Better Object Interaction
+161. Forlorn World Soundscapes
+162. Temaki Ahegao Demon Mask
+163. Eve Racers High Outfit
+164. TFD Tactic Combat Outfit
+165. Hydra
+166. Full Body First Person - F4SE
+167. Cloud Shadows
+168. Baka Power Armor Storage - PA Mod Support
+
+**Removed**
+1. Old Upscalers and associated small mods with them.
+2. Shadow Boost FO4
+3. Long Loading Times Fix
+4. Fallout Priority
+5. Rusty Face Fix - Papyrus Edition
+6. Subway Runner Revised
+7. Boon Island - Isles of New England
+8. Boon Island - NPC Facegen
+9. The Wilderness
+10. Miscellanous Performance Optimization - PRP - The Wilderness
+11. Alex's Male First Person Camera Height Fix
+    1.  Fix provided by FO4HHS too
+12. X-Cell
+13. Mentats
+14. Baka MaxPapyrusOps
+15. Interior NavCut Fix
+16. Long Save Bug Fix
+17. Disk Cache Enabler
+18. Daytripper 4
+19. Buffout 4
+20. REACTOR ENB Night Vision Compatiblity Patches
+21. Real Water HD for ENB 2
+22. Izhmash SV-98 - bundled in Combined Arms
+23. Beretta M9-FS Pistol (92FS) - bundled in Combined Arms
+24. .45 Auto Pistol (Colt M1911) - bundled in Combined Arms
+25. Heckler und Koch - G36 Complex - bundled in Combined Arms
+26. Steyr AUG A3 - Modular Assault Rifle - bundled in Combined Arms
+27. AKM Complex - bundled in Combined Arms
+28. Subway Player House
+29. Pineneedle Rest
+30. Slick Fingers - *causes a CTD with certain weapons.*
+31. Sin's Main Menu Edits for MCM Booster
+32. Ultrawide fixes that were no longer needed
+33. Persistent Volume Sliders - *is now part of Addictol.*
+34. Companion Shoots at Player Fix - *is now part of Addictol.*
+35. Random Main Menu
+36. Sprint Stuttering Fix
+37. Moon Rotation Fix
+38. Armor Penetration Bug Fix
+
+**Updated**
+1. Modern Weapon Replacers - All in One FOMOD14.1 > FOMOD16.9
+2. Animated Tentacles 1.53 > 1.59
+3. Integrated Automatron 1.03 > 1.04
+4. Shoddy Post-Apocalyptic Marketing 1.00 > 1.01
+5. Ziee's Bodyslide Preset 1.1 > 1.2
+6. Commonwealth Ballistics 1.6 > 1.7
+7. Inertia 2.1.0 > 2.2.0
+8. Dynamic Dismember System 1.2.0 > 1.3.1
+9. Captive Tattoos 3.3 > 4.2
+10. RobCo Patcher > 6.0.5
+11. See Through Scopes 2.6.3 > 2.7.0
+12. REPUTATION 1.2.2 > 2.1.1
+13. Address Library for F4SE Plugins 1.11.191 > 1.11.240
+14. Bodyslide and Outfit Studio 5.7.1 > 5.8.2
+15. Looks Menu Temp Scroll 1.0.1 > 1.0.3
+16. ECO Redux 5.0.4 > 5.0.6
+17. LEO Redux 2.0.1 > 2.1.0
+18. Leveled Item Framework (LIF) 3.1.0 > 3.1.1
+19. Customizable Combat AI Nearby Object Search 2.1 > 3.1
+20. Godrays Performance Fix Redux 2.2.2 > 2.3.1
+21. Quick User Saves 1.0.0 > 1.2.0
+22. Faster Decompression 1.2 > 1.4.1
+23. Scroll Zoom 1.1 > 1.4
+24. Weapon Debris Crash Fix 1.2 > 2.0.6
+25. Drop Quest Items and Keys 2.1 > 3.1
+26. Magic Effect and Spell Engine Fixes 2.1 > 3.2
+27. Empty Vendor List Bug Fix 2.1 > 3.1
+28. Show All Armors and Outfits 2.1 > 3.1
+29. Facial Expression and Eyetracking Engine Fixes 2.1 > 3.1
+30. Bastion 1.0 > 2.1.0
+31. Deadeye 1.3.1 > 1.5.0
+32. MUTATION 4.0.3 > 4.0.4
+33. Dynamic Dismember System 1.3.1 > 1.4.0
+34. Commonwealth Ballistics 1.8.2 > 2.0.0
+35. Uneducated Shooter 1.11 > 1.31
+36. Workshop Framework 2.4.0 > 2.6.0
+37. LOST Audio Tweaks 6.0 > 7.1
+38. LOST Audio Tweaks Patches 6.0 > 7.1
+39. eXofied Depravity 3.0.5 > 3.0.6
+40. More Weathervanes 1.0 > 1.0.1
+41. Commonwealth Encounter Pack 1.0.2 > 1.0.3
+42. Gender Fluid 1.03 > 1.04
+43. Heather Casdin 2.5 > 2.7
+44. Nac X Fogline Fix - White Landscape Fix plus Realistic Winds 1.1 > 2.0
+45. Unique Holotapes 1.0 > 1.01
+46. Wardrobe Manager 3.2.3 > 3.5.0
+47. A Bit Prettier Raiders Faces 1.4.5 > 1.5.0
+48. Loot Detector Expansion 1.1.2 > 1.1.3
+49. Fallout 4 Outfit System 2.9.6 > 2.9.9
+50. FallUI - Unread Notes and Holotapes 1.2.2 > 1.4.0
+51. FIS - Vtaw and DonEb14n Clothing Sorting 2.3 > 2.4
+52. Bullet Ricochet and Penetration 1.12.1 > 3.0.1
+53. Screen Archer Menu 2.1.1 > 2.1.2
+54. Screen Archer Menu (SAM) Extensions 1.0 > 1.1
+55. Ziee's Bodyslide Preset 1.2 > 1.3
+56. Put Ur Gun In - Immersive Weapon Switch 1.04 > 1.12
+57. Inertia - Physical Movement Response System 2.2.0 > 2.3.0
+
+**Fixes**
+1. Fixed G36 instance naming rules being broken causing nameless G36's to spawn.
+2. Fixed some errors with the XM2010 and Remington 700 rifles.
+3. Fixed an issue with VTAC Redux - Yorha bodysuit.
+4. Fixed MCM Config menu loading slowly on GMP.
+5. Fixed a load order issue between POTC and POTC Morph Plus.
+6. Fixed an issue with Servitron clothing.
+7. Fixed Tactical "Wifu" card spelling mistakes.
+8. Fixed Tactical Waifu collectable cards being rotated by 180.
+9. Fixed some more IAF animations being played after NSFW scenes - thank you to rilieAP for the fix.
+10. Fixed some invisible and glowing plant varieties.
+
+**Tweaks**
+
+**MO2 Tweaks**
+1. Moved Upscaling and FrameGen into Performance Options separator.
+2. Nested Halfface's Mods into the Visuals & Texture separator.
+3. Renamed NSFW Optional Stuff separator to NSFW - Skimpy Armor Keyword Stuff.
+4. Added more options to the HOTC outfit pool - thank you rilieAP for the work on this :)
+
+**MCM Tweaks**
+1. Re-ordered MCM entries.
+
+**UI Tweaks**
+1. Made a new default FallUI HUD layout.
+2. Adjusted WoD Custom Main Menu setup to work with `Main Menu Video Player and World Screens`.
+
+**Mod Tweaks/Fixes**
+1. Undo and Disable Reference'd HF's bus stop ESP - vanilla object placements were unsafely deleted.
+2. ESL flagged HF's bus stop ESP.
+3. Children of Ug-Qualtoth quest conditions fixed so that it will no longer start if the player is not at least level 10.
+4. Re-enabled REACTOR ENB SMAA again.
+5. Tweaked surrender chances on Give Me Pain.
+6. Hidden all of the freely visible map icons that probably shouldn't have been visible from level 1.
+7. Fixed a keybind conflict between NAF and ENB FPS limiter.
+8. Tweaked a couple of scripts to be less annoying.
+9. Fixed some glowing windows on Rebuild Collection buildings.
+10. Tweaked some materials files to reduce shine of certain building parts in rainy weather.
+
+**Audio Tweaks**
+1. Adjusted the Sex Attributes orgasm effect so that the game no longer skips playing it.
+
+**Patching**
+1. So much patching.
+2. And unpatching.
+3. And tweaks.
+4. help.
+
+**Notable Changes**
+1. Changed around the Modern Weapon Replacer choices as follows (Vanilla > Modern Replacer):
+   1. .44 Revolvers > MP-412
+   2. 10mm Pistol > Sig Sauer P320 XFive
+   3. Assault Rifles > SIG MCX
+   4. Combat Rifles > Springfield Armory M1A
+   5. Combat Shotguns > Mossberg 500
+   6. Double Barrel Shotguns > Benelli M2
+   7. Gamma Guns > Sig Sauer P220
+   8. Gatling Lasers > Avenger Minigun
+   9. Handmade Rifles > Zenit Re-Redux AKM
+   10. Laser Muskets > AER15
+   11. Lever Action Rifles > Springfield Armory M14
+   12. Miniguns > Vindicator Minigun
+   13. Pipe Bolt Action > MP7
+   14. Pipe Guns > Zenit Re-Redux AK-12
+   15. Plasma Guns > FN SCAR H
+   16. Radium Rifles > Kriss Vector
+   17. Submachine Guns > UMP
+2. Enabled larger NPC weapon pools in Modern Weapon Replacer options.
+3. Swapped default skin selection to Vanilla Opulence for clean skin textures. Made the default setup into a custom skin blend mod.
+4. Wheel Menu Remastered now replaces the favourites menu by default so hotkey is now `Q`, like Skyrim.
+5. Regenerated LODs using the new FOLIP process. LODs should now look better and LOD flickering should be reduced.
+6. Expanded the Bodygen pool somewhat with some more varied options.
+7. Complex Parallax now enabled in ENB by default.
+8. Skimpy Keyword Armor Resources + a keyword injection ESP are now activated by default.
