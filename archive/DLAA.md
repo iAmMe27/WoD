@@ -1,6 +1,6 @@
 # Enabling DLAA
 
-Enable the Upscaler in MO2, head in game and find the Upscaler MCM. Change the Upscaling mode to `DLAA` and done!
+Enable Upscaling Custom in MO2, if not doneso already, head in game and open the F4SE Menu Framework via the pause menu or by pressing `F1`. Customise Upscaling and Frame Generation options as needed. Done!
 
 <details>
 <summary>The below information is out of date and is only relevant to the old Upscaler and REACTOR ENB</summary>
