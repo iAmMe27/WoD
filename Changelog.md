@@ -1604,8 +1604,6 @@ It's spoop time again
 ## v1.1.1
 1. Removed Hunting Shotgun as it was deleted from Nexus
 
-</Details>
-
 ## v1.2
 **Built at:** `18/05/2025 09:05:43`
 
@@ -2134,6 +2132,8 @@ Hotfix for the missing keyboard prompts
 
 ## 1.7.5.1
 1. Updated Animated Tentacles to v1.592
+
+</Details>
 
 ## 2.0
 **Added**
