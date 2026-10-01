@@ -69,7 +69,6 @@ In Wasteland of Depravity, there are a few optional mods that you can toggle on/
 1. Upscaling - this mod adds FSR, DLSS and DLAA upscaling to Fallout 4. Remember to configure this mod in it's MCM.
 
 #### Frame Gen
-*Note: if you want to use Frame Gen, you must activate the `Motion Vectors Fix` mod in MO2 also.*
 
 1. Motion Vector Fixes - required for upscaling mods to work.
 2. Upscaling Custom - this is the mod that adds FSR/DLSS Upscaling, FrameGen and DLSS5 NR.
@@ -79,7 +78,7 @@ If activated, the upscaling mod must be configured to your system via the F4SE M
 ![F4SE Upscaling Menu](img/UpscalingMenu.jpg)
 
 ### Extra Gameplay Stuff Category
-1. Full Body First Person - allows you to see your body in first person. Currently has some issues with NAF/NSFW anims but once fixed, this mod will be enabled out of the box. 
+1. Full Body First Person - allows you to see your body in first person.
 2. Unleveled World - this will remove level caps on enemies and loot, meaning you will run into enemies who are much higher level than you but also the guns you find can be better.
 3. Uneducated Shooter - this adds weapon inertia and QE leaning, like in other games such as Rainbow Six Siege.
 
