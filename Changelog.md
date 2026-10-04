@@ -2479,3 +2479,18 @@ Hotfix for the missing keyboard prompts
 6. Expanded the Bodygen pool somewhat with some more varied options.
 7. Complex Parallax now enabled in ENB by default.
 8. Skimpy Keyword Armor Resources + a keyword injection ESP are now activated by default.
+
+## 2.0.1
+1. Added GVCM - Hydra Compatibility Patch
+2. Removed Papyrus Common Library
+3. Fixed incorrect `keybindings.json` in Hot Pockets
+4. Defaulted the Baka Fullscreen Pipboy backgrounds to OFF
+5. Updated and added some more community Looks Menu presets
+6. Tweaked 3rd person camera angles when aiming
+7. Flagged a couple of plugins as ESL
+8. Edited some RobCo patches from the Modern Weapons Replacer that was making ammo damage excessively strong
+9. Fixed Skadi's missing head
+10. Tweaked Dynamic Grass settings to remove grass from some interiors
+11. Updated Full Body First Person 1.2.1 > 1.2.3
+12. Updated Smart Selection - Better Object Interaction 1.3.1 > 1.3.3
+13. Updated Cloud Shadows 1.0 > 1.2
