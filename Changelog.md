@@ -2494,22 +2494,3 @@ Hotfix for the missing keyboard prompts
 11. Updated Full Body First Person 1.2.1 > 1.2.3
 12. Updated Smart Selection - Better Object Interaction 1.3.1 > 1.3.3
 13. Updated Cloud Shadows 1.0 > 1.2
-
-## 2.0.2
-1. Removed a RobCo patcher INI responsible for far too many explosive weapons being distributed to enemies.
-2. Removed Weapon Debris Crash Fix.
-3. Fixed the black lipstick bug.
-4. Switched FIS - Vtaw and DonEb14n Clothing Sorting back to Complex Sorter based sorting.
-5. Switched the coomer main menu options (there's 2 now) to use the new main menu replacer mod correctly.
-6. Fixed Ketaros Cards again :^)
-   1. They should all work and all be in the correct rotation
-7. Fixed a bunch more weapons for AMD/Intel GPU users
-8. Added Once Human Hair Collection
-9. Added Once Human Mask Collection
-10. Added Looks Menu Face Categories - Extended Facial Sculpting Support
-11. Added GITS Cyber Geisha Mask
-12. Added Idle Life
-13. Added ZP's Interior Texture Pack
-14. Updated Female Super Mutants Plus 1.0 > v1.3
-15. Updated Upscaling Custom 1.7 > 1.72
-16. 🎃 Give Me Spoop returns 🎃
