@@ -19,6 +19,7 @@
     - [Swags Dommy Mommy Milkers Wasteland](#swags-dommy-mommy-milkers-wasteland)
     - [I am a male character](#i-am-a-male-character)
   - [I want my profile 1 back!](#i-want-my-profile-1-back)
+- [:jack\_o\_lantern: Here for Give Me Spoop?](#jack_o_lantern-here-for-give-me-spoop)
 - [Done](#done)
 
 # Mod setup
@@ -89,6 +90,9 @@ The spirit of profile 1 is easy to restore. When in game, apply the above `Give 
 5. Profit.
 
 Note: like mentioned before, creatures may still have some NSFW visuals but their animations will no longer function.
+
+# :jack_o_lantern: Here for Give Me Spoop? 
+Remember to apply the profile specific setup after following the rest of the readme! >[Give Me Spoop Specifics](GiveMeSpoop.md)
 
 # Done
 **You are now done with installing, you can close all menus and start playing!**  

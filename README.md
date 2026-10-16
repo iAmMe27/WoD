@@ -36,6 +36,8 @@ First things first: **this list contains adult content and you must be of legal 
 
 :exclamation: **I have an issue with WoD!** >[CLICK ME](CommonIssues.md)<
 
+:jack_o_lantern: Here for Give Me Spoop? *Remember to apply the profile specific setup after following the rest of the readme!* >[Give Me Spoop Specifics](GiveMeSpoop.md)
+
 # Preface
 Just to set some expectations and boundaries surrounding modlist development here, there's a couple things I'd like to say first.
 
