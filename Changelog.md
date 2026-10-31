@@ -2515,3 +2515,12 @@ Hotfix for the missing keyboard prompts
 16. Updated Upscaling Custom 1.7 > 1.72
 17. Updated Commonwealth Captives NPC Patch 1.0.7 > 1.0.9
 18. 🎃 Give Me Spoop returns 🎃
+
+## 2.0.3
+1. GMD: Fixed a CTD issue with NVFlex
+2. GMS: Fixed Lying Figures all being marked by Loot Detector because of stray keyword in Whispering Hills
+
+## 2.1.0
+1. Fixed up the Halloween profile now that GRIM and GRIM ENB are no longer available - replaced with Outlive ENB and more content mods 🎃
+2. Added a patch for MHK vs Super Mutant Redux (thank you rilieAP for this)
+3. Found a better ghoul skin texture (also thank you rilieAP for finding it)
