@@ -87,6 +87,11 @@ The weapons in WoD are replaced with modern guns.
 Energy weapons are not replaced and there are new Institute specific energy weapon types.  
 There's far too many to list here, see the `Weapons` separator in MO2.
 
+> [!TIP]
+> Mods of Interest:  
+> [Scroll Zoom](https://www.nexusmods.com/fallout4/mods/104941)
+
+
 ### Player Homes
 There are a few new player homes to choose from, as well as some Workshop Framework blueprints for existing settlements.
 
@@ -154,7 +159,7 @@ There are a fair few mods that change what you can do in certain situations. I r
 > [Sexual Harassment](https://www.loverslab.com/files/file/5487-aaf-sexual-harassment-6242023/),  
 > [Hardship](https://www.loverslab.com/files/file/10387-aaf-hardship-beggar-whore/)
 
-Once you've read these mod pages, you should now have a general idea of things to do and things you'll run into in the wasteland of depravity.
+Once you've read these mod pages, you should now have a general idea of things to do and things you'll run into in the Wasteland of Depravity.
 
 
 ### Human Resources
@@ -177,7 +182,7 @@ The first big thing you'll notice is changes to health, healing and general inju
 
 > [!TIP]
 > Mods of interest:  
-> [MAIM 2](https://www.nexusmods.com/fallout4/mods/58964)
+> [MAIM Redux](https://www.nexusmods.com/fallout4/mods/72235)
 
 Enemy distribution is not unlevelled but is more sensibly normalised across the board.
 
