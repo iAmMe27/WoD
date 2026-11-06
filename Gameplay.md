@@ -62,6 +62,7 @@ Enemies are tweaked in various ways, including things such as changes to accurac
 > [Encounter Zone Recalculation (Continuous Level Scaling)](https://www.nexusmods.com/fallout4/mods/45674),   
 > [Friendly Fire](https://www.nexusmods.com/fallout4/mods/74000),  
 > [Adaptive NPC Aim](https://www.nexusmods.com/fallout4/mods/107082)
+> []
 
 Enemies will also send hit squards after you for attacking them. When you kill enough enemies in an area or clear out a dungeon, you may find yourself under attack eventually. These same squads might also back their friends up if you choose to attack an area.
 
@@ -184,11 +185,12 @@ The first big thing you'll notice is changes to health, healing and general inju
 > Mods of interest:  
 > [MAIM Redux](https://www.nexusmods.com/fallout4/mods/72235)
 
-Enemy distribution is not unlevelled but is more sensibly normalised across the board.
+Enemy distribution is unlevelled and more sensibly normalised across the board.
 
 > [!TIP]
 > Mods of interest:  
 > [SCOURGE](https://www.nexusmods.com/fallout4/mods/60917)
+> [Unlevelled World](https://www.nexusmods.com/fallout4/mods/72784)
 
 Weapon damage is shifted, mostly down.
 
