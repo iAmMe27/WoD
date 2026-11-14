@@ -28,20 +28,16 @@
 - [Game Crashes](#game-crashes)
   - [Common Crashes](#common-crashes)
     - [1. Overlay Software](#1-overlay-software)
-    - [2. Rusty Face Fix](#2-rusty-face-fix)
-    - [3. Equip Crash](#3-equip-crash)
-    - [4. You disabled Volumetric Lighting](#4-you-disabled-volumetric-lighting)
-    - [5. Crash caused by `XAudio2_7.dll`](#5-crash-caused-by-xaudio2_7dll)
+    - [2. Equip Crash](#2-equip-crash)
+    - [3. You disabled Volumetric Lighting](#3-you-disabled-volumetric-lighting)
+    - [4. Crash caused by `XAudio2_7.dll`](#4-crash-caused-by-xaudio2_7dll)
 - [Other Post-Install Issues](#other-post-install-issues)
   - [Blurry Textures](#blurry-textures)
   - [I can't move my mouse cursor around the whole area of my screen](#i-cant-move-my-mouse-cursor-around-the-whole-area-of-my-screen)
   - [My game performance sucks!](#my-game-performance-sucks)
 - [Gameplay](#gameplay)
   - [I was gagged, now my voice is muffled after taking it off](#i-was-gagged-now-my-voice-is-muffled-after-taking-it-off)
-  - [Can I play the vanilla intro?](#can-i-play-the-vanilla-intro)
   - [Automatron DLC is not starting](#automatron-dlc-is-not-starting)
-  - [Where are all the crafting recipes?](#where-are-all-the-crafting-recipes)
-  - [How do I acquire *volunteers* for my settlements?](#how-do-i-acquire-volunteers-for-my-settlements)
   - [How do I cure trauma or reset attributes?](#how-do-i-cure-trauma-or-reset-attributes)
   - [How do I cure my addiction to creature *secretions*?](#how-do-i-cure-my-addiction-to-creature-secretions)
   - [Interior cells are too dark](#interior-cells-are-too-dark)
@@ -60,7 +56,6 @@
   - [I have/an NPC has a neck seam](#i-havean-npc-has-a-neck-seam)
   - [Do I need to use Bodyslide?](#do-i-need-to-use-bodyslide)
   - [How do I edit my body?](#how-do-i-edit-my-body)
-  - [Can I play as a male PC?](#can-i-play-as-a-male-pc)
   - [How do I add/remove tattoos?](#how-do-i-addremove-tattoos)
 - [User Interface](#user-interface)
   - [My mouse cursor can't reach the whole screen](#my-mouse-cursor-cant-reach-the-whole-screen)
@@ -68,13 +63,13 @@
   - [I want my ammo counter back!](#i-want-my-ammo-counter-back)
   - [I want my 3rd person crosshair back!](#i-want-my-3rd-person-crosshair-back)
   - [Where are the presets is saved in Screen Archer Menu?](#where-are-the-presets-is-saved-in-screen-archer-menu)
-- [Additions](#additions)
-  - [I added Ivy, but she has no face](#i-added-ivy-but-she-has-no-face)
+
 
 ## Preface
 Please help me to help yourself here. Search this page if you are having issues.  
 Please also use the Discord search function in the WoD channels as your issue may already be solved.  
 Do not just post a question in the support channel without doing your own research first.
+
 
 ## Download Issues
 
@@ -86,6 +81,7 @@ Clicking the retry button will delete already downloaded mods and cause them to 
 
 If you are not able to fix your Wabbajack error, or it is not listed in this list, please ask for support in our discord. Link is on the [first page](README.md) of this guide.
 
+
 ### Missing files
 If you encounter an error looking like this:  
 ![Wabbajack missing files error](img/wj_MissingFiles.png)
@@ -93,16 +89,20 @@ If you encounter an error looking like this:
 Click the "Show Missing Archives" button.  
 A browser windows will open, showing the **EXACT NAMES** of the file you need to download, and a link to each file. Make sure you downloaded the correct file and the filenames match. Put the downloaded files in the Wabbajack downloads folder and start Wabbajack again.
 
+
 ### Commonly Failing Downloads
 It's one of the files on the commonly failing downloads list. Wabbajack even gives you report now, please read that to know exactly what files you missed. [All commonly failing downloads can be found on the Wiki page here.](https://github.com/iAmMe27/WoD/wiki)
+
 
 ### Nexus Login Expired
 Your Nexus login expired. In the Wabbajack settings, log out of Nexus and then re-login.
 
 ![Nexus Relog](img/NexusRelog.png)
 
+
 ### Nexus Server Issue
 The Nexus server you are downloading from is having issues, try switching your preferred Nexus download server to something close to your location in the account settings. You can access this area by clicking on your account in the top right, and selecting site preferences.
+
 
 ### Incorrect Game Files
 Your game files are wrong - this will give a clear error in the Wabbajack log, like so:
@@ -111,8 +111,10 @@ Your game files are wrong - this will give a clear error in the Wabbajack log, l
 
 To fix this, you need to ensure your game is set to English in Steam and then verify your game files with Steam.
 
+
 ### File/Mod not Available
 You'll need to wait for a modlist update.
+
 
 ## Installation Issues
 1. Hashes don't match for texture files (files that end in `.DDS`) - Your Wabbajack version is outdated, make sure you are using v3.7.0.0 or later.
@@ -122,6 +124,7 @@ You'll need to wait for a modlist update.
 3. Your storage drives are full - both the installation drive and the drive you have Wabbajack on need a free space for the installation to be possible.
 
 4. You didn't setup antivirus exclusions.
+
 
 ### Could not find part of the path
 If you encounter an error looking like this:  
@@ -134,7 +137,9 @@ Do the following:
 4. Restart Wabbajack.
 5. Restart Modlist installation.
 
+
 ## Game Setup
+
 
 ### Changing Screen Resolution
 Wabbajack will automatically set your WoD install to your primary screen resolution, there's no need to actually change anything here unless you specifically want to run the game at a lower resolution.
@@ -148,6 +153,7 @@ In the window that opens, click `Fallout4Prefs.ini` and find `iSize W` and `iSiz
 ![MO2 FO4 Prefs](img/MO2FO4Prefs.png)
 
 Change these 2 paramters to match your screen width and height and click `Save` when done.
+
 
 ## Game Crashes
 Heavily modded Bethesda games are prone to crashing at times. We follow the general crash rules:
@@ -163,16 +169,8 @@ Before you report a crash, consider these rules and also read below to see if yo
 #### 1. Overlay Software
 Software such as **Medal**, **EVGA Precision** and **MSI Afterburner** are the most common causes of this - anything that hooks the display to show or record stuff on screen. Close the software and test again.
 
-#### 2. Rusty Face Fix
-This shows up in crash logs with the following things in the stack: `hclClothInstance`, `hclClothData` and hair parts named, like so:
 
-![RFF Log](img/RFFLog1.png)
-
-![RFF Log](img/RFFLog2.png)
-
-The crashes are random and seem to appear more often in areas where lower end PC's performance suffers, which will be different between different PC's. You can turn the active portion of Rusty Face Fix Redux off by opening the INI found in `Rusty Face Fix - WoD INI` and setting the `streaming_mode` to 0. If there is a version of these settings named `Rusty Face Fix - iAm’s Settings` enabled, disable it. *Note: with the active portion switched off, you may see more rust face NPCs as you play.*
-
-#### 3. Equip Crash
+#### 2. Equip Crash
 This shows up in crash logs with the following things in the stack: `JobListManager::ServingThread` and `PipBoyMapData`, like so:
 
 ![Equip Crash](img/EquipCrashLog.png)
@@ -185,14 +183,18 @@ Followed by:
 
 `player.equipitem 21b3b`
 
-#### 4. You disabled Volumetric Lighting
+
+#### 3. You disabled Volumetric Lighting
 This crash occurs when you enter workshop mode. Do not touch the `Disable Volumetric Lightning` in NAC X Settings menu/MCM. It will make the game crash every time you enter workshop mode and it **can't** be reverted - you will have to load an earlier save to fix it.
 
-#### 5. Crash caused by `XAudio2_7.dll`
+
+#### 4. Crash caused by `XAudio2_7.dll`
 Make sure your WoD folder is added to your antivirus exclusions. If it is, [download Microsoft Redist (June 2010) from here.](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 We have also found that this crash can be caused by some headsets/headphones, especially Bluetooth ones. We don't know why, only that it does crash and swapping to a different audio output device stops it.
 
+
 ## Other Post-Install Issues
+
 
 ### Blurry Textures
 The low resolution textures you are seeing after playing for a time is caused by Long Loading Times Fix.
@@ -204,10 +206,12 @@ If this behaviour bothers you, it should be safe to switch off mid-save.
 > [!TIP]
 > This mod is disabled by default in WoD and needs to be manually enabled to work.
 
+
 ### I can't move my mouse cursor around the whole area of my screen
 This is caused by Windows scaling. To fix this, navigate to your WoD install folder and then find `Stock Game\Fallout4.exe`, right click on the exe, go to the `Compatibility` tab, click the `Change high DPI settings`, tick the `High DPI scaling override` and change the dropdown option to `Application`.
 
 ![Scaling](img/scaling.png)
+
 
 ### My game performance sucks!
 This could be caused by a few things:
@@ -226,6 +230,7 @@ If you have ensured all of the above is right, try lowering settings in BethINI,
 
 ## Gameplay
 
+
 ### I was gagged, now my voice is muffled after taking it off
 If your character's voice is still muffled after taking off a gag, run this in the console:
 
@@ -235,30 +240,20 @@ If your character's voice is still muffled after taking off a gag, run this in t
 `player.setvoicetype 00018DF4`  
     for the male player voice.
 
-### Can I play the vanilla intro?
-No. It sucks and the game has been out since 2015. If you haven't played it by now, there are other ways to play it.
 
 ### Automatron DLC is not starting
 WoD uses [Integrated Automatron](https://www.nexusmods.com/fallout4/mods/85317).
 
 It imposes some delays and requirements before the quest starts. For more information, read the mod page linked above.
 
-### Where are all the crafting recipes?
-I know all the mod pages say that they're in the Chem Station or whatever, but not in WoD. In WoD, they are all moved to the appropriate work station in the Universal Workbench. You can follow the quest to grab a portable one by the entrance of Vault 111 or build static ones from the settlement build menu.
-
-### How do I acquire *volunteers* for my settlements?
-You need to craft a couple things at the Universal Workbench:
-
-1. The Baton - find it in the `Weapon - Create` menu > Human Resources,
-2. A Kit - find it in the `Utility Station` menu > Human Resources.
-
-When an enemy gives up in combat, hit them with the baton to get started. Take them back to your settlement and then process them using the Human Resources terminal.
 
 ### How do I cure trauma or reset attributes?
 See the nurse in the memory den.
 
+
 ### How do I cure my addiction to creature *secretions*?
 See the lady hiding in Goodneighbour. She usually hides above the stores.
+
 
 ### Interior cells are too dark
 Use your flashlight :^)
@@ -273,7 +268,8 @@ Below is a comparison between off and on.
 > If the setting seemingly does nothing, make a full save, quit to main menu and reload the save.
 > This seems to happen if you start building lights in an interior cell, without reloading the cell, the setting doesn't always work.
 
-![NacX setting comparison](img/GameplayFAQ/nacx.png)
+![NacX setting comparison](img/Gameplay/nacx.png)
+
 
 ### I'm getting too many perk points per level
 *Oh no, my steak is too juicy and my lobster is too buttery!*
@@ -291,8 +287,9 @@ Save the file and close the explorer window.
 > [!WARNING]
 > If you edit of the the files included in the modlist, you should ask for support in the `#wod-modified` channel in Discord, as this is now a modified list.
 
-![pppl search in mo2](/img/GameplayFAQ/pppl_mo2.png)
-![pppl file edit](/img/GameplayFAQ/pppl_file.png)
+![pppl search in mo2](/img/Gameplay/pppl_mo2.png)
+![pppl file edit](/img/Gameplay/pppl_file.png)
+
 
 ### Camera stuck in character creation
 If the camera is stuck behind Nate and Nora during character creation in the bathroom scene:
@@ -303,6 +300,7 @@ If the camera is stuck behind Nate and Nora during character creation in the bat
 - Open the console and type: `slm 14`
 - Looks Menu for your character will now open and you can change the looks to whatever you want
 
+
 ### Sanctuary settlement layouts clip with existing buildings
 If you want to use settlement layouts in sanctuary (and many other settlements), you have to remove the existing buildings.
 - Repair the buildings in sanctuary
@@ -310,6 +308,7 @@ If you want to use settlement layouts in sanctuary (and many other settlements),
 - Now scrap each of the rebuilt houses
 
 You can now build your desired settlement layout.
+
 
 ### I can't move my mouse in the main menu
 Your game is probably detecting a controller.  
@@ -319,6 +318,7 @@ If the problem still persists, or you don't have any controllers plugged in, it 
 
 In this case, edit your fallout4prefs.ini in MO2 and change bGamepadEnable to the following:  
 `bGamepadEnable = 0`  
+
 
 ### Companion bugs and their fixes
 
@@ -343,37 +343,30 @@ In this case, edit your fallout4prefs.ini in MO2 and change bGamepadEnable to th
 
 ## Quests
 
+
 ### I want to start the main quest, but the Vault Dweller is missing
-If the Vault Dweller with the audio log is missing from the reactor room of Vault 111, depending on your player gender, do the following.
+Press F10 and give yourself the item "Pod C6 Audio Log"  
+![IMAGE](/img/Gameplay/Quest_MissingVaultDweller.png)
 
-**If you are playing as a female:**  
-Open the console and type in  
-```
-prid 1C05DE06  
-moveto player  
-```
-**These are two lines in the console, not one!**  
-The corpse of Nora will spawn at your feet and you can loot the quest item.
-
-**If you are playing as a male:**  
-First of all, what are you doing with your life?  
-Second, open the console and type in  
-```
-prid 1C05DE04
-moveto player
-```
-**These are two lines in the console, not one!**  
-The corpse of Nate will spawn at your feet and you can loot the quest item.
 
 ### Nick Valentine won't talk to me about a missing child!
-You forgot to investigate Vault 111 first. You have to do this in order to kickstart the main quest.
+You forgot to investigate Vault 111 first.  
+You have to do this in order to kickstart the main quest.
+
 
 ## Controls
 
+
 ### VATS doesn't work
-We don't use VATS, we use VAFS - consider it like bullet time. If it won't trigger, set the VATS keybind in the Settings menu to something else.
+We don't use VATS, we use VAFS - consider it like bullet time.  
+If it won't trigger, set the VATS keybind in the Settings menu to something else.
+
+> [!NOTE]
+> In the "Give Me Pain" profile, VAFS is not available.
+
 
 ## Character Creation & NPCs
+
 
 ### Rotating the PC in LooksMenu
 We have a mod for that.
@@ -382,11 +375,14 @@ We have a mod for that.
 - Shift + Right Mouse Button moves
 - Shift + Mouse Wheel zooms in and out
 
+
 ### I have/an NPC has a neck seam
 A lot of FO4 skin mods don't come with matching face textures, therefore leaving an obvious seam between the neck and body. Head into the High Poly Faces REDUX MCM and enable the `Seamless High Poly Head` for the player and then follow its instructions to fix it.
 
+
 ### Do I need to use Bodyslide?
 No. See below.
+
 
 ### How do I edit my body?
 2 ways;
@@ -394,8 +390,6 @@ No. See below.
 1. In LooksMenu > Body > Advanced - play with the sliders to your hearts content.
 2. Press F3 to open the Screen Archer Menu > Looks > Body Morphs > Load and pick a body preset.
 
-### Can I play as a male PC?
-You can if you want.
 
 ### How do I add/remove tattoos?
 In LooksMenu, Body sub-menu > Overlays.
@@ -404,19 +398,22 @@ If they are tattoos added on defeat, you can't remove them this way, go see the 
 
 ## User Interface
 
+
 ### My mouse cursor can't reach the whole screen
 Windows Scaling can prevent games displaying correctly, often resulting in appearing "zoomed in". To mitigate this, follow the steps outlined in the image below.  
 
 **__Remember__**: You need to do this in the Stock Game folder and not your Steam install folder!
 For Fallout 4 modlists, it's Stock Game\Fallout4.exe
 
-![Change Windows Scaling](/img/GameplayFAQ/fo4-scaling.png)
+![Change Windows Scaling](/img/Gameplay/fo4-scaling.png)
+
 
 ### I have an Ultrawide monitor, help!
 
 There are a couple of UI mods that allow for Ultrawide resolution support. I don't have an Ultrawide monitor myself, so I can't be 100% sure if this fixes every UI element. To enable Ultrawide support, find the relevant 21x9 or 32x9 separator in MO2 and enable the mods inside the relevant separator.
 
 When in game, you will likely need to head into the Mod Config menu > FallUI and tweak some of the widgets to fit your screen space properly.
+
 
 ### I want my ammo counter back!
 This is deliberately hidden on profile 3 in preference to another mod that provides ammo checking functionality. If you are not on profile 3 but the ammo counter is not visible, you can make it visible again by following the below steps:
@@ -427,6 +424,7 @@ This is deliberately hidden on profile 3 in preference to another mod that provi
 ![Ammo Counter](img/HUDAmmoCounter.png)
 
 You will likely have to save and load your game again to refresh the UI and make the change appear.
+
 
 ### I want my 3rd person crosshair back!
 This is deliberately hidden on profile 3. If you are not on profile 3 but want the 3rd person crosshair, check the following:
@@ -440,27 +438,7 @@ This is deliberately hidden on profile 3. If you are not on profile 3 but want t
 
 You will likely have to save and load your game again to refresh the UI and make the change appear.
 
+
 ### Where are the presets is saved in Screen Archer Menu?
 They are in your Overwrite in MO2:  
 \F4SE\Plugins\SAM\Outfits
-
-## Additions
-
-> [!WARNING]
-> **None of the additions here are officially supported but this information is provided here for easy reference.**
-
-### I added Ivy, but she has no face
-This is a known issue, we are not sure yet what causes it.  
-
-To fix it, do the following:
-- Open the console and click on Ivy
-- At the top of the console there should now be Ivy's name and her RefID (in brackets)
-- Type in the console: `slm RefID` (for example: `slm A6003491`)
-- With Ivy's LooksMenu open, change her Hairstyle to something else, and change it back
-- Ivy's head should now be visible
-
-> [!TIP]
-> If the solution above does not work for you, you can install the [Wasteland Wonderglue Ivy Patch](https://www.nexusmods.com/fallout4/mods/86384?tab=files).  
->  
-> Be aware that doing so is modifying your WoD install. Please ask your support questions in wod-support if you modfied your install.
-

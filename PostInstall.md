@@ -16,7 +16,7 @@
 - [After installation steps](#after-installation-steps)
   - [Errata for current WoD version](#errata-for-current-wod-version)
   - [Handling nxm links](#handling-nxm-links)
-  - [What's the difference between the 2 profiles?](#whats-the-difference-between-the-2-profiles)
+  - [What's the difference between the profiles?](#whats-the-difference-between-the-profiles)
   - [Running WoD](#running-wod)
   - [Optional Mods](#optional-mods)
     - [Performance Options Category](#performance-options-category)
@@ -37,11 +37,11 @@ Navigate to the WoD installation folder and run MO2 by double-clicking `ModOrgan
 
 ## Errata for current WoD version
 > [!CAUTION]
-> **These steps are only for version 1.7.5.1 of WOD!**  
+> **These steps are only for version 2.1.0 of WOD!**  
 > If you are on a differen version of the modlist, you **do not** need to read this or do anything.
 
-<!-- No issues detected so far, yay! -->
-No version is perfect, and some errors managed to sneak into this one as well.
+No issues detected so far, yay!
+<!-- No version is perfect, and some errors managed to sneak into this one as well. -->
 
 ## Handling nxm links
 
@@ -50,9 +50,26 @@ If you click yes, MO2 will open automatically when you select "Download with Mod
 
 ![nxm link dialog box](img/mo2_nxm.png)
 
-## What's the difference between the 2 profiles?
-Give Me Depravity is the original WoD experience. 
-Give Me Pain is Give Me Depravity but with, in my opinion, better combat.
+## What's the difference between the profiles?
+
+You can change the profiles on the top left of MO2.
+![IMAGE](/img/MO2_Profile_Change.png)  
+
+- Give Me Depravity is the original WoD experience.
+- Give Me Pain is Give Me Depravity but with, in my opinion, better combat.
+
+> [!WARNING]
+> Saves do not carry over between profiles, so if you change your profile you will have to start a new game.  
+> Choose wisely.
+
+> [!NOTE]
+> Sometimes a third profile called  
+> **Give Me Spoop**  
+> is available. 
+> 
+> It is a seasonal profile that's around for Halloween.  
+> It's not available all the time and makes the game spookier.  
+> Combat wise it's the same as Give Me Pain.
 
 ## Running WoD
 Running WoD is as simple as clicking Run with the `Fallout: Wasteland of Depravity` option selected in the MO2 dropdown menu, in the top right of the window.
